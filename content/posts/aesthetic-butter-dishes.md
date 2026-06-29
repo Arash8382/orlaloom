@@ -3,6 +3,7 @@ title: "The Best Aesthetic Butter Dishes for 2026"
 description: "From mushroom to scalloped to classic French beurriers — the prettiest butter dishes worth a spot on your table this year."
 category: "butter-dishes"
 date: "2026-06-22"
+cover: "https://images.unsplash.com/photo-1723183218043-e26963aa43a1?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Fungi Fun Mushroom Butter Dish with Lid"
     brand: "Fungi Fun"

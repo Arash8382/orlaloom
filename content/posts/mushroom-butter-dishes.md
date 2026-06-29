@@ -3,6 +3,7 @@ title: "Mushroom Butter Dishes That Sell Out Fast"
 description: "The cutest mushroom and figural butter dishes for a cottagecore table — ceramic, vintage, and gift-ready picks."
 category: "butter-dishes"
 date: "2026-06-24"
+cover: "https://images.unsplash.com/photo-1660190368311-64d54386e494?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Fungi Fun Mushroom Butter Dish with Lid"
     brand: "Fungi Fun"

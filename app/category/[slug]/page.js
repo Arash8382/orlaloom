@@ -39,7 +39,7 @@ export default function CategoryPage({ params }) {
           <div className="guides-grid">
             {posts.map((p) => (
               <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                <div className="ph" style={{ backgroundImage: `url(${cat.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
+                <div className="ph" style={{ backgroundImage: `url(${p.cover || cat.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
                 <div className="guide-body">
                   <div className="guide-tag">{cat.name}</div>
                   <div className="guide-title">{p.title}</div>

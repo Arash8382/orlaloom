@@ -40,7 +40,7 @@ export default async function PostPage({ params }) {
         </div>
       </header>
 
-      <div className="article-hero ph" style={cat ? { backgroundImage: `url(${cat.image})`, backgroundSize: "cover", backgroundPosition: "center" } : undefined} />
+      <div className="article-hero ph" style={(post.cover || cat) ? { backgroundImage: `url(${post.cover || cat.image})`, backgroundSize: "cover", backgroundPosition: "center" } : undefined} />
 
       <p className="disclosure">
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
@@ -91,7 +91,7 @@ export default async function PostPage({ params }) {
           <div className="guides-grid" style={{ marginTop: 16 }}>
             {related.map((p) => (
               <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                <div className="ph" style={{ backgroundImage: `url(${categoryImage(p.category)})`, backgroundSize: "cover", backgroundPosition: "center" }} />
+                <div className="ph" style={{ backgroundImage: `url(${p.cover || categoryImage(p.category)})`, backgroundSize: "cover", backgroundPosition: "center" }} />
                 <div className="guide-body">
                   <div className="guide-tag">{cat ? cat.name : "Guide"}</div>
                   <div className="guide-title">{p.title}</div>

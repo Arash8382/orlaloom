@@ -59,7 +59,7 @@ export default function Home() {
               const cat = categories.find((c) => c.slug === p.category);
               return (
                 <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                  <div className="ph" style={bg(categoryImage(p.category))} />
+                  <div className="ph" style={bg(p.cover || categoryImage(p.category))} />
                   <div className="guide-body">
                     <div className="guide-tag">{cat ? cat.name : "Guide"}</div>
                     <div className="guide-title">{p.title}</div>
