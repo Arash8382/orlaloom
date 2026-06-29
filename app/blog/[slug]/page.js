@@ -10,7 +10,18 @@ export function generateStaticParams() {
 export function generateMetadata({ params }) {
   try {
     const meta = getPostMeta(params.slug);
-    return { title: meta.title, description: meta.description };
+    const img = meta.cover || categoryImage(meta.category);
+    return {
+      title: meta.title,
+      description: meta.description,
+      openGraph: {
+        title: meta.title,
+        description: meta.description,
+        images: img ? [{ url: img, width: 1200, height: 800 }] : [],
+        type: "article",
+      },
+      twitter: { card: "summary_large_image", title: meta.title, description: meta.description, images: img ? [img] : [] },
+    };
   } catch {
     return {};
   }
