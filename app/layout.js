@@ -22,38 +22,38 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <Header />
-        <main>{children}</main>
-        <footer className="footer">
-          <div className="container footer-grid">
-            <div>
-              <div className="name">{site.name}</div>
-              <p>{site.description}</p>
+        <div className="page-shell">
+          <Header />
+          <main>{children}</main>
+          <footer className="footer">
+            <div className="container footer-grid">
+              <div>
+                <div className="name">{site.name}</div>
+                <p>{site.description}</p>
+              </div>
+              <div>
+                <h4>Categories</h4>
+                <ul>
+                  {categories.map((c) => (
+                    <li key={c.slug}><Link href={`/category/${c.slug}`}>{c.name}</Link></li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <h4>Orla Loom</h4>
+                <ul>
+                  <li><Link href="/about">About</Link></li>
+                  <li><Link href="/disclosure">Affiliate Disclosure</Link></li>
+                  <li><Link href="/privacy">Privacy</Link></li>
+                </ul>
+              </div>
             </div>
-            <div>
-              <h4>Categories</h4>
-              <ul>
-                {categories.map((c) => (
-                  <li key={c.slug}>
-                    <Link href={`/category/${c.slug}`}>{c.name}</Link>
-                  </li>
-                ))}
-              </ul>
+            <div className="container footer-bottom">
+              <span>© {new Date().getFullYear()} {site.name}. Affiliate-supported — we may earn from qualifying purchases.</span>
+              <span>Gentle finds for a warmer home</span>
             </div>
-            <div>
-              <h4>Orla Loom</h4>
-              <ul>
-                <li><Link href="/about">About</Link></li>
-                <li><Link href="/disclosure">Affiliate Disclosure</Link></li>
-                <li><Link href="/privacy">Privacy</Link></li>
-              </ul>
-            </div>
-          </div>
-          <div className="container footer-bottom">
-            <span>© {new Date().getFullYear()} {site.name}. As an Amazon Associate and affiliate partner, we earn from qualifying purchases.</span>
-            <span>Independently curated · No sponsored placements</span>
-          </div>
-        </footer>
+          </footer>
+        </div>
       </body>
     </html>
   );

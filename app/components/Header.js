@@ -3,36 +3,41 @@ import { useState } from "react";
 import Link from "next/link";
 import { site, categories } from "../../lib/site";
 
+const navLinks = [
+  { href: "/category/butter-dishes", label: "Butter Dishes" },
+  { href: "/category/scalloped-dinnerware", label: "Dinnerware" },
+  { href: "/category/candles", label: "Candles" },
+  { href: "/category/glassware", label: "Glassware" },
+  { href: "/about", label: "About" },
+];
+
 export default function Header() {
   const [open, setOpen] = useState(false);
   return (
     <header className="header">
-      <div className="container header-inner">
-        <Link href="/" className="brand" onClick={() => setOpen(false)}>
-          <span className="name">{site.name}</span>
-          <span className="tag">Curated home finds</span>
+      <div className="header-inner">
+        <Link href="/" className="wordmark" onClick={() => setOpen(false)}>
+          {site.name}
         </Link>
 
         <nav className="nav-desktop">
-          {categories.map((c) => (
-            <Link key={c.slug} href={`/category/${c.slug}`}>
-              {c.name}
-            </Link>
+          {navLinks.map((l) => (
+            <Link key={l.href} href={l.href}>{l.label}</Link>
           ))}
-          <Link href="/about">About</Link>
-          <Link className="btn btn-primary nav-cta" href="/category/butter-dishes">
-            Shop the trend
-          </Link>
         </nav>
 
-        <button
-          className="hamburger"
-          aria-label="Menu"
-          aria-expanded={open}
-          onClick={() => setOpen((v) => !v)}
-        >
-          <span />
-        </button>
+        <div className="header-right">
+          <Link className="saved" href="/about">Journal</Link>
+          <Link className="search-pill" href="/category/butter-dishes">Shop the trend</Link>
+          <button
+            className="hamburger"
+            aria-label="Menu"
+            aria-expanded={open}
+            onClick={() => setOpen((v) => !v)}
+          >
+            <span />
+          </button>
+        </div>
       </div>
 
       <div className={`mobile-menu ${open ? "open" : ""}`}>

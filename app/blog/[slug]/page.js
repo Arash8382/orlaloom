@@ -2,7 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { categoryBySlug } from "../../../lib/site";
 import { getPostSlugs, getPost, getPostMeta, getPostsByCategory } from "../../../lib/posts";
-import { CategoryArt } from "../../components/Art";
 
 export function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
@@ -25,7 +24,7 @@ export default async function PostPage({ params }) {
   const dateStr = new Date(post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
   return (
-    <article className="narrow">
+    <article className="article-wrap">
       <div className="breadcrumb">
         <Link href="/">Home</Link> &nbsp;/&nbsp;{" "}
         {cat && <><Link href={`/category/${cat.slug}`}>{cat.name}</Link> &nbsp;/&nbsp;{" "}</>}
@@ -41,7 +40,9 @@ export default async function PostPage({ params }) {
         </div>
       </header>
 
-      <div className={`article-hero tint-${post.category}`}><CategoryArt slug={post.category} /></div>
+      <div className={`article-hero ph ph-${post.category}`}>
+        <span className="mono">[ {cat ? cat.name.toLowerCase() : "guide"} ]</span>
+      </div>
 
       <p className="disclosure">
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
@@ -49,20 +50,20 @@ export default async function PostPage({ params }) {
 
       <div className="prose" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
 
-      <div className="callout">
+      <div className="callout" style={{ marginTop: 26 }}>
         Prices and availability change quickly — please confirm current details on the retailer’s site before buying.
       </div>
 
       {related.length > 0 && (
         <div className="related">
           <span className="eyebrow">Keep reading</span>
-          <div className="posts" style={{ marginTop: 16 }}>
+          <div className="guides-grid" style={{ marginTop: 16 }}>
             {related.map((p) => (
-              <Link className="post-card" href={`/blog/${p.slug}`} key={p.slug}>
-                <div className={`thumb tint-${p.category}`}><CategoryArt slug={p.category} /></div>
-                <div className="pc-body">
-                  <span className="pc-tag">{cat ? cat.name : "Guide"}</span>
-                  <h3>{p.title}</h3>
+              <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
+                <div className={`ph ph-${p.category}`}><span className="mono">[ {cat ? cat.name.toLowerCase() : "guide"} ]</span></div>
+                <div className="guide-body">
+                  <div className="guide-tag">{cat ? cat.name : "Guide"}</div>
+                  <div className="guide-title">{p.title}</div>
                 </div>
               </Link>
             ))}
