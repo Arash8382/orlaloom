@@ -23,7 +23,7 @@ products:
     blurb: "A lightweight resin pot with a convincing clay look and built-in drainage that won't crack outdoors."
     caveat: "It's resin, so it lacks real terracotta's breathability and weight."
     url: "https://www.amazon.com/Bloem-Terra-Pot-Planter-Cotta/dp/B06WWRSLXJ?tag=orlaloom-20"
-  - name: "Whitewashed Terracotta Pots with Saucer (2-Pack)")"
+  - name: "Whitewashed Terracotta Pots with Saucer (2-Pack)"
     image: "https://m.media-amazon.com/images/I/71BGsHLaNuL.jpg"
     brand: "Various"
     price: "~$18–30"
