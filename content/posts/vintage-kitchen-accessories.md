@@ -13,7 +13,7 @@ products:
     blurb: "The iconic tilt-head mixer in soft pastels like Ice Blue or Pistachio — the cottagecore counter showpiece that also actually bakes."
     caveat: "Big-ticket, and pastel/limited shades cost more and aren't always in stock."
     image: "https://images.unsplash.com/photo-1726895355735-b4cea74a15aa?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=KitchenAid+Artisan+stand+mixer+pastel"
+    url: "https://www.amazon.com/s?k=KitchenAid+Artisan+stand+mixer+pastel&tag=orlaloom-20"
   - name: "Ceramic Cottagecore Canister Set"
     brand: "Independent makers"
     price: "$45–90"
@@ -31,7 +31,7 @@ products:
     blurb: "A speckled enamel-on-steel colander that doubles as a fruit bowl on display — function and farmhouse charm in one."
     caveat: "Enamel can chip if dropped, exposing the steel to rust over time."
     image: "https://images.unsplash.com/photo-1583845112239-97ef1341b271?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=enamel+colander+vintage"
+    url: "https://www.amazon.com/s?k=enamel+colander+vintage&tag=orlaloom-20"
   - name: "Gingham Cotton Tea Towels (Set)"
     brand: "Various"
     price: "$15–25"
@@ -40,7 +40,7 @@ products:
     blurb: "Classic gingham-check cotton towels — the cheapest, fastest way to make a kitchen feel instantly cottagecore."
     caveat: "Cheaper sets are thin and can shrink or fray; check the weight and material."
     image: "https://images.unsplash.com/photo-1589985269102-ff38adf6f00d?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=gingham+tea+towels"
+    url: "https://www.amazon.com/s?k=gingham+tea+towels&tag=orlaloom-20"
   - name: "Vintage-Style Ceramic Utensil Crock"
     brand: "Various"
     price: "$25–40"
@@ -49,7 +49,7 @@ products:
     blurb: "A glazed ceramic crock to corral wooden spoons and rolling pins — a functional cottagecore staple that earns its counter space."
     caveat: "Heavy ceramic can chip, and wide-mouth styles tip if overloaded on one side."
     image: "https://images.unsplash.com/photo-1612293905838-667dea27cc79?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=ceramic+utensil+crock+vintage"
+    url: "https://www.amazon.com/s?k=ceramic+utensil+crock+vintage&tag=orlaloom-20"
 ---
 
 You don't need a renovation to get a cottagecore kitchen — you need a handful of the right small things on the counter. These are the vintage-style accessories that do the most work for the least money (with one splurgy centerpiece).

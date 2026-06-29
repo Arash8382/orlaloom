@@ -31,7 +31,7 @@ products:
     blurb: "A sunny citrus-gourmand of grapefruit, yuzu, and lemon — the 'kitchen garden in summer' mood-lifter."
     caveat: "Citrus scents fade faster than woody ones, and the throw is light."
     image: "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/P-F-Candle-Co-Grapefruit-Standard/dp/B01GVWE8MQ"
+    url: "https://www.amazon.com/P-F-Candle-Co-Grapefruit-Standard/dp/B01GVWE8MQ?tag=orlaloom-20"
   - name: "Voluspa Japonica (Orchid, Lily & Moss)"
     brand: "Voluspa"
     price: "$30–40"

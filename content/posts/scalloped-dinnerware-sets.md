@@ -22,7 +22,7 @@ products:
     blurb: "Off-white porcelain with a petal-scalloped edge that's microwave- and dishwasher-safe — the durable workhorse starter set."
     caveat: "Plates only (no bowls or sides), so it's a base rather than a full service."
     image: "https://images.unsplash.com/photo-1552988761-7e55c51b94a5?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/YHY-10-6-inch-Porcelain-Scallop-Platters/dp/B06XSP3ZXD"
+    url: "https://www.amazon.com/YHY-10-6-inch-Porcelain-Scallop-Platters/dp/B06XSP3ZXD?tag=orlaloom-20"
   - name: "Lenox French Perle Place Setting"
     brand: "Lenox"
     price: "$120–160 / 4-piece"
@@ -31,7 +31,7 @@ products:
     blurb: "A beaded, embroidery-inspired rim in soft ice-blue or white — durable everyday stoneware that reads pure romantic-cottage."
     caveat: "Per-setting pricing adds up, and the beaded texture catches residue if not soaked."
     image: "https://images.unsplash.com/photo-1591632288574-a387f820a1ca?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=Lenox+French+Perle+dinnerware"
+    url: "https://www.amazon.com/s?k=Lenox+French+Perle+dinnerware&tag=orlaloom-20"
   - name: "Villeroy & Boch Manoir 18-Piece Set"
     brand: "Villeroy & Boch"
     price: "$200–260"
@@ -40,7 +40,7 @@ products:
     blurb: "Warm-white premium porcelain with embossed detail and softly scalloped edges — the set you pass down."
     caveat: "Premium price, and the embossed relief can stain from coffee or tomato."
     image: "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/Villeroy-Boch-Dinnerware/s?k=Villeroy+and+Boch+Manoir"
+    url: "https://www.amazon.com/Villeroy-Boch-Dinnerware/s?k=Villeroy+and+Boch+Manoir&tag=orlaloom-20"
   - name: "Lenox French Countryside Place Setting"
     brand: "Lenox"
     price: "$90–130 / setting"
@@ -49,7 +49,7 @@ products:
     blurb: "Generously sized cream pieces with gently curved, scalloped edges — a perfect neutral to mix with colored accents."
     caveat: "The cream tone won't match cool-white pieces, and bone china needs gentle handling."
     image: "https://images.unsplash.com/photo-1698944933706-8b6f1330f47e?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=Lenox+French+Countryside+dinnerware"
+    url: "https://www.amazon.com/s?k=Lenox+French+Countryside+dinnerware&tag=orlaloom-20"
 ---
 
 The scalloped plate is the silhouette of the moment — that soft, petal-edged rim instantly makes a table look collected and a little romantic. Whether you want an $8 Target find or an heirloom porcelain service, here are the scalloped dinnerware sets worth setting your table with.

@@ -13,7 +13,7 @@ products:
     blurb: "Graduated heights in a warm brushed gold-brass — the instant vintage tablescape in a single, affordable set."
     caveat: "Brass-finished metal, not solid brass, so it won't develop a true antique patina."
     image: "https://images.unsplash.com/photo-1619799360851-a143fbc240b3?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/Nuptio-Candlestick-Decorative-Centerpiece-Housewarming/dp/B07W554ZNB"
+    url: "https://www.amazon.com/Nuptio-Candlestick-Decorative-Centerpiece-Housewarming/dp/B07W554ZNB?tag=orlaloom-20"
   - name: "Vintage Solid Brass Candlesticks"
     brand: "Vintage (Etsy)"
     price: "$15–40 each"
@@ -49,7 +49,7 @@ products:
     blurb: "An affordable matched pair with a vintage-farmhouse silhouette — the easy centerpiece for everyday candlelight."
     caveat: "Lightweight metal with a decorative brass-tone finish, not heirloom-weight."
     image: "https://images.unsplash.com/photo-1570823635306-250abb06d4b3?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/Candlestick-Centerpiece-Decorative-Candlelight-Reception/dp/B07W7KWNY6"
+    url: "https://www.amazon.com/Candlestick-Centerpiece-Decorative-Candlelight-Reception/dp/B07W7KWNY6?tag=orlaloom-20"
 ---
 
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders to start with.
