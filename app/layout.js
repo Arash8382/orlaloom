@@ -16,6 +16,9 @@ export const metadata = {
     type: "website",
     url: site.url,
   },
+  other: {
+    "p:domain_verify": "87d27c8f399f63674350a5857c26c182",
+  },
 };
 
 export default function RootLayout({ children }) {
