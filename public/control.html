@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>Orla Loom · Control Room</title>
+<style>
+:root{color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:#060912;color:#dfe9f5;font-family:ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:15px;line-height:1.5;overflow-x:hidden}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+#bg{position:fixed;inset:0;z-index:0}
+.orb{position:fixed;border-radius:50%;filter:blur(70px);opacity:.5;z-index:0;pointer-events:none;animation:float 18s ease-in-out infinite}
+.orb1{width:420px;height:420px;background:#1d6e8c;top:-120px;left:-90px}.orb2{width:380px;height:380px;background:#7a4a2e;bottom:-120px;right:-80px;animation-delay:-6s}.orb3{width:300px;height:300px;background:#244e7a;top:40%;left:55%;animation-delay:-11s}
+.grid{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.35;background-image:linear-gradient(rgba(80,160,200,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(80,160,200,.06) 1px,transparent 1px);background-size:46px 46px;animation:gridMove 22s linear infinite}
+@keyframes gridMove{to{background-position:46px 46px}}@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(28px,-26px)}}
+.wrap{position:relative;z-index:2;max-width:960px;margin:0 auto;padding:26px 18px 70px}
+.hdr{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px;margin-bottom:6px;opacity:0;animation:rise .6s .05s forwards}
+.brand{display:flex;align-items:center;gap:14px}
+.core{width:42px;height:42px;border-radius:50%;position:relative;flex:none;background:conic-gradient(from 0deg,#4fd1c5,#3a7bd5,#f0a868,#4fd1c5);animation:spin 6s linear infinite;box-shadow:0 0 22px rgba(79,209,197,.5)}
+.core::after{content:"";position:absolute;inset:5px;border-radius:50%;background:#070c16}.core::before{content:"OL";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;z-index:2;font-family:Georgia,serif;font-size:15px;color:#fff}
+@keyframes spin{to{transform:rotate(360deg)}}
+h1{font-size:18px;margin:0;letter-spacing:.18em;text-transform:uppercase;color:#eaf2fb;font-weight:600}
+.sub{font-size:11px;color:#6f88a6;letter-spacing:.22em;text-transform:uppercase;margin-top:3px}
+.live{display:inline-flex;align-items:center;gap:8px;font-size:11px;letter-spacing:.18em;color:#3ee08a;border:1px solid rgba(62,224,138,.35);background:rgba(62,224,138,.08);border-radius:999px;padding:6px 13px;text-transform:uppercase}
+.live i{width:8px;height:8px;border-radius:50%;background:#3ee08a;box-shadow:0 0 10px #3ee08a;animation:blink 1.6s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+#updated{font-size:11px;color:#5d7796;letter-spacing:.1em;margin-top:7px}
+.eyebrow{font-size:10.5px;font-weight:700;letter-spacing:.26em;text-transform:uppercase;color:#4fd1c5;margin:28px 0 12px;display:flex;align-items:center;gap:10px}
+.eyebrow.attn{color:#ffc14d;margin-top:18px}
+.eyebrow::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,currentColor,transparent);opacity:.4}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px}
+.card{position:relative;background:rgba(17,26,40,.55);border:1px solid rgba(110,170,220,.16);border-radius:16px;padding:16px 18px;backdrop-filter:blur(10px);overflow:hidden;opacity:0;transform:translateY(14px);animation:rise .55s forwards}
+.card::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,#4fd1c5,#3a7bd5,#f0a868);opacity:.85}
+.card:hover{border-color:rgba(79,209,197,.5);box-shadow:0 0 26px rgba(79,209,197,.14);transform:translateY(-3px)}
+.card .lab{font-size:11px;color:#7d95b1;letter-spacing:.1em;text-transform:uppercase}.card .val{font-size:24px;font-weight:600;color:#f2f7fd;margin-top:8px;line-height:1.2;font-family:Georgia,serif}.card .note{font-size:11.5px;color:#607a98;margin-top:5px}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;vertical-align:middle;margin-right:7px}
+.g{background:#3ee08a;box-shadow:0 0 10px #3ee08a;animation:pulse 2s infinite}.a{background:#ffc14d;box-shadow:0 0 10px #ffc14d;animation:pulse 1.6s infinite}.x{background:#7d8ca0}
+@keyframes pulse{0%{box-shadow:0 0 0 0 currentColor;opacity:1}70%{box-shadow:0 0 0 7px transparent;opacity:.7}100%{box-shadow:0 0 0 0 transparent;opacity:1}}
+.alert{display:flex;align-items:flex-start;gap:12px;border-radius:14px;padding:14px 16px;margin-bottom:9px;backdrop-filter:blur(8px);border:1px solid;opacity:0;transform:translateX(-12px);animation:slidein .5s forwards}
+.alert.warn{background:rgba(255,193,77,.09);border-color:rgba(255,193,77,.42)}.alert.ok{background:rgba(62,224,138,.08);border-color:rgba(62,224,138,.35)}
+.alert .ico{font-size:18px;flex:none}.alert .tx{font-size:13.5px;color:#eef4fb}.alert .tx small{display:block;color:#9ab0c6;font-size:11.5px;margin-top:3px}
+.todo{display:flex;align-items:center;gap:11px;font-size:13px;color:#cfe0f2;padding:9px 14px;border:1px solid rgba(110,170,220,.12);border-radius:11px;margin-bottom:7px;background:rgba(15,23,36,.42)}
+.todo input{width:16px;height:16px;accent-color:#3ee08a;cursor:pointer;flex:none}.todo.done{opacity:.4;text-decoration:line-through}
+.todolab{font-size:10.5px;color:#6f88a6;letter-spacing:.1em;text-transform:uppercase;margin:14px 0 8px}
+.row{position:relative;background:rgba(15,23,36,.5);border:1px solid rgba(110,170,220,.12);border-radius:13px;padding:12px 16px;margin-bottom:9px;display:flex;justify-content:space-between;align-items:center;gap:12px;backdrop-filter:blur(8px);opacity:0;transform:translateX(-12px);animation:slidein .5s forwards}
+.row:hover{border-color:rgba(79,209,197,.4);background:rgba(20,30,48,.6)}
+.row .ttl{font-weight:600;color:#e8f0fa;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:560px}.row .meta{font-size:11.5px;color:#6f88a6;margin-top:3px}.row .stat{font-size:11px;white-space:nowrap;text-align:right;color:#7d95b1}
+.pill{font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:4px 11px;border-radius:999px;background:rgba(62,224,138,.12);color:#3ee08a;border:1px solid rgba(62,224,138,.35)}
+.links{display:flex;flex-wrap:wrap;gap:10px;opacity:0;animation:rise .6s .2s forwards}
+.links a{font-size:13px;text-decoration:none;background:rgba(17,26,40,.6);border:1px solid rgba(110,170,220,.18);border-radius:999px;padding:9px 16px;color:#cfe0f2;transition:.2s}
+.links a:hover{border-color:#4fd1c5;color:#fff;box-shadow:0 0 18px rgba(79,209,197,.25);transform:translateY(-2px)}
+@keyframes rise{to{opacity:1;transform:none}}@keyframes slidein{to{opacity:1;transform:none}}
+.foot{font-size:10.5px;color:#4a5f7a;margin-top:30px;text-align:center;letter-spacing:.04em}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.card,.row,.hdr,.links,.alert{opacity:1!important;transform:none!important}}
+</style>
+</head>
+<body>
+<canvas id="bg"></canvas>
+<div class="orb orb1"></div><div class="orb orb2"></div><div class="orb orb3"></div><div class="grid"></div>
+<div class="wrap">
+  <div class="hdr">
+    <div class="brand"><div class="core"></div><div><h1>Orla Loom</h1><div class="sub">Control Room</div></div></div>
+    <div style="text-align:right"><div class="live"><i></i> Online</div><div id="updated" class="mono">loading…</div></div>
+  </div>
+  <div class="eyebrow attn">⚡ Needs your attention</div>
+  <div id="attention"></div>
+  <div class="eyebrow">The shop at a glance</div>
+  <div class="cards" id="cards"></div>
+  <div class="eyebrow">Latest guides published</div>
+  <div id="recent"></div>
+  <div class="eyebrow">Catalogue by category</div>
+  <div id="cats"></div>
+  <div class="eyebrow">Autonomous agents</div>
+  <div id="agents"></div>
+  <div class="eyebrow">Direct links</div>
+  <div class="links">
+    <a href="https://www.orlaloom.com" target="_blank">🛍 Live site</a>
+    <a href="https://www.pinterest.com/orlaloom/" target="_blank">📌 Pinterest</a>
+    <a href="https://search.google.com/search-console?resource_id=https%3A%2F%2Forlaloom.com%2F" target="_blank">🔎 Search Console</a>
+    <a href="https://vercel.com/arash8382s-projects/orlaloom" target="_blank">▲ Vercel</a>
+    <a href="https://affiliate-program.amazon.com/home" target="_blank">📦 Amazon</a>
+  </div>
+  <div class="foot mono">PRIVATE · refreshes automatically each time the site publishes (daily) · pull to reload</div>
+</div>
+<script>
+const c=document.getElementById("bg"),X=c.getContext("2d");
+function sz(){c.width=innerWidth;c.height=innerHeight}sz();addEventListener("resize",sz);
+let P=[];for(let i=0;i<46;i++)P.push({x:Math.random()*innerWidth,y:Math.random()*innerHeight,vx:(Math.random()-.5)*.3,vy:(Math.random()-.5)*.3});
+function fr(){X.clearRect(0,0,c.width,c.height);for(const p of P){p.x+=p.vx;p.y+=p.vy;if(p.x<0||p.x>c.width)p.vx*=-1;if(p.y<0||p.y>c.height)p.vy*=-1}for(let i=0;i<P.length;i++)for(let j=i+1;j<P.length;j++){const a=P[i],b=P[j],d=Math.hypot(a.x-b.x,a.y-b.y);if(d<130){X.strokeStyle="rgba(79,209,197,"+(1-d/130)*0.15+")";X.beginPath();X.moveTo(a.x,a.y);X.lineTo(b.x,b.y);X.stroke()}}for(const p of P){X.fillStyle="rgba(150,205,255,0.5)";X.beginPath();X.arc(p.x,p.y,1.4,0,7);X.fill()}requestAnimationFrame(fr)}
+if(!matchMedia("(prefers-reduced-motion:reduce)").matches)fr();
+function esc(t){return (t||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+function ago(iso){const d=Date.parse(iso);if(isNaN(d))return "—";const s=Math.round((Date.now()-d)/1000),f=(n,u)=>n+" "+u+(n!=1?"s":"")+" ago";if(s<60)return "just now";if(s<3600)return f(Math.round(s/60),"min");if(s<86400)return f(Math.round(s/3600),"hr");return f(Math.round(s/86400),"day")}
+function nextRun(h,m,dow){const n=new Date();const d=new Date(n);d.setHours(h,m,0,0);if(dow==null){if(d<=n)d.setDate(d.getDate()+1);}else{let add=(dow-d.getDay()+7)%7;if(add===0&&d<=n)add=7;d.setDate(d.getDate()+add);}const s=Math.round((d-n)/1000);if(s<3600)return "in "+Math.round(s/60)+" min";if(s<86400)return "in "+Math.round(s/3600)+" hr";return "in "+Math.round(s/86400)+" days"}
+const TODOS=[{id:"runnow",t:"Hit “Run now” once on each agent (in Claude) to pre-approve permissions"},{id:"sales",t:"Make or refer your first 3 Amazon sales → unlocks exact product images everywhere"},{id:"login",t:"Stay signed in to Pinterest, Amazon, Google & Bing so the agents can act"}];
+function tdo(id,el){try{localStorage.setItem("ol_td_"+id,el.checked?"1":"0")}catch(e){}el.closest(".todo").classList.toggle("done",el.checked)}
+function render(D){
+  document.getElementById("updated").textContent="data from "+ago(D.buildTime);
+  const ageH=(Date.now()-Date.parse(D.buildTime))/3600000;
+  let A="";
+  if(ageH>40){A+='<div class="alert warn"><div class="ico">⏳</div><div class="tx">No new publish in '+Math.round(ageH)+' hours.<small>The daily engine may not have run — open the Claude app so it catches up.</small></div></div>';}
+  else{A+='<div class="alert ok"><div class="ico">✅</div><div class="tx">All clear — the shop is live and publishing on schedule.<small>Last update '+ago(D.buildTime)+'. Nothing needs you right now.</small></div></div>';}
+  A+='<div class="todolab">One-time setup — check off when done</div>';
+  A+=TODOS.map(td=>{let on=false;try{on=localStorage.getItem("ol_td_"+td.id)==="1"}catch(e){}return '<label class="todo'+(on?" done":"")+'"><input type="checkbox" '+(on?"checked":"")+' onchange="tdo(\''+td.id+'\',this)"><span>'+esc(td.t)+'</span></label>'}).join("");
+  document.getElementById("attention").innerHTML=A;
+  const dg=(D.agents||[]).find(a=>a.id==="daily-guide");
+  const cards=[
+    {lab:"Site",val:'<span class="dot g"></span>Online',note:"updated "+ago(D.buildTime)},
+    {lab:"Guides live",val:D.totalGuides,note:"buyer's guides published"},
+    {lab:"Products listed",val:D.totalProducts,note:"across all guides"},
+    {lab:"Next guide",val:dg?nextRun(dg.h,dg.m,dg.dow):"—",note:"auto-publishes"}
+  ];
+  document.getElementById("cards").innerHTML=cards.map((x,i)=>'<div class="card" style="animation-delay:'+(i*.08)+'s"><div class="lab">'+x.lab+'</div><div class="val">'+x.val+'</div><div class="note">'+esc(x.note)+'</div></div>').join("");
+  document.getElementById("recent").innerHTML=(D.recent||[]).map((p,i)=>'<a class="row" style="text-decoration:none;animation-delay:'+(i*.05)+'s" href="https://www.orlaloom.com/blog/'+p.slug+'" target="_blank"><div><div class="ttl"><span class="dot g"></span>'+esc(p.title)+'</div><div class="meta">'+esc(p.catName)+' · '+esc(p.date)+'</div></div><div class="stat mono">'+(p.products||"")+' picks</div></a>').join("");
+  document.getElementById("cats").innerHTML=(D.categories||[]).map((c,i)=>'<a class="row" style="text-decoration:none;animation-delay:'+(i*.04)+'s" href="https://www.orlaloom.com/category/'+c.slug+'" target="_blank"><div><div class="ttl">'+esc(c.name)+'</div><div class="meta mono">'+c.guides+' guide'+(c.guides!=1?"s":"")+'</div></div><div class="stat mono" style="color:#4fd1c5">'+c.products+' products</div></a>').join("");
+  document.getElementById("agents").innerHTML=(D.agents||[]).map((a,i)=>'<div class="row" style="animation-delay:'+(i*.05)+'s"><div><div class="ttl"><span class="dot g"></span>'+esc(a.name)+'</div><div class="meta mono">'+esc(a.sched)+'</div></div><div class="stat"><span class="pill">▸ scheduled</span><div class="meta mono" style="margin-top:5px">next '+nextRun(a.h,a.m,a.dow)+'</div></div></div>').join("");
+}
+fetch("/control-status.json?t="+Date.now()).then(r=>r.json()).then(render).catch(e=>{document.getElementById("attention").innerHTML='<div class="alert warn"><div class="ico">⚠️</div><div class="tx">Could not load status data.<small>The site may be mid-deploy — reload in a minute.</small></div></div>'});
+</script>
+</body>
+</html>
