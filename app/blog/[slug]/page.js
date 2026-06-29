@@ -78,6 +78,16 @@ export default async function PostPage({ params }) {
             })),
           }]
         : []),
+      ...(post.faqs && post.faqs.length
+        ? [{
+            "@type": "FAQPage",
+            mainEntity: post.faqs.map((f) => ({
+              "@type": "Question",
+              name: f.q,
+              acceptedAnswer: { "@type": "Answer", text: f.a },
+            })),
+          }]
+        : []),
     ],
   };
 
