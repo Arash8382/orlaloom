@@ -213,6 +213,13 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .product-btn { margin-top: 14px; align-self: flex-start; padding: 10px 20px; font-size: 13px; }
 @media (max-width: 620px){ .product-grid { grid-template-columns: 1fr; } }
 
+/* Category shop-page section headers + guide link on product cards */
+.section-head { margin: 0 0 22px; }
+.section-title { font-family: var(--serif); font-size: clamp(22px, 2.6vw, 30px); color: var(--head); margin-top: 8px; }
+.section-title .count { font-family: var(--sans); font-size: 14px; color: var(--muted); font-weight: 400; vertical-align: middle; margin-left: 8px; }
+.from-guide { display: inline-block; margin-top: 10px; font-size: 12px; color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+.from-guide:hover { color: var(--terra); }
+
 /* Real <img> for SEO (Google Images) — fill the existing image containers */
 .article-hero > img, .cat-hero .badge > img,
 .guide-card .ph > img, .cat-card .ph > img {
