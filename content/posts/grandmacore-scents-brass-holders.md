@@ -48,7 +48,7 @@ products:
     badge: "Best budget pair"
     blurb: "An affordable matched pair with a vintage-farmhouse silhouette — the easy centerpiece for everyday candlelight."
     caveat: "Lightweight metal with a decorative brass-tone finish, not heirloom-weight."
-    image: "https://images.unsplash.com/photo-1570823635306-250abb06d4b3?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/517LEwjQFnL._AC_SL1000_.jpg"
     url: "https://www.amazon.com/Candlestick-Centerpiece-Decorative-Candlelight-Reception/dp/B07W7KWNY6?tag=orlaloom-20"
 ---
 

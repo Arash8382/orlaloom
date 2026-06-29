@@ -15,7 +15,7 @@ products:
     caveat: "Heavy, breakable, and dries out faster than glazed or plastic pots."
     url: "https://www.amazon.com/Deroma-M8090PZ-Terra-Cotta-Standard/dp/B016P3J3WQ?tag=orlaloom-20"
   - name: "Bloem Terra Pot Resin Planter (8\")"
-    image: "https://images.unsplash.com/photo-1528789386055-75c4b717bad1?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/51AsUCaMOhL._AC_SL1000_.jpg"
     brand: "Bloem"
     price: "~$8–15"
     retailer: "Amazon"

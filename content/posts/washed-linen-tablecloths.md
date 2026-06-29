@@ -24,7 +24,7 @@ products:
     caveat: "It still wrinkles (that's the look), and color can vary slightly between batches."
     url: "https://www.amazon.com/s?k=All+Cotton+and+Linen+stonewashed+linen+tablecloth&tag=orlaloom-20"
   - name: "EVERLY Stonewashed French Linen Hemstitch Tablecloth"
-    image: "https://images.unsplash.com/photo-1710587385270-08f30d66bf31?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/81Ag8XOHxrL._AC_SL1500_.jpg"
     brand: "EVERLY"
     price: "~$45–70"
     retailer: "Amazon"

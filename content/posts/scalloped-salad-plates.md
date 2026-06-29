@@ -21,7 +21,7 @@ products:
     badge: "Best grandmillennial"
     blurb: "White porcelain with a delicate blue floral motif — true transferware/grandmillennial charm at a budget price."
     caveat: "Lighter porcelain than premium brands, and the pattern is printed rather than embossed."
-    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/81KA4OajUYL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/HomeElves-Salad-Plates-Microwave-Porcelain/dp/B0BK84Y867?tag=orlaloom-20"
   - name: "Threshold Scalloped Salad Plate (Gold Rim)"
     brand: "Threshold (Target)"

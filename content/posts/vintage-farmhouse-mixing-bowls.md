@@ -24,7 +24,7 @@ products:
     caveat: "Heavy and pricey, and the full bundle can be harder to find than singles."
     url: "https://www.homedepot.com/p/Mason-Cash-Cane-3-Piece-Cream-Mixing-Bowl-Set-1800-155/311272599"
   - name: "Martinez Pottery Heritage Blue Stripe Mixing Bowl (10\")"
-    image: "https://images.unsplash.com/photo-1589051088132-06f36a22012a?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61K+ijFvlSL._AC_SL1000_.jpg"
     brand: "Martinez Pottery"
     price: "~$35–50 each"
     retailer: "Amazon"

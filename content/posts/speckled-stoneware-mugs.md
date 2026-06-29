@@ -42,7 +42,7 @@ products:
     caveat: "Leans clean-modern, so it's cottagecore-adjacent rather than overtly rustic."
     url: "https://www.amazon.com/s?k=Mora+Ceramics+stoneware+mug&tag=orlaloom-20"
   - name: "Handmade Speckled Stoneware Mug"
-    image: "https://images.unsplash.com/photo-1687158179173-b9f3eac1fde9?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/712fewdVEEL._AC_SL1500_.jpg"
     brand: "Amazon Handmade (independent potter)"
     price: "~$18–35 each"
     retailer: "Amazon"

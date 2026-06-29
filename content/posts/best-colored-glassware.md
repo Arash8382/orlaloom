@@ -39,7 +39,7 @@ products:
     badge: "Most cheerful"
     blurb: "Clear glass shot through with multicolor 'confetti' crystals, hand-blown in Tonalá — fun, grippy, and impossible to be sad around."
     caveat: "Busier than solid-color glass; lead-free but with hand-blown variation."
-    image: "https://images.unsplash.com/photo-1691404016321-b210547c6d7a?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/81hRv3zNJ6L._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Mexican-Blown-Drinking-Glasses-Confetti/dp/B00BJ47HNY?tag=orlaloom-20"
   - name: "Handmade con Amor Blue Confetti Tumblers (Set of 6)"
     brand: "Handmade con Amor"
@@ -48,7 +48,7 @@ products:
     badge: "Best big pour"
     blurb: "Larger 15 oz recycled hand-blown tumblers with blue confetti flecks and signature little bubbles — everyday glasses with soul."
     caveat: "Bigger and heavier with slightly uneven walls; hand-wash recommended."
-    image: "https://images.unsplash.com/photo-1625495068822-85cbde3cd0e2?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/81FSoYqR-NL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Handmade-Amor-Drinking-tumblers-Confetti/dp/B0BWWV68R1?tag=orlaloom-20"
 ---
 

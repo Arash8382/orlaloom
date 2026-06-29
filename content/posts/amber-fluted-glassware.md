@@ -30,7 +30,7 @@ products:
     badge: "Best centerpiece"
     blurb: "A borosilicate amber carafe for iced tea or bedside water — the anchor piece that pulls an amber drink station together."
     caveat: "Smooth (not fluted) body, and the lid/seal is fairly basic."
-    image: "https://images.unsplash.com/photo-1768322144896-b8b9941a3552?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61gWpci+CkL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Pitcher-Beverage-Pitchers-Carafe-Lemonade/dp/B09YLRFRSY?tag=orlaloom-20"
   - name: "Estelle Coupe (Amber Smoke)"
     brand: "Estelle Colored Glass"
