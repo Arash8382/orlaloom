@@ -18,33 +18,48 @@ async function kv(cmd) {
   return r.json();
 }
 
-// Triggered daily by Vercel Cron (see vercel.json). Sends ONE push per new guide.
-export async function GET() {
+// Sends ONE push per guide, at most once ever (deduped via the Redis set
+// `orlaloom_pushed`). Triggered two ways:
+//   - daily-guide agent after publishing: /api/send?slug=<exact-new-slug>  (authoritative)
+//   - Vercel cron (vercel.json): /api/send  -> picks newest guide dated <= today
+export async function GET(req) {
   try {
     if (!process.env.VAPID_PRIVATE || !(process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL)) {
       return Response.json({ ok: false, error: "not-configured" }, { status: 503 });
     }
     webpush.setVapidDetails("mailto:arashtadi@gmail.com", VAPID_PUBLIC, process.env.VAPID_PRIVATE);
 
-    // Newest guide from the build-time status feed
     const res = await fetch("https://www.orlaloom.com/control-status.json?t=" + Date.now(), { cache: "no-store" });
     const data = await res.json();
-    const newest = (data.recent || [])[0];
-    if (!newest) return Response.json({ ok: true, sent: 0, note: "no guides" });
+    const recent = data.recent || [];
+    if (!recent.length) return Response.json({ ok: true, sent: 0, note: "no guides" });
 
-    const last = (await kv(["GET", "orlaloom_last_push"]))?.result;
-    if (last === newest.slug) return Response.json({ ok: true, sent: 0, note: "already pushed " + newest.slug });
+    // Decide which guide to (maybe) announce
+    const url = new URL(req.url);
+    const wanted = url.searchParams.get("slug");
+    let target;
+    if (wanted) {
+      target = recent.find((g) => g.slug === wanted) || { slug: wanted, title: data.recentTitleBySlug?.[wanted] || "A new cottagecore guide" };
+    } else {
+      const today = new Date().toISOString().slice(0, 10);
+      const eligible = recent.filter((g) => (g.date || "0") <= today);
+      target = (eligible[0] || recent[0]);
+    }
+    if (!target) return Response.json({ ok: true, sent: 0, note: "no target" });
+
+    // Dedup: never announce the same slug twice
+    const already = (await kv(["SISMEMBER", "orlaloom_pushed", target.slug]))?.result;
+    if (already === 1) return Response.json({ ok: true, sent: 0, note: "already pushed " + target.slug });
 
     const all = (await kv(["HGETALL", "orlaloom_subs"]))?.result || [];
-    // HGETALL returns [field1, val1, field2, val2, ...]
     const subs = [];
     for (let i = 1; i < all.length; i += 2) { try { subs.push({ member: all[i - 1], sub: JSON.parse(all[i]) }); } catch (e) {} }
 
     const payload = JSON.stringify({
       title: "New on Orla Loom 🌿",
-      body: newest.title,
-      url: "https://www.orlaloom.com/blog/" + newest.slug,
-      tag: "guide-" + newest.slug,
+      body: target.title,
+      url: "https://www.orlaloom.com/blog/" + target.slug,
+      tag: "guide-" + target.slug,
     });
 
     let sent = 0, pruned = 0;
@@ -55,8 +70,8 @@ export async function GET() {
       }
     }));
 
-    await kv(["SET", "orlaloom_last_push", newest.slug]);
-    return Response.json({ ok: true, sent, pruned, guide: newest.slug });
+    await kv(["SADD", "orlaloom_pushed", target.slug]);
+    return Response.json({ ok: true, sent, pruned, guide: target.slug });
   } catch (e) {
     return Response.json({ ok: false, error: String(e) }, { status: 500 });
   }
