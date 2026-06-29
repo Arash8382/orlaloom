@@ -105,6 +105,14 @@ function render(D){
   A+='<div class="todolab">One-time setup — check off when done</div>';
   A+=TODOS.map(td=>{let on=false;try{on=localStorage.getItem("ol_td_"+td.id)==="1"}catch(e){}return '<label class="todo'+(on?" done":"")+'"><input type="checkbox" '+(on?"checked":"")+' onchange="tdo(\''+td.id+'\',this)"><span>'+esc(td.t)+'</span></label>'}).join("");
   document.getElementById("attention").innerHTML=A;
+  fetch("/stock-flags.json?t="+Date.now()).then(r=>r.ok?r.json():null).then(S=>{
+    if(!S)return;
+    const open=(S.issues||[]).filter(i=>i.action!=="fixed"),fx=(S.issues||[]).filter(i=>i.action==="fixed").length;
+    let h;
+    if(open.length>0){h='<div class="alert warn"><div class="ico">🔗</div><div class="tx">'+open.length+' product link'+(open.length!=1?'s':'')+' need review (dead or out of stock).<small>Checked '+ago(S.checkedAt)+(fx?' · '+fx+' auto-fixed':'')+' · '+open.slice(0,4).map(i=>esc(i.product)).join(", ")+'</small></div></div>';}
+    else{h='<div class="alert ok"><div class="ico">🔗</div><div class="tx">All product links healthy.<small>Last checked '+ago(S.checkedAt)+' · '+(S.checked||0)+' products'+(fx?' · '+fx+' auto-fixed':'')+'</small></div></div>';}
+    document.getElementById("attention").insertAdjacentHTML("afterbegin",h);
+  }).catch(e=>{});
   const dg=(D.agents||[]).find(a=>a.id==="daily-guide");
   const cards=[
     {lab:"Site",val:'<span class="dot g"></span>Online',note:"updated "+ago(D.buildTime)},
