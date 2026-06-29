@@ -53,9 +53,12 @@ export default async function PostPage({ params }) {
           <div className="product-grid">
             {post.products.map((pr, i) => (
               <div className="product-card" key={i}>
-                <div className={`product-img ph ph-${post.category}`}>
+                <div
+                  className={`product-img ph ${pr.image ? "" : "ph-" + post.category}`}
+                  style={pr.image ? { backgroundImage: `url(${pr.image})`, backgroundSize: "cover", backgroundPosition: "center" } : undefined}
+                >
                   {pr.badge && <span className="product-badge">{pr.badge}</span>}
-                  <span className="mono">[ {pr.name} ]</span>
+                  {!pr.image && <span className="mono">[ {pr.name} ]</span>}
                 </div>
                 <div className="product-body">
                   <div className="product-name">{pr.name}</div>

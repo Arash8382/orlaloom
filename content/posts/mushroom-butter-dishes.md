@@ -11,6 +11,7 @@ products:
     badge: "Best overall"
     blurb: "A stoneware rectangular dish with a sculpted toadstool lid — the rare mushroom dish that still fits a standard wrapped stick of butter."
     caveat: "Mass-produced import; glaze and paint quality can vary slightly."
+    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=900&q=70"
     url: "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ"
   - name: "Mushroom Butter Crock (Water-Seal)"
     brand: "Fungi Fun"
@@ -19,6 +20,7 @@ products:
     badge: "Best for spreadable"
     blurb: "A mushroom-shaped French-style crock that keeps butter soft and spreadable on the counter — function and whimsy in one."
     caveat: "It's a crock, so it suits soft or packed butter, not a wrapped stick."
+    image: "https://images.unsplash.com/photo-1587185717368-4d92f8de4ad2?auto=format&fit=crop&w=900&q=70"
     url: "https://www.amazon.com/Mushroom-Butter-Crock-Countertop-Spreadable/dp/B0DLJNG1C7"
   - name: "Red Toadstool Mushroom Butter Dish"
     brand: "Ceramic novelty"
@@ -27,6 +29,7 @@ products:
     badge: "Best under $25"
     blurb: "The classic red-cap, white-spot toadstool — the most storybook look on this list and an easy, cheerful gift."
     caveat: "Generic listing, so stock rotates; confirm it's live before buying."
+    image: "https://images.unsplash.com/photo-1591632288574-a387f820a1ca?auto=format&fit=crop&w=900&q=70"
     url: "https://www.amazon.com/Mushroom-Countertop-Ceramic-Butterdish-Container/dp/B0BWDVL76C"
   - name: "Handmade Mushroom Stick Butter Dish"
     brand: "Ceramic Boutique"
@@ -35,6 +38,7 @@ products:
     badge: "Best handmade"
     blurb: "A genuinely hand-thrown pottery mushroom dish sized for a stick of butter — the premium, one-of-a-kind pick."
     caveat: "Sold via the maker's own site, so no Prime shipping."
+    image: "https://images.unsplash.com/photo-1624819107687-15524ecf555a?auto=format&fit=crop&w=900&q=70"
     url: "https://shopceramicboutique.com/products/mushroom-butterdish"
 ---
 
