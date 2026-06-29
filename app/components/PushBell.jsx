@@ -43,11 +43,12 @@ export default function PushBell() {
         userVisibleOnly: true,
         applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC),
       });
-      await fetch("/api/subscribe", {
+      const r = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(sub),
       });
+      if (!r.ok) { setState("idle"); return; }
       setState("done");
     } catch (e) {
       setState("idle");
