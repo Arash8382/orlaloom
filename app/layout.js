@@ -4,6 +4,7 @@ import Script from "next/script";
 import { Analytics } from "@vercel/analytics/react";
 import { site, categories } from "../lib/site";
 import Header from "./components/Header";
+import PushBell from "./components/PushBell";
 
 export const metadata = {
   metadataBase: new URL(site.url),
@@ -35,6 +36,7 @@ export default function RootLayout({ children }) {
               <div>
                 <div className="name">{site.name}</div>
                 <p>{site.description}</p>
+                <div style={{ marginTop: "14px" }}><PushBell /></div>
               </div>
               <div>
                 <h4>Categories</h4>
