@@ -64,6 +64,14 @@ Estelle is hand-blown heirloom glass at an heirloom price. The Mexican recycled-
 
 Mix two colorways rather than matching perfectly, and let the glass do the decorating — colored stems plus plain plates always looks designed.
 
+## Are colored glasses dishwasher-safe?
+
+This is the question that decides whether you reach for them daily or save them for guests. **Solid-colored glass** — where the color runs all the way through, like jewel-tone goblets and Mexican bubble glass — is usually dishwasher-safe and keeps its color for years. **Surface-coated or "lustre" finishes** (the iridescent or sprayed-on metallic looks) are the ones to hand-wash; harsh detergent and high heat can cloud or strip them over time. As a rule, the affordable confetti and bubble glasses are the workhorses, while the prettier coated pieces are worth a gentler routine.
+
+## Mixing colors without it looking chaotic
+
+You don't need a matching set. Pick two or three tones that share a mood — warm ambers and pinks, or cool greens and cobalts — and let the glasses vary in shape. A table of slightly mismatched colored glass looks collected and intentional; ten identical bright glasses can look like a party-supply order. Anchor the mix with a few clear or amber pieces so the eye has somewhere to rest.
+
 ## FAQ
 
 **Is colored glass food-safe?**
@@ -71,3 +79,6 @@ Reputable brands use lead-free glass; always confirm on the listing, especially 
 
 **Can colored glassware go in the dishwasher?**
 Mass-produced sets often can; hand-blown glass (like Estelle) should be hand-washed to protect the finish.
+
+**Do colored glasses change the taste of a drink?**
+No — the color is in or on the glass, not in the part your drink touches, so it's purely decorative. Just hand-wash any coated or iridescent finishes to keep them vivid.

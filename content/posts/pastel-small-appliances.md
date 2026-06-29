@@ -73,6 +73,10 @@ The smart move: one statement piece (a Smeg kettle or a retro fridge) surrounded
 
 "Aqua" and "turquoise" from budget brands photograph a touch brighter than a soft pastel. If you're matching a specific palette, check real-life photos before committing.
 
+## Worth the splurge vs. worth skipping
+
+Spend on the appliance that earns its counter space and shows the color off — usually the **kettle, toaster, or stand mixer** you'll genuinely use daily. A Smeg or Haden in the right pastel stops being an appliance and starts being décor. **Skip** the splurge on novelty single-use gadgets — mini waffle makers, tiny personal blenders — where a cute budget version in the same color looks just as good for a fraction of the price. The winning formula is one or two "hero" pastel pieces plus inexpensive matching extras around them.
+
 ## FAQ
 
 **Are the cheap dupes actually good?**
@@ -80,3 +84,6 @@ For light everyday use, yes — Haden and Dash are reliable. They trade Smeg's p
 
 **What's the single best-value pastel piece?**
 The Dash mini waffle maker or Zulay frother — both under $15 and instantly recognizable.
+
+**Will pastel appliances look dated in a few years?**
+Soft, muted pastels and creams age far better than loud brights. Keep one cohesive tone across your hero pieces and the look reads timeless rather than trend-chasing.

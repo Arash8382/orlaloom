@@ -64,6 +64,10 @@ Genuine solid brass develops a patina and can be polished forever; brass-*finish
 
 Cluster three tapers of different heights, add one nostalgic candle off to the side, and let the brass catch the light. Instant grandmacore.
 
+## How to clean and keep antique brass
+
+Real brass develops a patina over time, and whether you polish it is a style choice — plenty of cottagecore decorators leave the warm, darkened tone exactly as it is. If you want shine back, a gentle brass polish (or a homemade paste of lemon and baking soda) does it; buff with a soft cloth and skip abrasive pads. **Lacquered** brass shouldn't be polished at all — just dusted, or you'll cut through the coating. Keep holders out of direct candle drip, and let spilled wax cool and harden so you can peel it off rather than scraping the finish.
+
 ## FAQ
 
 **What scents feel 'grandmacore'?**
@@ -71,3 +75,6 @@ Dried lavender, rose, mossy amber, and anything that recalls a linen closet or a
 
 **Are vintage brass candlesticks safe to use?**
 Yes — clean them, check they're stable, and use proper drip protection. Real brass handles candle heat beautifully.
+
+**Do brass candlesticks tarnish quickly?**
+Solid brass slowly darkens, which most people actually want for the antique look. If you prefer it bright, a quick polish once or twice a year is all it takes.

@@ -73,6 +73,14 @@ A floral quilt is the fastest way to give a bedroom that soft, grandmother's-cot
 
 The cottage look is collected, not coordinated. A floral quilt over plain white sheets with one gingham or striped pillow reads far more authentic than a fully matched bed-in-a-bag.
 
+## Cotton vs. cotton-blend: which to buy
+
+Real **cotton** quilts breathe, get softer with every wash, and feel the most heirloom — but they wrinkle, which is part of the lived-in charm. **Poly-cotton blends** resist wrinkles, cost less, and hold color well, though they run a touch warmer and less breathable. For a bed you sleep in year-round, a cotton or cotton-rich quilt is worth it; for a guest room or a decorative layering throw, a blend is perfectly fine. Check the fill too — cotton batting drapes softer and flatter than polyester, which keeps that crisp, made-bed quilt look.
+
+## Quilt, coverlet, or comforter?
+
+They're not the same thing. A **quilt** is thin and stitched, ideal as a year-round top layer; a **coverlet** is lighter still, great for summer or purely decorative; a **comforter** is thick and fluffy. For the ditsy-floral cottagecore look you usually want a quilt or coverlet, so the small print stays crisp and the bed reads tailored rather than puffy.
+
 ## FAQ
 
 **Are these warm enough on their own?**
@@ -80,3 +88,6 @@ Quilts are lightweight by design — lovely solo in warm months, or layered over
 
 **How do I keep the florals soft?**
 Cold wash, gentle cycle, low tumble or line dry. Cotton quilts crinkle as they dry, which only adds to the look.
+
+**Will a ditsy floral quilt feel dated?**
+Small-scale "ditsy" florals read timeless rather than themed. Keep the walls and larger furniture neutral and the quilt becomes a soft seasonal accent you can restyle anytime.

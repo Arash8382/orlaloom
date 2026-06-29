@@ -10,11 +10,12 @@ export function generateStaticParams() {
 export function generateMetadata({ params }) {
   const cat = categoryBySlug(params.slug);
   if (!cat) return {};
+  const seoTitle = `Best Cottagecore ${cat.name} (2026)`;
   return {
-    title: cat.name,
+    title: seoTitle,
     description: cat.blurb,
     alternates: { canonical: `/category/${params.slug}` },
-    openGraph: { title: `${cat.name} — ${site.name}`, description: cat.blurb, url: `${site.url}/category/${params.slug}`, images: cat.image ? [{ url: cat.image }] : [] },
+    openGraph: { title: `${seoTitle} — ${site.name}`, description: cat.blurb, url: `${site.url}/category/${params.slug}`, images: cat.image ? [{ url: cat.image }] : [] },
   };
 }
 

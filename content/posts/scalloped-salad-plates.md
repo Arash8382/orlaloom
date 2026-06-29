@@ -60,6 +60,14 @@ A scalloped salad plate is the easiest way to add character to a table — layer
 
 Put the scalloped salad plate on top of a larger neutral dinner plate so the petal edge peeks out. Color or pattern on top, neutral underneath — that's the whole trick.
 
+## Ceramic, porcelain, or melamine?
+
+It's worth knowing what you're buying. **Porcelain** is the most refined — thin, hard, and a little translucent, with crisp scalloped edges that read expensive; it's the best choice for a dressy table. **Stoneware and ceramic** are chunkier and more rustic, which actually suits the cottagecore look and handles everyday use without feeling precious. **Melamine** (a sturdy plastic) shows up in cheaper "scalloped" sets and is fine for outdoors or kids, but it never quite has the weight or glaze depth of real ceramic, and it can't go in the microwave. For a salad or side plate you'll use often, a mid-weight stoneware is the sweet spot: pretty enough to layer, tough enough to stack daily.
+
+## Why scalloped plates photograph so well
+
+Part of the appeal is practical and part is purely visual. That wavy rim catches light along its ridges, so the plate reads as having texture even in a flat photo — which is exactly why they're everywhere on Pinterest and tablescape posts. If you're styling a table to share, a scalloped salad plate layered over a plain dinner plate gives you that detail without buying a whole patterned set.
+
 ## FAQ
 
 **What size is a salad plate?**
@@ -67,3 +75,6 @@ Usually around 7.5–9 inches — small enough to layer on a dinner plate but bi
 
 **Can I mix brands?**
 Absolutely. Mismatched-but-coordinated scalloped plates are the look — pick a shared color story and combine freely.
+
+**Can scalloped salad plates go in the dishwasher and microwave?**
+Most ceramic and porcelain ones can — check the maker's note. Melamine versions are dishwasher-safe but not microwave-safe, so they're better as outdoor or display plates.

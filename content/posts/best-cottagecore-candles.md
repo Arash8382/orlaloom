@@ -66,6 +66,10 @@ The right candle does for a kitchen what nothing else can — it turns "a room w
 
 Soy and coconut-wax candles burn slower and cleaner than paraffin. For scent throw, light it an hour before guests arrive and keep the room a touch warm.
 
+## Soy, beeswax, or paraffin?
+
+The wax matters for both the scent and the burn. **Soy** burns slow and clean and throws fragrance gently — a great cozy-room choice. **Beeswax** burns the longest and brightest with a faint natural honey note, and it's the most premium (and priciest). **Paraffin** throws the strongest scent for the least money, which is why most mass-market candles use it, though some prefer to avoid it. For a kitchen candle you light most evenings, a soy or soy-blend hits the best balance of clean burn, scent, and price.
+
 ## FAQ
 
 **What's the most 'cottagecore' candle scent?**
@@ -73,3 +77,6 @@ Mossy, herbal blends with lavender or sage — think a damp forest floor or a he
 
 **Are soy candles better?**
 They burn slower and cleaner than paraffin, though scent throw can be a little softer.
+
+**Why isn't my candle scenting the room?**
+Usually one of two things: the candle is too small for the space, or it hasn't burned long enough to form a full melt pool. Let it liquefy edge to edge every time — roughly an hour per inch of diameter — and the throw improves dramatically.

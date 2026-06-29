@@ -64,6 +64,10 @@ Cottagecore is a counter aesthetic — canisters, a crock of wooden spoons, a pr
 
 Group odd numbers (three canisters, one crock, a stack of towels) and repeat one color — sage, cream, or soft blue — across them for a pulled-together look.
 
+## The five swaps that move the needle most
+
+If you only change a handful of things, start here: (1) a **ceramic utensil crock** to get tools off the counter and into something pretty; (2) a **pastel or enamel kettle** as a colorful anchor; (3) **glass or stoneware canisters** for flour and sugar; (4) a pair of **gingham or linen tea towels**; and (5) a **wooden spoon-and-board set** left out on display. Together those five read "cottage kitchen" instantly — no renovation, no repainting, just softer, warmer surfaces where there used to be plastic and packaging.
+
 ## FAQ
 
 **What's the cheapest way to make a kitchen cottagecore?**
@@ -71,3 +75,6 @@ Gingham tea towels, a ceramic utensil crock, and swapping plastic for wood and e
 
 **Do I need the KitchenAid?**
 No — it's the splurge centerpiece. The canisters, crock, and towels carry the look on their own.
+
+**How do I get the look on a budget?**
+Swap the soft goods first — tea towels, a utensil crock, and canisters are inexpensive and high-impact. Save the pastel appliances for whenever one of yours actually needs replacing.
