@@ -38,20 +38,6 @@ export default function Home() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      {/* HERO */}
-      <section className="hero">
-        <div>
-          <span className="eyebrow">Cosy finds, gently chosen</span>
-          <h1>Make every<br />day feel a<br />little softer.</h1>
-          <p>
-            Sweet butter dishes, scalloped plates and warm glassware, hand-picked
-            to make your table feel like a hug.
-          </p>
-          <Link className="btn" href="/category/butter-dishes">Start exploring</Link>
-        </div>
-        <div className="hero-img" style={bg(site.heroImage)} />
-      </section>
-
       {/* SHOP BY CATEGORY — Amazon-style cards with 4 product thumbs each */}
       <section className="categories">
         <div className="section-head-center">
@@ -109,6 +95,20 @@ export default function Home() {
           </div>
           <div className="footer-note">Orla Loom · gentle finds for a warmer home · affiliate-supported</div>
         </div>
+      </section>
+
+      {/* HERO — brand note, now at the bottom */}
+      <section className="hero">
+        <div>
+          <span className="eyebrow">Cosy finds, gently chosen</span>
+          <h1>Make every<br />day feel a<br />little softer.</h1>
+          <p>
+            Sweet butter dishes, scalloped plates and warm glassware, hand-picked
+            to make your table feel like a hug.
+          </p>
+          <Link className="btn" href="/category/butter-dishes">Start exploring</Link>
+        </div>
+        <div className="hero-img" style={bg(site.heroImage)} />
       </section>
     </>
   );
