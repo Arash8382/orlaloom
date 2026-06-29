@@ -41,9 +41,10 @@ export async function GET(req) {
     if (wanted) {
       target = recent.find((g) => g.slug === wanted) || { slug: wanted, title: data.recentTitleBySlug?.[wanted] || "A new cottagecore guide" };
     } else {
+      // Cron backstop: only announce a guide actually dated today (avoids the
+      // future-dated backlog and old guides ever being announced as "new").
       const today = new Date().toISOString().slice(0, 10);
-      const eligible = recent.filter((g) => (g.date || "0") <= today);
-      target = (eligible[0] || recent[0]);
+      target = recent.find((g) => g.date === today);
     }
     if (!target) return Response.json({ ok: true, sent: 0, note: "no target" });
 
