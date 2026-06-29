@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { categories, categoryBySlug } from "../../../lib/site";
+import { site, categories, categoryBySlug } from "../../../lib/site";
 import { getPostsByCategory } from "../../../lib/posts";
 
 export function generateStaticParams() {
@@ -10,7 +10,12 @@ export function generateStaticParams() {
 export function generateMetadata({ params }) {
   const cat = categoryBySlug(params.slug);
   if (!cat) return {};
-  return { title: cat.name, description: cat.blurb };
+  return {
+    title: cat.name,
+    description: cat.blurb,
+    alternates: { canonical: `/category/${params.slug}` },
+    openGraph: { title: `${cat.name} — ${site.name}`, description: cat.blurb, url: `${site.url}/category/${params.slug}`, images: cat.image ? [{ url: cat.image }] : [] },
+  };
 }
 
 export default function CategoryPage({ params }) {
@@ -18,8 +23,41 @@ export default function CategoryPage({ params }) {
   if (!cat) return notFound();
   const posts = getPostsByCategory(cat.slug);
 
+  const url = `${site.url}/category/${cat.slug}`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": url,
+        name: `${cat.name} — ${site.name}`,
+        description: cat.blurb,
+        url,
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: site.url },
+          { "@type": "ListItem", position: 2, name: cat.name, item: url },
+        ],
+      },
+      ...(posts.length
+        ? [{
+            "@type": "ItemList",
+            itemListElement: posts.map((p, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              name: p.title,
+              url: `${site.url}/blog/${p.slug}`,
+            })),
+          }]
+        : []),
+    ],
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <section className="cat-hero">
         <div>
           <div className="breadcrumb" style={{ marginBottom: 14 }}>

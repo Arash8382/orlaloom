@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { categoryBySlug, categoryImage } from "../../../lib/site";
+import { site, categoryBySlug, categoryImage } from "../../../lib/site";
 import { getPostSlugs, getPost, getPostMeta, getPostsByCategory } from "../../../lib/posts";
 
 export function generateStaticParams() {
@@ -11,12 +11,15 @@ export function generateMetadata({ params }) {
   try {
     const meta = getPostMeta(params.slug);
     const img = meta.cover || categoryImage(meta.category);
+    const url = `${site.url}/blog/${params.slug}`;
     return {
       title: meta.title,
       description: meta.description,
+      alternates: { canonical: `/blog/${params.slug}` },
       openGraph: {
         title: meta.title,
         description: meta.description,
+        url,
         images: img ? [{ url: img, width: 1200, height: 800 }] : [],
         type: "article",
       },
@@ -34,8 +37,53 @@ export default async function PostPage({ params }) {
   const related = getPostsByCategory(post.category).filter((p) => p.slug !== post.slug).slice(0, 3);
   const dateStr = new Date(post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
+  const url = `${site.url}/blog/${post.slug}`;
+  const heroImg = post.cover || (cat && cat.image) || site.heroImage;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        "@id": `${url}#article`,
+        headline: post.title,
+        description: post.description,
+        image: heroImg ? [heroImg] : undefined,
+        datePublished: post.date,
+        dateModified: post.date,
+        author: { "@type": "Organization", name: "Orla Loom editors", url: site.url },
+        publisher: {
+          "@type": "Organization",
+          name: site.name,
+          logo: { "@type": "ImageObject", url: `${site.url}/orla-loom-logo.png` },
+        },
+        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: site.url },
+          ...(cat ? [{ "@type": "ListItem", position: 2, name: cat.name, item: `${site.url}/category/${cat.slug}` }] : []),
+          { "@type": "ListItem", position: cat ? 3 : 2, name: post.title, item: url },
+        ],
+      },
+      ...(post.products && post.products.length
+        ? [{
+            "@type": "ItemList",
+            name: `${post.title} — top picks`,
+            itemListElement: post.products.map((pr, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              name: pr.name,
+              ...(pr.url ? { url: pr.url } : {}),
+            })),
+          }]
+        : []),
+    ],
+  };
+
   return (
     <article className="article-wrap">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="breadcrumb">
         <Link href="/">Home</Link> &nbsp;/&nbsp;{" "}
         {cat && <><Link href={`/category/${cat.slug}`}>{cat.name}</Link> &nbsp;/&nbsp;{" "}</>}

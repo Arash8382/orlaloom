@@ -2,6 +2,8 @@ import Link from "next/link";
 import { site, categories, categoryImage } from "../lib/site";
 import { getAllPosts, getPostsByCategory } from "../lib/posts";
 
+export const metadata = { alternates: { canonical: "/" } };
+
 const bg = (url) => ({
   backgroundImage: `url(${url})`,
   backgroundSize: "cover",
@@ -11,8 +13,31 @@ const bg = (url) => ({
 export default function Home() {
   const posts = getAllPosts().slice(0, 3);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": `${site.url}/#organization`,
+        name: site.name,
+        url: site.url,
+        logo: { "@type": "ImageObject", url: `${site.url}/orla-loom-logo.png` },
+        sameAs: ["https://www.pinterest.com/orlaloom/"],
+      },
+      {
+        "@type": "WebSite",
+        "@id": `${site.url}/#website`,
+        name: site.name,
+        url: site.url,
+        description: site.description,
+        publisher: { "@id": `${site.url}/#organization` },
+      },
+    ],
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       {/* HERO */}
       <section className="hero">
         <div>
