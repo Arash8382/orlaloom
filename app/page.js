@@ -1,6 +1,12 @@
 import Link from "next/link";
-import { categories } from "../lib/site";
+import { site, categories, categoryImage } from "../lib/site";
 import { getAllPosts, getPostsByCategory } from "../lib/posts";
+
+const bg = (url) => ({
+  backgroundImage: `url(${url})`,
+  backgroundSize: "cover",
+  backgroundPosition: "center",
+});
 
 export default function Home() {
   const posts = getAllPosts().slice(0, 3);
@@ -18,9 +24,7 @@ export default function Home() {
           </p>
           <Link className="btn" href="/category/butter-dishes">Start exploring</Link>
         </div>
-        <div className="hero-img">
-          <span className="mono">[ hero — bright, cosy lifestyle ]</span>
-        </div>
+        <div className="hero-img" style={bg(site.heroImage)} />
       </section>
 
       {/* SHOP BY CATEGORY */}
@@ -34,9 +38,7 @@ export default function Home() {
             const n = getPostsByCategory(c.slug).length;
             return (
               <Link className="cat-card" href={`/category/${c.slug}`} key={c.slug}>
-                <div className={`ph ph-${c.slug}`}>
-                  <span className="mono">[ {c.name.toLowerCase()} ]</span>
-                </div>
+                <div className="ph" style={bg(c.image)} />
                 <div className="cat-name">{c.name}</div>
                 <div className="cat-count">{n > 0 ? `${n} guide${n > 1 ? "s" : ""}` : "New finds"}</div>
               </Link>
@@ -57,9 +59,7 @@ export default function Home() {
               const cat = categories.find((c) => c.slug === p.category);
               return (
                 <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                  <div className={`ph ph-${p.category}`}>
-                    <span className="mono">[ {cat ? cat.name.toLowerCase() : "guide"} ]</span>
-                  </div>
+                  <div className="ph" style={bg(categoryImage(p.category))} />
                   <div className="guide-body">
                     <div className="guide-tag">{cat ? cat.name : "Guide"}</div>
                     <div className="guide-title">{p.title}</div>

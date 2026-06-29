@@ -29,7 +29,7 @@ export default function CategoryPage({ params }) {
           <h1>{cat.name}</h1>
           <p>{cat.blurb}</p>
         </div>
-        <div className={`badge ph ph-${cat.slug}`} />
+        <div className="badge ph" style={{ backgroundImage: `url(${cat.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
       </section>
 
       <section className="section">
@@ -39,9 +39,7 @@ export default function CategoryPage({ params }) {
           <div className="guides-grid">
             {posts.map((p) => (
               <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                <div className={`ph ph-${p.category}`}>
-                  <span className="mono">[ {cat.name.toLowerCase()} ]</span>
-                </div>
+                <div className="ph" style={{ backgroundImage: `url(${cat.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
                 <div className="guide-body">
                   <div className="guide-tag">{cat.name}</div>
                   <div className="guide-title">{p.title}</div>
