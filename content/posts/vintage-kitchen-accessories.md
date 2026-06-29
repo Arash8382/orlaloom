@@ -2,7 +2,7 @@
 title: "Vintage-Style Cottagecore Kitchen Accessories"
 description: "The small swaps — pastel mixer, ceramic canisters, enamel colander, gingham towels — that turn any kitchen cottagecore."
 category: "cottagecore-kitchen"
-date: "2026-06-21"
+date: "2026-06-29"
 cover: "https://images.unsplash.com/photo-1722888799634-c5093906feae?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "KitchenAid Artisan Stand Mixer"
@@ -78,3 +78,13 @@ No — it's the splurge centerpiece. The canisters, crock, and towels carry the 
 
 **How do I get the look on a budget?**
 Swap the soft goods first — tea towels, a utensil crock, and canisters are inexpensive and high-impact. Save the pastel appliances for whenever one of yours actually needs replacing.
+
+## Related guides
+
+Go deeper on the pieces that make a cottagecore kitchen:
+
+- [Pastel small appliances](/blog/pastel-small-appliances) — the mint, cream, and sage countertop anchors.
+- [The best retro kitchen appliances](/blog/best-retro-kitchen-appliances) — retro kettles and mixers worth the splurge.
+- [Vintage-style enamelware](/blog/vintage-style-enamelware) — speckled enamel colanders, mugs, and basins that double as display.
+- [Vintage farmhouse mixing bowls](/blog/vintage-farmhouse-mixing-bowls) — nesting stoneware bowls for the open shelf.
+- [The complete dark cottagecore kitchen guide](/blog/dark-cottagecore-kitchen) — take the same accessories moody and candlelit.

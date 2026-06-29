@@ -2,7 +2,7 @@
 title: "The Complete Guide to a Dark Cottagecore Kitchen (2026)"
 description: "How to get the moody, vintage dark cottagecore kitchen look — colors, decor, and the small finds that pull it together."
 category: "cottagecore-kitchen"
-date: "2026-06-20"
+date: "2026-06-29"
 cover: "https://images.unsplash.com/photo-1561554854-ae60cb36ebe9?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Smeg Retro Electric Kettle"
@@ -104,3 +104,13 @@ Yes. The look is mostly textiles, ceramics, candles, and small decor — no reno
 
 **What colors are dark cottagecore?**
 Forest green, aubergine, oxblood, charcoal, and warm near-black, with cream and aged brass, plus an occasional chartreuse or persimmon accent.
+
+## Related guides
+
+Keep building the look with these companion guides:
+
+- [The best cottagecore candles](/blog/best-cottagecore-candles) — the candlelight that defines the "dark" in dark cottagecore.
+- [Grandmacore scents & brass candle holders](/blog/grandmacore-scents-brass-holders) — aged-brass holders for that after-dark glow.
+- [Aesthetic butter dishes](/blog/aesthetic-butter-dishes) — the signature vintage object to start with on the counter.
+- [Scalloped dinnerware sets](/blog/scalloped-dinnerware-sets) — moody plates for open shelves and plate racks.
+- [The best colored glassware](/blog/best-colored-glassware) — fluted, jewel-toned glass that catches candlelight on a shelf.
