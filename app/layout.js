@@ -1,6 +1,7 @@
 import "./globals.css";
 import Link from "next/link";
 import { site, categories } from "../lib/site";
+import Header from "./components/Header";
 
 export const metadata = {
   metadataBase: new URL(site.url),
@@ -21,33 +22,37 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <header className="site-header">
-          <div className="bar">
-            <Link href="/" className="brand">
-              {site.name}
-              <small>Curated home finds</small>
-            </Link>
-            <nav className="nav">
-              {categories.map((c) => (
-                <Link key={c.slug} href={`/category/${c.slug}`}>
-                  {c.name}
-                </Link>
-              ))}
-              <Link href="/about">About</Link>
-            </nav>
-          </div>
-        </header>
+        <Header />
         <main>{children}</main>
-        <footer className="site-footer">
-          <div>
-            <Link href="/about">About</Link>
-            <Link href="/disclosure">Affiliate Disclosure</Link>
-            <Link href="/privacy">Privacy</Link>
+        <footer className="footer">
+          <div className="container footer-grid">
+            <div>
+              <div className="name">{site.name}</div>
+              <p>{site.description}</p>
+            </div>
+            <div>
+              <h4>Categories</h4>
+              <ul>
+                {categories.map((c) => (
+                  <li key={c.slug}>
+                    <Link href={`/category/${c.slug}`}>{c.name}</Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div>
+              <h4>Orla Loom</h4>
+              <ul>
+                <li><Link href="/about">About</Link></li>
+                <li><Link href="/disclosure">Affiliate Disclosure</Link></li>
+                <li><Link href="/privacy">Privacy</Link></li>
+              </ul>
+            </div>
           </div>
-          <p>
-            © {new Date().getFullYear()} {site.name}. As an Amazon Associate and
-            affiliate partner, we earn from qualifying purchases.
-          </p>
+          <div className="container footer-bottom">
+            <span>© {new Date().getFullYear()} {site.name}. As an Amazon Associate and affiliate partner, we earn from qualifying purchases.</span>
+            <span>Independently curated · No sponsored placements</span>
+          </div>
         </footer>
       </body>
     </html>
