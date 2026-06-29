@@ -6,7 +6,8 @@ import webpush from "web-push";
 const VAPID_PUBLIC = "BMFrRniEPt8xo69_csB0ZZV7r8MtstUAiwDurfjAmkd4ZyXSQjJITTCNFNgdvZqlB5KWkm7nbP1gWX3qxyFkjso";
 
 async function kv(cmd) {
-  const url = process.env.KV_REST_API_URL, tok = process.env.KV_REST_API_TOKEN;
+  const url = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
+  const tok = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
   if (!url || !tok) return null;
   const r = await fetch(url, {
     method: "POST",
@@ -20,7 +21,7 @@ async function kv(cmd) {
 // Triggered daily by Vercel Cron (see vercel.json). Sends ONE push per new guide.
 export async function GET() {
   try {
-    if (!process.env.VAPID_PRIVATE || !process.env.KV_REST_API_URL) {
+    if (!process.env.VAPID_PRIVATE || !(process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL)) {
       return Response.json({ ok: false, error: "not-configured" }, { status: 503 });
     }
     webpush.setVapidDetails("mailto:arashtadi@gmail.com", VAPID_PUBLIC, process.env.VAPID_PRIVATE);

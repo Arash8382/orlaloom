@@ -5,7 +5,8 @@ export const dynamic = "force-dynamic";
 // Env (auto-injected when a KV store is connected to the project):
 //   KV_REST_API_URL, KV_REST_API_TOKEN
 async function kv(cmd) {
-  const url = process.env.KV_REST_API_URL, tok = process.env.KV_REST_API_TOKEN;
+  const url = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
+  const tok = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
   if (!url || !tok) return null;
   const r = await fetch(url, {
     method: "POST",
@@ -20,7 +21,7 @@ export async function POST(req) {
   try {
     const sub = await req.json();
     if (!sub || !sub.endpoint) return Response.json({ ok: false, error: "bad subscription" }, { status: 400 });
-    if (!process.env.KV_REST_API_URL) return Response.json({ ok: false, error: "storage-not-configured" }, { status: 503 });
+    if (!process.env.KV_REST_API_URL && !process.env.UPSTASH_REDIS_REST_URL) return Response.json({ ok: false, error: "storage-not-configured" }, { status: 503 });
     const member = Buffer.from(sub.endpoint).toString("base64url");
     await kv(["HSET", "orlaloom_subs", member, JSON.stringify(sub)]);
     return Response.json({ ok: true });
