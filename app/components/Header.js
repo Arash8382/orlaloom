@@ -9,6 +9,8 @@ const navLinks = [
   { href: "/category/candles", label: "Candles" },
   { href: "/category/glassware", label: "Glassware" },
   { href: "/category/retro-appliances", label: "Appliances" },
+  { href: "/category/home-decor", label: "Décor" },
+  { href: "/category/textiles", label: "Linens" },
   { href: "/about", label: "About" },
 ];
 
