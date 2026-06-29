@@ -1,5 +1,5 @@
 ---
-title: "The Best Vintage & Aged Terracotta Pots for a Cottage Garden or Windowsill Herbs"
+title: "The Best Vintage & Aged Terracotta Pots for 2026"
 description: "Aged, fluted, Italian, and whitewashed terracotta-look pots for a cottage garden, patio, or herb windowsill — from $5 clay classics to antique pieces."
 category: "home-decor"
 date: "2026-07-12"

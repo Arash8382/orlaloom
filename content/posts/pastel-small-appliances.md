@@ -1,5 +1,5 @@
 ---
-title: "Pastel & Cottagecore Small Appliances"
+title: "The Best Pastel & Cottagecore Small Appliances (2026)"
 description: "Affordable, cute pastel appliances — Haden toasters, Dash waffle makers, milk frothers — that give the retro look for less."
 category: "retro-appliances"
 date: "2026-07-02"

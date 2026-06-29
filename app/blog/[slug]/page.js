@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { site, categoryBySlug, categoryImage } from "../../../lib/site";
-import { getPostSlugs, getPost, getPostMeta, getPostsByCategory } from "../../../lib/posts";
+import { getPostSlugs, getPost, getPostMeta, getRelatedPosts } from "../../../lib/posts";
 
 export function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
@@ -34,7 +34,7 @@ export default async function PostPage({ params }) {
   if (!getPostSlugs().includes(params.slug)) return notFound();
   const post = await getPost(params.slug);
   const cat = categoryBySlug(post.category);
-  const related = getPostsByCategory(post.category).filter((p) => p.slug !== post.slug).slice(0, 3);
+  const related = getRelatedPosts(post.slug, post.category, 4);
   const dateStr = new Date(post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
   const url = `${site.url}/blog/${post.slug}`;
@@ -109,7 +109,11 @@ export default async function PostPage({ params }) {
         </div>
       </header>
 
-      <div className="article-hero ph" style={(post.cover || cat) ? { backgroundImage: `url(${post.cover || cat.image})`, backgroundSize: "cover", backgroundPosition: "center" } : undefined} />
+      <div className="article-hero ph">
+        {(post.cover || (cat && cat.image)) && (
+          <img src={post.cover || cat.image} alt={`${post.title} — ${cat ? cat.name : "cottagecore"} guide`} loading="eager" />
+        )}
+      </div>
 
       <p className="disclosure">
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
@@ -122,10 +126,14 @@ export default async function PostPage({ params }) {
           <div className="product-grid">
             {post.products.map((pr, i) => (
               <div className="product-card" key={i}>
-                <div
-                  className={`product-img ph ${pr.image ? "" : "ph-" + post.category}`}
-                  style={pr.image ? { backgroundImage: `url(${pr.image})`, backgroundSize: "cover", backgroundPosition: "center" } : undefined}
-                >
+                <div className={`product-img ph ${pr.image ? "" : "ph-" + post.category}`}>
+                  {pr.image && (
+                    <img
+                      src={pr.image}
+                      alt={`${pr.name}${pr.brand && !pr.name.includes(pr.brand) ? " by " + pr.brand : ""} — ${cat ? cat.name : "cottagecore"} pick`}
+                      loading="lazy"
+                    />
+                  )}
                   {pr.badge && <span className="product-badge">{pr.badge}</span>}
                   {!pr.image && <span className="mono">[ {pr.name} ]</span>}
                 </div>
@@ -156,17 +164,22 @@ export default async function PostPage({ params }) {
 
       {related.length > 0 && (
         <div className="related">
-          <span className="eyebrow">Keep reading</span>
+          <span className="eyebrow">Related guides</span>
           <div className="guides-grid" style={{ marginTop: 16 }}>
-            {related.map((p) => (
-              <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                <div className="ph" style={{ backgroundImage: `url(${p.cover || categoryImage(p.category)})`, backgroundSize: "cover", backgroundPosition: "center" }} />
-                <div className="guide-body">
-                  <div className="guide-tag">{cat ? cat.name : "Guide"}</div>
-                  <div className="guide-title">{p.title}</div>
-                </div>
-              </Link>
-            ))}
+            {related.map((p) => {
+              const pcat = categoryBySlug(p.category);
+              return (
+                <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
+                  <div className="ph">
+                    <img src={p.cover || categoryImage(p.category)} alt={p.title} loading="lazy" />
+                  </div>
+                  <div className="guide-body">
+                    <div className="guide-tag">{pcat ? pcat.name : "Guide"}</div>
+                    <div className="guide-title">{p.title}</div>
+                  </div>
+                </Link>
+              );
+            })}
           </div>
         </div>
       )}

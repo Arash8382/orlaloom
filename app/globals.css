@@ -197,3 +197,11 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .product-caveat { font-size: 12.5px; color: var(--muted); margin: 8px 0 0; font-style: italic; }
 .product-btn { margin-top: 14px; align-self: flex-start; padding: 10px 20px; font-size: 13px; }
 @media (max-width: 620px){ .product-grid { grid-template-columns: 1fr; } }
+
+/* Real <img> for SEO (Google Images) — fill the existing image containers */
+.product-img > img, .article-hero > img, .cat-hero .badge > img,
+.guide-card .ph > img, .cat-card .ph > img {
+  width: 100%; height: 100%; object-fit: cover; display: block; border-radius: inherit;
+}
+.article-hero { overflow: hidden; }
+.guide-card .ph, .cat-card .ph, .cat-hero .badge { overflow: hidden; }

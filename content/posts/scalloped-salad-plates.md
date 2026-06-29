@@ -1,5 +1,5 @@
 ---
-title: "Scalloped Salad & Side Plates We Love"
+title: "The Best Scalloped Salad & Side Plates for 2026"
 description: "The prettiest scalloped salad and side plates — blue ombre, floral, and designer picks to layer over any dinner plate."
 category: "scalloped-dinnerware"
 date: "2026-06-26"

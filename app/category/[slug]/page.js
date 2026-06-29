@@ -67,7 +67,7 @@ export default function CategoryPage({ params }) {
           <h1>{cat.name}</h1>
           <p>{cat.blurb}</p>
         </div>
-        <div className="badge ph" style={{ backgroundImage: `url(${cat.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
+        <div className="badge ph"><img src={cat.image} alt={`${cat.name} — cottagecore home decor`} loading="eager" /></div>
       </section>
 
       <section className="section">
@@ -77,7 +77,7 @@ export default function CategoryPage({ params }) {
           <div className="guides-grid">
             {posts.map((p) => (
               <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                <div className="ph" style={{ backgroundImage: `url(${p.cover || cat.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
+                <div className="ph"><img src={p.cover || cat.image} alt={p.title} loading="lazy" /></div>
                 <div className="guide-body">
                   <div className="guide-tag">{cat.name}</div>
                   <div className="guide-title">{p.title}</div>

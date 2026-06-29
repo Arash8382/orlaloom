@@ -63,7 +63,7 @@ export default function Home() {
             const n = getPostsByCategory(c.slug).length;
             return (
               <Link className="cat-card" href={`/category/${c.slug}`} key={c.slug}>
-                <div className="ph" style={bg(c.image)} />
+                <div className="ph"><img src={c.image} alt={`${c.name} — cottagecore finds`} loading="lazy" /></div>
                 <div className="cat-name">{c.name}</div>
                 <div className="cat-count">{n > 0 ? `${n} guide${n > 1 ? "s" : ""}` : "New finds"}</div>
               </Link>
@@ -84,7 +84,7 @@ export default function Home() {
               const cat = categories.find((c) => c.slug === p.category);
               return (
                 <Link className="guide-card" href={`/blog/${p.slug}`} key={p.slug}>
-                  <div className="ph" style={bg(p.cover || categoryImage(p.category))} />
+                  <div className="ph"><img src={p.cover || categoryImage(p.category)} alt={p.title} loading="lazy" /></div>
                   <div className="guide-body">
                     <div className="guide-tag">{cat ? cat.name : "Guide"}</div>
                     <div className="guide-title">{p.title}</div>
