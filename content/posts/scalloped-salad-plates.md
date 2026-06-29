@@ -12,7 +12,7 @@ products:
     badge: "Most beautiful"
     blurb: "A sculpted petal rim with a hand-painted blue-to-white ombre glaze — the layering plate that makes everyone ask where you got them."
     caveat: "Handmade glaze means color and edge vary a little piece to piece."
-    image: "https://images.unsplash.com/photo-1660190368311-64d54386e494?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/51Lp-HzEJyL._AC_SL1024_.jpg"
     url: "https://www.amazon.com/KeyChefLAB-Scalloped-Microwave-Dishwasher-Dinnerware/dp/B0GSVTYYJZ?tag=orlaloom-20"
   - name: "HomeElves Blue Floral Scalloped Salad Plates (Set of 6)"
     brand: "HomeElves"

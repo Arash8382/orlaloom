@@ -12,7 +12,7 @@ products:
     badge: "Best overall"
     blurb: "A stoneware rectangular dish with a sculpted toadstool lid — the rare mushroom dish that still fits a standard wrapped stick of butter."
     caveat: "Mass-produced import; glaze and paint quality can vary slightly."
-    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71IreemEtDL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20"
   - name: "Mushroom Butter Crock (Water-Seal)"
     brand: "Fungi Fun"

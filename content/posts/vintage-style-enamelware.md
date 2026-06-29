@@ -6,7 +6,7 @@ date: "2026-07-04"
 cover: "https://images.unsplash.com/photo-1605714262316-da2faa04731a?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Crow Canyon Home Enamelware Mug, 12 oz (Splatter)"
-    image: "https://images.unsplash.com/photo-1677772554270-9b3768d7f1a6?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/91eCdPAYyuL._AC_SL1500_.jpg"
     brand: "Crow Canyon Home"
     price: "~$12–16 each"
     retailer: "Amazon"

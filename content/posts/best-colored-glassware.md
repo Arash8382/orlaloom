@@ -21,7 +21,7 @@ products:
     badge: "Best Estelle dupe"
     blurb: "Rustic recycled bubble glass from Mexico with a cobalt-blue rim — the Estelle look for a fraction of the price."
     caveat: "Recycled glass shows seeds, bubbles, and size variation (charming, but not uniform)."
-    image: "https://images.unsplash.com/photo-1647036939425-caa6365bb8f9?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71qUT01riVL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/EMPORION-Hand-Blown-Tumbler-Glasses-Mexico/dp/B08T6PQ98K?tag=orlaloom-20"
   - name: "Estelle Wine Stemware (Set of 6, Amber Smoke)"
     brand: "Estelle Colored Glass"

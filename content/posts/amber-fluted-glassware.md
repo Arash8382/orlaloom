@@ -12,7 +12,7 @@ products:
     badge: "Best overall"
     blurb: "Lead-free amber glass with a vintage fluted texture — the quintessential moody-amber tumbler that glows by candlelight."
     caveat: "Mass-produced (not hand-blown), and the amber tint is light — more honey than deep amber."
-    image: "https://images.unsplash.com/photo-1729457923221-34e324fec9e5?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71POJRel8wL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Ribbed-Glassware-Vintage-Drinking-Glasses/dp/B0BTVMFWQN?tag=orlaloom-20"
   - name: "Megarte Ribbed Origami Highball Glasses (Set of 6)"
     brand: "Megarte"

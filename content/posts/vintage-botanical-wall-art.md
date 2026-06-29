@@ -6,7 +6,7 @@ date: "2026-07-11"
 cover: "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Neutral Wildflower Wall Art, Set of 3 (Wood Framed, 12x16)"
-    image: "https://images.unsplash.com/photo-1626868554387-ec8e6e1aef18?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71lNq44UfaL._AC_SL1500_.jpg"
     brand: "Various"
     price: "~$40–60"
     retailer: "Amazon"

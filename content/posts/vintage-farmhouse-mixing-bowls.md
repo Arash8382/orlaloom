@@ -6,7 +6,7 @@ date: "2026-07-05"
 cover: "https://images.unsplash.com/photo-1510035618584-c442b241abe7?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Vintage Farm Stoneware Mixing Bowl Set, 3-Piece (Embossed)"
-    image: "https://images.unsplash.com/photo-1519916478825-b1d7aef08f54?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71-cCzy3RhL._AC_SL1500_.jpg"
     brand: "Vintage Farm"
     price: "~$40–60 / set"
     retailer: "Amazon"

@@ -12,7 +12,7 @@ products:
     badge: "Best set"
     blurb: "Graduated heights in a warm brushed gold-brass — the instant vintage tablescape in a single, affordable set."
     caveat: "Brass-finished metal, not solid brass, so it won't develop a true antique patina."
-    image: "https://images.unsplash.com/photo-1619799360851-a143fbc240b3?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/51GxOUu2WbL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Nuptio-Candlestick-Decorative-Centerpiece-Housewarming/dp/B07W554ZNB?tag=orlaloom-20"
   - name: "Vintage Solid Brass Candlesticks"
     brand: "Vintage (Etsy)"

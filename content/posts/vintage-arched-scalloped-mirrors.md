@@ -6,7 +6,7 @@ date: "2026-07-10"
 cover: "https://images.unsplash.com/photo-1612392549386-b6969764af6f?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Kate and Laurel Viona Scalloped Wall Mirror, 26\""
-    image: "https://images.unsplash.com/photo-1618220252344-8ec99ec624b1?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61pqBxOSrbL._AC_SL1500_.jpg"
     brand: "Kate and Laurel"
     price: "~$90–130"
     retailer: "Amazon"

@@ -21,7 +21,7 @@ products:
     badge: "Best candlelight"
     blurb: "Victorian-style brass tapers that deliver the after-dark glow at the heart of 'dark' cottagecore — the easiest, cheapest mood upgrade."
     caveat: "Brass-finished metal, not solid brass — lovely for decor, but it's plated."
-    image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/715IJSAc9JL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Vintage-Candlestick-Candle-Holders-Brass/dp/B0CNLX2V7T?tag=orlaloom-20"
   - name: "Washed Linen Ruffle-Edge Napkins (Set of 4)"
     brand: "Independent linen makers"

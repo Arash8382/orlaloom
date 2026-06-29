@@ -6,7 +6,7 @@ date: "2026-07-07"
 cover: "https://images.unsplash.com/photo-1767590518755-0e4bd5404e1f?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Greenland Home Blooming Prairie Patchwork Quilt Set"
-    image: "https://images.unsplash.com/photo-1780042731982-b8db1a86bfcf?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/91eNIWEHMtL._AC_SL1500_.jpg"
     brand: "Greenland Home"
     price: "~$60–130"
     retailer: "Amazon"

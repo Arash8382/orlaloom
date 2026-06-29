@@ -6,7 +6,7 @@ date: "2026-07-06"
 cover: "https://images.unsplash.com/photo-1630527152680-500b5453fb04?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Solino Home Cotton-Linen Hemstitch Tablecloth"
-    image: "https://images.unsplash.com/photo-1649615644622-6d83f48e69c5?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/81Yjm2iDacS._AC_SL1500_.jpg"
     brand: "Solino Home"
     price: "~$25–45"
     retailer: "Amazon"

@@ -12,7 +12,7 @@ products:
     badge: "Best Smeg dupe"
     blurb: "Chrome accents, a curved retro body, and bagel/defrost settings at roughly a quarter of the Smeg price — the best-known affordable dupe."
     caveat: "Plasticky build vs. Smeg's enamel-and-steel, and browning can be slightly uneven."
-    image: "https://images.unsplash.com/photo-1745426431516-7fcf72dc6415?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61oSag6C5+S._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Heritage-Toaster-Removable-Settings-Turquoise/dp/B096T892FS?tag=orlaloom-20"
   - name: "Haden Heritage 1.7L Electric Kettle"
     brand: "Haden"

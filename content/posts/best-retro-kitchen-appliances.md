@@ -12,7 +12,7 @@ products:
     badge: "The icon"
     blurb: "The chunky 1.7L enameled-steel kettle in glossy pastel that anchors a whole countertop aesthetic — the piece that started the trend."
     caveat: "Premium price for a basic on/off kettle; variable-temperature is the pricier KLF04."
-    image: "https://images.unsplash.com/photo-1759668498967-1724dd994cd4?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/51lFJDhrmeL._AC_SL1000_.jpg"
     url: "https://www.amazon.com/SMEG-CUP-Kettle-Pastel-Blue/dp/B077PJF9DF?tag=orlaloom-20"
   - name: "Smeg 50's Retro Stand Mixer (SMF03)"
     brand: "Smeg"

@@ -6,7 +6,7 @@ date: "2026-07-03"
 cover: "https://images.unsplash.com/photo-1495100497150-fe209c585f50?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Le Creuset Stoneware Mug (14 oz)"
-    image: "https://images.unsplash.com/photo-1518358246973-95637f1df901?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/51lMfnuv3VL._AC_SL1274_.jpg"
     brand: "Le Creuset"
     price: "~$24–30 each"
     retailer: "Amazon"

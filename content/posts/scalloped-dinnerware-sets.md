@@ -21,7 +21,7 @@ products:
     badge: "Best everyday set"
     blurb: "Off-white porcelain with a petal-scalloped edge that's microwave- and dishwasher-safe — the durable workhorse starter set."
     caveat: "Plates only (no bowls or sides), so it's a base rather than a full service."
-    image: "https://images.unsplash.com/photo-1552988761-7e55c51b94a5?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61+5xREuGZL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/YHY-10-6-inch-Porcelain-Scallop-Platters/dp/B06XSP3ZXD?tag=orlaloom-20"
   - name: "Lenox French Perle Place Setting"
     brand: "Lenox"
