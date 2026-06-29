@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { site, categories, categoryImage } from "../lib/site";
-import { getAllPosts, getPostsByCategory } from "../lib/posts";
+import { getAllPosts, getPostsByCategory, getCategoryThumbs } from "../lib/posts";
 
 export const metadata = { alternates: { canonical: "/" } };
 
@@ -11,7 +11,7 @@ const bg = (url) => ({
 });
 
 export default function Home() {
-  const posts = getAllPosts().slice(0, 3);
+  const posts = getAllPosts().slice(0, 6);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -52,20 +52,33 @@ export default function Home() {
         <div className="hero-img" style={bg(site.heroImage)} />
       </section>
 
-      {/* SHOP BY CATEGORY */}
+      {/* SHOP BY CATEGORY — Amazon-style cards with 4 product thumbs each */}
       <section className="categories">
         <div className="section-head-center">
           <span className="eyebrow">Shop by category</span>
-          <h2>Pick your little joy</h2>
+          <h2>Browse the whole shop</h2>
         </div>
-        <div className="cat-grid">
+        <div className="catcard-grid">
           {categories.map((c) => {
             const n = getPostsByCategory(c.slug).length;
+            const raw = getCategoryThumbs(c.slug, 4);
+            const thumbs = [...raw];
+            while (thumbs.length < 4) thumbs.push(c.image);
             return (
-              <Link className="cat-card" href={`/category/${c.slug}`} key={c.slug}>
-                <div className="ph"><img src={c.image} alt={`${c.name} — cottagecore finds`} loading="lazy" /></div>
-                <div className="cat-name">{c.name}</div>
-                <div className="cat-count">{n > 0 ? `${n} guide${n > 1 ? "s" : ""}` : "New finds"}</div>
+              <Link className="catcard" href={`/category/${c.slug}`} key={c.slug}>
+                <div className="catcard-thumbs">
+                  {thumbs.slice(0, 4).map((src, i) => (
+                    <span className="cct" key={i}>
+                      <img src={src} alt={`${c.name} pick`} loading="lazy" />
+                    </span>
+                  ))}
+                </div>
+                <div className="catcard-foot">
+                  <div className="catcard-name">{c.name}</div>
+                  <div className="catcard-cta">
+                    {n > 0 ? `${n} guide${n > 1 ? "s" : ""}` : "New finds"} <span className="arrow">→</span>
+                  </div>
+                </div>
               </Link>
             );
           })}

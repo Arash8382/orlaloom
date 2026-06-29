@@ -110,6 +110,21 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .cat-card .ph .mono { font-size: 10px; }
 .cat-name { font-family: var(--serif); font-size: 18px; margin-top: 14px; color: var(--head); }
 .cat-count { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+/* Amazon-style category cards: 4 product thumbnails per card */
+.catcard-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.catcard { background: var(--card); border: 1px solid var(--line); border-radius: 18px; overflow: hidden; display: block; transition: transform .18s, box-shadow .2s; }
+.catcard:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+.catcard-thumbs { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 2px; background: #efe4da; aspect-ratio: 1 / 1; }
+.cct { background: #fff; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 6px; box-sizing: border-box; }
+.cct img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.catcard-foot { padding: 13px 15px 15px; }
+.catcard-name { font-family: var(--serif); font-size: 18px; color: var(--head); line-height: 1.25; }
+.catcard-cta { font-size: 12.5px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--terra); margin-top: 6px; }
+.catcard-cta .arrow { transition: margin-left .15s; }
+.catcard:hover .catcard-cta .arrow { margin-left: 4px; }
+@media (max-width: 1100px){ .catcard-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 760px){ .catcard-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 1100px){ .cat-grid { grid-template-columns: repeat(3,1fr); } }
 @media (max-width: 720px){ .cat-grid { grid-template-columns: repeat(2,1fr); } .categories { padding: 56px 24px; } }
 
