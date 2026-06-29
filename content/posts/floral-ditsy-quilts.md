@@ -51,14 +51,14 @@ products:
     caveat: "More medallion and damask than a true tiny ditsy print."
     url: "https://www.amazon.com/Levtex-Margaux-Queen-Cotton-Damask/dp/B00T6OTIJU?tag=orlaloom-20"
   - name: "Laura Ashley Floral Quilt Set"
-    image: "https://images.unsplash.com/photo-1587060908259-8d65e78b34f2?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/915BWTjx-LL.jpg"
     brand: "Laura Ashley"
     price: "~$70–160"
     retailer: "Amazon"
     badge: "The house brand"
     blurb: "The original cottage-floral name, with several small-floral patterns to choose from."
     caveat: "Patterns rotate seasonally and the best ones sell out."
-    url: "https://www.amazon.com/s?k=Laura+Ashley+floral+quilt+set&tag=orlaloom-20"
+    url: "https://www.amazon.com/dp/B07W8S5531?tag=orlaloom-20"
 ---
 
 A floral quilt is the fastest way to give a bedroom that soft, grandmother's-cottage feeling — layered, faded, and warm. These ditsy and patchwork picks do the heavy lifting on their own.

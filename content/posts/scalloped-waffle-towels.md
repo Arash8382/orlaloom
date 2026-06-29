@@ -50,15 +50,15 @@ products:
     blurb: "A full 14-piece cotton waffle set — the one-click way to outfit a bathroom."
     caveat: "Unbranded, so quality and color can be a little inconsistent."
     url: "https://www.amazon.com/Turkish-Waffle-Towels-Percent-Textured/dp/B07ZBNXNBP?tag=orlaloom-20"
-  - name: "Scalloped-Edge Cotton Towel Sets"
-    image: "https://images.unsplash.com/photo-1639298107851-058984903954?auto=format&fit=crop&w=900&q=70"
+  - name: "Scalloped Decorative Hand Towels (2-Pack)"
+    image: "https://m.media-amazon.com/images/I/61KZPuxtUmL.jpg"
     brand: "Various"
     price: "~$25–45"
     retailer: "Amazon"
     badge: "Best variety"
     blurb: "Scalloped-edge sets in soft lilac, taupe, and cream trims — easy to match to a cottage palette."
     caveat: "Brand varies by listing, so read reviews before committing."
-    url: "https://www.amazon.com/s?k=scalloped+hand+towels+for+bathroom&tag=orlaloom-20"
+    url: "https://www.amazon.com/dp/B0G4NKXYSJ?tag=orlaloom-20"
 ---
 
 Towels are the easiest soft-furnishing to swap, and the right ones quietly do a lot — a scalloped edge or a waffle weave instantly nudges a plain bathroom toward cottage. Here are the prettiest that still actually dry you off.

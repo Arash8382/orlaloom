@@ -30,8 +30,8 @@ products:
     badge: "Most romantic"
     blurb: "A beaded, embroidery-inspired rim in soft ice-blue or white — durable everyday stoneware that reads pure romantic-cottage."
     caveat: "Per-setting pricing adds up, and the beaded texture catches residue if not soaked."
-    image: "https://images.unsplash.com/photo-1591632288574-a387f820a1ca?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=Lenox+French+Perle+dinnerware&tag=orlaloom-20"
+    image: "https://m.media-amazon.com/images/I/61e9EQLyeQL.jpg"
+    url: "https://www.amazon.com/dp/B08W5BLVZ1?tag=orlaloom-20"
   - name: "Villeroy & Boch Manoir 18-Piece Set"
     brand: "Villeroy & Boch"
     price: "$200–260"
@@ -48,8 +48,8 @@ products:
     badge: "Best neutral base"
     blurb: "Generously sized cream pieces with gently curved, scalloped edges — a perfect neutral to mix with colored accents."
     caveat: "The cream tone won't match cool-white pieces, and bone china needs gentle handling."
-    image: "https://images.unsplash.com/photo-1698944933706-8b6f1330f47e?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/s?k=Lenox+French+Countryside+dinnerware&tag=orlaloom-20"
+    image: "https://m.media-amazon.com/images/I/71JnZWeK7LL.jpg"
+    url: "https://www.amazon.com/dp/B0083VBIJ0?tag=orlaloom-20"
 ---
 
 The scalloped plate is the silhouette of the moment — that soft, petal-edged rim instantly makes a table look collected and a little romantic. Whether you want an $8 Target find or an heirloom porcelain service, here are the scalloped dinnerware sets worth setting your table with.
