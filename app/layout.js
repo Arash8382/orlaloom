@@ -1,6 +1,7 @@
 import "./globals.css";
 import Link from "next/link";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/react";
 import { site, categories } from "../lib/site";
 import Header from "./components/Header";
 
@@ -62,6 +63,7 @@ export default function RootLayout({ children }) {
           src="https://s.skimresources.com/js/305443X1793648.skimlinks.js"
           strategy="afterInteractive"
         />
+        <Analytics />
       </body>
     </html>
   );
