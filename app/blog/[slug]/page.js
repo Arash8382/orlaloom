@@ -109,12 +109,6 @@ export default async function PostPage({ params }) {
         </div>
       </header>
 
-      <div className="article-hero ph">
-        {(post.cover || (cat && cat.image)) && (
-          <img src={post.cover || cat.image} alt={`${post.title} — ${cat ? cat.name : "cottagecore"} guide`} loading="eager" />
-        )}
-      </div>
-
       <p className="disclosure">
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
       </p>
