@@ -59,6 +59,15 @@ products:
     caveat: "Rust is a committed colour; make sure it suits your palette before sizing up."
     image: "https://lahomedecor.com/cdn/shop/files/5x7LahomeRavaWashableWildTigerRedRug_2.webp"
     url: "https://www.awin1.com/cread.php?awinmid=85999&awinaffid=2961017&ued=https%3A%2F%2Flahomedecor.com%2Fproducts%2Frava-washable-wild-tiger-rust-rug"
+  - name: "Flore Boho Parisian Floral Scalloped Brown Rug"
+    brand: "Lahome"
+    price: "$29.99–$179.99"
+    retailer: "Lahome"
+    badge: "Best scalloped"
+    blurb: "Bright botanical blooms scattered across a warm brown ground, framed by a soft scalloped edge — pure Parisian-cottagecore. Cloud-soft, low-pile, machine-washable, and one of the most affordable ways into the look."
+    caveat: "The brown ground reads warmer in person; pair with creams and wood tones rather than cool greys."
+    image: "https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralbrownwashableAreaRug_1.webp"
+    url: "https://www.awin1.com/cread.php?awinmid=85999&awinaffid=2961017&ued=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fflore-boho-modern-parisian-floral-brown-area-rug"
 ---
 
 Nothing grounds the cottagecore look like the right rug. A floral, faded, slightly antique area rug pulls a whole room into that warm, lived-in, storybook feeling — and the best news of 2026 is that the prettiest ones are now **washable**, so you can have pale florals and white grounds even with pets, kids, and muddy boots. These are our favourite cottagecore washable rugs, from moody maximalist blooms to soft French florals.
