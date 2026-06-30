@@ -6,6 +6,7 @@ import { site, categories } from "../lib/site";
 import Header from "./components/Header";
 import PushBell from "./components/PushBell";
 import HomepagePrompt from "./components/HomepagePrompt";
+import AffiliateTracking from "./components/AffiliateTracking";
 
 export const metadata = {
   metadataBase: new URL(site.url),
@@ -67,6 +68,7 @@ export default function RootLayout({ children }) {
           strategy="afterInteractive"
         />
         <Analytics />
+        <AffiliateTracking />
       </body>
     </html>
   );
