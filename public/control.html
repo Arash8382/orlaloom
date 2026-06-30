@@ -30,6 +30,7 @@ h1{font-size:18px;margin:0;letter-spacing:.18em;text-transform:uppercase;color:#
 #updated{font-size:11px;color:#5d7796;letter-spacing:.1em;margin-top:7px}
 .eyebrow{font-size:10.5px;font-weight:700;letter-spacing:.26em;text-transform:uppercase;color:#4fd1c5;margin:28px 0 12px;display:flex;align-items:center;gap:10px}
 .eyebrow.attn{color:#ffc14d;margin-top:18px}
+.eyebrow.turn{color:#f0a868;margin-top:18px}
 .eyebrow::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,currentColor,transparent);opacity:.4}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px}
 .card{position:relative;background:rgba(17,26,40,.55);border:1px solid rgba(110,170,220,.16);border-radius:16px;padding:16px 18px;backdrop-filter:blur(10px);overflow:hidden;opacity:0;transform:translateY(14px);animation:rise .55s forwards}
@@ -67,6 +68,9 @@ h1{font-size:18px;margin:0;letter-spacing:.18em;text-transform:uppercase;color:#
   </div>
   <div class="eyebrow attn">⚡ Needs your attention</div>
   <div id="attention"></div>
+  <div class="eyebrow turn">✋ Your turn — only you can do these</div>
+  <div id="yourturn"></div>
+  <div class="todolab">…or just ask Claude to post / send any of these for you.</div>
   <div class="eyebrow">The shop at a glance</div>
   <div class="cards" id="cards"></div>
   <div class="eyebrow">Latest guides published</div>
@@ -94,7 +98,14 @@ if(!matchMedia("(prefers-reduced-motion:reduce)").matches)fr();
 function esc(t){return (t||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
 function ago(iso){const d=Date.parse(iso);if(isNaN(d))return "—";const s=Math.round((Date.now()-d)/1000),f=(n,u)=>n+" "+u+(n!=1?"s":"")+" ago";if(s<60)return "just now";if(s<3600)return f(Math.round(s/60),"min");if(s<86400)return f(Math.round(s/3600),"hr");return f(Math.round(s/86400),"day")}
 function nextRun(h,m,dow){const n=new Date();const d=new Date(n);d.setHours(h,m,0,0);if(dow==null){if(d<=n)d.setDate(d.getDate()+1);}else{let add=(dow-d.getDay()+7)%7;if(add===0&&d<=n)add=7;d.setDate(d.getDate()+add);}const s=Math.round((d-n)/1000);if(s<3600)return "in "+Math.round(s/60)+" min";if(s<86400)return "in "+Math.round(s/3600)+" hr";return "in "+Math.round(s/86400)+" days"}
-const TODOS=[{id:"runnow",t:"Hit “Run now” once on each agent (in Claude) to pre-approve permissions"},{id:"sales",t:"Make or refer your first 3 Amazon sales → unlocks exact product images everywhere"},{id:"login",t:"Stay signed in to Pinterest, Amazon, Google & Bing so the agents can act"}];
+const TODOS=[{id:"runnow",t:"Hit “Run now” once on each new agent (community-scout, outreach-scout, instagram-assist) to pre-approve permissions"},{id:"sales",t:"Make or refer your first 3 Amazon sales → secures the Associates account"},{id:"login",t:"Stay signed in to Pinterest, Amazon, Google & Bing so the agents can act"}];
+const YOURTURN=[
+ {t:"Post the Reddit replies",meta:"Community-scout writes ready answers · Tue & Fri",where:"ShopMy ▸ promotion ▸ community-drafts-*.md — open the thread, paste (use the link-free version in strict subs)"},
+ {t:"Send the creator outreach",meta:"Outreach-scout drafts personalised notes · Thu",where:"ShopMy ▸ promotion ▸ outreach-drafts-*.md — review, then send"},
+ {t:"Post the Instagram carousel",meta:"IG-assist builds the slides + caption · Mon & Thu",where:"ShopMy ▸ ig-queue ▸ ig-post-*.md — upload the slides in order, paste the caption"},
+ {t:"Lock in the first 3 Amazon sales",meta:"By ~late Dec · keeps the Associates account alive",where:"Refer friends or family to buy anything through an orlaloom link"}
+];
+function renderTurn(){var el=document.getElementById("yourturn");if(!el)return;el.innerHTML=YOURTURN.map(function(x,i){return '<div class="row" style="animation-delay:'+(i*.05)+'s"><div><div class="ttl"><span class="dot a"></span>'+esc(x.t)+'</div><div class="meta">'+esc(x.meta)+'</div><div class="meta mono" style="margin-top:4px;color:#7e93b0">'+esc(x.where)+'</div></div><div class="stat"><span class="pill" style="background:rgba(240,168,104,.12);color:#f0a868;border-color:rgba(240,168,104,.4)">▸ to&nbsp;do</span></div></div>'}).join("");}
 function tdo(id,el){try{localStorage.setItem("ol_td_"+id,el.checked?"1":"0")}catch(e){}el.closest(".todo").classList.toggle("done",el.checked)}
 function render(D){
   document.getElementById("updated").textContent="data from "+ago(D.buildTime);
@@ -125,6 +136,7 @@ function render(D){
   document.getElementById("cats").innerHTML=(D.categories||[]).map((c,i)=>'<a class="row" style="text-decoration:none;animation-delay:'+(i*.04)+'s" href="https://www.orlaloom.com/category/'+c.slug+'" target="_blank"><div><div class="ttl">'+esc(c.name)+'</div><div class="meta mono">'+c.guides+' guide'+(c.guides!=1?"s":"")+'</div></div><div class="stat mono" style="color:#4fd1c5">'+c.products+' products</div></a>').join("");
   document.getElementById("agents").innerHTML=(D.agents||[]).map((a,i)=>'<div class="row" style="animation-delay:'+(i*.05)+'s"><div><div class="ttl"><span class="dot g"></span>'+esc(a.name)+'</div><div class="meta mono">'+esc(a.sched)+'</div></div><div class="stat"><span class="pill">▸ scheduled</span><div class="meta mono" style="margin-top:5px">next '+nextRun(a.h,a.m,a.dow)+'</div></div></div>').join("");
 }
+renderTurn();
 fetch("/control-status.json?t="+Date.now()).then(r=>r.json()).then(render).catch(e=>{document.getElementById("attention").innerHTML='<div class="alert warn"><div class="ico">⚠️</div><div class="tx">Could not load status data.<small>The site may be mid-deploy — reload in a minute.</small></div></div>'});
 </script>
 </body>
