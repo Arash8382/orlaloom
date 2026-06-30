@@ -313,3 +313,8 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .support-back{ text-align:center; margin-top:40px; }
 .support-back a{ color:var(--brown,#7a4a3a); text-decoration:none; font-weight:600; }
 @media (max-width:560px){ .support-hero{ padding:30px 20px; } .support-hero h1{ font-size:29px; } }
+
+/* ---------- Footer social links ---------- */
+.social-row{ margin-top:14px; display:flex; gap:18px; }
+.social-row a{ font-size:14px; font-weight:600; color:var(--brown,#7a4a3a); text-decoration:none; letter-spacing:.01em; }
+.social-row a:hover{ color:var(--terra,#c77a5e); text-decoration:underline; }

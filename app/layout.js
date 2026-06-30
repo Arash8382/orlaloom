@@ -43,6 +43,10 @@ export default function RootLayout({ children }) {
                 <div className="name">{site.name}</div>
                 <p>{site.description}</p>
                 <div style={{ marginTop: "14px", display: "flex", flexWrap: "wrap", gap: "10px" }}><PushBell /><HomepagePrompt /></div>
+                <div className="social-row">
+                  <a href="https://www.instagram.com/orlaloom/" target="_blank" rel="noopener noreferrer" aria-label="Orla Loom on Instagram">Instagram</a>
+                  <a href="https://www.pinterest.com/orlaloom/" target="_blank" rel="noopener noreferrer" aria-label="Orla Loom on Pinterest">Pinterest</a>
+                </div>
               </div>
               <div>
                 <h4>Categories</h4>
