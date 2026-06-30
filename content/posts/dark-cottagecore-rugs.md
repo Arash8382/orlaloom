@@ -1,7 +1,7 @@
 ---
 title: "Dark Cottagecore Rugs: Moody Floral & Vintage Washable Picks for 2026"
 description: "Black-ground floral, vintage Persian, and witchy botanical washable rugs that bring moody dark-cottagecore drama underfoot — machine-washable and pet-friendly."
-category: "home-decor"
+category: "rugs"
 date: "2026-06-30"
 cover: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/5x7LahomeValereWashableCottagecoreBotanicalInsectBlackRug.webp?v=1782273827"
 products:

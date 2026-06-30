@@ -1,7 +1,7 @@
 ---
 title: "The Best Cottagecore Washable Rugs for 2026"
 description: "Floral, vintage, and woodland washable area rugs that bring instant cottage charm — machine-washable, pet-friendly, and beautiful underfoot."
-category: "home-decor"
+category: "rugs"
 date: "2026-06-29"
 cover: "https://lahomedecor.com/cdn/shop/files/LahomeGivernyWashableMaximalismVintageFrenchFloralBlueRug_2_5aa136e4-6f56-48ad-ba20-2ebeb6be1337.webp"
 products:

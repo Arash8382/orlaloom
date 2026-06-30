@@ -6,6 +6,7 @@ import { site, categories } from "../../lib/site";
 const navLinks = [
   { href: "/category/butter-dishes", label: "Butter Dishes" },
   { href: "/category/scalloped-dinnerware", label: "Dinnerware" },
+  { href: "/category/rugs", label: "Rugs" },
   { href: "/category/candles", label: "Candles" },
   { href: "/category/glassware", label: "Glassware" },
   { href: "/category/retro-appliances", label: "Appliances" },
