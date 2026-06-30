@@ -294,3 +294,21 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .newsletter-compact .nl-sub{ font-size:13.5px; margin:6px 0 12px; }
 .newsletter-compact .nl-form input[type=email]{ padding:11px 14px; font-size:14px; }
 .newsletter-compact .nl-form button{ padding:11px 20px; font-size:14px; }
+
+/* ---------- Support / share page ---------- */
+.support-page{ padding:48px 0 80px; }
+.support-hero{ max-width:680px; margin:0 auto 18px; text-align:center; background:linear-gradient(180deg,#fbf3ee,#f7e7de); border:1px solid var(--line,#ead9cd); border-radius:var(--radius,24px); padding:40px 34px; box-shadow:var(--shadow); }
+.support-hero .eyebrow{ color:var(--terra,#c77a5e); }
+.support-hero h1{ font-family:var(--serif); font-weight:600; font-size:36px; color:var(--head,#4a2e25); margin:8px 0 12px; }
+.support-lede{ color:var(--muted-2,#6b574e); font-size:16.5px; }
+.support-steps{ text-align:left; max-width:440px; margin:20px auto; color:var(--ink,#41342e); padding-left:22px; }
+.support-steps li{ margin:7px 0; }
+.support-cta{ display:inline-block; margin-top:8px; background:var(--brown-700,#693d2f); color:#fdf3ee; font-family:var(--sans); font-weight:700; font-size:17px; text-decoration:none; padding:16px 38px; border-radius:16px; transition:background .15s, transform .05s; }
+.support-cta:hover{ background:var(--brown,#7a4a3a); }
+.support-cta:active{ transform:translateY(1px); }
+.support-fine{ font-size:13px; color:var(--muted,#9a857b); margin-top:14px; }
+.support-picks{ max-width:1100px; margin:34px auto 0; }
+.support-picks .eyebrow{ display:block; text-align:center; margin-bottom:18px; color:var(--terra,#c77a5e); }
+.support-back{ text-align:center; margin-top:40px; }
+.support-back a{ color:var(--brown,#7a4a3a); text-decoration:none; font-weight:600; }
+@media (max-width:560px){ .support-hero{ padding:30px 20px; } .support-hero h1{ font-size:29px; } }
