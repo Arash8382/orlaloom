@@ -62,12 +62,13 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 /* ---------- Header ---------- */
 .header { position: sticky; top: 0; z-index: 50; background: rgba(246,236,230,.85); backdrop-filter: saturate(140%) blur(10px); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 18px 48px; }
-.wordmark { font-family: var(--serif); font-size: 24px; font-weight: 600; color: var(--brown); }
-.nav-desktop { display: flex; gap: 32px; font-size: 14px; font-weight: 600; color: var(--nav); }
+.wordmark { font-family: var(--serif); font-size: 33px; font-weight: 600; letter-spacing: .015em; color: var(--head); line-height: 1; }
+.wordmark:hover { color: var(--brown-700); }
+.nav-desktop { display: flex; gap: 26px; font-size: 16px; font-weight: 600; color: var(--nav); }
 .nav-desktop a:hover { color: var(--terra); }
-.header-right { display: flex; gap: 14px; align-items: center; }
-.header-right .saved { font-size: 14px; font-weight: 600; color: var(--nav); }
-.search-pill { padding: 9px 22px; background: var(--pink); color: #5a3326; border-radius: 999px; font-size: 13px; font-weight: 700; }
+.header-right { display: flex; gap: 16px; align-items: center; }
+.header-right .saved { font-size: 16px; font-weight: 600; color: var(--nav); }
+.search-pill { padding: 11px 24px; background: var(--pink); color: #5a3326; border-radius: 999px; font-size: 15px; font-weight: 700; }
 .search-pill:hover { background: var(--pink-700); }
 .hamburger { display: none; background: none; border: 1px solid var(--line); border-radius: 10px; width: 42px; height: 42px; align-items: center; justify-content: center; cursor: pointer; }
 .hamburger span, .hamburger span::before, .hamburger span::after { display: block; width: 18px; height: 2px; background: var(--brown); position: relative; content: ""; }
@@ -236,7 +237,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .guide-card .ph, .cat-card .ph, .cat-hero .badge { overflow: hidden; }
 
 /* ---------- Site search ---------- */
-.search-link{font-size:14px;color:var(--ink,#4a3a2e);text-decoration:none;margin-right:6px;white-space:nowrap}
+.search-link{font-size:16px;color:var(--ink,#4a3a2e);text-decoration:none;margin-right:6px;white-space:nowrap}
 .search-link:hover{color:var(--accent,#b08968)}
 .search-page{padding:40px 0 80px}
 .search-title{font-family:Georgia,serif;font-size:34px;color:var(--ink,#4a3a2e);margin:0 0 6px}
