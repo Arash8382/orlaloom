@@ -54,7 +54,11 @@ export default function SearchClient({ products, categories }) {
           {results.map((p, i) => (
             <div className="product-card" key={i}>
               <div className="product-img">
-                {p.image ? <img src={p.image} alt={p.name} loading="lazy" /> : null}
+                {p.image ? (
+                  <a className="img-link" href={p.url} target="_blank" rel="nofollow sponsored noopener" aria-label={p.name}>
+                    <img src={p.image} alt={p.name} loading="lazy" />
+                  </a>
+                ) : null}
                 {p.badge ? <span className="badge">{p.badge}</span> : null}
               </div>
               <div className="product-body">

@@ -121,13 +121,18 @@ export default async function PostPage({ params }) {
             {post.products.map((pr, i) => (
               <div className="product-card" key={i}>
                 <div className={`product-img ph ${pr.image ? "" : "ph-" + post.category}`}>
-                  {pr.image && (
-                    <img
-                      src={pr.image}
-                      alt={`${pr.name}${pr.brand && !pr.name.includes(pr.brand) ? " by " + pr.brand : ""} — ${cat ? cat.name : "cottagecore"} pick`}
-                      loading="lazy"
-                    />
-                  )}
+                  {pr.image && (() => {
+                    const _img = (
+                      <img
+                        src={pr.image}
+                        alt={`${pr.name}${pr.brand && !pr.name.includes(pr.brand) ? " by " + pr.brand : ""} — ${cat ? cat.name : "cottagecore"} pick`}
+                        loading="lazy"
+                      />
+                    );
+                    return pr.url ? (
+                      <a className="img-link" href={pr.url} target="_blank" rel="nofollow sponsored noopener" aria-label={pr.name}>{_img}</a>
+                    ) : _img;
+                  })()}
                   {pr.badge && <span className="product-badge">{pr.badge}</span>}
                   {!pr.image && <span className="mono">[ {pr.name} ]</span>}
                 </div>

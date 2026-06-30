@@ -83,7 +83,13 @@ export default function CategoryPage({ params }) {
             {products.map((pr, i) => (
               <div className="product-card" key={i}>
                 <div className="product-img ph">
-                  {pr.image && <img src={pr.image} alt={pr.name} loading="lazy" />}
+                  {pr.image && (pr.url ? (
+                    <a className="img-link" href={pr.url} target="_blank" rel="nofollow sponsored noopener" aria-label={pr.name}>
+                      <img src={pr.image} alt={pr.name} loading="lazy" />
+                    </a>
+                  ) : (
+                    <img src={pr.image} alt={pr.name} loading="lazy" />
+                  ))}
                   {pr.badge && <span className="product-badge">{pr.badge}</span>}
                 </div>
                 <div className="product-body">

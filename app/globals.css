@@ -227,7 +227,8 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 }
 /* Product photos: show the WHOLE item (no crop) on a clean white tile */
 .product-img { background: #fff; }
-.product-img > img {
+.product-img a.img-link { display: contents; }
+.product-img img {
   width: 100%; height: 100%; object-fit: contain; padding: 10px;
   box-sizing: border-box; display: block; background: #fff;
 }
