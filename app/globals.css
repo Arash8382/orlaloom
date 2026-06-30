@@ -263,3 +263,34 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
   max-width:calc(100% - 20px);
   white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
 }
+
+/* ---------- Newsletter signup (MailerLite, native styling) ---------- */
+.newsletter{ font-family:var(--sans); }
+.newsletter .nl-eyebrow{ display:inline-block; font-size:11px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; color:var(--terra,#c77a5e); margin-bottom:10px; }
+.newsletter .nl-title{ font-family:var(--serif); font-weight:600; color:var(--head,#4a2e25); line-height:1.2; }
+.newsletter .nl-sub{ color:var(--muted-2,#6b574e); margin:8px 0 16px; }
+.newsletter .nl-form{ display:flex; gap:10px; flex-wrap:wrap; }
+.newsletter .nl-form input[type=email]{ flex:1; min-width:200px; border:1px solid var(--line,#ead9cd); background:#fffdfb; border-radius:14px; padding:13px 16px; font:inherit; font-size:15px; color:var(--ink,#41342e); outline:none; transition:border-color .15s, box-shadow .15s; }
+.newsletter .nl-form input[type=email]:focus{ border-color:var(--terra,#c77a5e); box-shadow:0 0 0 3px rgba(199,122,94,.15); }
+.newsletter .nl-form button{ border:none; cursor:pointer; background:var(--brown-700,#693d2f); color:#fdf3ee; font:inherit; font-weight:700; font-size:15px; padding:13px 26px; border-radius:14px; transition:background .15s, transform .05s; }
+.newsletter .nl-form button:hover{ background:var(--brown,#7a4a3a); }
+.newsletter .nl-form button:active{ transform:translateY(1px); }
+.newsletter .nl-form button:disabled{ opacity:.6; cursor:default; }
+.newsletter .nl-hp{ position:absolute !important; left:-9999px !important; width:1px; height:1px; opacity:0; pointer-events:none; }
+.newsletter .nl-error{ color:#b4502f; font-size:13.5px; margin-top:10px; }
+.newsletter.is-done{ display:flex; align-items:flex-start; gap:14px; }
+.newsletter.is-done .nl-check{ flex:none; width:34px; height:34px; border-radius:50%; background:var(--terra,#c77a5e); color:#fff; display:grid; place-items:center; font-weight:700; font-size:17px; }
+.newsletter.is-done strong{ font-family:var(--serif); font-size:18px; color:var(--head,#4a2e25); }
+.newsletter.is-done p{ color:var(--muted-2,#6b574e); margin-top:3px; }
+
+/* Card variant — for in-article / homepage placement */
+.newsletter-card{ background:linear-gradient(180deg,#fbf3ee,#f7e7de); border:1px solid var(--line,#ead9cd); border-radius:var(--radius,24px); padding:30px 32px; box-shadow:var(--shadow); }
+.newsletter-card .nl-title{ font-size:26px; }
+@media (max-width:560px){ .newsletter-card{ padding:24px 20px; } .newsletter-card .nl-title{ font-size:22px; } }
+
+/* Compact variant — for the footer column */
+.newsletter-compact{ max-width:420px; }
+.newsletter-compact .nl-title{ font-size:18px; }
+.newsletter-compact .nl-sub{ font-size:13.5px; margin:6px 0 12px; }
+.newsletter-compact .nl-form input[type=email]{ padding:11px 14px; font-size:14px; }
+.newsletter-compact .nl-form button{ padding:11px 20px; font-size:14px; }

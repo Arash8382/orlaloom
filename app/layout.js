@@ -7,6 +7,7 @@ import Header from "./components/Header";
 import PushBell from "./components/PushBell";
 import HomepagePrompt from "./components/HomepagePrompt";
 import AffiliateTracking from "./components/AffiliateTracking";
+import EmailSignup from "./components/EmailSignup";
 
 export const metadata = {
   metadataBase: new URL(site.url),
@@ -34,6 +35,9 @@ export default function RootLayout({ children }) {
           <Header />
           <main>{children}</main>
           <footer className="footer">
+            <div className="container" style={{ paddingBottom: "8px" }}>
+              <EmailSignup variant="card" />
+            </div>
             <div className="container footer-grid">
               <div>
                 <div className="name">{site.name}</div>
