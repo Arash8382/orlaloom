@@ -30,6 +30,7 @@ export default function Header() {
         </nav>
 
         <div className="header-right">
+          <Link className="search-link" href="/search" aria-label="Search products">🔍 Search</Link>
           <Link className="saved" href="/about">Journal</Link>
           <Link className="search-pill" href="/category/butter-dishes">Shop the trend</Link>
           <button
@@ -44,6 +45,7 @@ export default function Header() {
       </div>
 
       <div className={`mobile-menu ${open ? "open" : ""}`}>
+        <Link href="/search" onClick={() => setOpen(false)}>🔍 Search</Link>
         {categories.map((c) => (
           <Link key={c.slug} href={`/category/${c.slug}`} onClick={() => setOpen(false)}>
             {c.name}

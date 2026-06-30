@@ -233,3 +233,19 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 }
 .article-hero { overflow: hidden; }
 .guide-card .ph, .cat-card .ph, .cat-hero .badge { overflow: hidden; }
+
+/* ---------- Site search ---------- */
+.search-link{font-size:14px;color:var(--ink,#4a3a2e);text-decoration:none;margin-right:6px;white-space:nowrap}
+.search-link:hover{color:var(--accent,#b08968)}
+.search-page{padding:40px 0 80px}
+.search-title{font-family:Georgia,serif;font-size:34px;color:var(--ink,#4a3a2e);margin:0 0 6px}
+.search-sub{color:var(--muted,#7a6a5c);margin:0 0 22px}
+.search-bar{display:flex;align-items:center;gap:12px;border:1px solid var(--line,#e3d8cf);background:var(--card,#fffdfb);border-radius:14px;padding:14px 18px;max-width:680px;font-size:18px}
+.search-bar input{flex:1;border:none;outline:none;background:transparent;font:inherit;color:var(--ink,#4a3a2e)}
+.search-bar .clear{border:none;background:transparent;font-size:22px;cursor:pointer;color:var(--muted,#7a6a5c);line-height:1}
+.search-chips{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 10px}
+.search-chips .chip{border:1px solid var(--line,#e3d8cf);background:var(--card,#fffdfb);color:var(--ink,#4a3a2e);border-radius:999px;padding:7px 15px;font-size:13.5px;cursor:pointer;transition:.15s}
+.search-chips .chip:hover{border-color:var(--accent,#b08968)}
+.search-chips .chip.on{background:var(--ink,#4a3a2e);color:#fff;border-color:var(--ink,#4a3a2e)}
+.search-count{color:var(--muted,#7a6a5c);font-size:13px;margin:8px 0 18px}
+.search-empty{color:var(--muted,#7a6a5c);padding:30px 0}
