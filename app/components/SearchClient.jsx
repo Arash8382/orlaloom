@@ -60,7 +60,7 @@ export default function SearchClient({ products, categories }) {
               <div className="product-body">
                 <h3>{p.name}</h3>
                 <div className="meta">{[p.brand, p.price].filter(Boolean).join(" · ")}</div>
-                <a className="buy" href={p.url} target="_blank" rel="nofollow sponsored noopener">Shop on Amazon →</a>
+                <a className="buy" href={p.url} target="_blank" rel="nofollow sponsored noopener">Shop on {p.retailer || "Amazon"} →</a>
                 <Link className="from-guide" href={`/blog/${p.guideSlug}`}>Read the guide →</Link>
               </div>
             </div>
