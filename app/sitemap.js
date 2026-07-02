@@ -3,7 +3,7 @@ import { getAllPosts } from "../lib/posts";
 
 export default function sitemap() {
   const base = site.url.replace(/\/$/, "");
-  const staticPages = ["", "/about", "/disclosure", "/privacy"].map((p) => ({
+  const staticPages = ["", "/about", "/disclosure", "/privacy", "/lahome-discount-code"].map((p) => ({
     url: `${base}${p}`,
     lastModified: new Date(),
   }));

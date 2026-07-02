@@ -4,6 +4,7 @@ import Script from "next/script";
 import { Analytics } from "@vercel/analytics/react";
 import { site, categories } from "../lib/site";
 import Header from "./components/Header";
+import DealBanner from "./components/DealBanner";
 import PushBell from "./components/PushBell";
 import HomepagePrompt from "./components/HomepagePrompt";
 import AffiliateTracking from "./components/AffiliateTracking";
@@ -32,6 +33,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <div className="page-shell">
+          <DealBanner />
           <Header />
           <main>{children}</main>
           <footer className="footer">
@@ -59,6 +61,7 @@ export default function RootLayout({ children }) {
               <div>
                 <h4>Orla Loom</h4>
                 <ul>
+                  <li><Link href="/lahome-discount-code">Lahome Discount Code</Link></li>
                   <li><Link href="/about">About</Link></li>
                   <li><Link href="/disclosure">Affiliate Disclosure</Link></li>
                   <li><Link href="/privacy">Privacy</Link></li>
