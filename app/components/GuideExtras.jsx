@@ -1,19 +1,12 @@
-import Link from "next/link";
-
 // Server-rendered conversion helpers shown near the top of every buyer's guide:
 //  1. "Our top pick" hero (the first, best product) with a strong CTA
-//  2. A Lahome ORLALOOM20 deal strip (only when the guide features Lahome rugs)
-//  3. An at-a-glance comparison table of every product in the guide
-// All driven by the existing product frontmatter — no per-post changes needed.
+//  2. An at-a-glance comparison table of every product in the guide
+// The Lahome ORLALOOM20 deal is surfaced by the site-wide top banner, so it is
+// intentionally NOT repeated here. Driven by existing product frontmatter.
 export default function GuideExtras({ products = [], categoryName = "pick" }) {
   if (!products.length) return null;
 
   const top = products[0];
-  const isLahome = products.some(
-    (p) =>
-      (p.retailer || "").toLowerCase().includes("lahome") ||
-      (p.url || "").includes("awin1")
-  );
   const noun = (categoryName || "pick").toLowerCase().replace(/s$/, "");
 
   return (
@@ -48,19 +41,7 @@ export default function GuideExtras({ products = [], categoryName = "pick" }) {
         </div>
       </section>
 
-      {/* 2. LAHOME DEAL STRIP */}
-      {isLahome && (
-        <Link href="/lahome-discount-code" className="guide-deal">
-          <span className="guide-deal-spark" aria-hidden="true">✦</span>
-          <span className="guide-deal-text">
-            <strong>Reader deal:</strong> take <strong>20% off</strong> every Lahome rug in this
-            guide with code <span className="guide-deal-code">ORLALOOM20</span> (orders $70+).
-          </span>
-          <span className="guide-deal-cta">Get the code →</span>
-        </Link>
-      )}
-
-      {/* 3. COMPARISON TABLE */}
+      {/* 2. COMPARISON TABLE */}
       {products.length > 1 && (
         <section className="compare">
           <h2 className="compare-title">At a glance</h2>
