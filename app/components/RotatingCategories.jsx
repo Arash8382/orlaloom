@@ -12,48 +12,24 @@ function shuffle(arr) {
   return a;
 }
 
-function firstFour(cat) {
-  const out = cat.thumbs.slice(0, 4);
-  while (out.length < 4) out.push(cat.fallback);
-  return out;
-}
-
-function randomFour(cat) {
-  const out = shuffle(cat.thumbs).slice(0, 4);
-  while (out.length < 4) out.push(cat.fallback);
-  return out;
-}
-
-// Amazon-style category cards. Server + first render use a stable order and the
-// first 4 thumbnails (SEO-safe, no hydration mismatch). After mount we shuffle
-// the card order AND each card's 4 product thumbnails, so the homepage looks
-// fresh on every repeat visit.
+// Editorial category cards: one clean lifestyle image per category (consistent,
+// magazine-style). Server + first render use a stable order (SEO-safe, no
+// hydration mismatch); after mount we reshuffle the card order so repeat
+// visitors still get a fresh-feeling homepage.
 export default function RotatingCategories({ cats }) {
   const [ordered, setOrdered] = useState(cats);
-  const [thumbMap, setThumbMap] = useState(() => {
-    const m = {};
-    for (const c of cats) m[c.slug] = firstFour(c);
-    return m;
-  });
 
   useEffect(() => {
     setOrdered(shuffle(cats));
-    const m = {};
-    for (const c of cats) m[c.slug] = randomFour(c);
-    setThumbMap(m);
   }, [cats]);
 
   return (
     <div className="catcard-grid">
       {ordered.map((c) => (
         <Link className="catcard" href={`/category/${c.slug}`} key={c.slug}>
-          <div className="catcard-thumbs">
-            {(thumbMap[c.slug] || []).map((src, i) => (
-              <span className="cct" key={i}>
-                <img src={src} alt={`${c.name} pick`} loading="lazy" />
-              </span>
-            ))}
-          </div>
+          <span className="catcard-hero">
+            <img src={c.fallback} alt={`${c.name} — cottagecore finds`} loading="lazy" />
+          </span>
           <div className="catcard-foot">
             <div className="catcard-name">{c.name}</div>
             <div className="catcard-cta">
