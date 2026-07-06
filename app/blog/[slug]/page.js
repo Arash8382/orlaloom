@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { site, categoryBySlug, categoryImage } from "../../../lib/site";
 import { getPostSlugs, getPost, getPostMeta, getRelatedPosts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
+import GuideExtras from "../../components/GuideExtras";
 
 export function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
@@ -114,6 +115,8 @@ export default async function PostPage({ params }) {
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
       </p>
 
+      <GuideExtras products={post.products} categoryName={cat ? cat.name : ""} />
+
       {post.products && post.products.length > 0 && (
         <section className="picks">
           <span className="eyebrow">The picks</span>
@@ -154,6 +157,16 @@ export default async function PostPage({ params }) {
             ))}
           </div>
         </section>
+      )}
+
+      {post.products && post.products.length > 0 && (
+        <div style={{ margin: "6px 0 8px" }}>
+          <EmailSignup
+            variant="compact"
+            heading="Save these picks for later"
+            sub="Get new cottagecore finds in your inbox — a couple of times a month, no spam."
+          />
+        </div>
       )}
 
       <div className="prose" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
