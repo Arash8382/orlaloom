@@ -55,7 +55,22 @@ export default function Home() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      {/* SHOP BY CATEGORY — Amazon-style cards, shuffled fresh each visit */}
+
+      {/* HERO — brand mood, leads the page */}
+      <section className="hero">
+        <div>
+          <span className="eyebrow">Cosy finds, gently chosen</span>
+          <h1>Make every<br />day feel a<br />little softer.</h1>
+          <p>
+            Warm, vintage, cottagecore pieces for the table and home — hand-picked
+            and quietly curated to make the everyday feel special.
+          </p>
+          <Link className="btn" href="/category/rugs">Explore the shop</Link>
+        </div>
+        <div className="hero-img" style={bg(site.heroImage)} />
+      </section>
+
+      {/* SHOP BY CATEGORY — one lifestyle image per category, reshuffled each visit */}
       <section className="categories">
         <div className="section-head-center">
           <span className="eyebrow">Shop by category</span>
@@ -74,20 +89,6 @@ export default function Home() {
           <RotatingGuides guides={allGuides} count={6} />
           <div className="footer-note">Orla Loom · gentle finds for a warmer home · affiliate-supported</div>
         </div>
-      </section>
-
-      {/* HERO — brand note, at the bottom */}
-      <section className="hero">
-        <div>
-          <span className="eyebrow">Cosy finds, gently chosen</span>
-          <h1>Make every<br />day feel a<br />little softer.</h1>
-          <p>
-            Sweet butter dishes, scalloped plates and warm glassware, hand-picked
-            to make your table feel like a hug.
-          </p>
-          <Link className="btn" href="/category/butter-dishes">Start exploring</Link>
-        </div>
-        <div className="hero-img" style={bg(site.heroImage)} />
       </section>
     </>
   );

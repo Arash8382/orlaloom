@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Mulish:wght@300;400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Lora:wght@400;500;600&family=Mulish:wght@300;400;600;700;800&display=swap');
 
 :root {
   --paper: #f6ece6;
@@ -17,7 +17,8 @@
   --nav: #7a6a62;
   --mono: #bd9582;
   --line: #ead9cd;
-  --serif: 'Lora', Georgia, 'Times New Roman', serif;
+  --serif: 'Fraunces', 'Lora', Georgia, serif;
+  --serif-body: 'Lora', Georgia, serif;
   --sans: 'Mulish', system-ui, -apple-system, sans-serif;
   --maxw: 1440px;
   --radius: 24px;
@@ -39,7 +40,7 @@ body {
 @media (max-width: 900px){ .page-shell { zoom: 1; } }
 
 a { color: inherit; text-decoration: none; }
-h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head); line-height: 1.12; }
+h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weight: 500; color: var(--head); line-height: 1.12; letter-spacing: -0.01em; }
 
 .container { max-width: var(--maxw); margin: 0 auto; padding: 0 48px; }
 .narrow { max-width: 760px; margin: 0 auto; padding: 0 24px; }
@@ -62,7 +63,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 /* ---------- Header ---------- */
 .header { position: sticky; top: 0; z-index: 50; background: rgba(246,236,230,.85); backdrop-filter: saturate(140%) blur(10px); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; padding: 18px 48px; }
-.wordmark { font-family: var(--serif); font-size: 33px; font-weight: 600; letter-spacing: .015em; color: var(--head); line-height: 1; }
+.wordmark { font-family: var(--serif); font-optical-sizing: auto; font-size: 34px; font-weight: 500; letter-spacing: -0.01em; color: var(--head); line-height: 1; }
 .wordmark:hover { color: var(--brown-700); }
 .nav-desktop { display: flex; gap: 26px; font-size: 16px; font-weight: 600; color: var(--nav); }
 .nav-desktop a:hover { color: var(--terra); }
@@ -112,20 +113,20 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; color: var(--head)
 .cat-name { font-family: var(--serif); font-size: 18px; margin-top: 14px; color: var(--head); }
 .cat-count { font-size: 13px; color: var(--muted); margin-top: 4px; }
 
-/* Amazon-style category cards: 4 product thumbnails per card */
-.catcard-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
-.catcard { background: var(--card); border: 1px solid var(--line); border-radius: 18px; overflow: hidden; display: block; transition: transform .18s, box-shadow .2s; }
-.catcard:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
-.catcard-thumbs { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 2px; background: #efe4da; aspect-ratio: 1 / 1; }
-.cct { background: #fff; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 6px; box-sizing: border-box; }
-.cct img { width: 100%; height: 100%; object-fit: contain; display: block; }
-.catcard-foot { padding: 13px 15px 15px; }
-.catcard-name { font-family: var(--serif); font-size: 18px; color: var(--head); line-height: 1.25; }
-.catcard-cta { font-size: 12.5px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--terra); margin-top: 6px; }
+/* Editorial category cards: one lifestyle image per category */
+.catcard-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px 26px; }
+.catcard { background: transparent; border: none; border-radius: 0; overflow: visible; display: block; transition: transform .22s ease; }
+.catcard:hover { transform: translateY(-3px); }
+.catcard-hero { display: block; aspect-ratio: 4 / 5; border-radius: 16px; overflow: hidden; background: #efe4da; border: 1px solid var(--line); }
+.catcard-hero img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .55s ease; }
+.catcard:hover .catcard-hero img { transform: scale(1.045); }
+.catcard-foot { padding: 15px 2px 0; }
+.catcard-name { font-family: var(--serif); font-optical-sizing: auto; font-weight: 500; font-size: 21px; color: var(--head); line-height: 1.2; letter-spacing: -0.01em; }
+.catcard-cta { font-size: 11.5px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--terra); margin-top: 7px; }
 .catcard-cta .arrow { transition: margin-left .15s; }
 .catcard:hover .catcard-cta .arrow { margin-left: 4px; }
-@media (max-width: 1100px){ .catcard-grid { grid-template-columns: repeat(3, 1fr); } }
-@media (max-width: 760px){ .catcard-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 900px){ .catcard-grid { grid-template-columns: repeat(2, 1fr); gap: 24px; } }
+@media (max-width: 560px){ .catcard-grid { grid-template-columns: 1fr 1fr; gap: 16px; } .catcard-name { font-size: 17px; } }
 @media (max-width: 1100px){ .cat-grid { grid-template-columns: repeat(3,1fr); } }
 @media (max-width: 720px){ .cat-grid { grid-template-columns: repeat(2,1fr); } .categories { padding: 56px 24px; } }
 
