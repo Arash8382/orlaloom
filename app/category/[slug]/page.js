@@ -2,7 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { site, categories, categoryBySlug } from "../../../lib/site";
 import { getPostsByCategory, getCategoryProducts } from "../../../lib/posts";
-import EmailSignup from "../../components/EmailSignup";
 
 export function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
@@ -152,14 +151,6 @@ export default function CategoryPage({ params }) {
         <p style={{ marginTop: 34 }}>
           <Link className="see-all" href="/">&larr; All categories</Link>
         </p>
-      </section>
-
-      <section className="section" style={{ paddingTop: 0 }}>
-        <EmailSignup
-          variant="card"
-          heading={`Get the best ${cat.name.toLowerCase()} finds first`}
-          sub="Join the Orla Loom letter for new cottagecore finds and quiet home inspiration — a couple of times a month. No spam, unsubscribe anytime."
-        />
       </section>
     </>
   );
