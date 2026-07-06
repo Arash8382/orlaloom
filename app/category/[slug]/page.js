@@ -24,9 +24,6 @@ export default function CategoryPage({ params }) {
   if (!cat) return notFound();
   const posts = getPostsByCategory(cat.slug);
   const products = getCategoryProducts(cat.slug);
-  const isLahome = products.some(
-    (pr) => (pr.retailer || "").toLowerCase().includes("lahome") || (pr.url || "").includes("awin1")
-  );
 
   const url = `${site.url}/category/${cat.slug}`;
   const jsonLd = {
@@ -74,17 +71,6 @@ export default function CategoryPage({ params }) {
         </div>
         <div className="badge ph"><img src={cat.image} alt={`${cat.name} — cottagecore home decor`} loading="eager" /></div>
       </section>
-
-      {isLahome && (
-        <Link href="/lahome-discount-code" className="guide-deal" style={{ marginTop: 4 }}>
-          <span className="guide-deal-spark" aria-hidden="true">✦</span>
-          <span className="guide-deal-text">
-            <strong>Reader deal:</strong> <strong>20% off</strong> every Lahome rug with code{" "}
-            <span className="guide-deal-code">ORLALOOM20</span> (orders $70+).
-          </span>
-          <span className="guide-deal-cta">Get the code →</span>
-        </Link>
-      )}
 
       {/* SHOP — every product in this category */}
       {products.length > 0 && (
