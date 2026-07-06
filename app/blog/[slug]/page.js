@@ -175,14 +175,6 @@ export default async function PostPage({ params }) {
         Prices and availability change quickly — please confirm current details on the retailer’s site before buying.
       </div>
 
-      <div style={{ marginTop: 30 }}>
-        <EmailSignup
-          variant="card"
-          heading="Love this look? Get more like it."
-          sub="Join the Orla Loom letter for new cottagecore finds and gentle home inspiration — a couple of times a month. No spam, unsubscribe anytime."
-        />
-      </div>
-
       {related.length > 0 && (
         <div className="related">
           <span className="eyebrow">Related guides</span>
