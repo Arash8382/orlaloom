@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-07-01T16:12:30Z",
+  "checked": 158,
+  "issues": [
+    {
+      "guide": "aesthetic-butter-dishes",
+      "product": "Le Creuset Stoneware Butter Crock",
+      "type": "out-of-stock",
+      "action": "flagged"
+    },
+    {
+      "guide": "aesthetic-butter-dishes",
+      "product": "Emile Henry French Butter Pot",
+      "type": "out-of-stock",
+      "action": "flagged"
+    },
+    {
+      "guide": "grandmacore-scents-brass-holders",
+      "product": "Antique-Style Brass Taper Holders (Set of 2)",
+      "type": "out-of-stock",
+      "action": "flagged"
+    },
+    {
+      "guide": "scalloped-waffle-towels",
+      "product": "Bersuse 100% Cotton Waffle Turkish Towel",
+      "type": "out-of-stock",
+      "action": "flagged"
+    },
+    {
+      "guide": "speckled-stoneware-mugs",
+      "product": "Solune Cottagecore Mug",
+      "type": "link-dead",
+      "action": "flagged"
+    },
+    {
+      "guide": "cottagecore-bud-vases",
+      "product": "Handmade Vintage Stoneware Ceramic Vase",
+      "type": "link-dead",
+      "action": "flagged"
+    }
+  ]
+}
