@@ -39,7 +39,7 @@ export default function Home() {
         name: site.name,
         url: site.url,
         logo: { "@type": "ImageObject", url: `${site.url}/orla-loom-logo.png` },
-        sameAs: ["https://www.pinterest.com/orlaloom/"],
+        sameAs: ["https://www.instagram.com/orlaloom/", "https://www.pinterest.com/orlaloom/"],
       },
       {
         "@type": "WebSite",
