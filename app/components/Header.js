@@ -33,6 +33,13 @@ export default function Header() {
         <div className="header-right">
           <Link className="search-link" href="/search" aria-label="Search products">🔍 Search</Link>
           <Link className="saved" href="/about">Journal</Link>
+          <a className="ig-link" href="https://www.instagram.com/orlaloom/" target="_blank" rel="noopener noreferrer" aria-label="Follow Orla Loom on Instagram" title="Follow @orlaloom">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5.5" />
+              <circle cx="12" cy="12" r="4.2" />
+              <circle cx="17.6" cy="6.4" r="1.1" fill="currentColor" stroke="none" />
+            </svg>
+          </a>
           <Link className="search-pill" href="/category/butter-dishes">Shop the trend</Link>
           <button
             className="hamburger"
@@ -53,6 +60,7 @@ export default function Header() {
           </Link>
         ))}
         <Link href="/about" onClick={() => setOpen(false)}>About</Link>
+        <a href="https://www.instagram.com/orlaloom/" target="_blank" rel="noopener noreferrer" onClick={() => setOpen(false)}>Follow us on Instagram →</a>
       </div>
     </header>
   );
