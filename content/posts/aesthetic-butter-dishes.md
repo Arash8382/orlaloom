@@ -2,7 +2,7 @@
 title: "The Best Aesthetic Butter Dishes for 2026"
 description: "From mushroom to scalloped to classic French beurriers — the prettiest butter dishes worth a spot on your table this year."
 category: "butter-dishes"
-date: "2026-06-22"
+date: "2026-06-30"
 cover: "https://images.unsplash.com/photo-1723183218043-e26963aa43a1?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Fungi Fun Mushroom Butter Dish with Lid"
@@ -129,7 +129,7 @@ The dark-cottagecore and grandmacore revival is about bringing back small, nosta
 The defining silhouette of the trend. A scalloped lid catches candlelight beautifully on a moody table and reads instantly "cottage." Best for anyone leaning into the grandmacore look.
 
 ### Mushroom & figural
-The fun, collectible end. Mushroom dishes sit right at the intersection of two rising aesthetics and make a genuinely great gift. Still emerging, so the good ones move fast.
+The fun, collectible end. Mushroom dishes sit right at the intersection of two rising aesthetics and make a genuinely great gift. Still emerging, so the good ones move fast — see our full roundup of [mushroom butter dishes](/blog/mushroom-butter-dishes) for the picks that disappear quickest.
 
 ### French butter dishes (beurriers)
 The functional pick. A beurrier uses a water seal to keep butter soft and spreadable on the counter without spoiling — the actual problem a butter dish solves. Best for everyday butter lovers.
@@ -153,3 +153,13 @@ Salted butter is generally fine at cool room temperature for several days, espec
 
 **What's the most popular style right now?**
 Scalloped ceramic and mushroom or figural dishes are the breakout styles of 2026.
+
+## Related guides
+
+Keep building the cottagecore table with these companion guides:
+
+- [Mushroom butter dishes that sell out fast](/blog/mushroom-butter-dishes) — the figural picks worth grabbing before they go.
+- [Scalloped dinnerware sets](/blog/scalloped-dinnerware-sets) — the scalloped silhouette that pairs with a scalloped butter dish.
+- [Scalloped salad plates](/blog/scalloped-salad-plates) — the easiest way to add the same rim to your table.
+- [The best colored glassware](/blog/best-colored-glassware) — jewel-toned glass to set beside a glass butter dish.
+- [The complete dark cottagecore kitchen guide](/blog/dark-cottagecore-kitchen) — how the butter dish fits the whole moody-kitchen look.

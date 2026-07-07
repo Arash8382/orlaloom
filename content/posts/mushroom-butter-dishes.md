@@ -2,7 +2,7 @@
 title: "Mushroom Butter Dishes That Sell Out Fast"
 description: "The cutest mushroom and figural butter dishes for a cottagecore table — ceramic, vintage, and gift-ready picks."
 category: "butter-dishes"
-date: "2026-06-24"
+date: "2026-06-30"
 cover: "https://images.unsplash.com/photo-1660190368311-64d54386e494?auto=format&fit=crop&w=1200&q=72"
 products:
   - name: "Fungi Fun Mushroom Butter Dish with Lid"
@@ -55,7 +55,7 @@ Mushroom decor and cottagecore collided, and the butter dish is where it landed.
 
 ## Style it
 
-A mushroom butter dish wants company: pair it with scalloped salad plates and an amber glass of wildflowers for a full cottagecore corner.
+A mushroom butter dish wants company: pair it with [scalloped salad plates](/blog/scalloped-salad-plates) and an [amber fluted glass](/blog/amber-fluted-glassware) of wildflowers for a full cottagecore corner.
 
 ## FAQ
 
@@ -64,3 +64,13 @@ Small ceramic studios, independent makers, and a growing number of homeware bran
 
 **Are they functional?**
 Yes — they're real covered butter dishes, just shaped like a toadstool. Check the listed capacity for your butter type.
+
+## Related guides
+
+More for a storybook cottagecore kitchen:
+
+- [The best aesthetic butter dishes](/blog/aesthetic-butter-dishes) — every style of butter dish, from scalloped to French beurriers.
+- [Scalloped salad plates](/blog/scalloped-salad-plates) — the perfect plate to set a mushroom dish beside.
+- [Amber fluted glassware](/blog/amber-fluted-glassware) — warm-toned glass that completes the corner.
+- [The best colored glassware](/blog/best-colored-glassware) — jewel-toned pieces for open shelves.
+- [The complete dark cottagecore kitchen guide](/blog/dark-cottagecore-kitchen) — tie the whole look together.

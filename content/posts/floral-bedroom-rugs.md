@@ -2,7 +2,7 @@
 title: "Floral Bedroom Rugs: 6 Soft Cottagecore Picks for a Cosy Bedroom (2026)"
 description: "Soft pink, sage and dusty-blue floral washable rugs to warm up a cottagecore bedroom — vintage-inspired, machine-washable picks that feel gentle underfoot beside the bed."
 category: "rugs"
-date: "2026-07-01"
+date: "2026-07-07"
 cover: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCoralieWashableCottagecoreFloralBorderRosePinkRug_2_48baac70-958a-4415-940e-02fe661d540b.webp?v=1774864629"
 products:
   - name: "Coralie Washable Cottagecore Floral Scalloped Rose Pink Rug"
@@ -75,6 +75,10 @@ Every rug in this guide is a real, in-stock washable floral from Lahome, chosen 
 
 **Use a rug pad.** These rugs come with a grippy base, but on hard floors a thin separate rug pad adds a little cushioning underfoot and stops any edge-curl by the bed — a small upgrade that makes a budget rug feel much more expensive.
 
+## Want the vintage floral area rug look?
+
+A lot of people land on this page hunting for a **vintage floral area rug** — the faded, antique-looking kind you'd expect to inherit rather than buy. Two picks here nail that look directly: the **Lorielle** redraws a traditional Persian floral medallion in soft pinks and cream, and the **Nina** scatters faded roses like a hand-painted garden. The difference from a true vintage (or vintage-style tufted) rug is practical: these are flat, low-pile and machine-washable, so you get the antique palette without the dust, shedding or dry-clean bills. If you want that vintage feel beyond the bedroom, our [full cottagecore rug guide](/blog/cottagecore-washable-rugs) covers tapestry blues, woodland scenes and maximalist blooms for living rooms too.
+
 ## The soft cottagecore favourite
 
 If you want one safe recommendation, the **Coralie** in rose pink is where I'd start. It's the most affordable rug here, it has the scalloped floral border that reads instantly cottagecore, and at bedside-runner size it's a genuinely low-risk way to try the look. If it turns out you love a floral floor, you can always size up to the **Nina** rose garden or the classic **Lorielle** Persian later. And if pink isn't your room, the **Ariele** dusty blue gives you the same gentle, faded charm in a cooler colour.
@@ -91,3 +95,13 @@ For a pair of bedside runners, look for roughly 2 to 3 feet wide. For a single r
 Because the pile top and the non-slip base are separate layers, most of these go in a home washing machine on a cold, gentle cycle — check the specific product's care note for the largest sizes, which sometimes recommend a laundromat machine. Air-dry flat or on low; don't tumble on high heat.
 
 Prices and availability shift with size and season, so tap through to Lahome for the current price and the sizes in stock for the room you're styling.
+
+## Related guides
+
+Keep softening the room with these companion guides:
+
+- [Cottagecore washable rugs](/blog/cottagecore-washable-rugs) — the full rug guide, from woodland scenes to maximalist blooms.
+- [Dark cottagecore rugs](/blog/dark-cottagecore-rugs) — deeper, moodier florals if pastels aren't your bedroom.
+- [Floral ditsy quilts](/blog/floral-ditsy-quilts) — bedding that pairs naturally with every rug on this page.
+- [Lahome discount code](/lahome-discount-code) — all six picks are Lahome; check the current code before you buy.
+- [Cottagecore table lamps](/blog/cottagecore-table-lamps) — the warm bedside glow that finishes the look.
