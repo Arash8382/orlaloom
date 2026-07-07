@@ -62,16 +62,19 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 
 /* ---------- Header ---------- */
 .header { position: sticky; top: 0; z-index: 50; background: rgba(246,236,230,.85); backdrop-filter: saturate(140%) blur(10px); }
-.header-inner { display: flex; align-items: center; justify-content: space-between; padding: 18px 48px; }
-.wordmark { font-family: var(--serif); font-optical-sizing: auto; font-size: 34px; font-weight: 500; letter-spacing: -0.01em; color: var(--head); line-height: 1; }
+.header-inner { display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 22px; padding: 16px 40px; }
+.wordmark { font-family: var(--serif); font-optical-sizing: auto; font-size: 32px; font-weight: 500; letter-spacing: -0.01em; color: var(--head); line-height: 1; white-space: nowrap; flex-shrink: 0; }
 .wordmark:hover { color: var(--brown-700); }
-.nav-desktop { display: flex; gap: 26px; font-size: 16px; font-weight: 600; color: var(--nav); }
+.nav-desktop { display: flex; flex-wrap: nowrap; gap: 20px; font-size: 15px; font-weight: 600; color: var(--nav); white-space: nowrap; }
+.nav-desktop a { white-space: nowrap; }
 .nav-desktop a:hover { color: var(--terra); }
-.header-right { display: flex; gap: 16px; align-items: center; }
-.header-right .saved { font-size: 16px; font-weight: 600; color: var(--nav); }
+.header-right { display: flex; flex-shrink: 0; gap: 14px; align-items: center; white-space: nowrap; }
+.header-right .saved { font-size: 15px; font-weight: 600; color: var(--nav); }
+.search-link { white-space: nowrap; }
 .ig-link { display: inline-flex; align-items: center; justify-content: center; color: var(--nav); transition: color .15s ease, transform .15s ease; }
+.ig-link svg { display: block; }
 .ig-link:hover { color: var(--accent, #b08968); transform: translateY(-1px); }
-.search-pill { padding: 11px 24px; background: var(--pink); color: #5a3326; border-radius: 999px; font-size: 15px; font-weight: 700; }
+.search-pill { padding: 11px 22px; background: var(--pink); color: #5a3326; border-radius: 999px; font-size: 15px; font-weight: 700; white-space: nowrap; }
 .search-pill:hover { background: var(--pink-700); }
 .hamburger { display: none; background: none; border: 1px solid var(--line); border-radius: 10px; width: 42px; height: 42px; align-items: center; justify-content: center; cursor: pointer; }
 .hamburger span, .hamburger span::before, .hamburger span::after { display: block; width: 18px; height: 2px; background: var(--brown); position: relative; content: ""; }
