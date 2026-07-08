@@ -25,6 +25,7 @@ export const metadata = {
   },
   other: {
     "p:domain_verify": "87d27c8f399f63674350a5857c26c182",
+    "impact-site-verification": "554cb6fd-2ca5-48c8-9de9-6e98107a26f2",
   },
 };
 
