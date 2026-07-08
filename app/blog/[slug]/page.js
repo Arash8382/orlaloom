@@ -4,6 +4,8 @@ import { site, categoryBySlug, categoryImage } from "../../../lib/site";
 import { getPostSlugs, getPost, getPostMeta, getRelatedPosts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
 import GuideExtras from "../../components/GuideExtras";
+import ShopScene from "../../components/ShopScene";
+import AlbumGrid from "../../components/AlbumGrid";
 
 export function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
@@ -115,49 +117,13 @@ export default async function PostPage({ params }) {
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
       </p>
 
+      {/* Shoppable scene hero — matches the category/home style (self-hides if no scene) */}
+      {cat && <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} subtitle="Tap any piece to shop it." />}
+
       <GuideExtras products={post.products} categoryName={cat ? cat.name : ""} />
 
-      {post.products && post.products.length > 0 && (
-        <section className="picks">
-          <span className="eyebrow">The picks</span>
-          <h2 className="picks-title">Shop the guide</h2>
-          <div className="product-grid">
-            {post.products.map((pr, i) => (
-              <div className="product-card" key={i}>
-                <div className={`product-img ph ${pr.image ? "" : "ph-" + post.category}`}>
-                  {pr.image && (() => {
-                    const _img = (
-                      <img
-                        src={pr.image}
-                        alt={`${pr.name}${pr.brand && !pr.name.includes(pr.brand) ? " by " + pr.brand : ""} — ${cat ? cat.name : "cottagecore"} pick`}
-                        loading="lazy"
-                      />
-                    );
-                    return pr.url ? (
-                      <a className="img-link" href={pr.url} target="_blank" rel="nofollow sponsored noopener" aria-label={pr.name}>{_img}</a>
-                    ) : _img;
-                  })()}
-                  {pr.badge && <span className="product-badge">{pr.badge}</span>}
-                  {!pr.image && <span className="mono">[ {pr.name} ]</span>}
-                </div>
-                <div className="product-body">
-                  <div className="product-name">{pr.name}</div>
-                  <div className="product-meta">
-                    {pr.brand}{pr.brand && pr.price ? " · " : ""}{pr.price}
-                  </div>
-                  <p className="product-blurb">{pr.blurb}</p>
-                  {pr.caveat && <p className="product-caveat">Heads up: {pr.caveat}</p>}
-                  {pr.url && (
-                    <a className="btn product-btn" href={pr.url} target="_blank" rel="nofollow sponsored noopener">
-                      Shop on {pr.retailer || "site"} →
-                    </a>
-                  )}
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+      {/* Album grid — image-only picks, hover reveals name/price, click → retailer */}
+      <AlbumGrid products={post.products} eyebrow="The picks" title="Shop the guide" sub="Tap any piece to shop it." showCount={false} />
 
       {post.products && post.products.length > 0 && (
         <div style={{ margin: "6px 0 8px" }}>
