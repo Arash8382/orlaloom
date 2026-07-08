@@ -103,11 +103,7 @@ export default function RoomSlider() {
       if (e.key === "ArrowLeft") go(-1);
       else if (e.key === "ArrowRight") go(1);
       else if (e.key === "e" || e.key === "E") {
-        setEdit((v) => {
-          const nv = !v;
-          if (nv && !pass) { const p = window.prompt("Admin passcode to save edits:"); if (p != null) setPass(p); }
-          return nv;
-        });
+        setEdit((v) => !v);
         setCur(-1);
       }
     };
