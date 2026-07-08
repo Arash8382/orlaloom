@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { site, categories, categoryBySlug } from "../../../lib/site";
 import { getPostsByCategory, getCategoryProducts } from "../../../lib/posts";
+import ShopScene from "../../components/ShopScene";
 
 export function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
@@ -67,6 +68,9 @@ export default function CategoryPage({ params }) {
         <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(28px,4vw,42px)", color: "var(--head)", margin: 0 }}>{cat.name}</h1>
         <p style={{ color: "var(--muted-2)", marginTop: 8, maxWidth: "56ch" }}>{cat.blurb}</p>
       </header>
+
+      {/* Shoppable scene (self-hides when no scene\/dots for this category) */}
+      <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} />
 
       {/* SHOP — every product in this category */}
       {products.length > 0 && (
