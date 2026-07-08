@@ -3,7 +3,7 @@ title: "Floral Bedroom Rugs: 6 Soft Cottagecore Picks for a Cosy Bedroom (2026)"
 description: "Soft pink, sage and dusty-blue floral washable rugs to warm up a cottagecore bedroom — vintage-inspired, machine-washable picks that feel gentle underfoot beside the bed."
 category: "rugs"
 date: "2026-07-07"
-cover: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCoralieWashableCottagecoreFloralBorderRosePinkRug_2_48baac70-958a-4415-940e-02fe661d540b.webp?v=1774864629"
+cover: "/thumbnails/thumb-floral-bedroom-rugs.webp"
 products:
   - name: "Coralie Washable Cottagecore Floral Scalloped Rose Pink Rug"
     image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCoralieWashableCottagecoreFloralBorderRosePinkRug_2_48baac70-958a-4415-940e-02fe661d540b.webp?v=1774864629"

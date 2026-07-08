@@ -3,7 +3,7 @@ title: "The Best Cottagecore Table Lamps for a Cozy Glow (2026)"
 description: "Mushroom stained-glass, pleated-shade, vintage brass and woven rattan table lamps that cast a warm cottagecore glow — picks for every budget and bedside."
 category: "home-decor"
 date: "2026-06-29"
-cover: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-cottagecore-table-lamps.webp"
 products:
   - name: "Tiffany-Style Brown Mushroom Stained-Glass Lamp (12 in)"
     image: "https://m.media-amazon.com/images/I/61L7+dZozwL.jpg"

@@ -3,7 +3,7 @@ title: "Cottagecore Christmas Decorations: 6 Old-Fashioned Ornaments & Decor Pic
 description: "The best cottagecore Christmas decorations for 2026 — dried orange ornaments and garland, vintage glass baubles, knit stockings, gingham ribbon and Scandinavian straw stars, with honest pros and cons for each."
 category: "home-decor"
 date: "2026-07-05"
-cover: "https://m.media-amazon.com/images/I/81gO6tg7TBL._AC_SL1500_.jpg"
+cover: "/thumbnails/thumb-cottagecore-christmas-decorations.webp"
 products:
   - name: "Natural Dried Orange, Cinnamon & Pinecone Ornament Set (31 Pieces)"
     image: "https://m.media-amazon.com/images/I/81lTCzJn9hL._AC_SL1500_.jpg"

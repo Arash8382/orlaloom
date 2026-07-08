@@ -3,7 +3,7 @@ title: "Grandmacore Scents & Brass Candle Holders"
 description: "Nostalgic candles and vintage brass candlesticks to bring warm, after-dark grandmacore glow to your table."
 category: "candles"
 date: "2026-06-28"
-cover: "https://images.unsplash.com/photo-1561212856-44e9bae482aa?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-grandmacore-scents-brass-holders.webp"
 products:
   - name: "Nuptio Brass Candlestick Holders (Set of 3)"
     brand: "Nuptio"

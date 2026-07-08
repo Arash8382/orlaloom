@@ -3,7 +3,7 @@ title: "The Best Colored Glassware for an Aesthetic Table"
 description: "Jewel-tone goblets, cobalt tumblers, and confetti glass — from Estelle to budget Mexican bubble-glass dupes."
 category: "glassware"
 date: "2026-06-29"
-cover: "https://images.unsplash.com/photo-1695747000222-5d47c23eeebf?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-best-colored-glassware.webp"
 products:
   - name: "Estelle Colored Glass Regal Goblet (Set of 6, Cobalt)"
     brand: "Estelle Colored Glass"

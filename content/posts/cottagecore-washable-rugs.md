@@ -3,7 +3,7 @@ title: "Cottagecore Rugs: The Best Washable Picks for 2026"
 description: "The best cottagecore rugs of 2026 — floral, vintage, scalloped and woodland washable area rugs that bring instant cottage charm. Machine-washable and pet-friendly."
 category: "rugs"
 date: "2026-07-07"
-cover: "https://lahomedecor.com/cdn/shop/files/LahomeGivernyWashableMaximalismVintageFrenchFloralBlueRug_2_5aa136e4-6f56-48ad-ba20-2ebeb6be1337.webp"
+cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 products:
   - name: "Claude Maximalism Vibrant Blossom Floral Black Rug"
     brand: "Lahome"

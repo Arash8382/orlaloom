@@ -3,7 +3,7 @@ title: "Vintage Farmhouse Mixing Bowl Sets: Nesting Stoneware We'd Buy"
 description: "Vintage-look nesting stoneware mixing bowl sets — embossed, cane, and blue-stripe — that are as pretty on the shelf as they are in the kitchen."
 category: "cottagecore-kitchen"
 date: "2026-07-05"
-cover: "https://images.unsplash.com/photo-1510035618584-c442b241abe7?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-vintage-farmhouse-mixing-bowls.webp"
 products:
   - name: "Vintage Farm Stoneware Mixing Bowl Set, 3-Piece (Embossed)"
     image: "https://m.media-amazon.com/images/I/71-cCzy3RhL._AC_SL1500_.jpg"

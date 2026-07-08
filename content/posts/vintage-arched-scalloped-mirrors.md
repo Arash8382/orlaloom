@@ -3,7 +3,7 @@ title: "Vintage-Style Arched & Scalloped Wall Mirrors We Love"
 description: "Arched, scalloped, and windowpane wall mirrors — antique-gold and black farmhouse styles — to add vintage character to a cottage wall."
 category: "home-decor"
 date: "2026-07-10"
-cover: "https://images.unsplash.com/photo-1612392549386-b6969764af6f?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-vintage-arched-scalloped-mirrors.webp"
 products:
   - name: "Kate and Laurel Viona Scalloped Wall Mirror, 26\""
     image: "https://m.media-amazon.com/images/I/61pqBxOSrbL._AC_SL1500_.jpg"

@@ -3,7 +3,7 @@ title: "Dark Cottagecore Rugs: Moody Floral & Vintage Washable Picks for 2026"
 description: "Black, dark green and deep teal floral washable rugs for a moody, witchy cottagecore room — vintage-inspired, machine-washable picks that hide dirt and pet hair."
 category: "home-decor"
 date: "2026-06-30"
-cover: "https://lahomedecor.com/cdn/shop/files/LahomeClaudeMaximalismVibrantBlossomFloralBlackRug.webp?crop=center&height=1200&v=1747989076&width=1200"
+cover: "/thumbnails/thumb-dark-cottagecore-rugs.webp"
 products:
   - name: "Claude Washable Maximalism Vibrant Blossom Floral Black Rug"
     image: "https://lahomedecor.com/cdn/shop/files/LahomeClaudeMaximalismVibrantBlossomFloralBlackRug.webp?crop=center&height=1200&v=1747989076&width=1200"

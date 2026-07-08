@@ -3,7 +3,7 @@ title: "Cottagecore Hostess & Housewarming Gifts: 6 Ideas That Always Land (2026
 description: "The best cottagecore hostess gift ideas for 2026 — a scalloped acacia serving board, Maison d'Hermine tea towels, pure beeswax pillar candles, a vintage recipe box, brass candlesticks and a little flower trinket dish, with honest pros and cons."
 category: "home-decor"
 date: "2026-07-06"
-cover: "https://m.media-amazon.com/images/I/81+MFGedSML._AC_SL1500_.jpg"
+cover: "/thumbnails/thumb-cottagecore-hostess-gifts.webp"
 products:
   - name: "Acacia Wood Scalloped Serving & Charcuterie Boards, Set of 2"
     image: "https://m.media-amazon.com/images/I/81+MFGedSML._AC_SL1500_.jpg"

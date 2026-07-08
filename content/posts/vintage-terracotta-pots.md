@@ -3,7 +3,7 @@ title: "The Best Vintage & Aged Terracotta Pots for 2026"
 description: "Aged, fluted, Italian, and whitewashed terracotta-look pots for a cottage garden, patio, or herb windowsill — from $5 clay classics to antique pieces."
 category: "home-decor"
 date: "2026-07-12"
-cover: "https://images.unsplash.com/photo-1468531390554-9f62f9767a87?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-vintage-terracotta-pots.webp"
 products:
   - name: "Deroma Terra Cotta Clay Pot (6\")"
     image: "https://m.media-amazon.com/images/I/21oShxYTtAL._AC_SL1000_.jpg"

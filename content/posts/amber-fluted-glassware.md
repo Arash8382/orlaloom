@@ -3,7 +3,7 @@ title: "Amber & Fluted Glassware for a Moody Table"
 description: "Warm amber tumblers, ribbed fluted glasses, and a pitcher to set a moody, candle-lit cottagecore drink station."
 category: "glassware"
 date: "2026-06-30"
-cover: "https://images.unsplash.com/photo-1759629523494-b342430f2100?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-amber-fluted-glassware.webp"
 products:
   - name: "Vintage Amber Ribbed Drinking Glasses (Set of 6)"
     brand: "Vintage-style ribbed glass"

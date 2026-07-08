@@ -3,7 +3,7 @@ title: "Cottagecore Gifts Under $30: 7 Charming Gift Ideas They'll Actually Use 
 description: "A cottagecore gift guide with 7 gifts under $30 — scalloped trinket dishes, beeswax tapers, brass candlesticks, a William Morris-style mug and more, all real picks with honest pros and cons."
 category: "home-decor"
 date: "2026-07-03"
-cover: "https://m.media-amazon.com/images/I/81N4xXmvYrL._AC_SL1500_.jpg"
+cover: "/thumbnails/thumb-cottagecore-gifts-under-30.webp"
 products:
   - name: "FoldTier Scalloped Ceramic Trinket Dish"
     image: "https://m.media-amazon.com/images/I/61uebUgJ1SL._AC_SL1500_.jpg"

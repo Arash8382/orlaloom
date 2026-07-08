@@ -3,7 +3,7 @@ title: "The Best Cottagecore Candles for a Cozy Kitchen"
 description: "Herbal, floral, and forest-floor scented candles that make a kitchen feel like a cottage — from P.F. Candle Co to Voluspa."
 category: "candles"
 date: "2026-06-27"
-cover: "https://images.unsplash.com/photo-1601479604588-68d9e6d386b5?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-best-cottagecore-candles.webp"
 products:
   - name: "P.F. Candle Co. Amber & Moss"
     brand: "P.F. Candle Co."

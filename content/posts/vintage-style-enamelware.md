@@ -3,7 +3,7 @@ title: "Vintage-Style Enamelware We Love: Mugs, Plates & Pitchers"
 description: "Durable, vintage-look enamelware — splatter mugs, swirl plates, and heritage pitchers — for a warm farmhouse cottage table."
 category: "cottagecore-kitchen"
 date: "2026-07-04"
-cover: "https://images.unsplash.com/photo-1605714262316-da2faa04731a?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-vintage-style-enamelware.webp"
 products:
   - name: "Crow Canyon Home Enamelware Mug, 12 oz (Splatter)"
     image: "https://m.media-amazon.com/images/I/91eCdPAYyuL._AC_SL1500_.jpg"

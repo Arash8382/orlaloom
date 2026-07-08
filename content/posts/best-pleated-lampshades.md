@@ -3,7 +3,7 @@ title: "Best Pleated & Scalloped Lampshades 2026: The Mushroom Shade Trend, Shop
 description: "The pleated lampshade is 2026's biggest lighting trend. Six real, in-stock picks — mushroom pleat shades, scalloped petal-edge bells, clip-on chandelier sets and one adorable mini lamp — with honest pros and cons."
 category: "home-decor"
 date: "2026-07-08"
-cover: "https://m.media-amazon.com/images/I/61s9hysEVbL._AC_SL1000_.jpg"
+cover: "/thumbnails/thumb-best-pleated-lampshades.webp"
 products:
   - name: "Aspen Creative 33055 Mushroom Pleated Empire Lamp Shade, White (13 in bottom)"
     image: "https://m.media-amazon.com/images/I/712-i0E1zUL._AC_SL1500_.jpg"

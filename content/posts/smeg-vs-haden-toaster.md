@@ -3,7 +3,7 @@ title: "Smeg vs Haden Toaster: Which Retro Toaster Is Worth It? (2026)"
 description: "Smeg TSF01 vs Haden Heritage — an honest 2026 comparison of the two prettiest retro toasters, plus their matching kettles and a $40 budget alternative, with real prices, pros and cons."
 category: "retro-appliances"
 date: "2026-07-07"
-cover: "https://m.media-amazon.com/images/I/619Dr1jANgL._AC_SL1500_.jpg"
+cover: "/thumbnails/thumb-smeg-vs-haden-toaster.webp"
 products:
   - name: "Smeg TSF01 50's Retro Style 2-Slice Toaster, Pastel Blue"
     image: "https://m.media-amazon.com/images/I/619Dr1jANgL._AC_SL1500_.jpg"

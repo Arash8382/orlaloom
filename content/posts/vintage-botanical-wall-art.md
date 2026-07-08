@@ -3,7 +3,7 @@ title: "Vintage Botanical & Wildflower Wall Art Sets for a Cottage Look"
 description: "Framed and print-set botanical and wildflower wall art with a vintage cottagecore feel — easy gallery-wall sets at every budget."
 category: "home-decor"
 date: "2026-07-11"
-cover: "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-vintage-botanical-wall-art.webp"
 products:
   - name: "Neutral Wildflower Wall Art, Set of 3 (Wood Framed, 12x16)"
     image: "https://m.media-amazon.com/images/I/71lNq44UfaL._AC_SL1500_.jpg"

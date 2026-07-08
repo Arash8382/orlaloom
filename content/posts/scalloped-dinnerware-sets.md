@@ -3,7 +3,7 @@ title: "The Best Scalloped Dinnerware Sets for 2026"
 description: "Scalloped-edge dinner plates and sets — from budget Target finds to heirloom Villeroy & Boch — for a romantic, cottage-perfect table."
 category: "scalloped-dinnerware"
 date: "2026-06-25"
-cover: "https://images.unsplash.com/photo-1714836986273-9a62b37f55fa?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-scalloped-dinnerware-sets.webp"
 products:
   - name: "Threshold Scalloped Dinner Plate (Gold Rim)"
     brand: "Threshold (Target)"

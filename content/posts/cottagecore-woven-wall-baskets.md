@@ -3,7 +3,7 @@ title: "The Best Cottagecore Woven Wall Baskets for a Cozy Gallery Wall (2026)"
 description: "Scalloped wicker, jute, seagrass and water-hyacinth woven wall baskets to hang as cottagecore wall art — picks for a single statement piece or a whole gallery cluster."
 category: "home-decor"
 date: "2026-06-29"
-cover: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-cottagecore-woven-wall-baskets.webp"
 products:
   - name: "BEBE BASK Scalloped Wicker Wall Basket (16 x 10 in)"
     image: "https://m.media-amazon.com/images/I/81rzxA9Jo4L._AC_SL1500_.jpg"

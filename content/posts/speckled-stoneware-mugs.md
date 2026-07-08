@@ -3,7 +3,7 @@ title: "The Best Speckled Stoneware Mugs for a Cozy Cottagecore Kitchen"
 description: "Handmade-look speckled stoneware mugs — from affordable Sweese sets to genuinely handcrafted East Fork — that suit a warm cottagecore kitchen."
 category: "cottagecore-kitchen"
 date: "2026-07-03"
-cover: "https://images.unsplash.com/photo-1495100497150-fe209c585f50?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-speckled-stoneware-mugs.webp"
 products:
   - name: "Le Creuset Stoneware Mug (14 oz)"
     image: "https://m.media-amazon.com/images/I/51lMfnuv3VL._AC_SL1274_.jpg"

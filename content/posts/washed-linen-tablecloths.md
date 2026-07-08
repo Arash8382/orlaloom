@@ -3,7 +3,7 @@ title: "The Best Washed Linen Tablecloths for a Cottagecore Table"
 description: "Soft, lived-in washed linen tablecloths — from affordable hemstitch blends to pure French linen — that bring an heirloom feel to everyday cottage dining."
 category: "textiles"
 date: "2026-07-06"
-cover: "https://images.unsplash.com/photo-1630527152680-500b5453fb04?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-washed-linen-tablecloths.webp"
 products:
   - name: "Solino Home Cotton-Linen Hemstitch Tablecloth"
     image: "https://m.media-amazon.com/images/I/81Yjm2iDacS._AC_SL1500_.jpg"

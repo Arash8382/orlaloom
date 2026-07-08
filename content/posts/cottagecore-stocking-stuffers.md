@@ -3,7 +3,7 @@ title: "Cottagecore Stocking Stuffers: 6 Small Gifts That Feel Handmade (2026)"
 description: "The best cottagecore stocking stuffers for 2026 — mini mushroom bookmarks, beeswax votives, wildflower seed packets, floral scrunchies, embroidered handkerchiefs and a little bud vase, with honest pros and cons for each."
 category: "home-decor"
 date: "2026-07-06"
-cover: "https://m.media-amazon.com/images/I/71qM33D3jyL._AC_SL1500_.jpg"
+cover: "/thumbnails/thumb-cottagecore-stocking-stuffers.webp"
 products:
   - name: "Genuine Fred Magic Sprout Mini-Mushroom Bookmarks, Set of 4"
     image: "https://m.media-amazon.com/images/I/61diuygJGIL._AC_SL1500_.jpg"

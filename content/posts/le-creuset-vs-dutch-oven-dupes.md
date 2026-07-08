@@ -3,7 +3,7 @@ title: "Le Creuset vs Budget Dutch Oven Dupes: Honest 2026 Comparison"
 description: "Is a Le Creuset Dutch oven really worth $300+? We compare it honestly against Lodge, Crock-Pot Artisan, Cuisinart and Amazon Basics enameled Dutch ovens — real prices, real trade-offs, and which dupe actually holds up."
 category: "cottagecore-kitchen"
 date: "2026-07-07"
-cover: "https://m.media-amazon.com/images/I/61hV4YWJ+rL._AC_SL1500_.jpg"
+cover: "/thumbnails/thumb-le-creuset-vs-dutch-oven-dupes.webp"
 products:
   - name: "Le Creuset Signature Round Dutch Oven, 5.5 qt, Cerise"
     image: "https://m.media-amazon.com/images/I/61hV4YWJ+rL._AC_SL1500_.jpg"

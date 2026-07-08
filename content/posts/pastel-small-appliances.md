@@ -3,7 +3,7 @@ title: "The Best Pastel & Cottagecore Small Appliances (2026)"
 description: "Affordable, cute pastel appliances — Haden toasters, Dash waffle makers, milk frothers — that give the retro look for less."
 category: "retro-appliances"
 date: "2026-07-02"
-cover: "https://images.unsplash.com/photo-1547091267-6b2be403a763?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-pastel-small-appliances.webp"
 products:
   - name: "Haden Heritage 2-Slice Toaster"
     brand: "Haden"

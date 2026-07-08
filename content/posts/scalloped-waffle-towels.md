@@ -3,7 +3,7 @@ title: "Scalloped & Waffle-Weave Towels for a Cottagecore Bathroom"
 description: "Vintage-look scalloped-edge and quick-drying waffle towels to soften a cottage bathroom — from budget sets to handloomed Turkish cotton."
 category: "textiles"
 date: "2026-07-08"
-cover: "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-scalloped-waffle-towels.webp"
 products:
   - name: "Hahafelt Scalloped Hand Towels (2-Pack)"
     image: "https://m.media-amazon.com/images/I/61jLdQGnwpL._AC_SL1500_.jpg"

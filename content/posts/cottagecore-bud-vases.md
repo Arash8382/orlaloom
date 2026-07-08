@@ -3,7 +3,7 @@ title: "Best Cottagecore Ceramic Bud Vases for Wildflowers"
 description: "Small vintage-style ceramic and stoneware bud vases — fluted, hand-painted, and pitcher-shaped — for displaying fresh-cut wildflowers."
 category: "home-decor"
 date: "2026-07-09"
-cover: "https://images.unsplash.com/photo-1713191352960-911f277876a7?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-cottagecore-bud-vases.webp"
 products:
   - name: "GUGUGO Pastel Mushroom Bud Vase"
     image: "https://m.media-amazon.com/images/I/71TmLnDbtSL.jpg"

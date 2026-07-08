@@ -3,7 +3,7 @@ title: "Ditsy Floral Quilts & Coverlets for a Cottagecore Bedroom"
 description: "Romantic small-floral quilts and reversible coverlets — patchwork, ruffle, and faded-floral — to anchor a cozy cottagecore bedroom."
 category: "textiles"
 date: "2026-07-07"
-cover: "https://images.unsplash.com/photo-1767590518755-0e4bd5404e1f?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-floral-ditsy-quilts.webp"
 products:
   - name: "Greenland Home Blooming Prairie Patchwork Quilt Set"
     image: "https://m.media-amazon.com/images/I/91eNIWEHMtL._AC_SL1500_.jpg"

@@ -3,7 +3,7 @@ title: "The Best Scalloped Salad & Side Plates for 2026"
 description: "The prettiest scalloped salad and side plates — blue ombre, floral, and designer picks to layer over any dinner plate."
 category: "scalloped-dinnerware"
 date: "2026-06-26"
-cover: "https://images.unsplash.com/photo-1589985269102-ff38adf6f00d?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-scalloped-salad-plates.webp"
 products:
   - name: "KeyChefLAB Petal Scalloped Plates (Set of 4, Blue Ombre)"
     brand: "KeyChefLAB"

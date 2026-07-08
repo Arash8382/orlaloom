@@ -3,7 +3,7 @@ title: "Vintage-Style Cottagecore Kitchen Accessories"
 description: "The small swaps — pastel mixer, ceramic canisters, enamel colander, gingham towels — that turn any kitchen cottagecore."
 category: "cottagecore-kitchen"
 date: "2026-06-29"
-cover: "https://images.unsplash.com/photo-1722888799634-c5093906feae?auto=format&fit=crop&w=1200&q=72"
+cover: "/thumbnails/thumb-vintage-kitchen-accessories.webp"
 products:
   - name: "KitchenAid Artisan Stand Mixer"
     brand: "KitchenAid"
