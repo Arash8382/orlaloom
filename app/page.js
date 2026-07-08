@@ -3,7 +3,7 @@ import { site, categories, categoryImage } from "../lib/site";
 import { getAllPosts, getPostsByCategory, getCategoryThumbPool } from "../lib/posts";
 import RotatingCategories from "./components/RotatingCategories";
 import RotatingGuides from "./components/RotatingGuides";
-import ShopScene from "./components/ShopScene";
+import RoomSlider from "./components/RoomSlider";
 
 export const metadata = { alternates: { canonical: "/" } };
 
@@ -64,11 +64,11 @@ export default function Home() {
           <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(30px,5vw,54px)", color: "var(--head)", lineHeight: 1.04, margin: "12px 0 14px", letterSpacing: "-.01em" }}>
             Make every day feel a little softer.
           </h1>
-          <p style={{ color: "var(--muted-2)", margin: "0 auto 10px", maxWidth: "54ch" }}>
-            Warm, vintage, cottagecore pieces for the table and home — step into the room and tap any piece to shop it.
+          <p style={{ color: "var(--muted-2)", margin: "0 auto 10px", maxWidth: "56ch" }}>
+            Warm, vintage, cottagecore pieces for the table and home — slide through nine room styles and tap any piece to shop it.
           </p>
         </div>
-        <ShopScene scene="home-hero" />
+        <RoomSlider />
         <div style={{ textAlign: "center", marginTop: 6 }}>
           <Link className="btn" href="/category/rugs">Explore the shop</Link>
         </div>
