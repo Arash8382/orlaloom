@@ -3,6 +3,7 @@ import { site, categories, categoryImage } from "../lib/site";
 import { getAllPosts, getPostsByCategory, getCategoryThumbPool } from "../lib/posts";
 import RotatingCategories from "./components/RotatingCategories";
 import RotatingGuides from "./components/RotatingGuides";
+import ShopScene from "./components/ShopScene";
 
 export const metadata = { alternates: { canonical: "/" } };
 
@@ -56,18 +57,21 @@ export default function Home() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* HERO — brand mood, leads the page */}
-      <section className="hero">
-        <div>
+      {/* HERO — shoppable scene, the new signature style */}
+      <section style={{ paddingTop: 24 }}>
+        <div style={{ textAlign: "center", maxWidth: 780, margin: "0 auto", padding: "0 24px" }}>
           <span className="eyebrow">Cosy finds, gently chosen</span>
-          <h1>Make every<br />day feel a<br />little softer.</h1>
-          <p>
-            Warm, vintage, cottagecore pieces for the table and home — hand-picked
-            and quietly curated to make the everyday feel special.
+          <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(30px,5vw,54px)", color: "var(--head)", lineHeight: 1.04, margin: "12px 0 14px", letterSpacing: "-.01em" }}>
+            Make every day feel a little softer.
+          </h1>
+          <p style={{ color: "var(--muted-2)", margin: "0 auto 10px", maxWidth: "54ch" }}>
+            Warm, vintage, cottagecore pieces for the table and home — step into the room and tap any piece to shop it.
           </p>
+        </div>
+        <ShopScene scene="home-hero" />
+        <div style={{ textAlign: "center", marginTop: 6 }}>
           <Link className="btn" href="/category/rugs">Explore the shop</Link>
         </div>
-        <div className="hero-img" style={bg(site.heroImage)} />
       </section>
 
       {/* SHOP BY CATEGORY — one lifestyle image per category, reshuffled each visit */}
