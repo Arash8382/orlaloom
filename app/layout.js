@@ -33,6 +33,13 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="impact-site-verification" value="ec108d73-6a15-4614-89f9-45f00ed63e80" content="ec108d73-6a15-4614-89f9-45f00ed63e80" />
+        <script
+          type="text/javascript"
+          dangerouslySetInnerHTML={{
+            __html:
+              "(function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/P-A7463308-4791-456b-89c6-f755a72271551.js','script','impactStat',document,window);impactStat('transformLinks');impactStat('trackImpression');",
+          }}
+        />
       </head>
       <body>
         <div className="page-shell">
