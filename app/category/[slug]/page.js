@@ -1,4 +1,6 @@
 import Link from "next/link";
+import fs from "fs";
+import path from "path";
 import { notFound } from "next/navigation";
 import { site, categories, categoryBySlug } from "../../../lib/site";
 import { getPostsByCategory, getCategoryProducts } from "../../../lib/posts";
@@ -20,44 +22,58 @@ export function generateMetadata({ params }) {
   };
 }
 
+const srOnly = { position: "absolute", width: 1, height: 1, padding: 0, margin: -1, overflow: "hidden", clip: "rect(0 0 0 0)", whiteSpace: "nowrap", border: 0 };
+
 export default function CategoryPage({ params }) {
   const cat = categoryBySlug(params.slug);
   if (!cat) return notFound();
   const posts = getPostsByCategory(cat.slug);
   const products = getCategoryProducts(cat.slug);
+  const hasScene = fs.existsSync(path.join(process.cwd(), "public", "scenes", `${cat.slug}.webp`));
 
   const url = `${site.url}/category/${cat.slug}`;
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
-      {
-        "@type": "CollectionPage",
-        "@id": url,
-        name: `${cat.name} — ${site.name}`,
-        description: cat.blurb,
-        url,
-      },
-      {
-        "@type": "BreadcrumbList",
-        itemListElement: [
+      { "@type": "CollectionPage", "@id": url, name: `${cat.name} — ${site.name}`, description: cat.blurb, url },
+      { "@type": "BreadcrumbList", itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: site.url },
           { "@type": "ListItem", position: 2, name: cat.name, item: url },
-        ],
-      },
-      ...(posts.length
-        ? [{
-            "@type": "ItemList",
-            itemListElement: posts.map((p, i) => ({
-              "@type": "ListItem",
-              position: i + 1,
-              name: p.title,
-              url: `${site.url}/blog/${p.slug}`,
-            })),
-          }]
-        : []),
+        ] },
+      ...(posts.length ? [{ "@type": "ItemList", itemListElement: posts.map((p, i) => ({ "@type": "ListItem", position: i + 1, name: p.title, url: `${site.url}/blog/${p.slug}` })) }] : []),
     ],
   };
 
+  // IMAGE-FIRST shoppable layout for categories that have a scene.
+  if (hasScene) {
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        {/* SEO-visible to crawlers, quiet on screen */}
+        <h1 style={srOnly}>{cat.name} — {cat.blurb}</h1>
+        <div className="container" style={{ paddingTop: 18 }}>
+          <div className="breadcrumb"><Link href="/">Home</Link> &nbsp;/&nbsp; {cat.name}</div>
+        </div>
+
+        <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} subtitle="Tap any piece to shop it." />
+
+        {/* Minimal guides strip — keeps internal links + SEO without cluttering the visual */}
+        {posts.length > 0 && (
+          <section className="container" style={{ padding: "10px 48px 46px" }}>
+            <div style={{ borderTop: "1px solid var(--line)", paddingTop: 18, display: "flex", flexWrap: "wrap", gap: 8, alignItems: "center" }}>
+              <span style={{ fontSize: 12, fontWeight: 700, letterSpacing: ".1em", textTransform: "uppercase", color: "var(--terra)", marginRight: 6 }}>Guides</span>
+              {posts.map((p) => (
+                <Link key={p.slug} href={`/blog/${p.slug}`} style={{ fontSize: 13, color: "var(--muted-2)", textDecoration: "none", background: "#fff", border: "1px solid var(--line)", borderRadius: 20, padding: "5px 12px" }}>{p.title}</Link>
+              ))}
+              <Link href="/" style={{ fontSize: 13, fontWeight: 700, color: "var(--terra)", marginLeft: "auto" }}>&larr; All categories</Link>
+            </div>
+          </section>
+        )}
+      </>
+    );
+  }
+
+  // Classic grid layout for categories without a scene yet.
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
@@ -69,10 +85,6 @@ export default function CategoryPage({ params }) {
         <p style={{ color: "var(--muted-2)", marginTop: 8, maxWidth: "56ch" }}>{cat.blurb}</p>
       </header>
 
-      {/* Shoppable scene (self-hides when no scene\/dots for this category) */}
-      <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} />
-
-      {/* SHOP — every product in this category */}
       {products.length > 0 && (
         <section className="section" style={{ paddingTop: 24, paddingBottom: 12 }}>
           <div className="section-head">
@@ -94,13 +106,9 @@ export default function CategoryPage({ params }) {
                 </div>
                 <div className="product-body">
                   <div className="product-name">{pr.name}</div>
-                  <div className="product-meta">
-                    {pr.brand}{pr.brand && pr.price ? " · " : ""}{pr.price}
-                  </div>
+                  <div className="product-meta">{pr.brand}{pr.brand && pr.price ? " · " : ""}{pr.price}</div>
                   {pr.url && (
-                    <a className="btn product-btn" href={pr.url} target="_blank" rel="nofollow sponsored noopener">
-                      Shop on {pr.retailer || "site"} →
-                    </a>
+                    <a className="btn product-btn" href={pr.url} target="_blank" rel="nofollow sponsored noopener">Shop on {pr.retailer || "site"} →</a>
                   )}
                   <Link className="from-guide" href={`/blog/${pr.guideSlug}`}>Read the guide →</Link>
                 </div>
@@ -110,7 +118,6 @@ export default function CategoryPage({ params }) {
         </section>
       )}
 
-      {/* GUIDES — deeper reading */}
       <section className="section" style={{ paddingTop: products.length ? 24 : 60 }}>
         {posts.length === 0 ? (
           <div className="callout">New finds for this category are landing soon — check back shortly. 🤍</div>
