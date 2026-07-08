@@ -25,7 +25,6 @@ export const metadata = {
   },
   other: {
     "p:domain_verify": "87d27c8f399f63674350a5857c26c182",
-    "impact-site-verification": "ec108d73-6a15-4614-89f9-45f00ed63e80",
   },
 };
 
@@ -33,7 +32,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="impact-site-verification" value="ec108d73-6a15-4614-89f9-45f00ed63e80" />
+        <meta name="impact-site-verification" value="ec108d73-6a15-4614-89f9-45f00ed63e80" content="ec108d73-6a15-4614-89f9-45f00ed63e80" />
       </head>
       <body>
         <div className="page-shell">
