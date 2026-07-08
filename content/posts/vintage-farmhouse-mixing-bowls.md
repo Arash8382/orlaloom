@@ -33,7 +33,7 @@ products:
     caveat: "Mostly sold as singles, so a full nested set adds up."
     url: "https://www.amazon.com/Heritage-Blue-Stripe-Stoneware-Mixing/dp/B00TU6EDLM?tag=orlaloom-20"
   - name: "Heritage Blue Stripe Mixing Bowls (Set of 4)"
-    image: "https://www.lehmans.com/images/large/1101255.jpg"
+    image: "https://www.lehmans.com/cdn/shop/files/c053323ad6a3b37cb70e0244f21f549055f18a1d_1101255_1_L.jpg?v=1777014404"
     brand: "Martinez Pottery"
     price: "~$120–160 / set"
     retailer: "Lehman's"
