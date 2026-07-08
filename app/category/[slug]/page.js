@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { site, categories, categoryBySlug } from "../../../lib/site";
 import { getPostsByCategory, getCategoryProducts } from "../../../lib/posts";
 import ShopScene from "../../components/ShopScene";
+import AlbumGrid from "../../components/AlbumGrid";
 
 export function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
@@ -56,6 +57,9 @@ export default function CategoryPage({ params }) {
         </div>
 
         <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} subtitle="Tap any piece to shop it." />
+
+        {/* Album grid — image-only product tiles, hover reveals name/price, click → retailer */}
+        <AlbumGrid products={products} catName={cat.name} />
 
         {/* Minimal guides strip — keeps internal links + SEO without cluttering the visual */}
         {posts.length > 0 && (
