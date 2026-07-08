@@ -53,7 +53,7 @@ function cardPos(s) {
 
 const bakedByRoom = () => {
   const m = {};
-  for (const r of bakedRooms) m[r.key] = r.spots.map((s) => ({ ...s }));
+  for (const r of bakedRooms) m[r.key] = r.spots.map((s) => ({ pkey: s.pkey || s.k, cx: s.cx, cy: s.cy }));
   return m;
 };
 
