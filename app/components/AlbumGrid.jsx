@@ -21,18 +21,19 @@ const css = `
 @media(hover:none){.al-cap{opacity:1;background:linear-gradient(to top,rgba(40,28,20,.72),rgba(40,28,20,0))}}
 `;
 
-export default function AlbumGrid({ products = [], catName = "the collection" }) {
+export default function AlbumGrid({ products = [], catName = "the collection", eyebrow = "The finds", title, sub = "Just the pieces — tap any image to shop it.", showCount = true }) {
   const items = products.filter((p) => p && p.image && p.url);
   if (items.length === 0) return null;
+  const heading = title || `Shop all ${catName.toLowerCase()}`;
   return (
     <section className="al-sec">
       <style dangerouslySetInnerHTML={{ __html: css }} />
-      <div className="al-eyebrow">The finds</div>
+      <div className="al-eyebrow">{eyebrow}</div>
       <div className="al-head">
-        <h2 className="al-title">Shop all {catName.toLowerCase()}</h2>
-        <span className="al-count">{items.length}</span>
+        <h2 className="al-title">{heading}</h2>
+        {showCount && <span className="al-count">{items.length}</span>}
       </div>
-      <p className="al-sub">Just the pieces — tap any image to shop it.</p>
+      <p className="al-sub">{sub}</p>
       <div className="al-grid">
         {items.map((p, i) => (
           <a key={i} className="al-tile" href={p.url} target="_blank" rel="nofollow sponsored noopener" aria-label={`Shop ${p.name}`}>
