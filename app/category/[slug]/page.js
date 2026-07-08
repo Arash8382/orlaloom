@@ -60,21 +60,17 @@ export default function CategoryPage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <section className="cat-hero">
-        <div>
-          <div className="breadcrumb" style={{ marginBottom: 14 }}>
-            <Link href="/">Home</Link> &nbsp;/&nbsp; {cat.name}
-          </div>
-          <span className="eyebrow">Category</span>
-          <h1>{cat.name}</h1>
-          <p>{cat.blurb}</p>
+      <header className="container" style={{ paddingTop: 26, paddingBottom: 2 }}>
+        <div className="breadcrumb" style={{ marginBottom: 8 }}>
+          <Link href="/">Home</Link> &nbsp;/&nbsp; {cat.name}
         </div>
-        <div className="badge ph"><img src={cat.image} alt={`${cat.name} — cottagecore home decor`} loading="eager" /></div>
-      </section>
+        <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(28px,4vw,42px)", color: "var(--head)", margin: 0 }}>{cat.name}</h1>
+        <p style={{ color: "var(--muted-2)", marginTop: 8, maxWidth: "56ch" }}>{cat.blurb}</p>
+      </header>
 
       {/* SHOP — every product in this category */}
       {products.length > 0 && (
-        <section className="section" style={{ paddingBottom: 12 }}>
+        <section className="section" style={{ paddingTop: 24, paddingBottom: 12 }}>
           <div className="section-head">
             <span className="eyebrow">The finds</span>
             <h2 className="section-title">Shop all {cat.name.toLowerCase()} <span className="count">{products.length}</span></h2>
