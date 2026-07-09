@@ -132,23 +132,15 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
               {edit && <span className="ss-elab">{s.pkey || s.name || "item"}</span>}
             </button>
           ))}
-          <div className={"ss-card" + (cur >= 0 ? " on" : "")} style={cardPos(spots[cur])}>
-            {cur >= 0 && spots[cur] && (edit ? (
-              <div className="ss-ed">
-                <input value={spots[cur].eb || ""} placeholder="Eyebrow (e.g. Dinnerware)" onChange={(e) => setField(cur, "eb", e.target.value)} />
-                <input value={spots[cur].name || ""} placeholder="Product name" onChange={(e) => setField(cur, "name", e.target.value)} />
-                <input value={spots[cur].price || ""} placeholder="Price (e.g. from $34)" onChange={(e) => setField(cur, "price", e.target.value)} />
-                <input value={spots[cur].url || ""} placeholder="Buy/guide URL" onChange={(e) => setField(cur, "url", e.target.value)} />
-                <button className="del" onClick={() => { setSpots((sp) => sp.filter((_, j) => j !== cur)); setCur(-1); }}>Delete dot</button>
-              </div>
-            ) : (
+          <div className={"ss-card" + (cur >= 0 && !edit ? " on" : "")} style={cardPos(spots[cur])}>
+            {cur >= 0 && spots[cur] && !edit && (
               <>
                 <div className="eb">{spots[cur].eb}</div>
                 <div className="pn">{spots[cur].name}</div>
                 <div className="rw"><span className="pr">{spots[cur].price}</span>
                   <a className="sh" href={spots[cur].url} target="_blank" rel="nofollow sponsored noopener">Shop &rarr;</a></div>
               </>
-            ))}
+            )}
           </div>
           {!edit && <div className="ss-hint">✦ Tap a glowing dot to shop it</div>}
         </div>
@@ -156,11 +148,21 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
       {edit && (
         <div className="ss-bar">
           <b style={{ color: "var(--head,#4a2e25)" }}>Editing “{scene}”</b>
-          <span>drag dots onto items · shift-click a dot to delete · click a dot to edit its info</span>
+          <span>drag a dot onto its item · shift-click a dot to delete · click a dot to edit its fields below</span>
           <button onClick={() => setSpots((s) => [...s, { pkey: "item" + s.length, eb: "", name: "New product", price: "", url: "", cx: 50, cy: 50, sort: s.length }])}>+ add dot</button>
           <input type="password" placeholder="admin passcode" value={pass} onChange={(e) => setPass(e.target.value)} />
           <button onClick={save} style={{ background: "var(--terra,#c77a5e)", color: "#fff", borderColor: "var(--terra,#c77a5e)" }}>Save (live)</button>
           <span>{status}</span>
+          {cur >= 0 && spots[cur] && (
+            <div className="ss-ed" style={{ width: "100%", marginTop: 4 }}>
+              <div style={{ fontSize: 12, fontWeight: 700, color: "var(--terra,#c77a5e)", marginBottom: 2 }}>Editing dot: {spots[cur].pkey || spots[cur].name || "item"}</div>
+              <input value={spots[cur].eb || ""} placeholder="Eyebrow (e.g. Washable rugs)" onChange={(e) => setField(cur, "eb", e.target.value)} />
+              <input value={spots[cur].name || ""} placeholder="Product name" onChange={(e) => setField(cur, "name", e.target.value)} />
+              <input value={spots[cur].price || ""} placeholder="Price (e.g. From $34)" onChange={(e) => setField(cur, "price", e.target.value)} />
+              <input value={spots[cur].url || ""} placeholder="Buy/guide URL" onChange={(e) => setField(cur, "url", e.target.value)} />
+              <button className="del" onClick={() => { setSpots((sp) => sp.filter((_, j) => j !== cur)); setCur(-1); }}>Delete dot</button>
+            </div>
+          )}
         </div>
       )}
     </div>
