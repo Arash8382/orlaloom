@@ -65,7 +65,7 @@ export default function Home() {
             Make every day feel a little softer.
           </h1>
           <p style={{ color: "var(--muted-2)", margin: "0 auto 10px", maxWidth: "56ch" }}>
-            Warm, vintage, cottagecore pieces for the table and home — slide through nine room styles and tap any piece to shop it.
+            Warm, vintage, cottagecore pieces for the table and home — slide through our cottagecore rooms and tap any piece to shop it.
           </p>
         </div>
         <RoomSlider />
