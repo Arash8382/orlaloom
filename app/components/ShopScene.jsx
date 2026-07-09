@@ -80,7 +80,7 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
 
   useEffect(() => {
     const move = (e) => {
-      if (!dragRef.current) return;
+      if (dragRef.current == null) return;
       const p = pct(e);
       setSpots((s) => s.map((sp, i) => (i === dragRef.current ? { ...sp, cx: p.cx, cy: p.cy } : sp)));
     };
