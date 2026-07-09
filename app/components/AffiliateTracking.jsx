@@ -15,7 +15,7 @@ export default function AffiliateTracking() {
       try {
         const h = a.href;
         if (h.includes("amazon.")) retailer = "Amazon";
-        else if (h.includes("awin1.com")) retailer = "Awin";
+        else if (h.includes("lahomedecor.com") || h.includes("partnerboost.com")) retailer = "Lahome";
         else retailer = new URL(h).hostname.replace(/^www\./, "");
       } catch (_) {}
       const product =
