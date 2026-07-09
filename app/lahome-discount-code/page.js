@@ -3,8 +3,7 @@ import { site } from "../../lib/site";
 import CopyCode from "../components/CopyCode";
 
 const CODE = "ORLALOOM20";
-const SHOP_URL =
-  "https://www.awin1.com/cread.php?awinmid=85999&awinaffid=2961017&ued=https%3A%2F%2Flahomedecor.com%2Fcollections%2Fwashable-rugs";
+const SHOP_URL = "https://lahomedecor.com/collections/washable-rugs";
 
 export const metadata = {
   title: "Lahome Discount Code: ORLALOOM20 for 20% Off Washable Rugs (2026)",
@@ -78,14 +77,20 @@ export default function LahomeDealPage() {
         <h1>Lahome Discount Code: 20% Off Washable Rugs</h1>
         <p className="sub">
           We teamed up with Lahome to get you an exclusive code. Copy it, shop their
-          washable cottagecore rugs, and take <strong>20% off</strong> at checkout.
+          washable cottagecore rugs, and take <strong>20% off orders of $70 or more</strong>{" "}
+          at checkout.
         </p>
 
         <CopyCode code={CODE} />
 
-        <p className="deal-terms">
-          20% off · minimum purchase $70 · full-price items (clearance excluded) · valid
-          through Dec 31, 2026
+        <p
+          className="deal-terms"
+          style={{ fontWeight: 700, color: "var(--head)", fontSize: "1.05rem" }}
+        >
+          20% off orders of <strong>$70 or more</strong>
+        </p>
+        <p className="deal-terms" style={{ marginTop: "4px" }}>
+          Full-price items only (clearance excluded) · valid through Dec 31, 2026
         </p>
 
         <div>
