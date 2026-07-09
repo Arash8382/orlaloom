@@ -3,7 +3,7 @@ import { site } from "../../lib/site";
 import CopyCode from "../components/CopyCode";
 
 const CODE = "ORLALOOM20";
-const SHOP_URL = "https://lahomedecor.com/collections/washable-rugs";
+const SHOP_URL = "https://app.partnerboost.com/track/17d5bycoQ5Q3R7ugY1EPOrtoNix4AqJdZea1Uco35s5ixck6zTSsERs_a3jM_ba9AMM2C7sFQSOVLpFajHva7XCj8C";
 
 export const metadata = {
   title: "Lahome Discount Code: ORLALOOM20 for 20% Off Washable Rugs (2026)",
