@@ -12,7 +12,10 @@ export const roomProducts = {
   butter:     { eb: "Butter dishes", prod: "Fungi Fun Mushroom Butter Dish", price: "From $25", blurb: "The toadstool detail that finishes a table.", url: "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20" },
   art:        { eb: "Home décor", prod: "Wildflower Wall Art, Set of 3", price: "From $40", blurb: "Soft botanical prints for a calm wall.", url: "https://www.amazon.com/Wildflower-Botanical-Pictures-Cottagecore-Painting/dp/B0GXF8ZX36?tag=orlaloom-20" },
   mirror:     { eb: "Home décor", prod: "Scalloped Arch Wall Mirror", price: "From $90", blurb: "A wavy gold scallop that lifts a hallway.", url: "https://www.amazon.com/Kate-Laurel-Scalloped-Decorative-Glamorous/dp/B09RSM9W8S?tag=orlaloom-20" },
-  baskets:    { eb: "Home décor", prod: "Scalloped Wicker Wall Baskets", price: "From $60", blurb: "Handwoven texture for a warm corner.", url: "https://www.amazon.com/dp/B0D7PLDGPD?tag=orlaloom-20" }
+  baskets:    { eb: "Home décor", prod: "Scalloped Wicker Wall Baskets", price: "From $60", blurb: "Handwoven texture for a warm corner.", url: "https://www.amazon.com/dp/B0D7PLDGPD?tag=orlaloom-20" },
+  coralie:    { eb: "Washable rugs", prod: "Coralie Cottagecore Floral Rose Pink Rug", price: "From $36.99", blurb: "Scalloped rose-pink florals, fully washable.", url: "https://lahomedecor.com/products/coralie-washable-cottagecore-floral-border-rose-pink-rug" },
+  vaseset:    { eb: "Home décor", prod: "White Ceramic Bud Vase Set", price: "From $20", blurb: "A cluster of matte bud vases for dried stems.", url: "https://www.amazon.com/dp/B0GK2P622Z?tag=orlaloom-20" },
+  arendahl:   { eb: "Home décor", prod: "Kate & Laurel Arendahl Arch Mirror", price: "$82.99", blurb: "A traditional gold arch mirror that opens a wall.", url: "https://www.amazon.com/Kate-Laurel-Arendahl-Traditional-Inspired/dp/B087GCPXBP?tag=orlaloom-20" }
 };
 
 export const rooms = [
@@ -35,5 +38,18 @@ export const rooms = [
     { k: "art", cx: 24, cy: 28 },
     { k: "mirror", cx: 55, cy: 28 },
     { k: "baskets", cx: 82, cy: 28 }
+  ]},
+  { key: "bedroom", label: "The Bedroom", spots: [
+    { k: "coralie", cx: 30, cy: 80 },
+    { k: "quilt", cx: 65, cy: 48 }
+  ]},
+  { key: "nook", label: "Reading Nook", spots: [
+    { k: "celeste", cx: 35, cy: 82 },
+    { k: "amberglass", cx: 72, cy: 45 },
+    { k: "art", cx: 62, cy: 18 }
+  ]},
+  { key: "console", label: "The Console", spots: [
+    { k: "arendahl", cx: 50, cy: 18 },
+    { k: "vaseset", cx: 50, cy: 60 }
   ]}
 ];
