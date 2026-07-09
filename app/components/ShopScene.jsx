@@ -115,10 +115,10 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
       <style dangerouslySetInnerHTML={{ __html: css }} />
       <div className="ss-wrap">
         {title && (
-          <div style={{ textAlign: "center", margin: "10px 0 16px" }}>
-            <div style={{ display: "inline-flex", alignItems: "center", gap: 14, letterSpacing: ".18em", fontSize: 12, color: "var(--terra,#c77a5e)", fontWeight: 700, textTransform: "uppercase" }}>{eyebrow}</div>
-            <h2 style={{ fontFamily: "var(--serif,Georgia,serif)", fontSize: "clamp(28px,4vw,42px)", fontWeight: 500, color: "var(--head,#4a2e25)", margin: "10px 0 6px", letterSpacing: "-.01em" }}>{title}</h2>
-            <p style={{ fontFamily: "Lora,Georgia,serif", fontStyle: "italic", color: "var(--muted-2,#6b574e)", margin: 0 }}>{subtitle}</p>
+          <div style={{ textAlign: "center", margin: "6px 0 10px" }}>
+            <div style={{ display: "inline-flex", alignItems: "center", gap: 14, letterSpacing: ".18em", fontSize: 11, color: "var(--terra,#c77a5e)", fontWeight: 700, textTransform: "uppercase" }}>{eyebrow}</div>
+            <h2 style={{ fontFamily: "var(--serif,Georgia,serif)", fontSize: "clamp(24px,3vw,34px)", fontWeight: 500, color: "var(--head,#4a2e25)", margin: "4px 0 4px", letterSpacing: "-.01em" }}>{title}</h2>
+            <p style={{ fontFamily: "Lora,Georgia,serif", fontStyle: "italic", color: "var(--muted-2,#6b574e)", margin: 0, fontSize: 14 }}>{subtitle}</p>
           </div>
         )}
         <div className={"ss-stage" + (edit ? " editing" : "")} ref={stageRef} onMouseLeave={() => !edit && setCur(-1)}>
