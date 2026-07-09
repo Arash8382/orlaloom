@@ -58,14 +58,14 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       {/* HERO — shoppable scene, the new signature style */}
-      <section style={{ paddingTop: 24 }}>
+      <section style={{ paddingTop: 12 }}>
         <div style={{ textAlign: "center", maxWidth: 780, margin: "0 auto", padding: "0 24px" }}>
           <span className="eyebrow">Cosy finds, gently chosen</span>
-          <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(30px,5vw,54px)", color: "var(--head)", lineHeight: 1.04, margin: "12px 0 14px", letterSpacing: "-.01em" }}>
+          <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(26px,3.6vw,40px)", color: "var(--head)", lineHeight: 1.05, margin: "6px 0 8px", letterSpacing: "-.01em" }}>
             Make every day feel a little softer.
           </h1>
-          <p style={{ color: "var(--muted-2)", margin: "0 auto 10px", maxWidth: "56ch" }}>
-            Warm, vintage, cottagecore pieces for the table and home — slide through our cottagecore rooms and tap any piece to shop it.
+          <p style={{ color: "var(--muted-2)", margin: "0 auto 12px", maxWidth: "56ch", fontSize: 15 }}>
+            Slide through our cottagecore rooms and tap any piece to shop it.
           </p>
         </div>
         <RoomSlider />
