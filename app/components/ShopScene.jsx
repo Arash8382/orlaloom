@@ -121,7 +121,7 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
             <p style={{ fontFamily: "Lora,Georgia,serif", fontStyle: "italic", color: "var(--muted-2,#6b574e)", margin: 0 }}>{subtitle}</p>
           </div>
         )}
-        <div className={"ss-stage" + (edit ? " editing" : "")} ref={stageRef}>
+        <div className={"ss-stage" + (edit ? " editing" : "")} ref={stageRef} onMouseLeave={() => !edit && setCur(-1)}>
           <img src={src} alt={(title || scene) + " shoppable scene"} onError={() => setImgOk(false)} />
           {spots.map((s, i) => (
             <button key={i} className={"ss-spot" + (cur === i ? " on" : "")} style={{ left: s.cx + "%", top: s.cy + "%" }}
