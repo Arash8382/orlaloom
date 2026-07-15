@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { site, categoryBySlug, categoryImage } from "../../../lib/site";
+import { site, author, categoryBySlug, categoryImage } from "../../../lib/site";
 import { getPostSlugs, getPost, getPostMeta, getRelatedPosts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
 import GuideExtras from "../../components/GuideExtras";
@@ -66,7 +66,7 @@ export default async function PostPage({ params }) {
         image: heroImg ? [heroImg] : undefined,
         datePublished: post.date,
         dateModified: post.date,
-        author: { "@type": "Organization", name: "Orla Loom editors", url: site.url },
+        author: { "@type": "Person", name: author.name, url: `${site.url}/about`, jobTitle: author.role },
         publisher: {
           "@type": "Organization",
           name: site.name,
@@ -94,6 +94,25 @@ export default async function PostPage({ params }) {
             })),
           }]
         : []),
+      // Product entities with our editorial take — gives Google and AI answer
+      // engines clean, citable facts per product. No fabricated star ratings or
+      // prices: just name, brand, image, and our honest one-line assessment.
+      ...(post.products && post.products.length
+        ? post.products.map((pr) => ({
+            "@type": "Product",
+            name: pr.name,
+            ...(pr.image ? { image: pr.image } : {}),
+            ...(pr.url ? { url: pr.url } : {}),
+            ...(pr.brand ? { brand: { "@type": "Brand", name: pr.brand } } : {}),
+            ...(pr.blurb ? { description: pr.blurb } : {}),
+            review: {
+              "@type": "Review",
+              author: { "@type": "Person", name: author.name, url: `${site.url}/about` },
+              publisher: { "@type": "Organization", name: site.name },
+              ...(pr.blurb ? { reviewBody: pr.blurb } : {}),
+            },
+          }))
+        : []),
       ...(post.faqs && post.faqs.length
         ? [{
             "@type": "FAQPage",
@@ -120,8 +139,8 @@ export default async function PostPage({ params }) {
         {cat && <Link className="eyebrow" href={`/category/${cat.slug}`}>{cat.name}</Link>}
         <h1>{post.title}</h1>
         <div className="byline">
-          <span className="avatar">OL</span>
-          <span>By the Orla Loom editors · {dateStr} · Independently curated</span>
+          <span className="avatar">{author.initials}</span>
+          <span>By <a href="/about" style={{ color: "var(--head)", fontWeight: 600 }}>{author.name}</a> · {dateStr} · Independently curated</span>
         </div>
       </header>
 
