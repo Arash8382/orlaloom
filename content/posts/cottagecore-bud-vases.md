@@ -50,20 +50,20 @@ products:
     blurb: "Small bud vases in multi-packs — perfect for scattering single stems down a table."
     caveat: "Listings vary; check reviews for true ceramic vs. thin earthenware."
     url: "https://www.amazon.com/dp/B0GK2P622Z?tag=orlaloom-20"
-  - name: "Handmade Vintage Stoneware Ceramic Vase"
+  - name: "Sullivans Ceramic Bud Vase Set (Set of 3)"
     image: "https://images.unsplash.com/photo-1698163002916-67b8b926583c?auto=format&fit=crop&w=900&q=70"
-    brand: "Manoir Group"
-    price: "~$35–55"
-    retailer: "Manoir Group"
-    badge: "Most authentic"
-    blurb: "Earthy, textured, handmade stoneware with a genuinely aged look."
-    caveat: "Boutique pricing and longer lead times."
-    url: "https://www.manoirgroup.com/products/handmade-vintage-stoneware-ceramic-vase"
+    brand: "Sullivans"
+    price: "~$25–35"
+    retailer: "Amazon"
+    badge: "Best rustic set"
+    blurb: "A trio of crackle-glazed ceramic vases with a genuinely aged, farmhouse look — the authentic stoneware feel without boutique lead times."
+    caveat: "Small accent vases sized for single stems and dried grasses, not big bouquets."
+    url: "https://www.amazon.com/Sullivans-Ceramic-Centerpieces-Kitchen-CM2583/dp/B01AV4YQ3Q?tag=orlaloom-20"
 ---
 
 A bud vase is the cheapest piece of décor that earns its keep daily — one stem of something from the garden, and a windowsill comes alive. Here are the prettiest little vessels for exactly that.
 
-**Quick picks:** Most charming — Gugugo · Pitcher look — Fluted Flair · Best value set — multi-pack · Most authentic — Manoir stoneware.
+**Quick picks:** Most charming — Gugugo · Pitcher look — Fluted Flair · Best value set — multi-pack · Best rustic set — Sullivans ceramic.
 
 ## Single stems vs. gathered bunches
 

@@ -23,15 +23,15 @@ products:
     blurb: "Soft low-twist cotton with a scalloped contrast binding in gentle cottage hues."
     caveat: "Sold per piece, so a full set adds up."
     url: "https://kassatex.com/products/chairish-towels"
-  - name: "Bersuse 100% Cotton Waffle Turkish Towel"
+  - name: "Püskül Turkish Cotton Waffle Towel Set (4-Piece)"
     image: "https://m.media-amazon.com/images/I/91U9QWc1RdL._AC_SL1500_.jpg"
-    brand: "Bersuse"
-    price: "~$25–40"
+    brand: "Püskül"
+    price: "~$35–45"
     retailer: "Amazon"
     badge: "Best waffle"
-    blurb: "A handloomed waffle Turkish towel with great vintage texture that dries fast and packs flat."
-    caveat: "XL throw size and thinner than plush terry."
-    url: "https://www.amazon.com/Bersuse-100-Cotton-Peshtemal-Handloom/dp/B07GZYLBJ5?tag=orlaloom-20"
+    blurb: "A 4-piece set — 2 hand and 2 bath — of organic Turkish-cotton waffle towels: airy, quick-drying, and that lovely textured cottage look."
+    caveat: "Thin and lightweight by design, so less plush than terry."
+    url: "https://www.amazon.com/P%C3%BCsk%C3%BCl-Bathroom-Premium-Organic-100-Turkish/dp/B0BQBSY7PR?tag=orlaloom-20"
   - name: "Smyrna Turkish Cotton Bath Towels"
     image: "https://m.media-amazon.com/images/I/91fwL2dfqVL._AC_SL1500_.jpg"
     brand: "Smyrna"
@@ -63,7 +63,7 @@ products:
 
 Towels are the easiest soft-furnishing to swap, and the right ones quietly do a lot — a scalloped edge or a waffle weave instantly nudges a plain bathroom toward cottage. Here are the prettiest that still actually dry you off.
 
-**Quick picks:** Cutest detail — Hahafelt scalloped · Best scallop — Kassatex · Best waffle — Bersuse · Whole-bathroom set — 14-piece Turkish.
+**Quick picks:** Cutest detail — Hahafelt scalloped · Best scallop — Kassatex · Best waffle — Püskül set · Whole-bathroom set — 14-piece Turkish.
 
 ## Scalloped vs. waffle
 
