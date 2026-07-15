@@ -50,24 +50,24 @@ products:
     blurb: "A real handmade beige-speckled mug from an independent maker, with the little irregularities that make it feel special."
     caveat: "Limited stock and slower made-to-order shipping."
     url: "https://www.amazon.com/Handmade-Stoneware-Ceramic-speckled-breakfast/dp/B089FHW3QH?tag=orlaloom-20"
-  - name: "Solune Cottagecore Mug"
+  - name: "Dreamstall Mushroom Mug with Lid"
     image: "https://images.unsplash.com/photo-1702281718578-2d4bd167f375?auto=format&fit=crop&w=900&q=70"
-    brand: "Solune Ceramics"
-    price: "~$30–45 each"
-    retailer: "Solune"
+    brand: "Dreamstall"
+    price: "~$22–30"
+    retailer: "Amazon"
     badge: "Most on-theme"
-    blurb: "Purpose-built for the look, with botanical, earthy styling that needs no extra props."
-    caveat: "Boutique DTC, pricier, and no Prime shipping."
-    url: "https://soluneceramics.com/products/cottagecore-mug"
+    blurb: "A sculpted stoneware mushroom mug with a matching lid and gift box — peak cottagecore whimsy that needs no extra styling."
+    caveat: "A novelty shape, so it's more of a decorative statement piece than an everyday-stackable mug."
+    url: "https://www.amazon.com/Dreamstall-Stoneware-Decorative-Cottagecore-Aesthetics/dp/B0B62L9Q9B?tag=orlaloom-20"
 ---
 
 A speckled stoneware mug is the smallest possible upgrade with the biggest cottagecore payoff — that handmade, flecked glaze instantly warms up a morning shelf. Here are the ones worth reaching for, from genuinely handcrafted to budget sets that fake the look beautifully.
 
-**Quick picks:** Best glaze — Le Creuset · Truly handmade — East Fork · Best value set — Sweese · Most on-theme — Solune.
+**Quick picks:** Best glaze — Le Creuset · Truly handmade — East Fork · Best value set — Sweese · Most on-theme — the mushroom mug.
 
 ## Handmade vs. handmade-look
 
-A real handmade mug (East Fork, Solune, Amazon Handmade) has subtle weight and glaze variation no factory mug matches — but you pay for it. The smart move for a full shelf: one or two handmade "hero" mugs mixed with an affordable speckled set so the whole group reads artisan.
+A real handmade mug (East Fork, Amazon Handmade) has subtle weight and glaze variation no factory mug matches — but you pay for it. The smart move for a full shelf: one or two handmade "hero" mugs mixed with an affordable speckled set so the whole group reads artisan.
 
 ## Watch the material
 

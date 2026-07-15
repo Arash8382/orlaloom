@@ -41,20 +41,20 @@ products:
     caveat: "Premium price, and the ornate jar is polarizing if your style is plainer."
     image: "https://images.unsplash.com/photo-1668112037360-900ff60ef6f7?auto=format&fit=crop&w=900&q=70"
     url: "https://voluspa.com/"
-  - name: "Moth to Flame Cottagecore Collection"
-    brand: "Moth to Flame"
-    price: "$24–30"
-    retailer: "Moth to Flame"
-    badge: "Best indie"
-    blurb: "A small-batch line built entirely around cottagecore scent stories — herbal, floral, countryside blends with real personality."
-    caveat: "Indie maker, so stock and specific scents rotate; not on Amazon for easy linking."
+  - name: "Barr-Co. Original Scent Apothecary Jar Candle"
+    brand: "Barr-Co."
+    price: "$28–36"
+    retailer: "Amazon"
+    badge: "Best apothecary jar"
+    blurb: "A soft milk-vanilla-and-oat 'Original Scent' in a classic frosted apothecary jar — grandmacore in candle form, with a long ~120-hour soy-and-vegetable-wax burn."
+    caveat: "The scent is gentle and powdery rather than bold, so the room throw is subtle."
     image: "https://images.unsplash.com/photo-1640095889747-2090ee12fa7d?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.mothtoflamecandles.com/collections/cottagecore"
+    url: "https://www.amazon.com/Barr-Co-Apothecary-Candle-Original/dp/B00C4XXEHC?tag=orlaloom-20"
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw and burn time.
 
-**Quick picks:** Best overall — P.F. Amber & Moss · Best lavender — Voluspa French Cade · Brightest — P.F. Sweet Grapefruit · Best indie — Moth to Flame.
+**Quick picks:** Best overall — P.F. Amber & Moss · Best lavender — Voluspa French Cade · Brightest — P.F. Sweet Grapefruit · Best apothecary jar — Barr-Co. Original Scent.
 
 ## How to choose a cottagecore scent
 
