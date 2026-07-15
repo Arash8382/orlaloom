@@ -41,6 +41,18 @@ export default async function PostPage({ params }) {
   const related = getRelatedPosts(post.slug, post.category, 4);
   const dateStr = new Date(post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
+  // Answer-first "Quick answer" box — a concise TL;DR at the top of each guide.
+  // Humans skim it; AI answer engines (ChatGPT, Perplexity) quote it. Derived
+  // automatically from the guide's top pick, so it works for every guide.
+  const topPick =
+    (post.products || []).find((p) => /top pick|statement|our pick|best overall|editor/i.test(p.badge || "")) ||
+    (post.products || [])[0];
+  const firstSentence = (s) => {
+    if (!s) return "";
+    const m = String(s).match(/^.*?[.!?](\s|$)/);
+    return (m ? m[0] : String(s)).trim();
+  };
+
   const url = `${site.url}/blog/${post.slug}`;
   const heroImg = post.cover || (cat && cat.image) || site.heroImage;
   const jsonLd = {
@@ -116,6 +128,33 @@ export default async function PostPage({ params }) {
       <p className="disclosure">
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
       </p>
+
+      {topPick && (
+        <div
+          style={{
+            background: "var(--card, #fbf7f0)",
+            border: "1px solid var(--line, #e7ddcf)",
+            borderLeft: "4px solid var(--head)",
+            borderRadius: 12,
+            padding: "14px 18px",
+            margin: "0 0 20px",
+          }}
+        >
+          <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--head)", marginBottom: 4 }}>
+            Quick answer
+          </div>
+          <p style={{ margin: 0, color: "var(--ink)", lineHeight: 1.55 }}>
+            The best {cat ? cat.name.toLowerCase().replace(/&/g, "and") : "pick"} in this guide is{" "}
+            <strong>{topPick.name}</strong>
+            {topPick.price ? ` (${topPick.price})` : ""}. {firstSentence(topPick.blurb)}{" "}
+            {topPick.url && (
+              <a href={topPick.url} target="_blank" rel="sponsored noopener noreferrer" style={{ whiteSpace: "nowrap" }}>
+                Check price →
+              </a>
+            )}
+          </p>
+        </div>
+      )}
 
       {/* Shoppable scene hero — matches the category/home style (self-hides if no scene) */}
       {cat && <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} subtitle="Tap any piece to shop it." />}
