@@ -138,9 +138,9 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
               {edit && <span className="ss-elab">{s.pkey || s.name || "item"}</span>}
             </button>
           ))}
-          <div className={"ss-card" + (cur >= 0 && !edit ? " on" : "")} style={cardPos(spots[cur])}>
+          <div key={cur} className={"ss-card" + (cur >= 0 && !edit ? " on" : "")} style={cardPos(spots[cur])}>
             {cur >= 0 && spots[cur] && !edit && (
-              <div className="ss-in" key={cur}>
+              <div className="ss-in">
                 <div className="eb">{spots[cur].eb}</div>
                 <div className="pn">{spots[cur].name}</div>
                 <div className="rw"><span className="pr">{spots[cur].price}</span>
