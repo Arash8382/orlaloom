@@ -19,7 +19,7 @@ const css = `
 .ss-card .eb{font-family:var(--sans,inherit);font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra,#c77a5e);font-weight:700;margin-bottom:7px}
 .ss-card .pn{font-family:var(--serif,Georgia,serif);font-size:19px;font-weight:600;color:var(--head,#4a2e25);line-height:1.2;margin:0 0 12px}
 .ss-card .rw{display:flex;align-items:center;justify-content:space-between;gap:10px}
-.ss-card .pr{font-family:var(--serif,Georgia,serif);font-size:17px;font-weight:600;color:var(--head,#4a2e25)}
+.ss-card .pr{font-family:var(--serif,Georgia,serif);font-size:17px;font-weight:600;color:var(--head,#4a2e25);white-space:nowrap;flex:0 0 auto}
 .ss-card .sh{font-family:var(--sans,inherit);font-size:12.5px;font-weight:700;text-decoration:none;background:var(--terra,#c77a5e);color:#fff;padding:8px 15px;border-radius:20px;white-space:nowrap}
 .ss-hint{position:absolute;left:16px;bottom:14px;background:rgba(52,42,34,.72);color:#fff;font-family:var(--sans,inherit);font-size:12px;padding:6px 13px;border-radius:16px;z-index:5;pointer-events:none}
 .ss-stage.editing{cursor:crosshair}.ss-stage.editing .ss-spot{width:30px;height:30px;cursor:grab}
