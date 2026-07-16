@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef, useState, useCallback } from "react";
+import SaveButton from "./SaveButton";
 
 const SB_URL = "https://nrvwtckpoaibyjpsdsmw.supabase.co";
 const SB_KEY = "sb_publishable_l9NoZ51YgBK9RYWxUtX7MQ_KtsXfv8u";
@@ -30,6 +31,11 @@ const css = `
 .ss-ed{margin-top:10px}.ss-ed input{display:block;width:100%;margin:5px 0;padding:6px 8px;border:1px solid #e0d3bf;border-radius:8px;font-size:12.5px;font-family:var(--sans,inherit)}
 .ss-ed .del{background:#f3dede;border:1px solid #e3b7b7;color:#8a2b2b;border-radius:8px;padding:5px 10px;font-size:12px;cursor:pointer;margin-top:4px}
 @media(max-width:820px){.ss-wrap,.ss-bar{padding-left:16px;padding-right:16px}.ss-card{width:min(72vw,220px);padding:13px 14px}.ss-card .pn{font-size:17px}}
+.save-btn{position:absolute;top:8px;right:8px;z-index:4;width:34px;height:34px;display:flex;align-items:center;justify-content:center;border:none;border-radius:50%;background:rgba(255,255,255,.92);color:var(--head,#4a2e25);cursor:pointer;box-shadow:0 2px 8px rgba(60,45,35,.18);transition:transform .12s ease,background .15s ease,color .15s ease;padding:0}
+.save-btn:hover{transform:scale(1.09);background:#fff}
+.save-btn.on{color:var(--terra,#c77a5e)}
+.save-btn.on svg path{fill:var(--terra,#c77a5e)}
+.ss-card .save-btn.ss-save{position:static;width:32px;height:32px}
 `;
 
 export default function ShopScene({ scene, image, title, eyebrow = "Shop the scene", subtitle = "Tap any piece to see it and shop it." }) {
@@ -122,7 +128,7 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
           </div>
         )}
         <div className={"ss-stage" + (edit ? " editing" : "")} ref={stageRef} onMouseLeave={() => !edit && setCur(-1)}>
-          <img src={src} alt={(title || scene) + " shoppable scene"} onError={() => setImgOk(false)} />
+          <img src={src} alt={(title || scene) + " shoppable scene"} loading="lazy" decoding="async" onError={() => setImgOk(false)} />
           {spots.map((s, i) => (
             <button key={i} className={"ss-spot" + (cur === i ? " on" : "")} style={{ left: s.cx + "%", top: s.cy + "%" }}
               onMouseEnter={() => !edit && setCur(i)}
@@ -138,7 +144,10 @@ export default function ShopScene({ scene, image, title, eyebrow = "Shop the sce
                 <div className="eb">{spots[cur].eb}</div>
                 <div className="pn">{spots[cur].name}</div>
                 <div className="rw"><span className="pr">{spots[cur].price}</span>
-                  <a className="sh" href={spots[cur].url} target="_blank" rel="nofollow sponsored noopener">Shop &rarr;</a></div>
+                  <span style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                    <SaveButton product={{ name: spots[cur].name, url: spots[cur].url, price: spots[cur].price, brand: spots[cur].eb }} className="ss-save" />
+                    <a className="sh" href={spots[cur].url} target="_blank" rel="nofollow sponsored noopener">Shop &rarr;</a>
+                  </span></div>
               </>
             )}
           </div>
