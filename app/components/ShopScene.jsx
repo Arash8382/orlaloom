@@ -14,7 +14,8 @@ const css = `
 .ss-pulse{position:absolute;inset:0;margin:auto;width:16px;height:16px;border-radius:50%;background:var(--terra,#c77a5e);opacity:.5;animation:sspulse 2.3s infinite}
 @keyframes sspulse{0%{transform:scale(1);opacity:.5}70%{transform:scale(2.9);opacity:0}100%{opacity:0}}
 .ss-spot:hover .ss-dot,.ss-spot.on .ss-dot{transform:scale(1.35);background:var(--terra,#c77a5e);border-color:#fff}
-.ss-card{position:absolute;width:236px;background:var(--cream,#faf4ea);border:1px solid #e7dbc6;border-radius:16px;padding:16px 18px;box-shadow:0 22px 55px rgba(30,20,12,.5);opacity:0;visibility:hidden;transition:opacity .15s;z-index:10;text-align:left}
+.ss-card{position:absolute;width:236px;background:var(--cream,#faf4ea);border:1px solid #e7dbc6;border-radius:16px;padding:16px 18px;box-shadow:0 22px 55px rgba(30,20,12,.5);opacity:0;visibility:hidden;transition:opacity .15s;z-index:10;text-align:left;will-change:transform,opacity;backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.ss-card .pn,.ss-card .pr,.ss-card .eb{transform:translateZ(0)}
 .ss-card.on{opacity:1;visibility:visible}
 .ss-card .eb{font-family:var(--sans,inherit);font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra,#c77a5e);font-weight:700;margin-bottom:7px}
 .ss-card .pn{font-family:var(--serif,Georgia,serif);font-size:19px;font-weight:600;color:var(--head,#4a2e25);line-height:1.2;margin:0 0 12px}
