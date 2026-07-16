@@ -1,12 +1,19 @@
+import SaveButton from "./SaveButton";
+
 const css = `
 .al-sec{max-width:1180px;margin:0 auto;padding:20px 30px 46px}
+.al-item{position:relative;break-inside:avoid;margin:0 0 14px}
+.save-btn{position:absolute;top:8px;right:8px;z-index:4;width:34px;height:34px;display:flex;align-items:center;justify-content:center;border:none;border-radius:50%;background:rgba(255,255,255,.92);color:var(--head,#4a2e25);cursor:pointer;box-shadow:0 2px 8px rgba(60,45,35,.18);transition:transform .12s ease,background .15s ease,color .15s ease;padding:0}
+.save-btn:hover{transform:scale(1.09);background:#fff}
+.save-btn.on{color:var(--terra,#c07a54)}
+.save-btn.on svg path{fill:var(--terra,#c07a54)}
 .al-head{display:flex;align-items:baseline;gap:10px;margin:0 0 4px}
 .al-eyebrow{font-family:var(--sans,inherit);letter-spacing:.18em;font-size:11px;font-weight:700;color:var(--terra,#c07a54);text-transform:uppercase;margin-bottom:6px}
 .al-title{font-family:var(--serif,Georgia,serif);font-size:clamp(24px,3vw,32px);color:var(--head,#4a2e25);font-weight:500;margin:0}
 .al-count{font-family:var(--sans,inherit);font-size:13px;color:#fff;background:var(--terra,#c07a54);border-radius:20px;padding:2px 10px}
 .al-sub{font-family:Lora,Georgia,serif;font-style:italic;color:var(--muted-2,#7c6a5f);font-size:14px;margin:2px 0 18px}
 .al-grid{column-count:4;column-gap:14px}
-.al-tile{display:block;break-inside:avoid;margin:0 0 14px;position:relative;border-radius:14px;overflow:hidden;text-decoration:none;background:#fff;box-shadow:0 6px 18px rgba(60,45,35,.10)}
+.al-tile{display:block;margin:0;position:relative;border-radius:14px;overflow:hidden;text-decoration:none;background:#fff;box-shadow:0 6px 18px rgba(60,45,35,.10)}
 .al-tile img{width:100%;display:block;transition:transform .5s ease}
 .al-tile:hover img{transform:scale(1.045)}
 .al-cap{position:absolute;left:0;right:0;bottom:0;padding:28px 13px 12px;background:linear-gradient(to top,rgba(40,28,20,.85),rgba(40,28,20,0));opacity:0;transition:opacity .18s}
@@ -36,17 +43,20 @@ export default function AlbumGrid({ products = [], catName = "the collection", e
       <p className="al-sub">{sub}</p>
       <div className="al-grid">
         {items.map((p, i) => (
-          <a key={i} className="al-tile" href={p.url} target="_blank" rel="nofollow sponsored noopener" aria-label={`Shop ${p.name}`}>
-            {p.badge && <span className="al-badge">{p.badge}</span>}
-            <img src={p.image} alt={p.name} loading="lazy" />
-            <div className="al-cap">
-              <div className="al-name">{p.name}</div>
-              <div className="al-row">
-                <span className="al-price">{p.price}</span>
-                <span className="al-shop">Shop →</span>
+          <div key={i} className="al-item">
+            <a className="al-tile" href={p.url} target="_blank" rel="nofollow sponsored noopener" aria-label={`Shop ${p.name}`}>
+              {p.badge && <span className="al-badge">{p.badge}</span>}
+              <img src={p.image} alt={p.name} loading="lazy" />
+              <div className="al-cap">
+                <div className="al-name">{p.name}</div>
+                <div className="al-row">
+                  <span className="al-price">{p.price}</span>
+                  <span className="al-shop">Shop →</span>
+                </div>
               </div>
-            </div>
-          </a>
+            </a>
+            <SaveButton product={p} />
+          </div>
         ))}
       </div>
     </section>
