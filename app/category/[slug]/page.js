@@ -23,8 +23,6 @@ export function generateMetadata({ params }) {
   };
 }
 
-const srOnly = { position: "absolute", width: 1, height: 1, padding: 0, margin: -1, overflow: "hidden", clip: "rect(0 0 0 0)", whiteSpace: "nowrap", border: 0 };
-
 export default function CategoryPage({ params }) {
   const cat = categoryBySlug(params.slug);
   if (!cat) return notFound();
@@ -50,10 +48,10 @@ export default function CategoryPage({ params }) {
     return (
       <>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        {/* SEO-visible to crawlers, quiet on screen */}
-        <h1 style={srOnly}>{cat.name} — {cat.blurb}</h1>
         <div className="container" style={{ paddingTop: 18 }}>
           <div className="breadcrumb"><Link href="/">Home</Link> &nbsp;/&nbsp; {cat.name}</div>
+          <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(24px,3.4vw,36px)", color: "var(--head)", margin: "10px 0 0" }}>Best Cottagecore {cat.name}</h1>
+          {cat.intro && <p style={{ color: "var(--muted-2)", maxWidth: "72ch", marginTop: 10, lineHeight: 1.65 }}>{cat.intro}</p>}
         </div>
 
         <ShopScene scene={cat.slug} title={`Shop the ${cat.name}`} subtitle="Tap any piece to shop it." />
@@ -87,6 +85,7 @@ export default function CategoryPage({ params }) {
         </div>
         <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(28px,4vw,42px)", color: "var(--head)", margin: 0 }}>{cat.name}</h1>
         <p style={{ color: "var(--muted-2)", marginTop: 8, maxWidth: "56ch" }}>{cat.blurb}</p>
+        {cat.intro && <p style={{ color: "var(--muted-2)", marginTop: 10, maxWidth: "64ch", lineHeight: 1.65 }}>{cat.intro}</p>}
       </header>
 
       {products.length > 0 && (
