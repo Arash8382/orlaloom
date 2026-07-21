@@ -53,6 +53,25 @@ export default async function PostPage({ params }) {
     return (m ? m[0] : String(s)).trim();
   };
 
+  // Turn a human price string ("$18–24", "~$22", "$15–40 each") into valid
+  // schema.org offers so Google treats each Product as rich-result-eligible and
+  // AI answer engines can quote a real price. No fabricated ratings.
+  const priceToOffers = (price) => {
+    if (!price) return null;
+    const nums = String(price).match(/\d+(?:\.\d+)?/g);
+    if (!nums || !nums.length) return null;
+    const vals = nums.map(Number).filter((n) => !isNaN(n));
+    if (!vals.length) return null;
+    const common = { priceCurrency: "USD", availability: "https://schema.org/InStock" };
+    if (vals.length >= 2) {
+      return { "@type": "AggregateOffer", lowPrice: Math.min(...vals), highPrice: Math.max(...vals), ...common };
+    }
+    return { "@type": "Offer", price: vals[0], ...common };
+  };
+
+  const modifiedStr = new Date(post.updated || post.date).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  const wasUpdated = post.updated && post.updated !== post.date;
+
   const url = `${site.url}/blog/${post.slug}`;
   const heroImg = post.cover || (cat && cat.image) || site.heroImage;
   const jsonLd = {
@@ -65,8 +84,8 @@ export default async function PostPage({ params }) {
         description: post.description,
         image: heroImg ? [heroImg] : undefined,
         datePublished: post.date,
-        dateModified: post.date,
-        author: { "@type": "Person", name: author.name, url: `${site.url}/about`, jobTitle: author.role },
+        dateModified: post.updated || post.date,
+        author: { "@type": "Person", name: author.name, url: `${site.url}/about`, jobTitle: author.role, ...(author.sameAs ? { sameAs: author.sameAs } : {}) },
         publisher: {
           "@type": "Organization",
           name: site.name,
@@ -98,20 +117,18 @@ export default async function PostPage({ params }) {
       // engines clean, citable facts per product. No fabricated star ratings or
       // prices: just name, brand, image, and our honest one-line assessment.
       ...(post.products && post.products.length
-        ? post.products.map((pr) => ({
-            "@type": "Product",
-            name: pr.name,
-            ...(pr.image ? { image: pr.image } : {}),
-            ...(pr.url ? { url: pr.url } : {}),
-            ...(pr.brand ? { brand: { "@type": "Brand", name: pr.brand } } : {}),
-            ...(pr.blurb ? { description: pr.blurb } : {}),
-            review: {
-              "@type": "Review",
-              author: { "@type": "Person", name: author.name, url: `${site.url}/about` },
-              publisher: { "@type": "Organization", name: site.name },
-              ...(pr.blurb ? { reviewBody: pr.blurb } : {}),
-            },
-          }))
+        ? post.products.map((pr) => {
+            const offers = priceToOffers(pr.price);
+            return {
+              "@type": "Product",
+              name: pr.name,
+              ...(pr.image ? { image: pr.image } : {}),
+              ...(pr.url ? { url: pr.url } : {}),
+              ...(pr.brand ? { brand: { "@type": "Brand", name: pr.brand } } : {}),
+              ...(pr.blurb ? { description: pr.blurb } : {}),
+              ...(offers ? { offers } : {}),
+            };
+          })
         : []),
       ...(post.faqs && post.faqs.length
         ? [{
@@ -140,7 +157,7 @@ export default async function PostPage({ params }) {
         <h1>{post.title}</h1>
         <div className="byline">
           <span className="avatar">{author.initials}</span>
-          <span>By <a href="/about" style={{ color: "var(--head)", fontWeight: 600 }}>{author.name}</a> · {dateStr} · Independently curated</span>
+          <span>By <a href="/about" style={{ color: "var(--head)", fontWeight: 600 }}>{author.name}</a> · {wasUpdated ? `Updated ${modifiedStr}` : dateStr} · Independently curated</span>
         </div>
       </header>
 
