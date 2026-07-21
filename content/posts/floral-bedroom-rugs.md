@@ -1,8 +1,8 @@
 ---
-title: "Floral Bedroom Rugs: 6 Soft Cottagecore Picks for a Cosy Bedroom (2026)"
-description: "Soft pink, sage and dusty-blue floral washable rugs to warm up a cottagecore bedroom — vintage-inspired, machine-washable picks that feel gentle underfoot beside the bed."
+title: "Floral Bedroom Rugs: 6 Soft, Romantic Cottagecore Picks (2026)"
+description: "The best floral bedroom rugs of 2026 — soft pink, sage and dusty-blue romantic washable floral rugs for the bedroom, vintage-inspired and machine-washable, gentle underfoot beside the bed."
 category: "rugs"
-date: "2026-07-07"
+date: "2026-07-21"
 cover: "/thumbnails/thumb-floral-bedroom-rugs.webp"
 products:
   - name: "Coralie Washable Cottagecore Floral Scalloped Rose Pink Rug"
@@ -79,17 +79,27 @@ Every rug in this guide is a real, in-stock washable floral from Lahome, chosen 
 
 A lot of people land on this page hunting for a **vintage floral area rug** — the faded, antique-looking kind you'd expect to inherit rather than buy. Two picks here nail that look directly: the **Lorielle** redraws a traditional Persian floral medallion in soft pinks and cream, and the **Nina** scatters faded roses like a hand-painted garden. The difference from a true vintage (or vintage-style tufted) rug is practical: these are flat, low-pile and machine-washable, so you get the antique palette without the dust, shedding or dry-clean bills. If you want that vintage feel beyond the bedroom, our [full cottagecore rug guide](/blog/cottagecore-washable-rugs) covers tapestry blues, woodland scenes and maximalist blooms for living rooms too.
 
+## Romantic rugs, specifically
+
+If "romantic" is the exact feeling you're after — more faded roses and candlelight than pattern-for-pattern's-sake — three picks here lean hardest into it. The **Nina** rose garden is the definitive romantic rug: hand-painted-looking roses drifting across soft sage, made for white linen and brass bedside lamps. The **Lorielle** Persian gives you romance with a sense of history, like something carried out of a grandmother's house. And the **Coralie**, with its scalloped rose-pink border, is romance at its sweetest and most affordable. What makes a rug read romantic is the same recipe every time: a faded, dusty palette, florals drawn soft rather than sharp, and edges or borders that feel a little hand-finished. Bright colours and crisp geometry kill the mood; washed-out pinks, sages and creams make it.
+
 ## The soft cottagecore favourite
 
 If you want one safe recommendation, the **Coralie** in rose pink is where I'd start. It's the most affordable rug here, it has the scalloped floral border that reads instantly cottagecore, and at bedside-runner size it's a genuinely low-risk way to try the look. If it turns out you love a floral floor, you can always size up to the **Nina** rose garden or the classic **Lorielle** Persian later. And if pink isn't your room, the **Ariele** dusty blue gives you the same gentle, faded charm in a cooler colour.
 
 ## FAQ
 
+**What's the best floral rug for a bedroom?**
+For most bedrooms, a washable, low-pile floral in a faded palette: the Coralie rose-pink scalloped rug is the best overall (affordable, instantly cottagecore, easy bedside size), the Nina rose garden is the most romantic, and the Ariele dusty blue is the pick for cooler rooms. All three lie flat under bed frames and go in a home washing machine.
+
 **Are washable floral rugs actually comfortable in a bedroom?**
 They're thinner than a traditional plush rug, so they feel more like a firm flatweave than deep carpet underfoot. For a bedroom that's usually fine — you're stepping on them, not lounging on them — and adding a thin rug pad underneath gives you a little extra give while keeping the washability.
 
 **What size rug should I get for beside the bed?**
 For a pair of bedside runners, look for roughly 2 to 3 feet wide. For a single rug across the foot of the bed, match it to your bed width — a runner-length piece for a double or queen. To float the bed on one big rug, a 5x7 works for a queen in a smaller room and an 8x10 for a larger room with the bed fully on it.
+
+**Where should a floral rug go in a bedroom?**
+The three placements that always work: a runner down each side of the bed (feet land on softness either side), one rug across the foot of the bed (the magazine look), or one large rug with the front two-thirds of the bed sitting on it (makes small rooms feel finished). If you only buy one small rug, put it on the side you actually get out of bed.
 
 **How do I wash them?**
 Because the pile top and the non-slip base are separate layers, most of these go in a home washing machine on a cold, gentle cycle — check the specific product's care note for the largest sizes, which sometimes recommend a laundromat machine. Air-dry flat or on low; don't tumble on high heat.

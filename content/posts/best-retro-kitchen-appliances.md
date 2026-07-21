@@ -1,8 +1,8 @@
 ---
-title: "The Best Retro Kitchen Appliances & Brands for 2026"
-description: "The best retro kitchen appliances of 2026 — Smeg kettles, retro stand mixers, pastel mini fridges and toasters — plus the top retro appliance brands and how to build a matching set."
+title: "Retro Kitchen Appliances: Best Brands, Sets & Small Appliances (2026)"
+description: "The best retro kitchen appliances of 2026 — Smeg kettles, stand mixers, pastel mini fridges and toasters — plus the top retro appliance brands, how to build a matching set, and the small appliances worth adding."
 category: "retro-appliances"
-date: "2026-07-16"
+date: "2026-07-21"
 cover: "/thumbnails/thumb-best-retro-kitchen-appliances.webp"
 products:
   - name: "Smeg 50's Retro Electric Kettle (KLF03)"
@@ -67,11 +67,15 @@ A retro appliance is the one piece that turns a kitchen from "where you cook" in
 
 ## Are they worth it?
 
-Mostly you're paying for the look — a basic kettle boils water for a fraction of the price. But if a single appliance sets the mood of your whole kitchen, the Smeg lineup earns it. For function-first buyers, mix one statement piece with cheaper pastel pieces (see our affordable guide).
+Mostly you're paying for the look — a basic kettle boils water for a fraction of the price. But if a single appliance sets the mood of your whole kitchen, the Smeg lineup earns it. For function-first buyers, mix one statement piece with cheaper pastel pieces from our [pastel small appliances guide](/blog/pastel-small-appliances).
 
 ## Build a matching set
 
-A retro kitchen appliance *set* — kettle, toaster, and coffee machine in one colour — reads intentional and high-end in a way a single piece can't. Smeg makes the most complete matching lineup (kettle, toaster, coffee machine, stand mixer, blender and kettle all share the exact 1950s silhouette and colourway), which is why most people build their set around it. If a full Smeg set is out of budget, anchor with the kettle (the most-seen piece on any counter) and fill in the rest with colour-matched Haden or Dash dupes — from a few feet away the look reads the same.
+A retro kitchen appliance *set* (sometimes sold as a "suite") — kettle, toaster, and coffee machine in one colour — reads intentional and high-end in a way a single piece can't. Smeg makes the most complete matching lineup (kettle, toaster, coffee machine, stand mixer and blender all share the exact 1950s silhouette and colourway), which is why most people build their set around it. If a full Smeg set is out of budget, anchor with the kettle (the most-seen piece on any counter) and fill in the rest with colour-matched Haden or Dash dupes — from a few feet away the look reads the same. We've compared the two head-to-head in our [Smeg vs Haden toaster review](/blog/smeg-vs-haden-toaster), and rounded up the [best Smeg dupes](/blog/best-smeg-dupes) if you want the full budget set.
+
+## Retro small kitchen appliances
+
+If a fridge or stand mixer is more commitment than your counter (or budget) wants, retro *small* appliances get you the same look in miniature: pastel hand blenders, toasters, kettles, mini waffle makers and egg cookers. The Smeg hand blender above is the most affordable way into the premium lineup, Dash makes sub-$30 pastel minis, and Haden covers the middle ground. Small pieces are also the easiest to colour-match across brands — a cream Dash waffle maker next to a cream Smeg kettle reads as one set. For a full rundown of the budget end, see our [pastel small appliances guide](/blog/pastel-small-appliances); for the counter-anchoring pieces, we've gone deeper on [retro coffee makers](/blog/retro-coffee-makers), [retro stand mixers](/blog/retro-stand-mixers) and [retro mini fridges](/blog/retro-mini-fridge).
 
 ## Best retro appliance brands
 
@@ -97,3 +101,14 @@ The build (enamelled steel, solid feel) is genuinely nice; the functions are sim
 
 **What's the cheapest way to get the retro look?**
 A retro mini fridge (Galanz) or an affordable Haden/Dash piece delivers most of the aesthetic for far less — see our [pastel small appliances guide](/blog/pastel-small-appliances) for the best budget picks.
+
+**Which retro appliances should I buy first?**
+Order of visual impact per dollar: a retro mini fridge (biggest presence), then the kettle (most-seen small piece), then toaster and coffee machine to complete the set. The stand mixer is the splurge you add last — or first, if you actually bake.
+
+## Related guides
+
+- [Retro coffee makers](/blog/retro-coffee-makers) — drip, espresso and percolator picks with the 1950s silhouette.
+- [Retro stand mixers](/blog/retro-stand-mixers) — Smeg vs KitchenAid vs the budget lookalikes.
+- [Retro mini fridges](/blog/retro-mini-fridge) — the single biggest-impact retro piece for the money.
+- [Best Smeg dupes](/blog/best-smeg-dupes) — the whole look for a third of the price.
+- [Cottagecore kitchen decor](/blog/cottagecore-kitchen-decor) — everything around the appliances.
