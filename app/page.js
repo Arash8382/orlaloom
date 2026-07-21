@@ -51,6 +51,7 @@ export default function Home() {
         "@id": `${site.url}/#organization`,
         name: site.name,
         url: site.url,
+        description: site.description,
         logo: { "@type": "ImageObject", url: `${site.url}/orla-loom-logo.png` },
         sameAs: ["https://www.instagram.com/orlaloom/", "https://www.pinterest.com/orlaloom/"],
       },
@@ -61,6 +62,11 @@ export default function Home() {
         url: site.url,
         description: site.description,
         publisher: { "@id": `${site.url}/#organization` },
+        potentialAction: {
+          "@type": "SearchAction",
+          target: { "@type": "EntryPoint", urlTemplate: `${site.url}/search?q={search_term_string}` },
+          "query-input": "required name=search_term_string",
+        },
       },
     ],
   };
