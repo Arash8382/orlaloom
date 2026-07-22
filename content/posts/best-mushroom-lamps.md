@@ -57,17 +57,17 @@ products:
     badge: "Best stained glass"
     blurb: "Real cut-and-soldered glass panels give this little mushroom a jewel-box, fairy-tale glow, with three color temperatures to play with. It is the piece that turns a plain shelf into an Art Nouveau vignette."
     caveat: "At about 8 inches it is a decorative accent, not a whole-room light source, and the soldered glass is the most fragile style here."
-    image: "https://images.unsplash.com/photo-1543198126-a4f31f28b8c6?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71mQ4htDU1L._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Ppbmocw-Tiffany-Stained-Mushroom-8X11inch/dp/B0CNP5JZMX?tag=orlaloom-20"
-  - name: "LED Cordless Rechargeable Mushroom Table Lamp"
+  - name: "Cordless Rechargeable Mushroom Table Lamp (3-Color, Dimmable)"
     brand: "Generic"
-    price: "~$25"
+    price: "~$24"
     retailer: "Amazon"
     badge: "Best portable"
-    blurb: "Three brightness levels, up to 30 hours on a charge, and a chunky mushroom shape that looks equally at home on a picnic table or a bedside. A genuinely handy little lamp for porch nights and coffee-shop-at-home vibes."
-    caveat: "The body is plastic, so it feels lighter and less premium than the glass or ceramic picks."
-    image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=70"
-    url: "https://www.amazon.com/Cordless-Mushroom-Portable-Brightness-Rechargeable/dp/B0D2BFVQL4?tag=orlaloom-20"
+    blurb: "Three color temperatures, stepless dimming and a 2600mAh rechargeable battery in a chunky mushroom shape that looks equally at home on a picnic table or a bedside. A genuinely handy little lamp for porch nights and coffee-shop-at-home vibes."
+    caveat: "It is a night-light-class glow rather than a task light, and the lightweight body feels less premium than the glass or ceramic picks."
+    image: "https://m.media-amazon.com/images/I/712exC52VHL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/dp/B0G2Q9LB3V?tag=orlaloom-20"
   - name: "BOHON Ceramic Mushroom Lamp with Wood Base, Pink"
     brand: "BOHON"
     price: "~$50"
@@ -97,7 +97,7 @@ If you are furnishing a more grown-up space and want something with real weight,
 
 **Glass** is where mushroom lamps earn their signature glow, because the whole cap lights up edge to edge. Hand-blown pieces (HEQET, ONEWISH) bring amber warmth and vintage character; the Glivpny's scalloped "egg tart" shade reads cleaner and more mid-century modern; and stained glass — like the **Ppbmocw Tiffany** — is the most decorative of all, throwing a jewel-box pattern of colored light, though it is also the most fragile.
 
-**Ceramic and LED** round things out. Ceramic shades like the **BOHON** put out the most usable, sculptural pool of downward light and look wonderful switched off, which is why they are our overall pick. Portable LED models like the **LED Cordless Rechargeable** lamp last up to 30 hours on a charge and go camping, on the porch or through a power-cut movie night — usually plastic, so less luxe, but the most versatile. As a rule of thumb: glass to glow, ceramic to anchor, wood and LED to roam.
+**Ceramic and LED** round things out. Ceramic shades like the **BOHON** put out the most usable, sculptural pool of downward light and look wonderful switched off, which is why they are our overall pick. Portable LED models like the **Cordless Rechargeable** mushroom lamp run for hours on a single charge and go camping, on the porch or through a power-cut movie night — usually plastic, so less luxe, but the most versatile. As a rule of thumb: glass to glow, ceramic to anchor, wood and LED to roam.
 
 ## How to style a mushroom lamp
 
