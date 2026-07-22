@@ -1,66 +1,13 @@
 {
-  "checkedAt": "2026-07-08T16:13:03.963049+00:00",
-  "checked": 201,
+  "checkedAt": "2026-07-22T07:35:24+00:00",
+  "checked": 393,
   "issues": [
-    {
-      "guide": "vintage-farmhouse-mixing-bowls",
-      "product": "Heritage Blue Stripe Mixing Bowls (Set of 4)",
-      "type": "image-broken",
-      "action": "fixed"
-    },
-    {
-      "guide": "amber-fluted-glassware",
-      "product": "Vintage Amber Ribbed Drinking Glasses (Set of 6)",
-      "type": "out-of-stock",
-      "action": "flagged"
-    },
-    {
-      "guide": "best-cottagecore-candles",
-      "product": "Moth to Flame Cottagecore Collection",
-      "type": "link-dead",
-      "action": "flagged"
-    },
-    {
-      "guide": "washed-linen-tablecloths",
-      "product": "Parachute Washed Linen Tablecloth",
-      "type": "link-dead",
-      "action": "flagged"
-    },
-    {
-      "guide": "aesthetic-butter-dishes",
-      "product": "Le Creuset Stoneware Butter Crock",
-      "type": "out-of-stock",
-      "action": "flagged"
-    },
-    {
-      "guide": "aesthetic-butter-dishes",
-      "product": "Emile Henry French Butter Pot",
-      "type": "out-of-stock",
-      "action": "flagged"
-    },
-    {
-      "guide": "grandmacore-scents-brass-holders",
-      "product": "Antique-Style Brass Taper Holders (Set of 2)",
-      "type": "out-of-stock",
-      "action": "flagged"
-    },
-    {
-      "guide": "scalloped-waffle-towels",
-      "product": "Bersuse 100% Cotton Waffle Turkish Towel",
-      "type": "out-of-stock",
-      "action": "flagged"
-    },
-    {
-      "guide": "speckled-stoneware-mugs",
-      "product": "Solune Cottagecore Mug",
-      "type": "link-dead",
-      "action": "flagged"
-    },
-    {
-      "guide": "cottagecore-bud-vases",
-      "product": "Handmade Vintage Stoneware Ceramic Vase",
-      "type": "link-dead",
-      "action": "flagged"
-    }
+    {"guide": "best-mushroom-lamps", "product": "Ppbmocw Tiffany Stained-Glass Mushroom Lamp", "type": "image-broken", "action": "fixed"},
+    {"guide": "best-mushroom-lamps", "product": "LED Cordless Rechargeable Mushroom Table Lamp", "type": "link-dead", "action": "fixed"},
+    {"guide": "retro-mini-fridge", "product": "Frigidaire EFR840 Retro Mini Fridge with Freezer (3.1 cu ft)", "type": "out-of-stock", "action": "flagged"},
+    {"guide": "retro-toasters", "product": "Haden Heritage 4-Slice Toaster, English Rose", "type": "out-of-stock", "action": "flagged"},
+    {"guide": "retro-toasters", "product": "Dash Clear View Toaster, Aqua", "type": "out-of-stock", "action": "flagged"},
+    {"guide": "retro-toasters", "product": "Galanz Retro 2-Slice Toaster, Blue", "type": "out-of-stock", "action": "flagged"},
+    {"guide": "best-retro-kitchen-appliances", "product": "Galanz Retro Compact Refrigerator (3.1 cu ft)", "type": "out-of-stock", "action": "flagged"}
   ]
 }
