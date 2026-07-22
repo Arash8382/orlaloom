@@ -9,6 +9,7 @@ import PushBell from "./components/PushBell";
 import HomepagePrompt from "./components/HomepagePrompt";
 import AffiliateTracking from "./components/AffiliateTracking";
 import EmailSignup from "./components/EmailSignup";
+import WelcomeBar from "./components/WelcomeBar";
 
 export const metadata = {
   metadataBase: new URL(site.url),
@@ -45,9 +46,10 @@ export default function RootLayout({ children }) {
         <div className="page-shell">
           <DealBanner />
           <Header />
+          <WelcomeBar />
           <main>{children}</main>
           <footer className="footer">
-            <div className="container" style={{ paddingBottom: "8px" }}>
+            <div id="ol-newsletter" className="container" style={{ paddingBottom: "8px" }}>
               <EmailSignup variant="card" />
             </div>
             <div className="container footer-grid">
