@@ -24,7 +24,7 @@ products:
     caveat: "Large, so it needs wall space, and it's at the pricier end."
     url: "https://www.amazon.com/Kate-Laurel-Scalloped-Glamorous-Decorative/dp/B0D3F82SBF?tag=orlaloom-20"
   - name: "Kate and Laurel Carlow Vintage Scalloped Mirror, 24x36\""
-    image: "https://images.unsplash.com/photo-1619378396304-7ef156537d7e?auto=format&fit=crop&w=900&q=70"
+    image: "https://cdn.shopify.com/s/files/1/0046/3585/2867/files/on6jm8rqgzkpmwlzs5gi.jpg?v=1683053537"
     brand: "Kate and Laurel"
     price: "~$100–150"
     retailer: "Kate and Laurel"

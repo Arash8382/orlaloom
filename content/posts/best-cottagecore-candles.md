@@ -12,7 +12,7 @@ products:
     badge: "Best overall"
     blurb: "Soy wax in a kraft-label amber jar with a mossy sage-and-lavender, damp-forest-floor scent — the candle that defines herbal cottagecore."
     caveat: "A 40–50 hr burn is modest for the price, and the throw is subtle rather than whole-room."
-    image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=70"
+    image: "https://cdn.shopify.com/s/files/1/1024/9739/files/SC11_Amber_Moss_Ecomm.jpg?v=1760478403"
     url: "https://pfcandleco.com/collections/amber-moss/products/amber-moss-standard-candle"
   - name: "Voluspa French Cade Lavender"
     brand: "Voluspa"
@@ -48,7 +48,7 @@ products:
     badge: "Best apothecary jar"
     blurb: "A soft milk-vanilla-and-oat 'Original Scent' in a classic frosted apothecary jar — grandmacore in candle form, with a long ~120-hour soy-and-vegetable-wax burn."
     caveat: "The scent is gentle and powdery rather than bold, so the room throw is subtle."
-    image: "https://images.unsplash.com/photo-1640095889747-2090ee12fa7d?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61zugvyprAL._AC_SX679_.jpg"
     url: "https://www.amazon.com/Barr-Co-Apothecary-Candle-Original/dp/B00C4XXEHC?tag=orlaloom-20"
 ---
 

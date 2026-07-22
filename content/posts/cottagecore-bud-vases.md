@@ -51,7 +51,7 @@ products:
     caveat: "Listings vary; check reviews for true ceramic vs. thin earthenware."
     url: "https://www.amazon.com/dp/B0GK2P622Z?tag=orlaloom-20"
   - name: "Sullivans Ceramic Bud Vase Set (Set of 3)"
-    image: "https://images.unsplash.com/photo-1698163002916-67b8b926583c?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61Auj4k8KGL._AC_SL1500_.jpg"
     brand: "Sullivans"
     price: "~$25–35"
     retailer: "Amazon"

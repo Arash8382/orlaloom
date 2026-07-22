@@ -39,7 +39,7 @@ products:
     badge: "Best handmade"
     blurb: "A genuinely hand-thrown pottery mushroom dish sized for a stick of butter — the premium, one-of-a-kind pick."
     caveat: "Sold via the maker's own site, so no Prime shipping."
-    image: "https://images.unsplash.com/photo-1624819107687-15524ecf555a?auto=format&fit=crop&w=900&q=70"
+    image: "https://shopceramicboutique.com/cdn/shop/files/2E1D833A-4011-4868-8151-7D173243B003_1080x.jpg?v=1673881952"
     url: "https://shopceramicboutique.com/products/mushroom-butterdish"
 ---
 

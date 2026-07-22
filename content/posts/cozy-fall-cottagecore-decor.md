@@ -11,7 +11,7 @@ products:
     badge: "Best overall"
     blurb: "A mossy sage-and-lavender, damp-forest-floor scent in a kraft-label amber jar — the candle that makes a room feel like an autumn walk the moment you light it."
     caveat: "A 40–50 hr burn is modest for the price, and the throw is subtle rather than whole-room."
-    image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=70"
+    image: "https://cdn.shopify.com/s/files/1/1024/9739/files/SC11_Amber_Moss_Ecomm.jpg?v=1760478403"
     url: "https://pfcandleco.com/collections/amber-moss/products/amber-moss-standard-candle"
   - name: "Greenland Home Blooming Prairie Patchwork Quilt Set"
     brand: "Greenland Home"

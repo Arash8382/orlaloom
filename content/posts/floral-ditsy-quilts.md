@@ -24,7 +24,7 @@ products:
     caveat: "Runs oversized and long, so it may pool on the floor."
     url: "https://www.amazon.com/Greenland-Home-Antique-3-Piece-Bedspread/dp/B003RWTN8S?tag=orlaloom-20"
   - name: "Greenland Home Ditsy Ruffle Quilt Set"
-    image: "https://images.unsplash.com/photo-1715716958289-8d87eb9753f8?auto=format&fit=crop&w=900&q=70"
+    image: "https://www.greenlandhomefashions.com/wp-content/uploads/2021/05/Ditsy-Ruffle-Quilt-GL-3500-SQ.jpg"
     brand: "Greenland Home"
     price: "~$50–110"
     retailer: "Greenland Home"

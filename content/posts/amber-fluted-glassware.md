@@ -21,7 +21,7 @@ products:
     badge: "Best fluted (clear)"
     blurb: "Vertical fluted 'origami' stripes, stackable and dishwasher-safe — the ribbed look without the color, ready to pair with amber."
     caveat: "Clear, not amber, so add the amber set if you want the warm tone."
-    image: "https://images.unsplash.com/photo-1779524432369-97c28cebd004?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71s6an2JfYL._AC_SX679_.jpg"
     url: "https://www.amazon.com/Ribbed-Glassware-Vintage-Drinking-Glasses/dp/B0BLK9841Y?tag=orlaloom-20"
   - name: "Amber Glass Pitcher with Lid (64 oz)"
     brand: "AEFPOYMXU"
@@ -48,7 +48,7 @@ products:
     badge: "Most dramatic"
     blurb: "Hand-blown amber-and-black tortoiseshell — a richer, more dramatic amber than a plain tumbler for a truly moody table."
     caveat: "Niche supplier (not Amazon/Etsy), so confirm stock and shipping before relying on the link."
-    image: "https://images.unsplash.com/photo-1777628084363-05a039b2c01c?auto=format&fit=crop&w=900&q=70"
+    image: "https://5.imimg.com/data5/SELLER/Default/2025/3/497980110/NX/BG/PM/129168516/06d7fb44bc2d8ff31264e81b99d4a43a-500x500.jpg"
     url: "https://www.thecastlecrafts.com/tumbler.html"
 ---
 

@@ -12,7 +12,7 @@ products:
     badge: "The centerpiece"
     blurb: "Those 1950s curves in pastel sage or cream turn a kettle into the counter's focal point — the single most-photographed cottagecore appliance."
     caveat: "Premium price for the look; it boils water like kettles a third of the cost."
-    image: "https://images.unsplash.com/photo-1722888799634-c5093906feae?auto=format&fit=crop&w=900&q=70"
+    image: "https://cdn.shopify.com/s/files/1/0835/3385/7057/files/KLF04PGUS.jpg?v=1760031685"
     url: "https://smegstore.us/products/electric-kettle-retro-style-pastel-green-glossy-klf04pgus"
   - name: "Romadedi Brass Taper Candlesticks (Set of 2)"
     brand: "Romadedi"
@@ -48,7 +48,7 @@ products:
     badge: "Best statement piece"
     blurb: "A vintage-pedestal scalloped stand that doubles as everyday counter decor and a showpiece when you bake."
     caveat: "Sold brand-direct; a generic scalloped pedestal stand is the budget swap."
-    image: "https://images.unsplash.com/photo-1698944933706-8b6f1330f47e?auto=format&fit=crop&w=900&q=70"
+    image: "https://cdn.shopify.com/s/files/1/0354/3534/8103/files/ScallopedCakeStand.png?v=1771452312"
     url: "https://www.houseofjadehome.com/products/scalloped-cake-stand"
   - name: "Floral Transferware Dinner Plates"
     brand: "Heirloomed Collection"
@@ -57,7 +57,7 @@ products:
     badge: "Best new set"
     blurb: "New, food-safe transferware if you'd rather buy a matching set than gamble on vintage singles."
     caveat: "Muted tones read 'soft vintage' more than truly dark; sold brand-direct."
-    image: "https://images.unsplash.com/photo-1583845112239-97ef1341b271?auto=format&fit=crop&w=900&q=70"
+    image: "https://cdn.shopify.com/s/files/1/0331/1763/4698/products/224.jpg?v=1645835503"
     url: "https://heirloomedcollection.com/collections/vintage-transferware/products/floral-transferware-dinner-plate"
 ---
 

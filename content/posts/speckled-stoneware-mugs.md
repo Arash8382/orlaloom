@@ -51,7 +51,7 @@ products:
     caveat: "Limited stock and slower made-to-order shipping."
     url: "https://www.amazon.com/Handmade-Stoneware-Ceramic-speckled-breakfast/dp/B089FHW3QH?tag=orlaloom-20"
   - name: "Dreamstall Mushroom Mug with Lid"
-    image: "https://images.unsplash.com/photo-1702281718578-2d4bd167f375?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/71GIwGUn2pL._AC_SL1500_.jpg"
     brand: "Dreamstall"
     price: "~$22–30"
     retailer: "Amazon"
