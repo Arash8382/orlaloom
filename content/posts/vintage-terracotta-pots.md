@@ -51,14 +51,14 @@ products:
     caveat: "Pricey, limited stock, and sizes vary."
     url: "https://www.rejuvenation.com/products/antique-terracotta-planter/"
   - name: "Italian Classic & Vintage Terracotta Pots"
-    image: "https://images.unsplash.com/photo-1563443255504-a492226757f7?auto=format&fit=crop&w=900&q=70"
+    image: "https://m.media-amazon.com/images/I/61PciTZiyWL._AC_SY879_.jpg"
     brand: "Eye of the Day"
     price: "~$60–500+"
-    retailer: "Eye of the Day"
+    retailer: "Amazon"
     badge: "Best authentic"
     blurb: "Authentic imported Italian and antique terracotta for a true heirloom-garden look."
     caveat: "Specialty retailer with high prices, heavy shipping, and no Prime."
-    url: "https://www.eyeofthedaygdc.com/product-categories/italian-classic-planters-pots/"
+    url: "https://www.amazon.com/dp/B0B8HDQYN7?tag=orlaloom-20"
 ---
 
 Nothing says cottage garden like aged terracotta — sun-faded, a little mossy, with that perfect warm clay color. You can buy it genuinely old, or fake decades of weathering for a few dollars. Here's the full range.
