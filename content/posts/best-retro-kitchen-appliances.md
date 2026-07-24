@@ -3,6 +3,7 @@ title: "Retro Kitchen Appliances: Best Brands, Sets & Small Appliances (2026)"
 description: "The best retro kitchen appliances of 2026 — Smeg kettles, stand mixers, pastel mini fridges and toasters — plus the top retro appliance brands, how to build a matching set, and the small appliances worth adding."
 category: "retro-appliances"
 date: "2026-07-21"
+updated: "2026-07-24"
 cover: "/thumbnails/thumb-best-retro-kitchen-appliances.webp"
 products:
   - name: "Smeg 50's Retro Electric Kettle (KLF03)"

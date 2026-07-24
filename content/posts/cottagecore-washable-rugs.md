@@ -3,6 +3,7 @@ title: "Cottagecore Rugs: The 7 Best Washable Area Rugs for 2026"
 description: "The best cottagecore area rugs of 2026 — floral, vintage, scalloped and woodland washable rugs that bring instant cottage charm to any room. Machine-washable and pet-friendly."
 category: "rugs"
 date: "2026-07-14"
+updated: "2026-07-24"
 cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 products:
   - name: "Claude Maximalism Vibrant Blossom Floral Black Rug"
