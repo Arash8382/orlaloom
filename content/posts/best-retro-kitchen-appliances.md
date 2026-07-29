@@ -1,9 +1,9 @@
 ---
-title: "Retro Kitchen Appliances: Best Brands, Sets & Small Appliances (2026)"
-description: "The best retro kitchen appliances of 2026 — Smeg kettles, stand mixers, pastel mini fridges and toasters — plus the top retro appliance brands, how to build a matching set, and the small appliances worth adding."
+title: "Retro Kitchen Appliances: Best Brands, Sets, Small & Full-Size (2026)"
+description: "The best retro kitchen appliances of 2026 — Smeg kettles, stand mixers, pastel mini fridges and toasters — plus the top retro appliance brands, how to build a matching set, and full-size retro fridges and suites."
 category: "retro-appliances"
-date: "2026-07-21"
-updated: "2026-07-24"
+date: "2026-07-29"
+updated: "2026-07-29"
 cover: "/thumbnails/thumb-best-retro-kitchen-appliances.webp"
 products:
   - name: "Smeg 50's Retro Electric Kettle (KLF03)"
@@ -78,6 +78,12 @@ A retro kitchen appliance *set* (sometimes sold as a "suite") — kettle, toaste
 
 If a fridge or stand mixer is more commitment than your counter (or budget) wants, retro *small* appliances get you the same look in miniature: pastel hand blenders, toasters, kettles, mini waffle makers and egg cookers. The Smeg hand blender above is the most affordable way into the premium lineup, Dash makes sub-$30 pastel minis, and Haden covers the middle ground. Small pieces are also the easiest to colour-match across brands — a cream Dash waffle maker next to a cream Smeg kettle reads as one set. For a full rundown of the budget end, see our [pastel small appliances guide](/blog/pastel-small-appliances); for the counter-anchoring pieces, we've gone deeper on [retro coffee makers](/blog/retro-coffee-makers), [retro stand mixers](/blog/retro-stand-mixers) and [retro mini fridges](/blog/retro-mini-fridge).
 
+## Full-size retro appliances: fridges, ranges and complete suites
+
+Everything above sits on a counter — but if you're renovating, **full-size retro appliances** let you take the 1950s look wall-to-wall. The landscape splits by budget. At the premium end, **Big Chill** and **Elmira Stove Works** build full-size fridges, ranges and dishwashers with genuine mid-century styling (curved corners, chrome trim, custom colours) — beautiful, but expect several thousand dollars per piece. In the middle, **Unique Appliances** and **iio** make retro-styled full-size fridges in the $1,500–3,000 range. And at the accessible end, **Galanz** — the same brand as our mini-fridge pick — sells full-size retro french-door and top-freezer fridges that bring the curved-and-chrome look under $1,000.
+
+Two honest notes. First, a full retro *suite* (fridge + range + dishwasher in one colour) is a committed, price-on-request purchase from the premium brands — most people get 90% of the effect from one full-size retro fridge plus colour-matched countertop pieces. Second, these are modern appliances in vintage costume: you get current efficiency and warranties, not 1950s mechanicals, which is exactly what you want.
+
 ## Best retro appliance brands
 
 If you're comparing the **best retro kitchen appliance brands**, four names cover almost every budget:
@@ -96,6 +102,9 @@ Smeg for the icon pieces (kettle, stand mixer), Galanz for the retro mini fridge
 
 **Can you buy a matching retro appliance set?**
 Yes — Smeg sells its kettle, toaster, coffee machine, blender and stand mixer in the same colours so they read as a set. On a budget, anchor with one Smeg piece and colour-match the rest with Haden or Dash.
+
+**Do retro appliances come in full size?**
+Yes. Big Chill and Elmira Stove Works make premium full-size retro fridges, ranges and dishwashers; Unique and iio cover the mid-range; and Galanz makes full-size retro fridges under $1,000. A single full-size retro fridge plus matching countertop pieces is the most affordable route to the full-kitchen look.
 
 **Is Smeg actually good quality?**
 The build (enamelled steel, solid feel) is genuinely nice; the functions are simple. You pay a premium for design, not performance.
