@@ -1,13 +1,48 @@
 {
-  "checkedAt": "2026-07-22T07:35:24+00:00",
-  "checked": 393,
-  "issues": [
-    {"guide": "best-mushroom-lamps", "product": "Ppbmocw Tiffany Stained-Glass Mushroom Lamp", "type": "image-broken", "action": "fixed"},
-    {"guide": "best-mushroom-lamps", "product": "LED Cordless Rechargeable Mushroom Table Lamp", "type": "link-dead", "action": "fixed"},
-    {"guide": "retro-mini-fridge", "product": "Frigidaire EFR840 Retro Mini Fridge with Freezer (3.1 cu ft)", "type": "out-of-stock", "action": "flagged"},
-    {"guide": "retro-toasters", "product": "Haden Heritage 4-Slice Toaster, English Rose", "type": "out-of-stock", "action": "flagged"},
-    {"guide": "retro-toasters", "product": "Dash Clear View Toaster, Aqua", "type": "out-of-stock", "action": "flagged"},
-    {"guide": "retro-toasters", "product": "Galanz Retro 2-Slice Toaster, Blue", "type": "out-of-stock", "action": "flagged"},
-    {"guide": "best-retro-kitchen-appliances", "product": "Galanz Retro Compact Refrigerator (3.1 cu ft)", "type": "out-of-stock", "action": "flagged"}
-  ]
+ "checkedAt": "2026-07-29T11:46:16+00:00",
+ "checked": 417,
+ "issues": [
+  {
+   "guide": "best-retro-kitchen-appliances",
+   "product": "Galanz Retro Compact Refrigerator (3.1 cu ft)",
+   "type": "out-of-stock",
+   "action": "fixed"
+  },
+  {
+   "guide": "retro-toasters",
+   "product": "Haden Heritage 4-Slice Toaster, English Rose",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "retro-toasters",
+   "product": "Dash Clear View Toaster, Aqua",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "retro-toasters",
+   "product": "Galanz Retro 2-Slice Toaster, Blue",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "aesthetic-butter-dishes",
+   "product": "Emile Henry French Butter Pot",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "amber-fluted-glassware",
+   "product": "Vintage Amber Ribbed Drinking Glasses (Set of 6)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "amber-fluted-glassware",
+   "product": "Megarte Ribbed Origami Highball Glasses (Set of 6)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  }
+ ]
 }
