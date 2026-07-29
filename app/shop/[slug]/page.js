@@ -23,7 +23,7 @@ export function generateMetadata({ params }) {
       description,
       url,
       images: p.image ? [{ url: p.image }] : [],
-      type: "product",
+      type: "website",
     },
     twitter: { card: "summary_large_image", title, description, images: p.image ? [p.image] : [] },
   };
