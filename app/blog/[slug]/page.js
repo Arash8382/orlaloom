@@ -56,13 +56,17 @@ export default async function PostPage({ params }) {
   // Turn a human price string ("$18–24", "~$22", "$15–40 each") into valid
   // schema.org offers so Google treats each Product as rich-result-eligible and
   // AI answer engines can quote a real price. No fabricated ratings.
-  const priceToOffers = (price) => {
+  // We're an affiliate, not the merchant: include the retailer URL on the offer
+  // so Google attributes purchase (and shipping/returns) to the retailer instead
+  // of expecting merchant-listing fields (shippingDetails, hasMerchantReturnPolicy)
+  // from us. We never fabricate shipping or return-policy data we don't control.
+  const priceToOffers = (price, offerUrl) => {
     if (!price) return null;
     const nums = String(price).match(/\d+(?:\.\d+)?/g);
     if (!nums || !nums.length) return null;
     const vals = nums.map(Number).filter((n) => !isNaN(n));
     if (!vals.length) return null;
-    const common = { priceCurrency: "USD", availability: "https://schema.org/InStock" };
+    const common = { priceCurrency: "USD", availability: "https://schema.org/InStock", ...(offerUrl ? { url: offerUrl } : {}) };
     if (vals.length >= 2) {
       return { "@type": "AggregateOffer", lowPrice: Math.min(...vals), highPrice: Math.max(...vals), ...common };
     }
@@ -118,7 +122,7 @@ export default async function PostPage({ params }) {
       // prices: just name, brand, image, and our honest one-line assessment.
       ...(post.products && post.products.length
         ? post.products.map((pr) => {
-            const offers = priceToOffers(pr.price);
+            const offers = priceToOffers(pr.price, pr.url);
             return {
               "@type": "Product",
               name: pr.name,
