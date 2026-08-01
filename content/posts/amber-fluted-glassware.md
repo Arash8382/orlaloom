@@ -3,26 +3,27 @@ title: "Amber & Fluted Glassware for a Moody Table"
 description: "Warm amber tumblers, ribbed fluted glasses, and a pitcher to set a moody, candle-lit cottagecore drink station."
 category: "glassware"
 date: "2026-06-30"
+updated: "2026-08-01"
 cover: "/thumbnails/thumb-amber-fluted-glassware.webp"
 products:
-  - name: "Vintage Amber Ribbed Drinking Glasses (Set of 6)"
+  - name: "Amber Ribbed Glassware Set (Set of 6, 16 oz)"
     brand: "Vintage-style ribbed glass"
-    price: "$28–36"
+    price: "$32–38"
     retailer: "Amazon"
     badge: "Best overall"
     blurb: "Lead-free amber glass with a vintage fluted texture — the quintessential moody-amber tumbler that glows by candlelight."
     caveat: "Mass-produced (not hand-blown), and the amber tint is light — more honey than deep amber."
-    image: "https://m.media-amazon.com/images/I/71POJRel8wL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Ribbed-Glassware-Vintage-Drinking-Glasses/dp/B0BTVMFWQN?tag=orlaloom-20"
-  - name: "Megarte Ribbed Origami Highball Glasses (Set of 6)"
-    brand: "Megarte"
-    price: "$26–34"
+    image: "https://m.media-amazon.com/images/I/81S8PHagdmL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/dp/B0F4X933SS?tag=orlaloom-20"
+  - name: "Qipecedm Ribbed Highball Glasses (Set of 6, 16 oz)"
+    brand: "Qipecedm"
+    price: "$18–24"
     retailer: "Amazon"
     badge: "Best fluted (clear)"
-    blurb: "Vertical fluted 'origami' stripes, stackable and dishwasher-safe — the ribbed look without the color, ready to pair with amber."
+    blurb: "Vertical fluted stripes on a tall 16-oz highball, dishwasher-safe — the ribbed look without the color, ready to pair with amber."
     caveat: "Clear, not amber, so add the amber set if you want the warm tone."
-    image: "https://m.media-amazon.com/images/I/71s6an2JfYL._AC_SX679_.jpg"
-    url: "https://www.amazon.com/Ribbed-Glassware-Vintage-Drinking-Glasses/dp/B0BLK9841Y?tag=orlaloom-20"
+    image: "https://m.media-amazon.com/images/I/81jd48e9NTL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/dp/B0BVBJJV1W?tag=orlaloom-20"
   - name: "Amber Glass Pitcher with Lid (64 oz)"
     brand: "AEFPOYMXU"
     price: "$28–38"
@@ -54,7 +55,7 @@ products:
 
 Amber glass is the secret to a moody, candle-lit table — it catches warm light and makes everything look a little vintage. Add a ribbed, fluted texture and you've got the most-pinned glassware look of the year. Here's how to build it, from everyday tumblers to a splurge coupe.
 
-**Quick picks:** Best overall — amber ribbed tumblers · Best fluted — Megarte origami · Best centerpiece — amber pitcher · Splurge — Estelle amber coupe.
+**Quick picks:** Best overall — amber ribbed tumblers · Best fluted — Qipecedm ribbed highballs · Best centerpiece — amber pitcher · Splurge — Estelle amber coupe.
 
 ## Amber + fluted: why it works
 
