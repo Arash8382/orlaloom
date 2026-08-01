@@ -1,10 +1,16 @@
 {
- "checkedAt": "2026-07-29T11:46:16+00:00",
- "checked": 417,
+ "checkedAt": "2026-08-01T20:57:26Z",
+ "checked": 430,
  "issues": [
   {
-   "guide": "best-retro-kitchen-appliances",
-   "product": "Galanz Retro Compact Refrigerator (3.1 cu ft)",
+   "guide": "amber-fluted-glassware",
+   "product": "Vintage Amber Ribbed Drinking Glasses (Set of 6)",
+   "type": "out-of-stock",
+   "action": "fixed"
+  },
+  {
+   "guide": "amber-fluted-glassware",
+   "product": "Megarte Ribbed Origami Highball Glasses (Set of 6)",
    "type": "out-of-stock",
    "action": "fixed"
   },
@@ -29,18 +35,6 @@
   {
    "guide": "aesthetic-butter-dishes",
    "product": "Emile Henry French Butter Pot",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "amber-fluted-glassware",
-   "product": "Vintage Amber Ribbed Drinking Glasses (Set of 6)",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "amber-fluted-glassware",
-   "product": "Megarte Ribbed Origami Highball Glasses (Set of 6)",
    "type": "out-of-stock",
    "action": "flagged"
   }
