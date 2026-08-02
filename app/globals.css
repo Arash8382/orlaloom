@@ -36,8 +36,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.page-shell { max-width: var(--maxw); margin: 0 auto; background: var(--paper); min-height: 100vh; zoom: 0.85; }
-@media (max-width: 900px){ .page-shell { zoom: 1; } }
+html, body { overflow-x: hidden; max-width: 100%; }
+.page-shell { max-width: var(--maxw); margin: 0 auto; background: var(--paper); min-height: 100vh; width: 100%; overflow-x: hidden; }
+/* zoom is a non-standard prop that miscomputes the viewport on iOS Safari, so
+   apply the desktop shrink ONLY on wide screens — never on mobile. */
+@media (min-width: 901px){ .page-shell { zoom: 0.85; } }
 
 a { color: inherit; text-decoration: none; }
 h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weight: 500; color: var(--head); line-height: 1.12; letter-spacing: -0.01em; }
@@ -462,3 +465,17 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 .mgp-price { font-size: 12.5px; color: var(--muted-2); }
 .mgp-shop { background: var(--head); color: #fff; font-size: 12px; font-weight: 600; padding: 4px 13px; border-radius: 999px; white-space: nowrap; }
 .mgp-more { display: block; margin: 18px auto 6px; background: none; border: 1px solid var(--line); border-radius: 999px; padding: 11px 24px; font-size: 14px; color: var(--head); cursor: pointer; }
+
+/* ---- Save heart: global base so it renders on shop pages + mobile grid ---- */
+.save-btn { position: absolute; top: 8px; right: 8px; z-index: 4; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; border: none; border-radius: 50%; background: rgba(255,255,255,.92); color: var(--head); cursor: pointer; box-shadow: 0 2px 8px rgba(60,45,35,.18); padding: 0; }
+.save-btn:hover { background: #fff; }
+.save-btn.on { color: var(--terra); }
+.save-btn.on svg path { fill: var(--terra); }
+
+/* Product page (/shop/[slug]) — stack image over text on mobile so copy is full-width */
+@media (max-width: 760px) {
+  .product-hero { grid-template-columns: 1fr !important; gap: 16px !important; }
+}
+
+/* Mobile storefront card — anchor the heart */
+.mgp-card-imgw { position: relative; }

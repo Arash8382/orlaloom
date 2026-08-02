@@ -60,7 +60,7 @@ export default function Home() {
   };
   const mobileProducts = [...getProductMap().values()]
     .filter((p) => p.image && groupOf[p.category])
-    .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, group: groupOf[p.category] }));
+    .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, url: p.url || "", brand: p.brand || "", group: groupOf[p.category] }));
   const mobileChips = [
     { key: "all", label: "All items" },
     { key: "kitchen", label: "Kitchen" },
