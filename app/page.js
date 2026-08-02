@@ -43,29 +43,27 @@ export default function Home() {
   const fmtDate = (d) => new Date(d).toLocaleDateString("en-US", { month: "short", day: "numeric" });
   const isNew = (d) => Date.now() - new Date(d).getTime() < 12 * 864e5;
 
-  // Data for the mobile-only storefront (Amazon-style). Filter chips on top, a
-  // scrollable grid of ALL products below. Every product is tagged with a
-  // "space" group so a chip can filter the grid in place. Links to /shop/[slug].
-  const groupOf = {
-    rugs: "living",
-    "home-decor": "living",
-    "butter-dishes": "kitchen",
-    "cottagecore-kitchen": "kitchen",
-    "retro-appliances": "kitchen",
-    "scalloped-dinnerware": "table",
-    glassware: "table",
-    candles: "cosy",
-    textiles: "cosy",
-  };
+  // Data for the single storefront (Amazon-style). One chip menu per real
+  // category swaps a banner + filters the grid in place; the grid holds ALL
+  // products. Each product carries its category slug. Links to /shop/[slug].
+  const chipCats = [
+    { slug: "butter-dishes", label: "Butter Dishes" },
+    { slug: "cottagecore-kitchen", label: "Kitchen" },
+    { slug: "scalloped-dinnerware", label: "Dinnerware" },
+    { slug: "rugs", label: "Rugs" },
+    { slug: "candles", label: "Candles" },
+    { slug: "glassware", label: "Glassware" },
+    { slug: "retro-appliances", label: "Appliances" },
+    { slug: "home-decor", label: "Décor" },
+    { slug: "textiles", label: "Linens" },
+  ];
+  const chipSlugs = new Set(chipCats.map((c) => c.slug));
   const mobileProducts = [...getProductMap().values()]
-    .filter((p) => p.image && groupOf[p.category])
-    .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, url: p.url || "", brand: p.brand || "", group: groupOf[p.category] }));
+    .filter((p) => p.image && chipSlugs.has(p.category))
+    .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, url: p.url || "", brand: p.brand || "", cat: p.category }));
   const mobileChips = [
     { key: "all", label: "All items", banner: "/scenes/home-hero.webp" },
-    { key: "kitchen", label: "Kitchen", banner: "/scenes/cottagecore-kitchen.webp" },
-    { key: "living", label: "Living room", banner: "/scenes/home-decor.webp" },
-    { key: "table", label: "The table", banner: "/scenes/scalloped-dinnerware.webp" },
-    { key: "cosy", label: "Cosy touches", banner: "/scenes/candles.webp" },
+    ...chipCats.map((c) => ({ key: c.slug, label: c.label, banner: `/scenes/${c.slug}.webp` })),
   ];
 
   const jsonLd = {
