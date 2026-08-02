@@ -4,7 +4,7 @@ import { site, author, categoryBySlug } from "../../../lib/site";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
 import SaveButton from "../../components/SaveButton";
-import { getLivePriceForUrl } from "../../../lib/amazon-pricing";
+import { getLivePriceForUrl, asinFromUrl } from "../../../lib/amazon-pricing";
 
 export function generateStaticParams() {
   return getAllProductSlugs().map((slug) => ({ slug }));
@@ -64,6 +64,14 @@ export default async function ProductPage({ params }) {
   const displayPrice = (live && live.price) || p.price;
   const outOfStock = live && live.inStock === false;
   const offers = priceToOffers(displayPrice, p.url);
+
+  // One-tap "Add to Amazon cart": pre-fills the shopper's Amazon cart with our
+  // associate tag attached (commission preserved). Only for Amazon items whose
+  // ASIN we can read; checkout still completes on Amazon.
+  const asin = isAmazon ? asinFromUrl(p.url) : null;
+  const cartUrl = asin
+    ? `https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=orlaloom-20&ASIN.1=${asin}&Quantity.1=1`
+    : null;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -163,6 +171,32 @@ export default async function ProductPage({ params }) {
               }}
             >
               {buyLabel} →
+            </a>
+          )}
+          {cartUrl && (
+            <a
+              href={cartUrl}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                justifyContent: "center",
+                gap: 8,
+                width: "100%",
+                maxWidth: 360,
+                marginTop: 10,
+                background: "#fff",
+                color: "var(--head)",
+                border: "1.5px solid var(--head)",
+                fontWeight: 700,
+                fontSize: 15,
+                padding: "12px 22px",
+                borderRadius: 999,
+                textDecoration: "none",
+              }}
+            >
+              + Add to Amazon cart
             </a>
           )}
           {p.retailer && (
