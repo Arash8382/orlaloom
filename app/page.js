@@ -63,8 +63,8 @@ export default function Home() {
     .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, group: groupOf[p.category] }));
   const mobileChips = [
     { key: "all", label: "All items" },
-    { key: "living", label: "Living room" },
     { key: "kitchen", label: "Kitchen" },
+    { key: "living", label: "Living room" },
     { key: "table", label: "The table" },
     { key: "cosy", label: "Cosy touches" },
   ];
