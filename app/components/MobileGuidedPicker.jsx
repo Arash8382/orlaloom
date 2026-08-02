@@ -12,7 +12,7 @@ export default function MobileGuidedPicker({ chips, products }) {
   const [n, setN] = useState(24);
 
   const cur = chips.find((c) => c.key === sel) || chips[0];
-  const list = sel === "all" ? products : products.filter((p) => p.group === sel);
+  const list = sel === "all" ? products : products.filter((p) => p.cat === sel);
   const shown = list.slice(0, n);
 
   const pick = (k) => {

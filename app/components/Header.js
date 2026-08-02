@@ -4,18 +4,6 @@ import Link from "next/link";
 import { site, categories } from "../../lib/site";
 import { getWishlist, WISHLIST_EVENT } from "../../lib/wishlist";
 
-const navLinks = [
-  { href: "/category/butter-dishes", label: "Butter Dishes" },
-  { href: "/category/scalloped-dinnerware", label: "Dinnerware" },
-  { href: "/category/rugs", label: "Rugs" },
-  { href: "/category/candles", label: "Candles" },
-  { href: "/category/glassware", label: "Glassware" },
-  { href: "/category/retro-appliances", label: "Appliances" },
-  { href: "/category/home-decor", label: "Décor" },
-  { href: "/category/textiles", label: "Linens" },
-  { href: "/about", label: "About" },
-];
-
 export default function Header() {
   const [open, setOpen] = useState(false);
   const [savedCount, setSavedCount] = useState(0);
@@ -38,13 +26,8 @@ export default function Header() {
           {site.name}
         </Link>
 
-        <nav className="nav-desktop">
-          {navLinks.map((l) => (
-            <Link key={l.href} href={l.href}>{l.label}</Link>
-          ))}
-        </nav>
-
         <div className="header-right">
+          <Link className="search-link" href="/about">About</Link>
           <Link className="search-link" href="/search" aria-label="Search products">🔍 Search</Link>
           <Link className="saved-link" href="/wishlist" aria-label="Your saved picks" title="Your saved picks" style={{ display: "inline-flex", alignItems: "center", gap: 5 }}>
             <svg width="18" height="18" viewBox="0 0 24 24" fill={savedCount > 0 ? "currentColor" : "none"} stroke="currentColor" strokeWidth="1.7" strokeLinejoin="round" aria-hidden="true">
