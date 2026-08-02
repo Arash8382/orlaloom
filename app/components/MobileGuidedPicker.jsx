@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import SaveButton from "./SaveButton";
 
 // Mobile-only storefront (Amazon-style): category filter chips pinned on top,
 // a scrollable grid of ALL products below. Default shows everything so shoppers
@@ -45,6 +46,7 @@ export default function MobileGuidedPicker({ chips, products }) {
           <Link key={p.slug} href={`/shop/${p.slug}`} className="mgp-card">
             <div className="mgp-card-imgw">
               <img src={p.image} alt={p.name} loading="lazy" />
+              <SaveButton product={{ name: p.name, image: p.image, price: p.price, url: p.url || `${p.slug}`, brand: p.brand }} />
             </div>
             <div className="mgp-card-name">{p.name}</div>
             <div className="mgp-card-row">
