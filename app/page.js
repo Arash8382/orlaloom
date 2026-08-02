@@ -44,24 +44,30 @@ export default function Home() {
   const fmtDate = (d) => new Date(d).toLocaleDateString("en-US", { month: "short", day: "numeric" });
   const isNew = (d) => Date.now() - new Date(d).getTime() < 12 * 864e5;
 
-  // Data for the mobile-only guided picker (Option C). Each "space" maps to a
-  // few categories; we surface a short list of real products that link to
-  // /shop/[slug]. Kept small so mobile shoppers aren't overwhelmed.
-  const pmap = [...getProductMap().values()].filter((p) => p.image);
-  const pickFor = (cats, n = 8) =>
-    pmap
-      .filter((p) => cats.includes(p.category))
-      .slice(0, n)
-      .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug }));
-  const guidedGroups = [
-    { key: "living", label: "The living room", cats: ["rugs", "home-decor"] },
-    { key: "kitchen", label: "The kitchen", cats: ["butter-dishes", "cottagecore-kitchen", "retro-appliances"] },
-    { key: "table", label: "The table", cats: ["scalloped-dinnerware", "glassware"] },
-    { key: "cosy", label: "Cosy touches", cats: ["candles", "textiles"] },
-  ].map((b) => {
-    const products = pickFor(b.cats);
-    return { key: b.key, label: b.label, cover: (products[0] && products[0].image) || "", products };
-  });
+  // Data for the mobile-only storefront (Amazon-style). Filter chips on top, a
+  // scrollable grid of ALL products below. Every product is tagged with a
+  // "space" group so a chip can filter the grid in place. Links to /shop/[slug].
+  const groupOf = {
+    rugs: "living",
+    "home-decor": "living",
+    "butter-dishes": "kitchen",
+    "cottagecore-kitchen": "kitchen",
+    "retro-appliances": "kitchen",
+    "scalloped-dinnerware": "table",
+    glassware: "table",
+    candles: "cosy",
+    textiles: "cosy",
+  };
+  const mobileProducts = [...getProductMap().values()]
+    .filter((p) => p.image && groupOf[p.category])
+    .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, group: groupOf[p.category] }));
+  const mobileChips = [
+    { key: "all", label: "All items" },
+    { key: "living", label: "Living room" },
+    { key: "kitchen", label: "Kitchen" },
+    { key: "table", label: "The table" },
+    { key: "cosy", label: "Cosy touches" },
+  ];
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -97,7 +103,7 @@ export default function Home() {
 
       {/* MOBILE HOME — guided picker (Option C), only shown under 900px */}
       <section className="mobile-only" style={{ paddingTop: 10 }}>
-        <MobileGuidedPicker groups={guidedGroups} />
+        <MobileGuidedPicker chips={mobileChips} products={mobileProducts} />
       </section>
 
       {/* HERO — shoppable scene, the new signature style (desktop only) */}
