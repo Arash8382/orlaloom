@@ -34,6 +34,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="impact-site-verification" value="ec108d73-6a15-4614-89f9-45f00ed63e80" content="ec108d73-6a15-4614-89f9-45f00ed63e80" />
+        <link rel="alternate" type="application/json" title="Orla Loom product feed" href="/products.json" />
         <script
           type="text/javascript"
           dangerouslySetInnerHTML={{
