@@ -1,55 +1,135 @@
 ---
-title: "Dark Cottagecore Rugs: Moody Floral & Vintage Washable Picks for 2026"
-description: "Black, dark green and deep teal floral washable rugs for a moody, witchy cottagecore room — vintage-inspired, machine-washable picks that hide dirt and pet hair."
-category: "home-decor"
-date: "2026-06-30"
-cover: "/thumbnails/thumb-dark-cottagecore-rugs.webp"
+title: 'Dark Cottagecore Rugs: Moody Floral & Vintage Washable Picks for 2026'
+description: >-
+  Black, dark green and deep teal floral washable rugs for a moody, witchy
+  cottagecore room — vintage-inspired, machine-washable picks that hide dirt and
+  pet hair.
+category: home-decor
+date: '2026-06-30'
+cover: /thumbnails/thumb-dark-cottagecore-rugs.webp
 products:
-  - name: "Claude Washable Maximalism Vibrant Blossom Floral Black Rug"
-    image: "https://lahomedecor.com/cdn/shop/files/LahomeClaudeMaximalismVibrantBlossomFloralBlackRug.webp?crop=center&height=1200&v=1747989076&width=1200"
-    brand: "Lahome"
-    price: "~$37-300"
-    retailer: "Lahome"
-    badge: "Moodiest pick"
-    blurb: "A true black ground packed with painterly blooms — this is the rug that turns a plain room properly dark-cottagecore without going goth. The black hides crumbs, mud and pet hair better than any light rug, and the whole thing goes in the washing machine."
-    caveat: "It's a flat, low-pile washable rug, so it reads more like a tapestry than a plush carpet underfoot."
-    url: "https://app.partnerboost.com/track/3382I0XGO2GdXtLfUEpKKyGyPW45pljac_aKiNKMh3FIkr3Cat1S3iLy9kIuB7LHQlIVGNPbzFf8tWm40OFWNOAMg?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fclaude-maximalism-vibrant-blossom-floral-black-area-rug"
-  - name: "Giverny Washable Vintage French Floral Dark Green Rug"
-    image: "https://lahomedecor.com/cdn/shop/files/5x7LahomeGivernyWashableVintageFrenchGardenFloralDarkGreenAreaRug_1.webp?crop=center&height=1200&v=1745325420&width=1200"
-    brand: "Lahome"
-    price: "~$27-190"
-    retailer: "Lahome"
-    badge: "Best value"
-    blurb: "Faded French-garden florals on a deep forest green — the most affordable way into the look, and the vintage wash means it already feels like an heirloom you inherited. Forgiving colour for high-traffic hallways and dining rooms."
-    caveat: "The smallest sizes start very cheap, but the larger 8x10 jumps in price — check the size dropdown before you fall in love."
-    url: "https://app.partnerboost.com/track/5a1d3Pxf5xl6yGbqvAZSzJZNA8guKik7UnXB6rCCUUmaaihgf9ObCwb7X3Jmgvdww3FT5uK_bQLgGUkpj11mLNO5c?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fgiverny-washable-maximalism-vintage-french-floral-dark-green-rug"
-  - name: "Reine Washable Bohemian Floral Medallion Dark Teal Rug"
-    image: "https://lahomedecor.com/cdn/shop/files/5x7_b0d5ca9e-35b2-486c-9246-410475c45ee8.webp?crop=center&height=1200&v=1754043084&width=1200"
-    brand: "Lahome"
-    price: "~$37-180"
-    retailer: "Lahome"
-    badge: "Best for colour lovers"
-    blurb: "Deep peacock teal with a boho medallion centre — moody but with a jewel-tone richness that stops a dark room feeling heavy. Gorgeous under a brass bed or against terracotta walls."
-    caveat: "Teal is a strong commitment; view it at full size before matching it to existing furniture."
-    url: "https://app.partnerboost.com/track/60e4xQjAX_aFd_asVMWqpLmJ8AHdRiongiK9PEM8Nrt5Du7hljUE2BGJVWN99QNIuhnJ891gutADD2n8Z40beFnpqf?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Freine-washable-bohemian-floral-medallion-dark-teal-rug"
-  - name: "Flore Washable Boho Parisian Floral Scalloped Dark Green Rug"
-    image: "https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralDarkGreenwashableAreaRug_1.webp?crop=center&height=1200&v=1745326051&width=1200"
-    brand: "Lahome"
-    price: "~$37-180"
-    retailer: "Lahome"
-    badge: "Prettiest border"
-    blurb: "A scalloped floral border frames a dark green field — the scallop is the detail that makes it feel cottagecore rather than generic dark boho. The most storybook of the bunch and a favourite under a round dining table."
-    caveat: "The scalloped edge is printed, not cut, so the rug itself is still a standard rectangle."
-    url: "https://app.partnerboost.com/track/ea8d_ag2ncc0oPAPyzt_aJZkrioJnV2we9Mw0n51wXZoWGEUsOAcfIar3DDa58RhaxESEO0AKFw0caMn6JF8ia_bD5u?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fflore-boho-modern-parisian-floral-dark-green-area-rug"
-  - name: "Claude Washable Maximalism Vibrant Blossom Floral Dark Green Rug"
-    image: "https://lahomedecor.com/cdn/shop/files/LahomeClaudeMaximalismVibrantBlossomFloralDarkGreenRug.webp?crop=center&height=1200&v=1747984688&width=1200"
-    brand: "Lahome"
-    price: "~$37-300"
-    retailer: "Lahome"
-    badge: "Most maximalist"
-    blurb: "The same blowsy maximalist bloom as the black Claude, but on a deep green that feels like a midnight garden. If you want one rug to anchor a fully layered, plant-filled cottagecore room, this is it."
-    caveat: "Big, busy pattern — pair it with calmer textiles or the room can tip into too-much."
-    url: "https://app.partnerboost.com/track/480f1vtUO_bOVf_aNVzZastd8d7fsOehOTBjJvp5Mw72l6ykdxNHOf8uQko5zIVX5yR5FrMVF5tLDGrJYj5AZfgxU_b?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fclaude-maximalism-vibrant-blossom-floral-dark-green-area-rug"
+  - name: Claude Washable Maximalism Vibrant Blossom Floral Black Rug
+    image: >-
+      https://lahomedecor.com/cdn/shop/files/LahomeClaudeMaximalismVibrantBlossomFloralBlackRug.webp?crop=center&height=1200&v=1747989076&width=1200
+    brand: Lahome
+    price: ~$37-300
+    retailer: Lahome
+    badge: Moodiest pick
+    blurb: >-
+      A true black ground packed with painterly blooms — this is the rug that
+      turns a plain room properly dark-cottagecore without going goth. The black
+      hides crumbs, mud and pet hair better than any light rug, and the whole
+      thing goes in the washing machine.
+    caveat: >-
+      It's a flat, low-pile washable rug, so it reads more like a tapestry than
+      a plush carpet underfoot.
+    url: >-
+      https://app.partnerboost.com/track/3382I0XGO2GdXtLfUEpKKyGyPW45pljac_aKiNKMh3FIkr3Cat1S3iLy9kIuB7LHQlIVGNPbzFf8tWm40OFWNOAMg?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fclaude-maximalism-vibrant-blossom-floral-black-area-rug
+  - name: Giverny Washable Vintage French Floral Dark Green Rug
+    image: >-
+      https://lahomedecor.com/cdn/shop/files/5x7LahomeGivernyWashableVintageFrenchGardenFloralDarkGreenAreaRug_1.webp?crop=center&height=1200&v=1745325420&width=1200
+    brand: Lahome
+    price: ~$27-190
+    retailer: Lahome
+    badge: Best value
+    blurb: >-
+      Faded French-garden florals on a deep forest green — the most affordable
+      way into the look, and the vintage wash means it already feels like an
+      heirloom you inherited. Forgiving colour for high-traffic hallways and
+      dining rooms.
+    caveat: >-
+      The smallest sizes start very cheap, but the larger 8x10 jumps in price —
+      check the size dropdown before you fall in love.
+    url: >-
+      https://app.partnerboost.com/track/5a1d3Pxf5xl6yGbqvAZSzJZNA8guKik7UnXB6rCCUUmaaihgf9ObCwb7X3Jmgvdww3FT5uK_bQLgGUkpj11mLNO5c?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fgiverny-washable-maximalism-vintage-french-floral-dark-green-rug
+  - name: Reine Washable Bohemian Floral Medallion Dark Teal Rug
+    image: >-
+      https://lahomedecor.com/cdn/shop/files/5x7_b0d5ca9e-35b2-486c-9246-410475c45ee8.webp?crop=center&height=1200&v=1754043084&width=1200
+    brand: Lahome
+    price: ~$37-180
+    retailer: Lahome
+    badge: Best for colour lovers
+    blurb: >-
+      Deep peacock teal with a boho medallion centre — moody but with a
+      jewel-tone richness that stops a dark room feeling heavy. Gorgeous under a
+      brass bed or against terracotta walls.
+    caveat: >-
+      Teal is a strong commitment; view it at full size before matching it to
+      existing furniture.
+    url: >-
+      https://app.partnerboost.com/track/60e4xQjAX_aFd_asVMWqpLmJ8AHdRiongiK9PEM8Nrt5Du7hljUE2BGJVWN99QNIuhnJ891gutADD2n8Z40beFnpqf?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Freine-washable-bohemian-floral-medallion-dark-teal-rug
+  - name: Flore Washable Boho Parisian Floral Scalloped Dark Green Rug
+    image: >-
+      https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralDarkGreenwashableAreaRug_1.webp?crop=center&height=1200&v=1745326051&width=1200
+    brand: Lahome
+    price: ~$37-180
+    retailer: Lahome
+    badge: Prettiest border
+    blurb: >-
+      A scalloped floral border frames a dark green field — the scallop is the
+      detail that makes it feel cottagecore rather than generic dark boho. The
+      most storybook of the bunch and a favourite under a round dining table.
+    caveat: >-
+      The scalloped edge is printed, not cut, so the rug itself is still a
+      standard rectangle.
+    url: >-
+      https://app.partnerboost.com/track/ea8d_ag2ncc0oPAPyzt_aJZkrioJnV2we9Mw0n51wXZoWGEUsOAcfIar3DDa58RhaxESEO0AKFw0caMn6JF8ia_bD5u?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fflore-boho-modern-parisian-floral-dark-green-area-rug
+  - name: Claude Washable Maximalism Vibrant Blossom Floral Dark Green Rug
+    image: >-
+      https://lahomedecor.com/cdn/shop/files/LahomeClaudeMaximalismVibrantBlossomFloralDarkGreenRug.webp?crop=center&height=1200&v=1747984688&width=1200
+    brand: Lahome
+    price: ~$37-300
+    retailer: Lahome
+    badge: Most maximalist
+    blurb: >-
+      The same blowsy maximalist bloom as the black Claude, but on a deep green
+      that feels like a midnight garden. If you want one rug to anchor a fully
+      layered, plant-filled cottagecore room, this is it.
+    caveat: >-
+      Big, busy pattern — pair it with calmer textiles or the room can tip into
+      too-much.
+    url: >-
+      https://app.partnerboost.com/track/480f1vtUO_bOVf_aNVzZastd8d7fsOehOTBjJvp5Mw72l6ykdxNHOf8uQko5zIVX5yR5FrMVF5tLDGrJYj5AZfgxU_b?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fclaude-maximalism-vibrant-blossom-floral-dark-green-area-rug
+faqs:
+  - q: What is the best dark cottagecore rug?
+    a: >-
+      For most rooms it's the Claude Washable Maximalism Vibrant Blossom Floral
+      Black Rug — a true black ground with painterly blooms that goes fully
+      dark-cottagecore without reading goth, and it's machine washable. If black
+      feels too strong, the Giverny in dark green is the most livable and
+      best-value alternative.
+  - q: Are dark rugs harder to keep clean than light ones?
+    a: >-
+      Counterintuitively, no — dark grounds hide everyday dirt, dust, crumbs and
+      pet hair far better than pale rugs, which is part of why they're so
+      practical for hallways, dining rooms and pet households. And because every
+      rug here is machine washable, a real spill isn't a disaster.
+  - q: Will a dark floral rug make a small room feel smaller?
+    a: >-
+      Not if you balance it. Keep the walls and larger furniture lighter, let
+      the rug be the dark anchor, and the contrast actually adds depth rather
+      than shrinking the space. Dark green in particular behaves like a neutral
+      and plays well even in small bedrooms.
+  - q: Do washable rugs really go in the washing machine?
+    a: >-
+      Yes — the thin, flexible pile folds up and washes on a cold gentle cycle
+      with a mild non-bleach detergent, then air dries flat. The smaller runners
+      and accent sizes wash easily at home; an 8x10 is better spot-cleaned or
+      taken to a laundromat with larger drums.
+  - q: Wool or washable — which should I choose?
+    a: >-
+      Wool wins on plushness and longevity if you can hand it to a professional
+      cleaner. But for the moody floral look in a lived-in home with pets, kids
+      and muddy entryways, a washable poly-chenille rug makes far more sense —
+      you get the vintage pattern in a form you can throw in the machine.
+  - q: What size rug do I need under a bed?
+    a: >-
+      Leave about two feet of rug showing on both sides and the foot so you step
+      onto softness — roughly a 5x8 for a twin, 6x9 for a full, 8x10 for a queen
+      and 9x12 for a king. Or skip the big rug and run a pair of small accent
+      rugs down each side. *Prices and availability change; check the current
+      size and colour options on the product page before buying.*
+updated: '2026-08-02'
 ---
 
 The best dark cottagecore rug is the **Claude Washable Maximalism Vibrant Blossom Floral Black Rug** — a machine-washable, low-pile floral on a true black ground that hides everyday mess and turns a plain room properly moody without tipping into goth. If black feels too bold, a deep forest green like the Giverny is the most livable way in. Every pick below is washable and vintage-inspired, chosen because dark grounds forgive the crumbs, mud and pet hair that show instantly on an ivory rug.

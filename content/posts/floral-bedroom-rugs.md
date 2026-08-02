@@ -1,64 +1,151 @@
 ---
-title: "Floral Bedroom Rugs: 6 Soft, Romantic Cottagecore Picks (2026)"
-description: "The best floral bedroom rugs of 2026 — soft pink, sage and dusty-blue romantic washable floral rugs for the bedroom, vintage-inspired and machine-washable, gentle underfoot beside the bed."
-category: "rugs"
-date: "2026-07-21"
-cover: "/thumbnails/thumb-floral-bedroom-rugs.webp"
+title: 'Floral Bedroom Rugs: 6 Soft, Romantic Cottagecore Picks (2026)'
+description: >-
+  The best floral bedroom rugs of 2026 — soft pink, sage and dusty-blue romantic
+  washable floral rugs for the bedroom, vintage-inspired and machine-washable,
+  gentle underfoot beside the bed.
+category: rugs
+date: '2026-07-21'
+cover: /thumbnails/thumb-floral-bedroom-rugs.webp
 products:
-  - name: "Coralie Washable Cottagecore Floral Scalloped Rose Pink Rug"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCoralieWashableCottagecoreFloralBorderRosePinkRug_2_48baac70-958a-4415-940e-02fe661d540b.webp?v=1774864629"
-    brand: "Lahome"
-    price: "~$37-60"
-    retailer: "Lahome"
-    badge: "Best overall"
-    blurb: "A soft rose-pink field with a scalloped floral border — this is the most storybook-cottagecore rug of the bunch and the one I'd put at the foot of the bed. It's the cheapest here too, so it's a low-risk way to test the whole look."
-    caveat: "Only runs to smaller sizes, so it works best as a bedside runner or an accent by the door rather than a big room-filler."
-    url: "https://app.partnerboost.com/track/c20eyntccwGQzqaTttDAIIDOoG1aaq8NF7a90SX1FyyhQACPCFfc5lyaOnN_b5h_aJhGmtSwMPkESRZikgRKBXrGTT?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fcoralie-washable-cottagecore-floral-border-rose-pink-rug"
-  - name: "Nina Washable Romantic Vintage Floral Rose Garden Light Green Rug"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeNinaWashableRomanticVintageFloralRoseGardenLightGreenRug_3.webp?v=1751875323"
-    brand: "Lahome"
-    price: "~$80-180"
-    retailer: "Lahome"
-    badge: "Most romantic"
-    blurb: "Faded roses scattered across a soft sage-green ground — it reads like a hand-painted garden and pairs beautifully with white linen bedding and brass. The gentle green is calmer than pink if you want the room to feel restful."
-    caveat: "Starts at a higher price than the pink picks, so it's more of a considered buy than an impulse one."
-    url: "https://app.partnerboost.com/track/7f34QxPZiGnSgn4HvfJi1KvBv2Li1Y83k3ohMHEQKSVWdoQBUyUMYW0rRkZ54bA3nSIsEa_aKP_b04NaS1kqmHxyn4?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fnina-washable-romantic-vintage-floral-rose-garden-light-green-rug"
-  - name: "Ariele Washable Vintage Floral Scalloped Dusty Blue Rug"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeArieleWashableVintageFloralScallopedblueRug_2.webp?v=1747367359"
-    brand: "Lahome"
-    price: "~$37-240"
-    retailer: "Lahome"
-    badge: "Best for blue rooms"
-    blurb: "A dusty, faded blue with a scalloped floral edge — the colour cottagecore people reach for when they want something softer than pink but still gentle. It has the widest size range here, so you can go bedside runner or full room."
-    caveat: "The blue photographs a touch greyer in low light; check it in daylight against your walls."
-    url: "https://app.partnerboost.com/track/a334jo_b5RKo2T5RyxzfevjxZx2WV8FOu_aZg08_aFM23Zi8YvOahw4ctB3DEeU3A1VqoqYBtR17PzjmglbVSV_aBbsH?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fariele-washable-vintage-floral-scalloped-dusty-blue-rug"
-  - name: "Celiane Washable Meadow Floral Pink Rug"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCelianeWashableMeadowFloralPinkRug_2_e551ca96-99b1-4966-924e-a42442f6c4e2.webp?v=1774926103"
-    brand: "Lahome"
-    price: "~$50-180"
-    retailer: "Lahome"
-    badge: "Prettiest pattern"
-    blurb: "A loose wildflower-meadow print in blush pink — less formal than the Persian styles, more like a summer field pressed flat. Lovely in a girl's room or a light, airy guest bedroom."
-    caveat: "The scattered meadow pattern is busier up close, so it suits a room with plainer bedding and curtains."
-    url: "https://app.partnerboost.com/track/887bSDZ_ay7FoXvh7jhQQnc9_aohBKc4CrCws5_bqRodXQF7m3ygf1HKNwBi5Ovz4igL8KVgCnfK5QhwLmRnVWlnpgf?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fceliane-washable-meadow-floral-pink-rug"
-  - name: "Lorielle Washable Vintage Persian Floral Pink Rug"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeLorielleWashableVintagePersianFloralPinkRug_1_43c92b82-4a21-4db8-9ef8-73ae090f70c9.webp?v=1774926630"
-    brand: "Lahome"
-    price: "~$50-173"
-    retailer: "Lahome"
-    badge: "Most classic"
-    blurb: "A traditional Persian medallion redrawn in soft pinks and cream — the grown-up, heirloom-looking option that still fits a cottagecore room. It's the one that will look just as right in ten years as it does now."
-    caveat: "The formal medallion layout wants to be centred under the bed or in the middle of the floor to look its best."
-    url: "https://app.partnerboost.com/track/7a9a5W2O_aAlc2fBxB_bJfElL2USb5JQYKAhEC_bKsqko9oHAGYd8f3hZez_bwB66pefDwHevSHT4APg84zdRPLBQpEV?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Florielle-washable-vintage-persian-floral-pink-rug"
-  - name: "Amour Washable Patchwork Cottagecore Floral Pink Rug"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeAmourWashableBohoPatchworkFloralPinkRug_2.webp?v=1755501880"
-    brand: "Lahome"
-    price: "~$70-190"
-    retailer: "Lahome"
-    badge: "Most playful"
-    blurb: "A patchwork of different floral squares in pinks and creams — like a quilt for your floor, and the most maximalist pick here. If your bedroom already leans layered and collected, this ties the whole thing together."
-    caveat: "The busy patchwork is a statement; keep the rest of the room's pattern gentle so it doesn't compete."
-    url: "https://app.partnerboost.com/track/bfd91Cl2diX9FW7p0hBzuvnbTvSsSPOQZFgbhLR7RWKngj2aKrJHLgLPQiA_bRpAJhuscK3IeOTsg_bC8el5ab36NK?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Famour-washable-boho-patchwork-floral-pink-rug"
+  - name: Coralie Washable Cottagecore Floral Scalloped Rose Pink Rug
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCoralieWashableCottagecoreFloralBorderRosePinkRug_2_48baac70-958a-4415-940e-02fe661d540b.webp?v=1774864629
+    brand: Lahome
+    price: ~$37-60
+    retailer: Lahome
+    badge: Best overall
+    blurb: >-
+      A soft rose-pink field with a scalloped floral border — this is the most
+      storybook-cottagecore rug of the bunch and the one I'd put at the foot of
+      the bed. It's the cheapest here too, so it's a low-risk way to test the
+      whole look.
+    caveat: >-
+      Only runs to smaller sizes, so it works best as a bedside runner or an
+      accent by the door rather than a big room-filler.
+    url: >-
+      https://app.partnerboost.com/track/c20eyntccwGQzqaTttDAIIDOoG1aaq8NF7a90SX1FyyhQACPCFfc5lyaOnN_b5h_aJhGmtSwMPkESRZikgRKBXrGTT?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fcoralie-washable-cottagecore-floral-border-rose-pink-rug
+  - name: Nina Washable Romantic Vintage Floral Rose Garden Light Green Rug
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeNinaWashableRomanticVintageFloralRoseGardenLightGreenRug_3.webp?v=1751875323
+    brand: Lahome
+    price: ~$80-180
+    retailer: Lahome
+    badge: Most romantic
+    blurb: >-
+      Faded roses scattered across a soft sage-green ground — it reads like a
+      hand-painted garden and pairs beautifully with white linen bedding and
+      brass. The gentle green is calmer than pink if you want the room to feel
+      restful.
+    caveat: >-
+      Starts at a higher price than the pink picks, so it's more of a considered
+      buy than an impulse one.
+    url: >-
+      https://app.partnerboost.com/track/7f34QxPZiGnSgn4HvfJi1KvBv2Li1Y83k3ohMHEQKSVWdoQBUyUMYW0rRkZ54bA3nSIsEa_aKP_b04NaS1kqmHxyn4?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fnina-washable-romantic-vintage-floral-rose-garden-light-green-rug
+  - name: Ariele Washable Vintage Floral Scalloped Dusty Blue Rug
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeArieleWashableVintageFloralScallopedblueRug_2.webp?v=1747367359
+    brand: Lahome
+    price: ~$37-240
+    retailer: Lahome
+    badge: Best for blue rooms
+    blurb: >-
+      A dusty, faded blue with a scalloped floral edge — the colour cottagecore
+      people reach for when they want something softer than pink but still
+      gentle. It has the widest size range here, so you can go bedside runner or
+      full room.
+    caveat: >-
+      The blue photographs a touch greyer in low light; check it in daylight
+      against your walls.
+    url: >-
+      https://app.partnerboost.com/track/a334jo_b5RKo2T5RyxzfevjxZx2WV8FOu_aZg08_aFM23Zi8YvOahw4ctB3DEeU3A1VqoqYBtR17PzjmglbVSV_aBbsH?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fariele-washable-vintage-floral-scalloped-dusty-blue-rug
+  - name: Celiane Washable Meadow Floral Pink Rug
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeCelianeWashableMeadowFloralPinkRug_2_e551ca96-99b1-4966-924e-a42442f6c4e2.webp?v=1774926103
+    brand: Lahome
+    price: ~$50-180
+    retailer: Lahome
+    badge: Prettiest pattern
+    blurb: >-
+      A loose wildflower-meadow print in blush pink — less formal than the
+      Persian styles, more like a summer field pressed flat. Lovely in a girl's
+      room or a light, airy guest bedroom.
+    caveat: >-
+      The scattered meadow pattern is busier up close, so it suits a room with
+      plainer bedding and curtains.
+    url: >-
+      https://app.partnerboost.com/track/887bSDZ_ay7FoXvh7jhQQnc9_aohBKc4CrCws5_bqRodXQF7m3ygf1HKNwBi5Ovz4igL8KVgCnfK5QhwLmRnVWlnpgf?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fceliane-washable-meadow-floral-pink-rug
+  - name: Lorielle Washable Vintage Persian Floral Pink Rug
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeLorielleWashableVintagePersianFloralPinkRug_1_43c92b82-4a21-4db8-9ef8-73ae090f70c9.webp?v=1774926630
+    brand: Lahome
+    price: ~$50-173
+    retailer: Lahome
+    badge: Most classic
+    blurb: >-
+      A traditional Persian medallion redrawn in soft pinks and cream — the
+      grown-up, heirloom-looking option that still fits a cottagecore room. It's
+      the one that will look just as right in ten years as it does now.
+    caveat: >-
+      The formal medallion layout wants to be centred under the bed or in the
+      middle of the floor to look its best.
+    url: >-
+      https://app.partnerboost.com/track/7a9a5W2O_aAlc2fBxB_bJfElL2USb5JQYKAhEC_bKsqko9oHAGYd8f3hZez_bwB66pefDwHevSHT4APg84zdRPLBQpEV?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Florielle-washable-vintage-persian-floral-pink-rug
+  - name: Amour Washable Patchwork Cottagecore Floral Pink Rug
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeAmourWashableBohoPatchworkFloralPinkRug_2.webp?v=1755501880
+    brand: Lahome
+    price: ~$70-190
+    retailer: Lahome
+    badge: Most playful
+    blurb: >-
+      A patchwork of different floral squares in pinks and creams — like a quilt
+      for your floor, and the most maximalist pick here. If your bedroom already
+      leans layered and collected, this ties the whole thing together.
+    caveat: >-
+      The busy patchwork is a statement; keep the rest of the room's pattern
+      gentle so it doesn't compete.
+    url: >-
+      https://app.partnerboost.com/track/bfd91Cl2diX9FW7p0hBzuvnbTvSsSPOQZFgbhLR7RWKngj2aKrJHLgLPQiA_bRpAJhuscK3IeOTsg_bC8el5ab36NK?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Famour-washable-boho-patchwork-floral-pink-rug
+faqs:
+  - q: What's the best floral rug for a bedroom?
+    a: >-
+      For most bedrooms, a washable, low-pile floral in a faded palette: the
+      Coralie rose-pink scalloped rug is the best overall (affordable, instantly
+      cottagecore, easy bedside size), the Nina rose garden is the most
+      romantic, and the Ariele dusty blue is the pick for cooler rooms. All
+      three lie flat under bed frames and go in a home washing machine.
+  - q: Are washable floral rugs actually comfortable in a bedroom?
+    a: >-
+      They're thinner than a traditional plush rug, so they feel more like a
+      firm flatweave than deep carpet underfoot. For a bedroom that's usually
+      fine — you're stepping on them, not lounging on them — and adding a thin
+      rug pad underneath gives you a little extra give while keeping the
+      washability.
+  - q: What size rug should I get for beside the bed?
+    a: >-
+      For a pair of bedside runners, look for roughly 2 to 3 feet wide. For a
+      single rug across the foot of the bed, match it to your bed width — a
+      runner-length piece for a double or queen. To float the bed on one big
+      rug, a 5x7 works for a queen in a smaller room and an 8x10 for a larger
+      room with the bed fully on it.
+  - q: Where should a floral rug go in a bedroom?
+    a: >-
+      The three placements that always work: a runner down each side of the bed
+      (feet land on softness either side), one rug across the foot of the bed
+      (the magazine look), or one large rug with the front two-thirds of the bed
+      sitting on it (makes small rooms feel finished). If you only buy one small
+      rug, put it on the side you actually get out of bed.
+  - q: How do I wash them?
+    a: >-
+      Because the pile top and the non-slip base are separate layers, most of
+      these go in a home washing machine on a cold, gentle cycle — check the
+      specific product's care note for the largest sizes, which sometimes
+      recommend a laundromat machine. Air-dry flat or on low; don't tumble on
+      high heat. Prices and availability shift with size and season, so tap
+      through to Lahome for the current price and the sizes in stock for the
+      room you're styling.
+updated: '2026-08-02'
 ---
 
 The bedroom is the room cottagecore was made for. It's where the whole aesthetic began — white linen, pressed flowers, morning light through a window — and it's the one room that's genuinely yours to make as soft as you like. The fastest way to get there isn't new bedding or another shelf of trinkets. It's the floor. A **floral rug** beside the bed changes the first thing your feet touch in the morning and the last thing you see before the light goes off, and it pulls the whole colour scheme of the room together in one move.

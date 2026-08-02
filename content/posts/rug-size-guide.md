@@ -1,64 +1,130 @@
 ---
-title: "What Size Rug for Every Room? The Cottagecore Rug Size Guide (2026)"
-description: "What size rug for a living room, bedroom, dining room or hallway? A simple cottagecore rug size guide with real washable-rug examples in every size — 8x10, 5x7, runners and rounds."
-category: "rugs"
-date: "2026-07-22"
-cover: "/thumbnails/thumb-rug-size-guide.webp"
+title: What Size Rug for Every Room? The Cottagecore Rug Size Guide (2026)
+description: >-
+  What size rug for a living room, bedroom, dining room or hallway? A simple
+  cottagecore rug size guide with real washable-rug examples in every size —
+  8x10, 5x7, runners and rounds.
+category: rugs
+date: '2026-07-22'
+cover: /thumbnails/thumb-rug-size-guide.webp
 products:
-  - name: "Giverny Vintage French Floral Dark Green Rug (2x3 to 10x14 + Rounds)"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/5x7LahomeGivernyWashableVintageFrenchGardenFloralDarkGreenAreaRug_1.webp"
-    brand: "Lahome"
-    price: "~$37-300"
-    retailer: "Lahome"
-    badge: "Every size, one rug"
-    blurb: "The useful one to bookmark: this faded French floral comes in twelve sizes — 2x3 doormat, three runner lengths, 5x7 through 10x14, and 4 ft and 6 ft rounds — so you can repeat one pattern through a whole cottage without it ever matching too hard."
-    caveat: "The dark green ground is moodier in person than the listing photos; in a dim room it reads almost charcoal."
-    url: "https://app.partnerboost.com/track/b2f2Rto0JPm6YYvR19UFzK6g_bF0obixDtxwKbEUjhganeKM_aGVlRaGVwCFS9cM6ALygoIFyKYvfELABxR3N169Ph?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fgiverny-washable-maximalism-vintage-french-floral-dark-green-rug"
-  - name: "Celeste Vintage Floral Beige Rug (5x7, 8x10, 9x12)"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/5x7CelesteWashableVintageFloralBeigeRug_1.jpg"
-    brand: "Lahome"
-    price: "~$73-230"
-    retailer: "Lahome"
-    badge: "Best 8x10 living room pick"
-    blurb: "A soft beige vintage floral that comes in the three big-room sizes that matter — 5x7, 8x10 and 9x12 — so you can size up to get the front legs of every seat on the rug, which is the single rule that makes a living room look finished."
-    caveat: "No runner or round options; this one is strictly for the big rectangles."
-    url: "https://app.partnerboost.com/track/3836rlkmIu1FVPcffB_awyM7KJX8pxJkJaBunO5r9ZOXeYVuFA74qJ7jnJpoc0bXSdrtRhtGtATBVFgvGRrKSR2Rw?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fceleste-washable-vintage-floral-beige-rug"
-  - name: "Nina Romantic Rose Garden Pink and Beige Rug (4 ft and 6 ft Round)"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeNinaRomanticVintageFloralRoseGardenWashableBeigeAreaRug_1.webp"
-    brand: "Lahome"
-    price: "~$37-240"
-    retailer: "Lahome"
-    badge: "Best round rug"
-    blurb: "Scattered roses on a warm beige ground, and the round sizes are the charmers: a 4 ft round under a bedside reading chair, or the 6 ft round under a small breakfast table. Rounds soften all the straight lines a room accumulates."
-    caveat: "Under a dining table, the 6 ft round only works for a pedestal or two-seater table — chairs need the rectangles."
-    url: "https://app.partnerboost.com/track/3382I0XGO2GdXtLfUEpKKyGyPW45pljac_aKiNKMh3FIkr3Cat1S3iLy9kIuB7LHQlIVGNPbzFf8tWm40OFWNOAMg?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fnina-romantic-vintage-floral-rose-garden-beige-area-rug"
-  - name: "Solace French Floral Yellow Runner Rug (2x3 and 2x6)"
-    image: "https://cdn.shopify.com/s/files/1/0599/2425/0776/files/2x6LahomeSolaceWashableBohoFrenchElegantFloralYellowRug_4.webp"
-    brand: "Lahome"
-    price: "~$32-60"
-    retailer: "Lahome"
-    badge: "Best runner"
-    blurb: "Butter-yellow blooms sized as a true runner — the 2x6 is the classic in-front-of-the-sink length, and the little 2x3 works as a sunny doormat or in front of a dresser."
-    caveat: "Maxes out at 6 ft; a long galley kitchen or hallway needs an 8 or 10 ft runner instead."
-    url: "https://app.partnerboost.com/track/c20eyntccwGQzqaTttDAIIDOoG1aaq8NF7a90SX1FyyhQACPCFfc5lyaOnN_b5h_aJhGmtSwMPkESRZikgRKBXrGTT?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fsolace-washable-boho-french-elegant-floral-yellow-rug"
-  - name: "Lahome Flore Floral Scalloped Brown Rug, 5x7"
-    image: "https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralbrownwashableAreaRug_1.webp"
-    brand: "Lahome"
-    price: "$49.79 (5x7)"
-    retailer: "Amazon"
-    badge: "Best budget 5x7"
-    blurb: "The proof that the most-used size in the house does not need to be expensive: a scalloped-edge Parisian floral in the bedroom-and-snug workhorse 5x7 size, machine-washable, for about fifty dollars on Amazon."
-    caveat: "The warm brown ground wants creams and wood tones around it rather than cool greys."
-    url: "https://www.amazon.com/dp/B0DC9Y26S4?tag=orlaloom-20"
-  - name: "BAGAIL Felt and Rubber Non-Slip Rug Pad, 5x7"
-    image: "https://m.media-amazon.com/images/I/81V8byjXj3L._AC_SL1500_.jpg"
-    brand: "BAGAIL"
-    price: "~$36 (5x7)"
-    retailer: "Amazon"
-    badge: "The finishing touch"
-    blurb: "A quarter-inch felt-and-rubber pad that stops thin washable rugs skating and gives them the cushioned, expensive feel they lack on their own. Buy it one size down from your rug so it hides completely."
-    caveat: "It is trimmable but scissors-on-felt is a workout; get the closest size to your rug and trim only a little."
-    url: "https://www.amazon.com/dp/B0D1V8CSPG?tag=orlaloom-20"
+  - name: Giverny Vintage French Floral Dark Green Rug (2x3 to 10x14 + Rounds)
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/5x7LahomeGivernyWashableVintageFrenchGardenFloralDarkGreenAreaRug_1.webp
+    brand: Lahome
+    price: ~$37-300
+    retailer: Lahome
+    badge: 'Every size, one rug'
+    blurb: >-
+      The useful one to bookmark: this faded French floral comes in twelve sizes
+      — 2x3 doormat, three runner lengths, 5x7 through 10x14, and 4 ft and 6 ft
+      rounds — so you can repeat one pattern through a whole cottage without it
+      ever matching too hard.
+    caveat: >-
+      The dark green ground is moodier in person than the listing photos; in a
+      dim room it reads almost charcoal.
+    url: >-
+      https://app.partnerboost.com/track/b2f2Rto0JPm6YYvR19UFzK6g_bF0obixDtxwKbEUjhganeKM_aGVlRaGVwCFS9cM6ALygoIFyKYvfELABxR3N169Ph?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fgiverny-washable-maximalism-vintage-french-floral-dark-green-rug
+  - name: 'Celeste Vintage Floral Beige Rug (5x7, 8x10, 9x12)'
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/5x7CelesteWashableVintageFloralBeigeRug_1.jpg
+    brand: Lahome
+    price: ~$73-230
+    retailer: Lahome
+    badge: Best 8x10 living room pick
+    blurb: >-
+      A soft beige vintage floral that comes in the three big-room sizes that
+      matter — 5x7, 8x10 and 9x12 — so you can size up to get the front legs of
+      every seat on the rug, which is the single rule that makes a living room
+      look finished.
+    caveat: No runner or round options; this one is strictly for the big rectangles.
+    url: >-
+      https://app.partnerboost.com/track/3836rlkmIu1FVPcffB_awyM7KJX8pxJkJaBunO5r9ZOXeYVuFA74qJ7jnJpoc0bXSdrtRhtGtATBVFgvGRrKSR2Rw?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fceleste-washable-vintage-floral-beige-rug
+  - name: Nina Romantic Rose Garden Pink and Beige Rug (4 ft and 6 ft Round)
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/LahomeNinaRomanticVintageFloralRoseGardenWashableBeigeAreaRug_1.webp
+    brand: Lahome
+    price: ~$37-240
+    retailer: Lahome
+    badge: Best round rug
+    blurb: >-
+      Scattered roses on a warm beige ground, and the round sizes are the
+      charmers: a 4 ft round under a bedside reading chair, or the 6 ft round
+      under a small breakfast table. Rounds soften all the straight lines a room
+      accumulates.
+    caveat: >-
+      Under a dining table, the 6 ft round only works for a pedestal or
+      two-seater table — chairs need the rectangles.
+    url: >-
+      https://app.partnerboost.com/track/3382I0XGO2GdXtLfUEpKKyGyPW45pljac_aKiNKMh3FIkr3Cat1S3iLy9kIuB7LHQlIVGNPbzFf8tWm40OFWNOAMg?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fnina-romantic-vintage-floral-rose-garden-beige-area-rug
+  - name: Solace French Floral Yellow Runner Rug (2x3 and 2x6)
+    image: >-
+      https://cdn.shopify.com/s/files/1/0599/2425/0776/files/2x6LahomeSolaceWashableBohoFrenchElegantFloralYellowRug_4.webp
+    brand: Lahome
+    price: ~$32-60
+    retailer: Lahome
+    badge: Best runner
+    blurb: >-
+      Butter-yellow blooms sized as a true runner — the 2x6 is the classic
+      in-front-of-the-sink length, and the little 2x3 works as a sunny doormat
+      or in front of a dresser.
+    caveat: >-
+      Maxes out at 6 ft; a long galley kitchen or hallway needs an 8 or 10 ft
+      runner instead.
+    url: >-
+      https://app.partnerboost.com/track/c20eyntccwGQzqaTttDAIIDOoG1aaq8NF7a90SX1FyyhQACPCFfc5lyaOnN_b5h_aJhGmtSwMPkESRZikgRKBXrGTT?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fsolace-washable-boho-french-elegant-floral-yellow-rug
+  - name: 'Lahome Flore Floral Scalloped Brown Rug, 5x7'
+    image: >-
+      https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralbrownwashableAreaRug_1.webp
+    brand: Lahome
+    price: $49.79 (5x7)
+    retailer: Amazon
+    badge: Best budget 5x7
+    blurb: >-
+      The proof that the most-used size in the house does not need to be
+      expensive: a scalloped-edge Parisian floral in the bedroom-and-snug
+      workhorse 5x7 size, machine-washable, for about fifty dollars on Amazon.
+    caveat: >-
+      The warm brown ground wants creams and wood tones around it rather than
+      cool greys.
+    url: 'https://www.amazon.com/dp/B0DC9Y26S4?tag=orlaloom-20'
+  - name: 'BAGAIL Felt and Rubber Non-Slip Rug Pad, 5x7'
+    image: 'https://m.media-amazon.com/images/I/81V8byjXj3L._AC_SL1500_.jpg'
+    brand: BAGAIL
+    price: ~$36 (5x7)
+    retailer: Amazon
+    badge: The finishing touch
+    blurb: >-
+      A quarter-inch felt-and-rubber pad that stops thin washable rugs skating
+      and gives them the cushioned, expensive feel they lack on their own. Buy
+      it one size down from your rug so it hides completely.
+    caveat: >-
+      It is trimmable but scissors-on-felt is a workout; get the closest size to
+      your rug and trim only a little.
+    url: 'https://www.amazon.com/dp/B0D1V8CSPG?tag=orlaloom-20'
+faqs:
+  - q: Is a 5x7 rug big enough for a living room?
+    a: >-
+      Only for a small one. In a standard living room a 5x7 floats awkwardly
+      between the furniture; an 8x10 that reaches the front legs of every seat
+      almost always looks better. Save the 5x7 for bedrooms, snugs and layering.
+  - q: What size rug goes under a queen bed?
+    a: >-
+      An 8x10 placed under the bed, extending about 2 ft on each side, is the
+      classic answer. A 5x7 across the lower two-thirds of the bed is the budget
+      version, and a 2x6 runner along each side is the washable-friendly
+      version.
+  - q: Should a rug be bigger or smaller than the room?
+    a: >-
+      Always smaller, with 12 to 18 inches of visible floor around the edges in
+      main rooms. Wall-to-wall rug reads as carpet; a border of floor makes the
+      rug — and the room — look intentional.
+  - q: Do washable rugs come in big sizes like 9x12?
+    a: >-
+      Yes — several of the picks here go to 9x12 and the Giverny to 10x14 — but
+      remember that anything over about 6x9 will not fit a home washing machine
+      and needs a laundromat front-loader on wash day.
+updated: '2026-08-02'
 ---
 
 **The short answer: in a living room, choose a rug big enough that at least the front legs of every sofa and chair sit on it — usually an 8x10. In a bedroom, a 5x7 beside or partly under the bed does the job. Kitchens and hallways want a 2x6 to 2.5x10 runner, and reading corners and small round tables love a 4 to 6 ft round.** Nearly every rug that looks "off" in a room is simply too small, so when you are torn between two sizes, take the bigger one.
