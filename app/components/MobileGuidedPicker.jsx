@@ -1,31 +1,47 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import SaveButton from "./SaveButton";
 
-// Mobile-only storefront (Amazon-style): category filter chips pinned on top,
-// a scrollable grid of ALL products below. Default shows everything so shoppers
-// can just scroll; tapping a chip filters in place. Each card links to
-// /shop/[slug]. Rendered only under 900px (see .mobile-only in globals.css).
+// Storefront (Amazon-style), used on every screen size: one chip menu on top
+// that swaps a category banner (with dot indicators) and filters the product
+// grid below. Each card links to /shop/[slug].
 export default function MobileGuidedPicker({ chips, products }) {
   const [sel, setSel] = useState("all");
   const [n, setN] = useState(24);
 
+  const cur = chips.find((c) => c.key === sel) || chips[0];
   const list = sel === "all" ? products : products.filter((p) => p.group === sel);
   const shown = list.slice(0, n);
 
   const pick = (k) => {
     setSel(k);
     setN(24);
-    if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "auto" });
   };
+
+  // Infinite scroll: when the sentinel near the bottom scrolls into view, load
+  // the next batch automatically (no "Show more" click needed).
+  const sentinel = useRef(null);
+  useEffect(() => {
+    const el = sentinel.current;
+    if (!el) return;
+    const io = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) setN((prev) => prev + 24);
+      },
+      { rootMargin: "600px 0px" }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, [sel, list.length]);
 
   return (
     <div className="mgp">
       <div className="mgp-head2">
         <span className="eyebrow">Cosy finds, gently chosen</span>
         <h1 className="mgp-q2">Shop the collection</h1>
+        <p className="mgp-sub2">Pick a space, then scroll the finds.</p>
       </div>
 
       <div className="mgp-chips" role="tablist" aria-label="Shop by space">
@@ -40,6 +56,23 @@ export default function MobileGuidedPicker({ chips, products }) {
           </button>
         ))}
       </div>
+
+      {cur && cur.banner && (
+        <div className="mgp-banner" style={{ backgroundImage: `url(${cur.banner})` }}>
+          <span className="mgp-banner-scrim" />
+          <span className="mgp-banner-label">{cur.label}</span>
+          <div className="mgp-dots">
+            {chips.map((c) => (
+              <button
+                key={c.key}
+                className={"mgp-dot" + (sel === c.key ? " is-on" : "")}
+                onClick={() => pick(c.key)}
+                aria-label={`Show ${c.label}`}
+              />
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="mgp-grid2">
         {shown.map((p) => (
@@ -57,11 +90,7 @@ export default function MobileGuidedPicker({ chips, products }) {
         ))}
       </div>
 
-      {n < list.length && (
-        <button className="mgp-more" onClick={() => setN(n + 24)}>
-          Show more ({list.length - n})
-        </button>
-      )}
+      {n < list.length && <div ref={sentinel} className="mgp-sentinel" aria-hidden="true" />}
     </div>
   );
 }
