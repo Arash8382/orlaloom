@@ -4,10 +4,15 @@ import { site, author, categoryBySlug } from "../../../lib/site";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
 import SaveButton from "../../components/SaveButton";
+import { getLivePriceForUrl } from "../../../lib/amazon-pricing";
 
 export function generateStaticParams() {
   return getAllProductSlugs().map((slug) => ({ slug }));
 }
+
+// Re-fetch live Amazon price/stock at most hourly (ISR). Until Creators API
+// access activates, getLivePriceForUrl returns null and the static price shows.
+export const revalidate = 3600;
 
 export function generateMetadata({ params }) {
   const p = getProductBySlug(params.slug);
@@ -43,7 +48,7 @@ function priceToOffers(price, offerUrl) {
   return { "@type": "Offer", price: vals[0], ...common };
 }
 
-export default function ProductPage({ params }) {
+export default async function ProductPage({ params }) {
   const p = getProductBySlug(params.slug);
   if (!p) return notFound();
 
@@ -53,7 +58,12 @@ export default function ProductPage({ params }) {
   const url = `${site.url}/shop/${p.slug}`;
   const isAmazon = /amazon\./i.test(p.url || "");
   const buyLabel = isAmazon ? "Shop on Amazon" : `Shop${p.retailer ? ` at ${p.retailer}` : ""}`;
-  const offers = priceToOffers(p.price, p.url);
+
+  // Live price/stock from Amazon Creators API (fail-safe: null → static price).
+  const live = await getLivePriceForUrl(p.url);
+  const displayPrice = (live && live.price) || p.price;
+  const outOfStock = live && live.inStock === false;
+  const offers = priceToOffers(displayPrice, p.url);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -116,7 +126,12 @@ export default function ProductPage({ params }) {
           {p.brand && <div style={{ color: "var(--muted, #7a6f60)", fontWeight: 600, marginBottom: 10 }}>{p.brand}</div>}
 
           <div style={{ display: "flex", alignItems: "center", gap: 12, flexWrap: "wrap", margin: "6px 0 14px" }}>
-            {p.price && <span style={{ fontSize: 22, fontWeight: 700, color: "var(--head)" }}>{p.price}</span>}
+            {displayPrice && <span style={{ fontSize: 22, fontWeight: 700, color: "var(--head)" }}>{displayPrice}</span>}
+            {outOfStock && (
+              <span style={{ fontSize: 12, fontWeight: 700, letterSpacing: ".04em", textTransform: "uppercase", color: "#a15", background: "#fbeaea", borderRadius: 999, padding: "4px 10px" }}>
+                Currently unavailable
+              </span>
+            )}
             {p.badge && (
               <span style={{ fontSize: 12, fontWeight: 700, letterSpacing: ".04em", textTransform: "uppercase", color: "var(--head)", background: "var(--card,#f3ece0)", border: "1px solid var(--line,#e7ddcf)", borderRadius: 999, padding: "4px 10px" }}>
                 {p.badge}
