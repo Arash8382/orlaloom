@@ -3,7 +3,6 @@ import { site, categories, categoryImage } from "../lib/site";
 import { getAllPosts, getPostsByCategory, getCategoryThumbPool, getProductMap } from "../lib/posts";
 import RotatingCategories from "./components/RotatingCategories";
 import RotatingGuides from "./components/RotatingGuides";
-import RoomSlider from "./components/RoomSlider";
 import MobileGuidedPicker from "./components/MobileGuidedPicker";
 
 export const metadata = { alternates: { canonical: "/" } };
@@ -62,11 +61,11 @@ export default function Home() {
     .filter((p) => p.image && groupOf[p.category])
     .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, url: p.url || "", brand: p.brand || "", group: groupOf[p.category] }));
   const mobileChips = [
-    { key: "all", label: "All items" },
-    { key: "kitchen", label: "Kitchen" },
-    { key: "living", label: "Living room" },
-    { key: "table", label: "The table" },
-    { key: "cosy", label: "Cosy touches" },
+    { key: "all", label: "All items", banner: "/scenes/home-hero.webp" },
+    { key: "kitchen", label: "Kitchen", banner: "/scenes/cottagecore-kitchen.webp" },
+    { key: "living", label: "Living room", banner: "/scenes/home-decor.webp" },
+    { key: "table", label: "The table", banner: "/scenes/scalloped-dinnerware.webp" },
+    { key: "cosy", label: "Cosy touches", banner: "/scenes/candles.webp" },
   ];
 
   const jsonLd = {
@@ -101,25 +100,11 @@ export default function Home() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* MOBILE HOME — guided picker (Option C), only shown under 900px */}
-      <section className="mobile-only" style={{ paddingTop: 10 }}>
-        <MobileGuidedPicker chips={mobileChips} products={mobileProducts} />
-      </section>
-
-      {/* HERO — shoppable scene, the new signature style (desktop only) */}
-      <section className="desktop-only" style={{ paddingTop: 12 }}>
-        <div style={{ textAlign: "center", maxWidth: 780, margin: "0 auto", padding: "0 24px" }}>
-          <span className="eyebrow">Cosy finds, gently chosen</span>
-          <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(26px,3.6vw,40px)", color: "var(--head)", lineHeight: 1.05, margin: "6px 0 8px", letterSpacing: "-.01em" }}>
-            Make every day feel a little softer.
-          </h1>
-          <p style={{ color: "var(--muted-2)", margin: "0 auto 12px", maxWidth: "56ch", fontSize: 15 }}>
-            Slide through our cottagecore rooms and tap any piece to shop it.
-          </p>
-        </div>
-        <RoomSlider />
-        <div style={{ textAlign: "center", marginTop: 6 }}>
-          <Link className="btn" href="/category/rugs">Explore the shop</Link>
+      {/* STOREFRONT — one chip menu drives a banner (with dots) + product grid.
+          Same Amazon-style experience on every screen size. */}
+      <section style={{ paddingTop: 12 }}>
+        <div className="mgp-wrap">
+          <MobileGuidedPicker chips={mobileChips} products={mobileProducts} />
         </div>
       </section>
 

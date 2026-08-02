@@ -479,3 +479,25 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 
 /* Mobile storefront card — anchor the heart */
 .mgp-card-imgw { position: relative; }
+
+/* ---- Storefront: banner + dots + responsive grid (desktop unifies the menu) ---- */
+.mgp-wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+.mgp-sub2 { color: var(--muted-2); font-size: 15px; margin: 6px 0 0; }
+.mgp-grid2 { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; }
+.mgp-banner { position: relative; aspect-ratio: 16 / 7; border-radius: 20px; overflow: hidden; background-size: cover; background-position: center; margin: 6px 0 18px; background-color: var(--card, #f4ece1); }
+.mgp-banner-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(45,32,20,0) 50%, rgba(45,32,20,.5)); }
+.mgp-banner-label { position: absolute; left: 18px; bottom: 16px; color: #fff; font-family: var(--serif); font-size: 22px; letter-spacing: -.01em; }
+.mgp-dots { position: absolute; right: 16px; bottom: 18px; display: flex; gap: 7px; }
+.mgp-dot { width: 8px; height: 8px; border-radius: 50%; border: none; background: rgba(255,255,255,.55); cursor: pointer; padding: 0; transition: width .18s ease, background .18s ease; }
+.mgp-dot.is-on { background: #fff; width: 22px; border-radius: 999px; }
+@media (min-width: 901px) {
+  .mgp { padding: 8px 0 12px; }
+  .mgp-q2 { font-size: 34px; }
+  .mgp-sub2 { font-size: 16px; }
+  .mgp-chips { justify-content: center; }
+  .mgp-banner { aspect-ratio: 24 / 7; }
+  .mgp-banner-label { font-size: 28px; left: 26px; bottom: 22px; }
+  .mgp-grid2 { gap: 22px; }
+}
+
+.mgp-sentinel { height: 1px; width: 100%; }
