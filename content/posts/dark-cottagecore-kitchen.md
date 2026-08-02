@@ -1,64 +1,104 @@
 ---
-title: "The Complete Guide to a Dark Cottagecore Kitchen (2026)"
-description: "How to get the moody, vintage dark cottagecore kitchen look — colors, decor, and the small finds that pull it together."
-category: "cottagecore-kitchen"
-date: "2026-06-29"
-cover: "/thumbnails/thumb-dark-cottagecore-kitchen.webp"
+title: The Complete Guide to a Dark Cottagecore Kitchen (2026)
+description: >-
+  How to get the moody, vintage dark cottagecore kitchen look — colors, decor,
+  and the small finds that pull it together.
+category: cottagecore-kitchen
+date: '2026-06-29'
+cover: /thumbnails/thumb-dark-cottagecore-kitchen.webp
 products:
-  - name: "Smeg Retro Electric Kettle"
-    brand: "Smeg"
-    price: "$170–200"
-    retailer: "Amazon"
-    badge: "The centerpiece"
-    blurb: "Those 1950s curves in pastel sage or cream turn a kettle into the counter's focal point — the single most-photographed cottagecore appliance."
-    caveat: "Premium price for the look; it boils water like kettles a third of the cost."
-    image: "https://cdn.shopify.com/s/files/1/0835/3385/7057/files/KLF04PGUS.jpg?v=1760031685"
-    url: "https://smegstore.us/products/electric-kettle-retro-style-pastel-green-glossy-klf04pgus"
-  - name: "Romadedi Brass Taper Candlesticks (Set of 2)"
-    brand: "Romadedi"
-    price: "$22–28"
-    retailer: "Amazon"
-    badge: "Best candlelight"
-    blurb: "Victorian-style brass tapers that deliver the after-dark glow at the heart of 'dark' cottagecore — the easiest, cheapest mood upgrade."
-    caveat: "Brass-finished metal, not solid brass — lovely for decor, but it's plated."
-    image: "https://m.media-amazon.com/images/I/715IJSAc9JL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Vintage-Candlestick-Candle-Holders-Brass/dp/B0CNLX2V7T?tag=orlaloom-20"
-  - name: "Washed Linen Ruffle-Edge Napkins (Set of 4)"
-    brand: "Independent linen makers"
-    price: "$28–55"
-    retailer: "Amazon"
-    badge: "Best texture"
-    blurb: "Soft European linen with a frilled ruffle edge in blush, sage, or oatmeal — the textile that makes a moody table feel lived-in, not staged."
-    caveat: "Handmade lead times can run 1–3 weeks; colors read softer in person."
-    image: "https://m.media-amazon.com/images/I/71UUQ314NiL._AC_SX679_.jpg"
-    url: "https://www.amazon.com/dp/B0F1CZVMF9?tag=orlaloom-20"
-  - name: "Brown Transferware Serving Platter (Vintage)"
-    brand: "English ironstone"
-    price: "$25–90"
-    retailer: "Amazon"
-    badge: "Most authentic"
-    blurb: "Dark, moody pastoral scenes on real vintage ironstone — the quintessential grandmacore serving piece, each one unique."
-    caveat: "Authentic vintage is single-quantity; some are display-only, so check food-safety notes."
-    image: "https://m.media-amazon.com/images/I/71+nasmBupL._AC_SX679_.jpg"
-    url: "https://www.amazon.com/dp/B0FTZSKZ9X?tag=orlaloom-20"
-  - name: "Scalloped Stoneware Cake Stand"
-    brand: "House of Jade Home"
-    price: "$48–68"
-    retailer: "House of Jade Home"
-    badge: "Best statement piece"
-    blurb: "A vintage-pedestal scalloped stand that doubles as everyday counter decor and a showpiece when you bake."
-    caveat: "Sold brand-direct; a generic scalloped pedestal stand is the budget swap."
-    image: "https://cdn.shopify.com/s/files/1/0354/3534/8103/files/ScallopedCakeStand.png?v=1771452312"
-    url: "https://www.houseofjadehome.com/products/scalloped-cake-stand"
-  - name: "Floral Transferware Dinner Plates"
-    brand: "Heirloomed Collection"
-    price: "$18–24 each"
-    retailer: "Heirloomed Collection"
-    badge: "Best new set"
-    blurb: "New, food-safe transferware if you'd rather buy a matching set than gamble on vintage singles."
-    caveat: "Muted tones read 'soft vintage' more than truly dark; sold brand-direct."
-    image: "https://cdn.shopify.com/s/files/1/0331/1763/4698/products/224.jpg?v=1645835503"
-    url: "https://heirloomedcollection.com/collections/vintage-transferware/products/floral-transferware-dinner-plate"
+  - name: Smeg Retro Electric Kettle
+    brand: Smeg
+    price: $170–200
+    retailer: Amazon
+    badge: The centerpiece
+    blurb: >-
+      Those 1950s curves in pastel sage or cream turn a kettle into the
+      counter's focal point — the single most-photographed cottagecore
+      appliance.
+    caveat: >-
+      Premium price for the look; it boils water like kettles a third of the
+      cost.
+    image: >-
+      https://cdn.shopify.com/s/files/1/0835/3385/7057/files/KLF04PGUS.jpg?v=1760031685
+    url: >-
+      https://smegstore.us/products/electric-kettle-retro-style-pastel-green-glossy-klf04pgus
+  - name: Romadedi Brass Taper Candlesticks (Set of 2)
+    brand: Romadedi
+    price: $22–28
+    retailer: Amazon
+    badge: Best candlelight
+    blurb: >-
+      Victorian-style brass tapers that deliver the after-dark glow at the heart
+      of 'dark' cottagecore — the easiest, cheapest mood upgrade.
+    caveat: 'Brass-finished metal, not solid brass — lovely for decor, but it''s plated.'
+    image: 'https://m.media-amazon.com/images/I/715IJSAc9JL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Vintage-Candlestick-Candle-Holders-Brass/dp/B0CNLX2V7T?tag=orlaloom-20
+  - name: Washed Linen Ruffle-Edge Napkins (Set of 4)
+    brand: Independent linen makers
+    price: $28–55
+    retailer: Amazon
+    badge: Best texture
+    blurb: >-
+      Soft European linen with a frilled ruffle edge in blush, sage, or oatmeal
+      — the textile that makes a moody table feel lived-in, not staged.
+    caveat: Handmade lead times can run 1–3 weeks; colors read softer in person.
+    image: 'https://m.media-amazon.com/images/I/71UUQ314NiL._AC_SX679_.jpg'
+    url: 'https://www.amazon.com/dp/B0F1CZVMF9?tag=orlaloom-20'
+  - name: Brown Transferware Serving Platter (Vintage)
+    brand: English ironstone
+    price: $25–90
+    retailer: Amazon
+    badge: Most authentic
+    blurb: >-
+      Dark, moody pastoral scenes on real vintage ironstone — the quintessential
+      grandmacore serving piece, each one unique.
+    caveat: >-
+      Authentic vintage is single-quantity; some are display-only, so check
+      food-safety notes.
+    image: 'https://m.media-amazon.com/images/I/71+nasmBupL._AC_SX679_.jpg'
+    url: 'https://www.amazon.com/dp/B0FTZSKZ9X?tag=orlaloom-20'
+  - name: Scalloped Stoneware Cake Stand
+    brand: House of Jade Home
+    price: $48–68
+    retailer: House of Jade Home
+    badge: Best statement piece
+    blurb: >-
+      A vintage-pedestal scalloped stand that doubles as everyday counter decor
+      and a showpiece when you bake.
+    caveat: Sold brand-direct; a generic scalloped pedestal stand is the budget swap.
+    image: >-
+      https://cdn.shopify.com/s/files/1/0354/3534/8103/files/ScallopedCakeStand.png?v=1771452312
+    url: 'https://www.houseofjadehome.com/products/scalloped-cake-stand'
+  - name: Floral Transferware Dinner Plates
+    brand: Heirloomed Collection
+    price: $18–24 each
+    retailer: Heirloomed Collection
+    badge: Best new set
+    blurb: >-
+      New, food-safe transferware if you'd rather buy a matching set than gamble
+      on vintage singles.
+    caveat: Muted tones read 'soft vintage' more than truly dark; sold brand-direct.
+    image: >-
+      https://cdn.shopify.com/s/files/1/0331/1763/4698/products/224.jpg?v=1645835503
+    url: >-
+      https://heirloomedcollection.com/collections/vintage-transferware/products/floral-transferware-dinner-plate
+faqs:
+  - q: What's the difference between cottagecore and dark cottagecore?
+    a: >-
+      Cottagecore is bright and pastoral; dark cottagecore keeps the vintage
+      cottage charm but goes moody — deeper colors, candlelight, a slightly
+      gothic, nighttime feel.
+  - q: Can I do dark cottagecore in a rental?
+    a: >-
+      Yes. The look is mostly textiles, ceramics, candles, and small decor — no
+      renovation needed.
+  - q: What colors are dark cottagecore?
+    a: >-
+      Forest green, aubergine, oxblood, charcoal, and warm near-black, with
+      cream and aged brass, plus an occasional chartreuse or persimmon accent.
+updated: '2026-08-02'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.

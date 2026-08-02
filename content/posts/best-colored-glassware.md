@@ -1,55 +1,91 @@
 ---
-title: "The Best Colored Glassware for an Aesthetic Table"
-description: "Jewel-tone goblets, cobalt tumblers, and confetti glass — from Estelle to budget Mexican bubble-glass dupes."
-category: "glassware"
-date: "2026-06-29"
-cover: "/thumbnails/thumb-best-colored-glassware.webp"
+title: The Best Colored Glassware for an Aesthetic Table
+description: >-
+  Jewel-tone goblets, cobalt tumblers, and confetti glass — from Estelle to
+  budget Mexican bubble-glass dupes.
+category: glassware
+date: '2026-06-29'
+cover: /thumbnails/thumb-best-colored-glassware.webp
 products:
-  - name: "Estelle Colored Glass Regal Goblet (Set of 6, Cobalt)"
-    brand: "Estelle Colored Glass"
-    price: "~$195 / set"
-    retailer: "Estelle"
-    badge: "The icon"
-    blurb: "Hand-blown by century-old Polish artisans — the jewel-tone goblet you've seen all over design press, and worth the hype."
-    caveat: "Luxury price, hand-wash only, with slight piece-to-piece variation."
-    image: "https://cdn.shopify.com/s/files/1/0271/6507/products/ProductsNaturalLight-38_1.jpg?v=1639060257"
-    url: "https://estellecoloredglass.com/products/copy-of-estelle-colored-regal-goblet-set-of-6-amber-smoke-1"
-  - name: "EMPORION Mexican Tumblers w/ Cobalt Rim (Set of 6)"
-    brand: "EMPORION"
-    price: "$35–45"
-    retailer: "Amazon"
-    badge: "Best Estelle dupe"
-    blurb: "Rustic recycled bubble glass from Mexico with a cobalt-blue rim — the Estelle look for a fraction of the price."
-    caveat: "Recycled glass shows seeds, bubbles, and size variation (charming, but not uniform)."
-    image: "https://m.media-amazon.com/images/I/71qUT01riVL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/EMPORION-Hand-Blown-Tumbler-Glasses-Mexico/dp/B08T6PQ98K?tag=orlaloom-20"
-  - name: "Estelle Wine Stemware (Set of 6, Amber Smoke)"
-    brand: "Estelle Colored Glass"
-    price: "~$195 / set"
-    retailer: "Estelle"
-    badge: "Best warm tone"
-    blurb: "Smoky-amber hand-blown stemware — the depression-glass-revival colorway that glows on a candlelit table."
-    caveat: "Same luxury price and hand-wash-only care as the goblets."
-    image: "https://cdn.shopify.com/s/files/1/0271/6507/products/Stemware-175.jpg?v=1607310071"
-    url: "https://estellecoloredglass.com/products/estelle-colored-wine-stemware-smoke"
-  - name: "MexHandcraft Confetti Rocks Glasses (Set of 6)"
-    brand: "MexHandcraft"
-    price: "$40–50"
-    retailer: "Amazon"
-    badge: "Most cheerful"
-    blurb: "Clear glass shot through with multicolor 'confetti' crystals, hand-blown in Tonalá — fun, grippy, and impossible to be sad around."
-    caveat: "Busier than solid-color glass; lead-free but with hand-blown variation."
-    image: "https://m.media-amazon.com/images/I/81hRv3zNJ6L._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Mexican-Blown-Drinking-Glasses-Confetti/dp/B00BJ47HNY?tag=orlaloom-20"
-  - name: "Handmade con Amor Blue Confetti Tumblers (Set of 6)"
-    brand: "Handmade con Amor"
-    price: "$45–55"
-    retailer: "Amazon"
-    badge: "Best big pour"
-    blurb: "Larger 15 oz recycled hand-blown tumblers with blue confetti flecks and signature little bubbles — everyday glasses with soul."
-    caveat: "Bigger and heavier with slightly uneven walls; hand-wash recommended."
-    image: "https://m.media-amazon.com/images/I/81FSoYqR-NL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Handmade-Amor-Drinking-tumblers-Confetti/dp/B0BWWV68R1?tag=orlaloom-20"
+  - name: 'Estelle Colored Glass Regal Goblet (Set of 6, Cobalt)'
+    brand: Estelle Colored Glass
+    price: ~$195 / set
+    retailer: Estelle
+    badge: The icon
+    blurb: >-
+      Hand-blown by century-old Polish artisans — the jewel-tone goblet you've
+      seen all over design press, and worth the hype.
+    caveat: 'Luxury price, hand-wash only, with slight piece-to-piece variation.'
+    image: >-
+      https://cdn.shopify.com/s/files/1/0271/6507/products/ProductsNaturalLight-38_1.jpg?v=1639060257
+    url: >-
+      https://estellecoloredglass.com/products/copy-of-estelle-colored-regal-goblet-set-of-6-amber-smoke-1
+  - name: EMPORION Mexican Tumblers w/ Cobalt Rim (Set of 6)
+    brand: EMPORION
+    price: $35–45
+    retailer: Amazon
+    badge: Best Estelle dupe
+    blurb: >-
+      Rustic recycled bubble glass from Mexico with a cobalt-blue rim — the
+      Estelle look for a fraction of the price.
+    caveat: >-
+      Recycled glass shows seeds, bubbles, and size variation (charming, but not
+      uniform).
+    image: 'https://m.media-amazon.com/images/I/71qUT01riVL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/EMPORION-Hand-Blown-Tumbler-Glasses-Mexico/dp/B08T6PQ98K?tag=orlaloom-20
+  - name: 'Estelle Wine Stemware (Set of 6, Amber Smoke)'
+    brand: Estelle Colored Glass
+    price: ~$195 / set
+    retailer: Estelle
+    badge: Best warm tone
+    blurb: >-
+      Smoky-amber hand-blown stemware — the depression-glass-revival colorway
+      that glows on a candlelit table.
+    caveat: Same luxury price and hand-wash-only care as the goblets.
+    image: >-
+      https://cdn.shopify.com/s/files/1/0271/6507/products/Stemware-175.jpg?v=1607310071
+    url: >-
+      https://estellecoloredglass.com/products/estelle-colored-wine-stemware-smoke
+  - name: MexHandcraft Confetti Rocks Glasses (Set of 6)
+    brand: MexHandcraft
+    price: $40–50
+    retailer: Amazon
+    badge: Most cheerful
+    blurb: >-
+      Clear glass shot through with multicolor 'confetti' crystals, hand-blown
+      in Tonalá — fun, grippy, and impossible to be sad around.
+    caveat: Busier than solid-color glass; lead-free but with hand-blown variation.
+    image: 'https://m.media-amazon.com/images/I/81hRv3zNJ6L._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Mexican-Blown-Drinking-Glasses-Confetti/dp/B00BJ47HNY?tag=orlaloom-20
+  - name: Handmade con Amor Blue Confetti Tumblers (Set of 6)
+    brand: Handmade con Amor
+    price: $45–55
+    retailer: Amazon
+    badge: Best big pour
+    blurb: >-
+      Larger 15 oz recycled hand-blown tumblers with blue confetti flecks and
+      signature little bubbles — everyday glasses with soul.
+    caveat: Bigger and heavier with slightly uneven walls; hand-wash recommended.
+    image: 'https://m.media-amazon.com/images/I/81FSoYqR-NL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Handmade-Amor-Drinking-tumblers-Confetti/dp/B0BWWV68R1?tag=orlaloom-20
+faqs:
+  - q: Is colored glass food-safe?
+    a: >-
+      Reputable brands use lead-free glass; always confirm on the listing,
+      especially for vintage pieces.
+  - q: Can colored glassware go in the dishwasher?
+    a: >-
+      Mass-produced sets often can; hand-blown glass (like Estelle) should be
+      hand-washed to protect the finish.
+  - q: Do colored glasses change the taste of a drink?
+    a: >-
+      No — the color is in or on the glass, not in the part your drink touches,
+      so it's purely decorative. Just hand-wash any coated or iridescent
+      finishes to keep them vivid.
+updated: '2026-08-02'
 ---
 
 Nothing transforms a table faster than colored glass. One set of jewel-tone goblets or confetti tumblers and even a Tuesday dinner looks intentional. Here's the range — from the hand-blown icon to the budget dupes that genuinely hold up.

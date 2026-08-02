@@ -1,82 +1,152 @@
 ---
-title: "Cottagecore Kitchen Decor: The Complete Shopping Guide"
-description: "The complete cottagecore kitchen decor guide — enamelware, mixing bowls, ceramic canisters, café curtains, floral towels, and a retro kettle, with honest picks."
-category: "cottagecore-kitchen"
-date: "2026-07-21"
-cover: "/thumbnails/thumb-cottagecore-kitchen-decor.webp"
+title: 'Cottagecore Kitchen Decor: The Complete Shopping Guide'
+description: >-
+  The complete cottagecore kitchen decor guide — enamelware, mixing bowls,
+  ceramic canisters, café curtains, floral towels, and a retro kettle, with
+  honest picks.
+category: cottagecore-kitchen
+date: '2026-07-21'
+cover: /thumbnails/thumb-cottagecore-kitchen-decor.webp
 products:
-  - name: "Red Co. Enamelware Round Colander (White/Black Rim)"
-    brand: "Red Co."
-    price: "$18–24"
-    retailer: "Amazon"
-    badge: "Best starter piece"
-    blurb: "A smooth white enamel colander with a hand-dipped black rim that looks the part draining berries and doubles as a fruit bowl left out on the counter. It's the cheapest way to buy into the enamelware look."
-    caveat: "It's enameled steel, so a hard knock can chip the rim down to the metal over time."
-    image: "https://m.media-amazon.com/images/I/71pNny0sfmL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Red-Co-Enamelware-Strainer-Colander/dp/B0973KD4ZC?tag=orlaloom-20"
-  - name: "Mikiegy Embossed Ceramic Mixing Bowls (Set of 4)"
-    brand: "Mikiegy"
-    price: "$40–50"
-    retailer: "Amazon"
-    badge: "Best mixing bowls"
-    blurb: "Four nesting stoneware bowls in off-white with an embossed pattern that reads like an heirloom set your grandmother handed down. They're pretty enough to leave on open shelves and heavy enough to stay put while you whisk."
-    caveat: "Ceramic is weighty and can crack if dropped — not the set to hand a small child."
-    image: "https://m.media-amazon.com/images/I/71U8act8L6L._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/MIKIGEY-Embossment-Stoneware-Microwave-Dishwasher/dp/B0DG1MVQL6?tag=orlaloom-20"
-  - name: "The Pioneer Woman Vintage Floral Stoneware Utensil Crock"
-    brand: "The Pioneer Woman"
-    price: "$13–18"
-    retailer: "Amazon"
-    badge: "Best value"
-    blurb: "A belly-shaped stoneware crock in that unmistakable vintage floral, made to corral wooden spoons and whisks by the stove. For the price, it's one of the highest-impact cottagecore counter buys."
-    caveat: "Hand-wash only, and the glaze pattern varies slightly piece to piece."
-    image: "https://m.media-amazon.com/images/I/81SOBM+V8eL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Pioneer-Woman-Vintage-6-75-Inch-Utensil/dp/B075WYKHFG?tag=orlaloom-20"
-  - name: "Drew DeRose Floral Blue Ceramic Canister Set (Set of 3)"
-    brand: "Drew DeRose"
-    price: "$60–75"
-    retailer: "Amazon"
-    badge: "Best canisters"
-    blurb: "Three graduated ceramic canisters in a soft blue floral with dark lids — the flour-sugar-coffee trio that turns everyday pantry staples into counter decor. The glossy glaze catches the light beautifully."
-    caveat: "The lids aren't fully airtight, so these are better for dry goods you use quickly than long-term sealed storage."
-    image: "https://m.media-amazon.com/images/I/71Yhkb+84lL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Piece-Ceramic-Antique-Square-Canister/dp/B00L5K5OEQ?tag=orlaloom-20"
-  - name: "Ball Regular-Mouth Glass Mason Jars, Pint (Pack of 8)"
-    brand: "Ball"
-    price: "$12–16"
-    retailer: "Amazon"
-    badge: "Most versatile"
-    blurb: "The genuine article — pint Ball jars with lids and bands that hold jam, dried beans, wildflowers, or a lit tea light equally well. Line a shelf with them and the kitchen instantly feels like a farmhouse pantry."
-    caveat: "These are plain canning jars, not decorative ones — the charm comes from how you group and fill them."
-    image: "https://m.media-amazon.com/images/I/61y6vj0iEeL._AC_SL1000_.jpg"
-    url: "https://www.amazon.com/Ball-Regular-Mouth-Glass-Canning/dp/B0D6CHYV33?tag=orlaloom-20"
-  - name: "jinchan Vintage Floral Linen Café Curtains (36\", 2 Panels)"
-    brand: "jinchan"
-    price: "$20–28"
-    retailer: "Amazon"
-    badge: "Best window swap"
-    blurb: "Light-filtering linen-blend tier curtains with a green floral, butterfly, and dragonfly print over a beige ground — the fastest way to soften a bright kitchen window into something out of a country cottage."
-    caveat: "They filter light rather than block it, so they won't give you full privacy after dark."
-    image: "https://m.media-amazon.com/images/I/81IfDbI21rL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/jinchan-Kitchen-Curtains-Farmhouse-Bathroom/dp/B0F32KLH7M?tag=orlaloom-20"
-  - name: "Floral Rose Flour Sack Tea Towels (100% Cotton, 4-Pack)"
-    brand: "Cotton flour-sack"
-    price: "$12–16"
-    retailer: "Amazon"
-    badge: "Softest touch"
-    blurb: "A four-pack of 100% cotton flour-sack towels with a printed rose border — genuinely absorbent for drying dishes, and pretty enough to drape over the oven handle as everyday color."
-    caveat: "The print sits on one side only, and colors soften a little after the first few washes."
-    image: "https://m.media-amazon.com/images/I/81LpP9cR8hL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Towels-4-Pack-Cotton-Printed-Kitchen/dp/B01JU22P2Y?tag=orlaloom-20"
-  - name: "Smeg KLF03 50's Retro Style Electric Kettle (Cream)"
-    brand: "Smeg"
-    price: "$170–200"
-    retailer: "Amazon"
-    badge: "The splurge centerpiece"
-    blurb: "Those 1950s curves in soft cream turn a kettle into the counter's focal point — the single most-photographed cottagecore appliance, with a soft-open lid and 360° swivel base to match the looks."
-    caveat: "Premium price for the design; it boils water no faster than kettles a third of the cost."
-    image: "https://m.media-amazon.com/images/I/51SpiFBDweL._AC_SL1000_.jpg"
-    url: "https://www.amazon.com/Electric-Automatic-Removable-Indicator-KLF03CRUS/dp/B077PJDCG3?tag=orlaloom-20"
+  - name: Red Co. Enamelware Round Colander (White/Black Rim)
+    brand: Red Co.
+    price: $18–24
+    retailer: Amazon
+    badge: Best starter piece
+    blurb: >-
+      A smooth white enamel colander with a hand-dipped black rim that looks the
+      part draining berries and doubles as a fruit bowl left out on the counter.
+      It's the cheapest way to buy into the enamelware look.
+    caveat: >-
+      It's enameled steel, so a hard knock can chip the rim down to the metal
+      over time.
+    image: 'https://m.media-amazon.com/images/I/71pNny0sfmL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Red-Co-Enamelware-Strainer-Colander/dp/B0973KD4ZC?tag=orlaloom-20
+  - name: Mikiegy Embossed Ceramic Mixing Bowls (Set of 4)
+    brand: Mikiegy
+    price: $40–50
+    retailer: Amazon
+    badge: Best mixing bowls
+    blurb: >-
+      Four nesting stoneware bowls in off-white with an embossed pattern that
+      reads like an heirloom set your grandmother handed down. They're pretty
+      enough to leave on open shelves and heavy enough to stay put while you
+      whisk.
+    caveat: >-
+      Ceramic is weighty and can crack if dropped — not the set to hand a small
+      child.
+    image: 'https://m.media-amazon.com/images/I/71U8act8L6L._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/MIKIGEY-Embossment-Stoneware-Microwave-Dishwasher/dp/B0DG1MVQL6?tag=orlaloom-20
+  - name: The Pioneer Woman Vintage Floral Stoneware Utensil Crock
+    brand: The Pioneer Woman
+    price: $13–18
+    retailer: Amazon
+    badge: Best value
+    blurb: >-
+      A belly-shaped stoneware crock in that unmistakable vintage floral, made
+      to corral wooden spoons and whisks by the stove. For the price, it's one
+      of the highest-impact cottagecore counter buys.
+    caveat: 'Hand-wash only, and the glaze pattern varies slightly piece to piece.'
+    image: 'https://m.media-amazon.com/images/I/81SOBM+V8eL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Pioneer-Woman-Vintage-6-75-Inch-Utensil/dp/B075WYKHFG?tag=orlaloom-20
+  - name: Drew DeRose Floral Blue Ceramic Canister Set (Set of 3)
+    brand: Drew DeRose
+    price: $60–75
+    retailer: Amazon
+    badge: Best canisters
+    blurb: >-
+      Three graduated ceramic canisters in a soft blue floral with dark lids —
+      the flour-sugar-coffee trio that turns everyday pantry staples into
+      counter decor. The glossy glaze catches the light beautifully.
+    caveat: >-
+      The lids aren't fully airtight, so these are better for dry goods you use
+      quickly than long-term sealed storage.
+    image: 'https://m.media-amazon.com/images/I/71Yhkb+84lL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Piece-Ceramic-Antique-Square-Canister/dp/B00L5K5OEQ?tag=orlaloom-20
+  - name: 'Ball Regular-Mouth Glass Mason Jars, Pint (Pack of 8)'
+    brand: Ball
+    price: $12–16
+    retailer: Amazon
+    badge: Most versatile
+    blurb: >-
+      The genuine article — pint Ball jars with lids and bands that hold jam,
+      dried beans, wildflowers, or a lit tea light equally well. Line a shelf
+      with them and the kitchen instantly feels like a farmhouse pantry.
+    caveat: >-
+      These are plain canning jars, not decorative ones — the charm comes from
+      how you group and fill them.
+    image: 'https://m.media-amazon.com/images/I/61y6vj0iEeL._AC_SL1000_.jpg'
+    url: >-
+      https://www.amazon.com/Ball-Regular-Mouth-Glass-Canning/dp/B0D6CHYV33?tag=orlaloom-20
+  - name: 'jinchan Vintage Floral Linen Café Curtains (36", 2 Panels)'
+    brand: jinchan
+    price: $20–28
+    retailer: Amazon
+    badge: Best window swap
+    blurb: >-
+      Light-filtering linen-blend tier curtains with a green floral, butterfly,
+      and dragonfly print over a beige ground — the fastest way to soften a
+      bright kitchen window into something out of a country cottage.
+    caveat: >-
+      They filter light rather than block it, so they won't give you full
+      privacy after dark.
+    image: 'https://m.media-amazon.com/images/I/81IfDbI21rL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/jinchan-Kitchen-Curtains-Farmhouse-Bathroom/dp/B0F32KLH7M?tag=orlaloom-20
+  - name: 'Floral Rose Flour Sack Tea Towels (100% Cotton, 4-Pack)'
+    brand: Cotton flour-sack
+    price: $12–16
+    retailer: Amazon
+    badge: Softest touch
+    blurb: >-
+      A four-pack of 100% cotton flour-sack towels with a printed rose border —
+      genuinely absorbent for drying dishes, and pretty enough to drape over the
+      oven handle as everyday color.
+    caveat: >-
+      The print sits on one side only, and colors soften a little after the
+      first few washes.
+    image: 'https://m.media-amazon.com/images/I/81LpP9cR8hL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Towels-4-Pack-Cotton-Printed-Kitchen/dp/B01JU22P2Y?tag=orlaloom-20
+  - name: Smeg KLF03 50's Retro Style Electric Kettle (Cream)
+    brand: Smeg
+    price: $170–200
+    retailer: Amazon
+    badge: The splurge centerpiece
+    blurb: >-
+      Those 1950s curves in soft cream turn a kettle into the counter's focal
+      point — the single most-photographed cottagecore appliance, with a
+      soft-open lid and 360° swivel base to match the looks.
+    caveat: >-
+      Premium price for the design; it boils water no faster than kettles a
+      third of the cost.
+    image: 'https://m.media-amazon.com/images/I/51SpiFBDweL._AC_SL1000_.jpg'
+    url: >-
+      https://www.amazon.com/Electric-Automatic-Removable-Indicator-KLF03CRUS/dp/B077PJDCG3?tag=orlaloom-20
+faqs:
+  - q: What's the difference between cottagecore and farmhouse kitchen decor?
+    a: >-
+      They overlap heavily, but farmhouse leans more rustic and neutral
+      (shiplap, galvanized metal, black-and-white), while cottagecore is softer
+      and more romantic — florals, pastels, enamelware, and a slightly
+      whimsical, garden-gathered feel. Most of the pieces here work for both.
+  - q: Can I do a cottagecore kitchen in a rental?
+    a: >-
+      Yes — this is one of the most rental-friendly looks there is. Everything
+      above sits on your counters, shelves, or a tension rod. Nothing here
+      requires painting, drilling, or touching the cabinets, so it all comes
+      with you when you move.
+  - q: Where should I start if I only buy one or two things?
+    a: >-
+      Start with the utensil crock and the café curtains. The crock adds a
+      floral focal point to the counter for around $15, and the curtains
+      transform the window — together they shift the whole room's mood for under
+      $45, and both are impossible to get wrong.
+updated: '2026-08-02'
 ---
 
 A cottagecore kitchen isn't built in a renovation — it's built in small, collected pieces that look like they've been gathered over years. The whole aesthetic lives in the details you leave out on the counter: enamelware and embossed ceramics, a crock of wooden spoons by the stove, mason jars catching the light, and a floral towel over the oven handle. You don't need to touch the cabinets or the counters underneath. You just need the right layer of stuff on top.

@@ -1,82 +1,161 @@
 ---
-title: "Dreamy Cottagecore Bedroom Ideas (and Where to Shop the Look)"
-description: "Dreamy cottagecore bedroom ideas plus where to shop the look — floral quilts, ruffle pillowcases, lace curtains, a cane headboard and soft lighting."
-category: "textiles"
-date: "2026-07-21"
-cover: "/thumbnails/thumb-cottagecore-bedroom.webp"
+title: Dreamy Cottagecore Bedroom Ideas (and Where to Shop the Look)
+description: >-
+  Dreamy cottagecore bedroom ideas plus where to shop the look — floral quilts,
+  ruffle pillowcases, lace curtains, a cane headboard and soft lighting.
+category: textiles
+date: '2026-07-21'
+cover: /thumbnails/thumb-cottagecore-bedroom.webp
 products:
-  - name: "RiverGlow Floral Quilt Set (Queen)"
-    brand: "RiverGlow"
-    price: "~$40-55"
-    retailer: "Amazon"
-    badge: "Best bed base"
-    blurb: "A soft, ditsy-flower quilt with two matching shams — lightweight enough for summer and pretty enough to be the whole room's starting point. It's the fastest way to make a plain bed read cottagecore in one purchase."
-    caveat: "It's a lightweight coverlet, not a heavy comforter, so you'll want an extra blanket in winter."
-    image: "https://m.media-amazon.com/images/I/81J+-pateWL._AC_SX679_.jpg"
-    url: "https://www.amazon.com/RiverGlow-Floral-Quilt-Queen-Size/dp/B0GYJ2N3HF?tag=orlaloom-20"
-  - name: "Tache Cotton Patchwork Ditsy Floral Coverlet"
-    brand: "Tache Home Fashion"
-    price: "~$50-70"
-    retailer: "Amazon"
-    badge: "Most vintage"
-    blurb: "A patchwork of antique-looking ditsy florals and paisley in burgundy and beige — this is the moodier, more grandmother's-attic take on the look. Lovely folded at the foot of the bed even if you don't use it as your main cover."
-    caveat: "The darker colourway runs warmer and busier than the pastel quilts, so pair it with plain white sheets."
-    image: "https://m.media-amazon.com/images/I/A10qjJZPvcL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Tache-Patchwork-Burgundy-Lightweight-Coverlet/dp/B01MSEIVCT?tag=orlaloom-20"
-  - name: "Cotton Lace Ruffle Pillowcases (Set of 2, Pink)"
-    brand: "Generic"
-    price: "~$18-26"
-    retailer: "Amazon"
-    badge: "Softest detail"
-    blurb: "Double-layer lace ruffles on 100% cotton — the little flourish that separates a cottagecore bed from a plain one. Sitting on top of your sleeping pillows, they do most of the romantic work for very little money."
-    caveat: "The ruffles need ironing or a good shake out of the dryer to look their best; they crush easily in storage."
-    image: "https://m.media-amazon.com/images/I/71fWe76ixAL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Ruffled-Quilted-Pillowcase-Decorative-Pillows/dp/B0GK1H4MKX?tag=orlaloom-20"
-  - name: "ALIGOGO Vintage Floral Lace Sheer Curtains (2 Panels, 84\")"
-    brand: "ALIGOGO"
-    price: "~$28-38"
-    retailer: "Amazon"
-    badge: "Prettiest light"
-    blurb: "White floral lace with scalloped edges that throws dappled, petal-shaped shadows when the sun hits them — the single most atmospheric change you can make to a cottagecore bedroom. They filter light instead of blocking it, so mornings feel gauzy and soft."
-    caveat: "Being true sheers, they give almost no privacy after dark — layer a blackout or linen panel behind if your window faces the street."
-    image: "https://m.media-amazon.com/images/I/61W5EEDcQlL._AC_SL1001_.jpg"
-    url: "https://www.amazon.com/Curtains-inches-Long-Vintage-Floral-Luxury/dp/B09N41Y9XW?tag=orlaloom-20"
-  - name: "Modway Halcyon Cane Woven Rattan Queen Headboard"
-    brand: "Modway"
-    price: "~$150-220"
-    retailer: "Amazon"
-    badge: "Statement piece"
-    blurb: "An arched natural-wood frame with woven cane — the airy, vintage-farmhouse headboard that anchors the whole look and gives the room its cottage bones. It reads far more expensive than it is once it's on the wall behind soft bedding."
-    caveat: "It's the priciest pick here and needs assembly; some reviewers note the cane can look slightly plasticky up close."
-    image: "https://m.media-amazon.com/images/I/71lplOFs3TL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Modway-Halcyon-Rattan-Headboard-Walnut/dp/B08T9XLKGX?tag=orlaloom-20"
-  - name: "Framed Pressed Botanical Wall Art (Distressed Green Frame Set)"
-    brand: "Handmade"
-    price: "~$40-60"
-    retailer: "Amazon"
-    badge: "Best wall moment"
-    blurb: "Real pressed flowers and herbs under glass in a tall distressed-green frame — the herbarium look that makes a bedroom wall feel gathered rather than bought. Hung above the headboard or beside the window, it finishes the room."
-    caveat: "It's handmade, so the exact flowers vary piece to piece; the tall narrow format suits a slim wall better than a wide one."
-    image: "https://m.media-amazon.com/images/I/81nkorPzXiL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/botanicals-botanical-Distressed-farmhouse-29-3x11-5/dp/B0DLL587QQ?tag=orlaloom-20"
-  - name: "WERFOP Green Flower Table Lamp (Lily of the Valley)"
-    brand: "WERFOP"
-    price: "~$20-28"
-    retailer: "Amazon"
-    badge: "Coziest glow"
-    blurb: "A bell-flower bedside lamp on a soft green gooseneck stem, with three warm colour modes — the kind of small, whimsical light that makes a nightstand feel like a fairy tale. It's cheap enough to buy a pair for a symmetrical bed."
-    caveat: "It's a decorative accent light, not a reading lamp — the glow is gentle and mood-setting rather than bright."
-    image: "https://m.media-amazon.com/images/I/61ENVwgHBHL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/WERFOP-Vintage-Bedside-Nightstand-Bedroom/dp/B0CQK613S1?tag=orlaloom-20"
-  - name: "Cozy Line Vintage Floral Quilted Cotton Throw"
-    brand: "Cozy Line Home Fashions"
-    price: "~$30-40"
-    retailer: "Amazon"
-    badge: "Best finishing layer"
-    blurb: "A reversible 100% cotton quilted throw in a soft blossom print — the layer you fold across the end of the bed to make it look styled and lived-in. All-season weight, so it works draped over a chair in summer and over your legs in winter."
-    caveat: "At throw size it's for styling and naps, not full bed coverage; you'll still want a proper blanket underneath."
-    image: "https://m.media-amazon.com/images/I/81qTSkHZLJL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Cozy-Line-Home-Fashions-Reversible/dp/B081V6WJ4H?tag=orlaloom-20"
+  - name: RiverGlow Floral Quilt Set (Queen)
+    brand: RiverGlow
+    price: ~$40-55
+    retailer: Amazon
+    badge: Best bed base
+    blurb: >-
+      A soft, ditsy-flower quilt with two matching shams — lightweight enough
+      for summer and pretty enough to be the whole room's starting point. It's
+      the fastest way to make a plain bed read cottagecore in one purchase.
+    caveat: >-
+      It's a lightweight coverlet, not a heavy comforter, so you'll want an
+      extra blanket in winter.
+    image: 'https://m.media-amazon.com/images/I/81J+-pateWL._AC_SX679_.jpg'
+    url: >-
+      https://www.amazon.com/RiverGlow-Floral-Quilt-Queen-Size/dp/B0GYJ2N3HF?tag=orlaloom-20
+  - name: Tache Cotton Patchwork Ditsy Floral Coverlet
+    brand: Tache Home Fashion
+    price: ~$50-70
+    retailer: Amazon
+    badge: Most vintage
+    blurb: >-
+      A patchwork of antique-looking ditsy florals and paisley in burgundy and
+      beige — this is the moodier, more grandmother's-attic take on the look.
+      Lovely folded at the foot of the bed even if you don't use it as your main
+      cover.
+    caveat: >-
+      The darker colourway runs warmer and busier than the pastel quilts, so
+      pair it with plain white sheets.
+    image: 'https://m.media-amazon.com/images/I/A10qjJZPvcL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Tache-Patchwork-Burgundy-Lightweight-Coverlet/dp/B01MSEIVCT?tag=orlaloom-20
+  - name: 'Cotton Lace Ruffle Pillowcases (Set of 2, Pink)'
+    brand: Generic
+    price: ~$18-26
+    retailer: Amazon
+    badge: Softest detail
+    blurb: >-
+      Double-layer lace ruffles on 100% cotton — the little flourish that
+      separates a cottagecore bed from a plain one. Sitting on top of your
+      sleeping pillows, they do most of the romantic work for very little money.
+    caveat: >-
+      The ruffles need ironing or a good shake out of the dryer to look their
+      best; they crush easily in storage.
+    image: 'https://m.media-amazon.com/images/I/71fWe76ixAL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Ruffled-Quilted-Pillowcase-Decorative-Pillows/dp/B0GK1H4MKX?tag=orlaloom-20
+  - name: 'ALIGOGO Vintage Floral Lace Sheer Curtains (2 Panels, 84")'
+    brand: ALIGOGO
+    price: ~$28-38
+    retailer: Amazon
+    badge: Prettiest light
+    blurb: >-
+      White floral lace with scalloped edges that throws dappled, petal-shaped
+      shadows when the sun hits them — the single most atmospheric change you
+      can make to a cottagecore bedroom. They filter light instead of blocking
+      it, so mornings feel gauzy and soft.
+    caveat: >-
+      Being true sheers, they give almost no privacy after dark — layer a
+      blackout or linen panel behind if your window faces the street.
+    image: 'https://m.media-amazon.com/images/I/61W5EEDcQlL._AC_SL1001_.jpg'
+    url: >-
+      https://www.amazon.com/Curtains-inches-Long-Vintage-Floral-Luxury/dp/B09N41Y9XW?tag=orlaloom-20
+  - name: Modway Halcyon Cane Woven Rattan Queen Headboard
+    brand: Modway
+    price: ~$150-220
+    retailer: Amazon
+    badge: Statement piece
+    blurb: >-
+      An arched natural-wood frame with woven cane — the airy, vintage-farmhouse
+      headboard that anchors the whole look and gives the room its cottage
+      bones. It reads far more expensive than it is once it's on the wall behind
+      soft bedding.
+    caveat: >-
+      It's the priciest pick here and needs assembly; some reviewers note the
+      cane can look slightly plasticky up close.
+    image: 'https://m.media-amazon.com/images/I/71lplOFs3TL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Modway-Halcyon-Rattan-Headboard-Walnut/dp/B08T9XLKGX?tag=orlaloom-20
+  - name: Framed Pressed Botanical Wall Art (Distressed Green Frame Set)
+    brand: Handmade
+    price: ~$40-60
+    retailer: Amazon
+    badge: Best wall moment
+    blurb: >-
+      Real pressed flowers and herbs under glass in a tall distressed-green
+      frame — the herbarium look that makes a bedroom wall feel gathered rather
+      than bought. Hung above the headboard or beside the window, it finishes
+      the room.
+    caveat: >-
+      It's handmade, so the exact flowers vary piece to piece; the tall narrow
+      format suits a slim wall better than a wide one.
+    image: 'https://m.media-amazon.com/images/I/81nkorPzXiL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/botanicals-botanical-Distressed-farmhouse-29-3x11-5/dp/B0DLL587QQ?tag=orlaloom-20
+  - name: WERFOP Green Flower Table Lamp (Lily of the Valley)
+    brand: WERFOP
+    price: ~$20-28
+    retailer: Amazon
+    badge: Coziest glow
+    blurb: >-
+      A bell-flower bedside lamp on a soft green gooseneck stem, with three warm
+      colour modes — the kind of small, whimsical light that makes a nightstand
+      feel like a fairy tale. It's cheap enough to buy a pair for a symmetrical
+      bed.
+    caveat: >-
+      It's a decorative accent light, not a reading lamp — the glow is gentle
+      and mood-setting rather than bright.
+    image: 'https://m.media-amazon.com/images/I/61ENVwgHBHL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/WERFOP-Vintage-Bedside-Nightstand-Bedroom/dp/B0CQK613S1?tag=orlaloom-20
+  - name: Cozy Line Vintage Floral Quilted Cotton Throw
+    brand: Cozy Line Home Fashions
+    price: ~$30-40
+    retailer: Amazon
+    badge: Best finishing layer
+    blurb: >-
+      A reversible 100% cotton quilted throw in a soft blossom print — the layer
+      you fold across the end of the bed to make it look styled and lived-in.
+      All-season weight, so it works draped over a chair in summer and over your
+      legs in winter.
+    caveat: >-
+      At throw size it's for styling and naps, not full bed coverage; you'll
+      still want a proper blanket underneath.
+    image: 'https://m.media-amazon.com/images/I/81qTSkHZLJL._AC_SL1500_.jpg'
+    url: >-
+      https://www.amazon.com/Cozy-Line-Home-Fashions-Reversible/dp/B081V6WJ4H?tag=orlaloom-20
+faqs:
+  - q: What colours make a bedroom feel cottagecore?
+    a: >-
+      Soft, faded, garden-derived colours: blush pink, sage and moss green,
+      butter cream, dusty blue, and warm white. The key is that nothing looks
+      brand-new or saturated — cottagecore reads like colours that have been
+      gently washed a hundred times. Keep walls neutral and let the textiles
+      carry the colour.
+  - q: Do all the florals have to match?
+    a: >-
+      No — and they honestly look better if they don't. A ditsy quilt, a
+      different floral throw, and a lace pillow read as "collected over time,"
+      which is the whole point. The trick to keeping it from looking chaotic is
+      to hold everything in the same soft colour family and let one or two plain
+      white pieces (sheets, a curtain) give your eye somewhere to rest.
+  - q: How do I get the look if I rent and can't change much?
+    a: >-
+      Focus entirely on the swappable layers, none of which touch the walls or
+      floor permanently. New bedding, lace pillowcases, sheer curtains on a
+      tension rod, a bedside flower lamp, and a framed botanical propped on a
+      shelf will get you 90% of the way there — and it all packs into a couple
+      of boxes when you move.
+updated: '2026-08-02'
 ---
 
 A cottagecore bedroom is really just a room that looks like it grew slowly — florals that don't quite match, a lace curtain gone soft with washing, a jar of dried flowers on the sill, and lamplight the colour of butter. It shouldn't feel designed so much as *tended*. The good news is that you don't need to rip anything out or repaint to get there; the whole look is built from soft, swappable layers, most of them textiles, and most of them under fifty dollars.

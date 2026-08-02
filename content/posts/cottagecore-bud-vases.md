@@ -1,64 +1,96 @@
 ---
-title: "Best Cottagecore Ceramic Bud Vases for Wildflowers"
-description: "Small vintage-style ceramic and stoneware bud vases — fluted, hand-painted, and pitcher-shaped — for displaying fresh-cut wildflowers."
-category: "home-decor"
-date: "2026-07-09"
-cover: "/thumbnails/thumb-cottagecore-bud-vases.webp"
+title: Best Cottagecore Ceramic Bud Vases for Wildflowers
+description: >-
+  Small vintage-style ceramic and stoneware bud vases — fluted, hand-painted,
+  and pitcher-shaped — for displaying fresh-cut wildflowers.
+category: home-decor
+date: '2026-07-09'
+cover: /thumbnails/thumb-cottagecore-bud-vases.webp
 products:
-  - name: "GUGUGO Pastel Mushroom Bud Vase"
-    image: "https://m.media-amazon.com/images/I/71TmLnDbtSL.jpg"
-    brand: "Gugugo"
-    price: "~$22–28"
-    retailer: "Amazon"
-    badge: "Most charming"
-    blurb: "A hand-painted, whimsical little vase that's become a cottagecore shelf staple."
-    caveat: "Hand-painting varies piece to piece, and it's more decorative than heavy-duty."
-    url: "https://www.amazon.com/dp/B0C23HZ3YF?tag=orlaloom-20"
-  - name: "Fluted Flair White Ceramic Pitcher Vase"
-    image: "https://images.thdstatic.com/productImages/c958e15e705d4dfb956dc0744f066044/svn/white-hemsly-inc-vases-11133-64_1000.jpg"
-    brand: "Home Depot"
-    price: "~$30–45"
-    retailer: "Home Depot"
-    badge: "Pitcher look"
-    blurb: "A white fluted pitcher-style vase — the ironstone-jug-as-vase look for loose bunches."
-    caveat: "Sold singly, and the glossy white reads more farmhouse than aged-vintage."
-    url: "https://www.homedepot.com/p/Fluted-Flair-White-Ceramic-Decorative-Pitcher-Vase-11133/317085290"
-  - name: "Ceramic Farmhouse Bud Vase (7.6 in)"
-    image: "https://m.media-amazon.com/images/I/81JqvMEywSL.jpg"
-    brand: "Various"
-    price: "~$18–30"
-    retailer: "Amazon"
-    badge: "Best ribbed"
-    blurb: "Ribbed white ceramic with that classic ironstone texture that suits any stem."
-    caveat: "No single canonical listing, so dimensions vary by seller — check before buying."
-    url: "https://www.amazon.com/dp/B0F9SVL9X4?tag=orlaloom-20"
-  - name: "Farmhouse Ceramic Pitcher Vase (White)"
-    image: "https://m.media-amazon.com/images/I/61xPNoZuR8L._AC_SX679_.jpg"
-    brand: "Various"
-    price: "~$25–40"
-    retailer: "Amazon"
-    badge: "Best for bunches"
-    blurb: "A classic pitcher silhouette sized for loose, gathered wildflower bunches."
-    caveat: "Larger scale — not the one for a single delicate stem."
-    url: "https://www.amazon.com/dp/B094DC2JV6?tag=orlaloom-20"
-  - name: "White Ceramic Bud Vase Set (Set of 11)"
-    image: "https://m.media-amazon.com/images/I/81BVnb9l+lL.jpg"
-    brand: "Various"
-    price: "~$20–35"
-    retailer: "Amazon"
-    badge: "Best value set"
-    blurb: "Small bud vases in multi-packs — perfect for scattering single stems down a table."
-    caveat: "Listings vary; check reviews for true ceramic vs. thin earthenware."
-    url: "https://www.amazon.com/dp/B0GK2P622Z?tag=orlaloom-20"
-  - name: "Sullivans Ceramic Bud Vase Set (Set of 3)"
-    image: "https://m.media-amazon.com/images/I/61Auj4k8KGL._AC_SL1500_.jpg"
-    brand: "Sullivans"
-    price: "~$25–35"
-    retailer: "Amazon"
-    badge: "Best rustic set"
-    blurb: "A trio of crackle-glazed ceramic vases with a genuinely aged, farmhouse look — the authentic stoneware feel without boutique lead times."
-    caveat: "Small accent vases sized for single stems and dried grasses, not big bouquets."
-    url: "https://www.amazon.com/Sullivans-Ceramic-Centerpieces-Kitchen-CM2583/dp/B01AV4YQ3Q?tag=orlaloom-20"
+  - name: GUGUGO Pastel Mushroom Bud Vase
+    image: 'https://m.media-amazon.com/images/I/71TmLnDbtSL.jpg'
+    brand: Gugugo
+    price: ~$22–28
+    retailer: Amazon
+    badge: Most charming
+    blurb: >-
+      A hand-painted, whimsical little vase that's become a cottagecore shelf
+      staple.
+    caveat: >-
+      Hand-painting varies piece to piece, and it's more decorative than
+      heavy-duty.
+    url: 'https://www.amazon.com/dp/B0C23HZ3YF?tag=orlaloom-20'
+  - name: Fluted Flair White Ceramic Pitcher Vase
+    image: >-
+      https://images.thdstatic.com/productImages/c958e15e705d4dfb956dc0744f066044/svn/white-hemsly-inc-vases-11133-64_1000.jpg
+    brand: Home Depot
+    price: ~$30–45
+    retailer: Home Depot
+    badge: Pitcher look
+    blurb: >-
+      A white fluted pitcher-style vase — the ironstone-jug-as-vase look for
+      loose bunches.
+    caveat: 'Sold singly, and the glossy white reads more farmhouse than aged-vintage.'
+    url: >-
+      https://www.homedepot.com/p/Fluted-Flair-White-Ceramic-Decorative-Pitcher-Vase-11133/317085290
+  - name: Ceramic Farmhouse Bud Vase (7.6 in)
+    image: 'https://m.media-amazon.com/images/I/81JqvMEywSL.jpg'
+    brand: Various
+    price: ~$18–30
+    retailer: Amazon
+    badge: Best ribbed
+    blurb: >-
+      Ribbed white ceramic with that classic ironstone texture that suits any
+      stem.
+    caveat: >-
+      No single canonical listing, so dimensions vary by seller — check before
+      buying.
+    url: 'https://www.amazon.com/dp/B0F9SVL9X4?tag=orlaloom-20'
+  - name: Farmhouse Ceramic Pitcher Vase (White)
+    image: 'https://m.media-amazon.com/images/I/61xPNoZuR8L._AC_SX679_.jpg'
+    brand: Various
+    price: ~$25–40
+    retailer: Amazon
+    badge: Best for bunches
+    blurb: 'A classic pitcher silhouette sized for loose, gathered wildflower bunches.'
+    caveat: Larger scale — not the one for a single delicate stem.
+    url: 'https://www.amazon.com/dp/B094DC2JV6?tag=orlaloom-20'
+  - name: White Ceramic Bud Vase Set (Set of 11)
+    image: 'https://m.media-amazon.com/images/I/81BVnb9l+lL.jpg'
+    brand: Various
+    price: ~$20–35
+    retailer: Amazon
+    badge: Best value set
+    blurb: >-
+      Small bud vases in multi-packs — perfect for scattering single stems down
+      a table.
+    caveat: Listings vary; check reviews for true ceramic vs. thin earthenware.
+    url: 'https://www.amazon.com/dp/B0GK2P622Z?tag=orlaloom-20'
+  - name: Sullivans Ceramic Bud Vase Set (Set of 3)
+    image: 'https://m.media-amazon.com/images/I/61Auj4k8KGL._AC_SL1500_.jpg'
+    brand: Sullivans
+    price: ~$25–35
+    retailer: Amazon
+    badge: Best rustic set
+    blurb: >-
+      A trio of crackle-glazed ceramic vases with a genuinely aged, farmhouse
+      look — the authentic stoneware feel without boutique lead times.
+    caveat: >-
+      Small accent vases sized for single stems and dried grasses, not big
+      bouquets.
+    url: >-
+      https://www.amazon.com/Sullivans-Ceramic-Centerpieces-Kitchen-CM2583/dp/B01AV4YQ3Q?tag=orlaloom-20
+faqs:
+  - q: What flowers suit these best?
+    a: >-
+      Anything loose and unfussy — cosmos, sweet peas, ranunculus, herbs in
+      flower, or a few stems of whatever's blooming. The undone look is the
+      point.
+  - q: Are ceramic vases watertight?
+    a: >-
+      Glazed ceramic and stoneware are; unglazed terracotta-style pieces may
+      seep, so use a small glass insert if in doubt.
+updated: '2026-08-02'
 ---
 
 A bud vase is the cheapest piece of décor that earns its keep daily — one stem of something from the garden, and a windowsill comes alive. Here are the prettiest little vessels for exactly that.
