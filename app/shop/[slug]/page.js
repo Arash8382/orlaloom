@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { site, author, categoryBySlug } from "../../../lib/site";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
+import SaveButton from "../../components/SaveButton";
 
 export function generateStaticParams() {
   return getAllProductSlugs().map((slug) => ({ slug }));
@@ -89,13 +90,10 @@ export default function ProductPage({ params }) {
         <span style={{ color: "var(--ink)" }}>{p.name}</span>
       </div>
 
-      <p className="disclosure">
-        This page contains an affiliate link. If you buy through it, we may earn a small commission at no cost to you.
-      </p>
-
       <div className="product-hero" style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) minmax(0,1fr)", gap: 28, alignItems: "start", margin: "8px 0 10px" }}>
         <div
           style={{
+            position: "relative",
             background: "var(--card, #fbf7f0)",
             border: "1px solid var(--line, #e7ddcf)",
             borderRadius: 16,
@@ -109,6 +107,7 @@ export default function ProductPage({ params }) {
           {p.image ? (
             <img src={p.image} alt={p.name} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
           ) : null}
+          <SaveButton product={{ name: p.name, image: p.image, price: p.price, url: p.url, brand: p.brand }} />
         </div>
 
         <div>
