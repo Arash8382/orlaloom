@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { site, categories, categoryImage } from "../lib/site";
-import { getAllPosts, getPostsByCategory, getCategoryThumbPool } from "../lib/posts";
+import { getAllPosts, getPostsByCategory, getCategoryThumbPool, getProductMap } from "../lib/posts";
 import RotatingCategories from "./components/RotatingCategories";
 import RotatingGuides from "./components/RotatingGuides";
 import RoomSlider from "./components/RoomSlider";
+import MobileGuidedPicker from "./components/MobileGuidedPicker";
 
 export const metadata = { alternates: { canonical: "/" } };
 
@@ -43,6 +44,25 @@ export default function Home() {
   const fmtDate = (d) => new Date(d).toLocaleDateString("en-US", { month: "short", day: "numeric" });
   const isNew = (d) => Date.now() - new Date(d).getTime() < 12 * 864e5;
 
+  // Data for the mobile-only guided picker (Option C). Each "space" maps to a
+  // few categories; we surface a short list of real products that link to
+  // /shop/[slug]. Kept small so mobile shoppers aren't overwhelmed.
+  const pmap = [...getProductMap().values()].filter((p) => p.image);
+  const pickFor = (cats, n = 8) =>
+    pmap
+      .filter((p) => cats.includes(p.category))
+      .slice(0, n)
+      .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug }));
+  const guidedGroups = [
+    { key: "living", label: "The living room", cats: ["rugs", "home-decor"] },
+    { key: "kitchen", label: "The kitchen", cats: ["butter-dishes", "cottagecore-kitchen", "retro-appliances"] },
+    { key: "table", label: "The table", cats: ["scalloped-dinnerware", "glassware"] },
+    { key: "cosy", label: "Cosy touches", cats: ["candles", "textiles"] },
+  ].map((b) => {
+    const products = pickFor(b.cats);
+    return { key: b.key, label: b.label, cover: (products[0] && products[0].image) || "", products };
+  });
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -75,8 +95,13 @@ export default function Home() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* HERO — shoppable scene, the new signature style */}
-      <section style={{ paddingTop: 12 }}>
+      {/* MOBILE HOME — guided picker (Option C), only shown under 900px */}
+      <section className="mobile-only" style={{ paddingTop: 10 }}>
+        <MobileGuidedPicker groups={guidedGroups} />
+      </section>
+
+      {/* HERO — shoppable scene, the new signature style (desktop only) */}
+      <section className="desktop-only" style={{ paddingTop: 12 }}>
         <div style={{ textAlign: "center", maxWidth: 780, margin: "0 auto", padding: "0 24px" }}>
           <span className="eyebrow">Cosy finds, gently chosen</span>
           <h1 style={{ fontFamily: "var(--serif)", fontSize: "clamp(26px,3.6vw,40px)", color: "var(--head)", lineHeight: 1.05, margin: "6px 0 8px", letterSpacing: "-.01em" }}>
