@@ -84,7 +84,6 @@ export default function MobileGuidedPicker({ chips, products }) {
             <div className="mgp-card-name">{p.name}</div>
             <div className="mgp-card-row">
               {p.price ? <span className="mgp-price">{p.price}</span> : <span />}
-              <span className="mgp-shop">Shop</span>
             </div>
           </Link>
         ))}
