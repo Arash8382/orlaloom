@@ -1,5 +1,17 @@
 import SaveButton from "./SaveButton";
 
+// Mirrors lib/posts.js productSlug — cards link to our /shop/[slug] product
+// pages (where the buy button lives) instead of jumping straight to retailers.
+function productSlug(pr) {
+  return String(pr && pr.name ? pr.name : "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/['"’.,()/]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 64);
+}
+
 const css = `
 .al-sec{max-width:1180px;margin:0 auto;padding:20px 30px 46px}
 .al-item{position:relative;break-inside:avoid;margin:0 0 14px}
@@ -28,7 +40,7 @@ const css = `
 @media(hover:none){.al-cap{opacity:1;background:linear-gradient(to top,rgba(40,28,20,.72),rgba(40,28,20,0))}}
 `;
 
-export default function AlbumGrid({ products = [], catName = "the collection", eyebrow = "The finds", title, sub = "Just the pieces — tap any image to shop it.", showCount = true }) {
+export default function AlbumGrid({ products = [], catName = "the collection", eyebrow = "The finds", title, sub = "Just the pieces — tap any image to see it.", showCount = true }) {
   const items = products.filter((p) => p && p.image && p.url);
   if (items.length === 0) return null;
   const heading = title || `Shop all ${catName.toLowerCase()}`;
@@ -44,14 +56,13 @@ export default function AlbumGrid({ products = [], catName = "the collection", e
       <div className="al-grid">
         {items.map((p, i) => (
           <div key={i} className="al-item">
-            <a className="al-tile" href={p.url} target="_blank" rel="nofollow sponsored noopener" aria-label={`Shop ${p.name}`}>
+            <a className="al-tile" href={`/shop/${productSlug(p)}`} aria-label={`View ${p.name}`}>
               {p.badge && <span className="al-badge">{p.badge}</span>}
               <img src={p.image} alt={p.name} loading="lazy" />
               <div className="al-cap">
                 <div className="al-name">{p.name}</div>
                 <div className="al-row">
                   <span className="al-price">{p.price}</span>
-                  <span className="al-shop">Shop →</span>
                 </div>
               </div>
             </a>

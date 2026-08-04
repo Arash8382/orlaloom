@@ -2,6 +2,17 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 
+// Mirrors lib/posts.js productSlug — results link to /shop/[slug] product pages.
+function slugify(name) {
+  return String(name || "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/['"’.,()/]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 64);
+}
+
 export default function SearchClient({ products, categories }) {
   const [q, setQ] = useState("");
   const [cat, setCat] = useState("");
@@ -55,7 +66,7 @@ export default function SearchClient({ products, categories }) {
             <div className="product-card" key={i}>
               <div className="product-img">
                 {p.image ? (
-                  <a className="img-link" href={p.url} target="_blank" rel="nofollow sponsored noopener" aria-label={p.name}>
+                  <a className="img-link" href={`/shop/${slugify(p.name)}`} aria-label={p.name}>
                     <img src={p.image} alt={p.name} loading="lazy" />
                   </a>
                 ) : null}
@@ -64,7 +75,7 @@ export default function SearchClient({ products, categories }) {
               <div className="product-body">
                 <h3>{p.name}</h3>
                 <div className="meta">{[p.brand, p.price].filter(Boolean).join(" · ")}</div>
-                <a className="buy" href={p.url} target="_blank" rel="nofollow sponsored noopener">Shop on {p.retailer || "Amazon"} →</a>
+                <a className="buy" href={`/shop/${slugify(p.name)}`}>View this find →</a>
                 <Link className="from-guide" href={`/blog/${p.guideSlug}`}>Read the guide →</Link>
               </div>
             </div>
