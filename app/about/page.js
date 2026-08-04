@@ -19,10 +19,17 @@ export default function About() {
           who it’s best for, and an honest note on anything to watch out for.
         </p>
         <p>
-          <em>
-            Tip: add a founder name, a sentence of personal story, and a photo here.
-            Authentic authorship genuinely helps these pages rank.
-          </em>
+          Orla Loom is run by <strong>Arash Tadi</strong>, founder and editor. What
+          started as a personal obsession with warm, lived-in homes — scalloped
+          edges, colored glass, kitchens that feel like someone actually bakes in
+          them — became a full-time project: finding the pieces that make a house
+          feel collected rather than decorated, and being honest about which ones
+          are worth the money.
+        </p>
+        <p>
+          We use AI tools to help research products, track prices, and keep every
+          link current — and a human makes the final call on every recommendation.
+          If we get something wrong, tell us and we&apos;ll fix it.
         </p>
       </div>
     </div>
