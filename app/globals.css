@@ -88,7 +88,8 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 @media (max-width: 900px) {
   .container { padding: 0 24px; }
   .header-inner { padding: 18px 24px; }
-  .nav-desktop, .header-right .saved, .header-right .ig-link { display: none; }
+  .nav-desktop, .header-right .saved, .header-right .ig-link,
+  .header-right .search-link, .header-right .saved-link, .header-right .search-pill { display: none; }
   .hamburger { display: inline-flex; }
   .mobile-menu a { padding: 14px 24px; }
 }
@@ -483,7 +484,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 /* ---- Storefront: banner + dots + responsive grid (desktop unifies the menu) ---- */
 .mgp-wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
 .mgp-sub2 { color: var(--muted-2); font-size: 15px; margin: 6px 0 0; }
-.mgp-grid2 { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; }
+.mgp-grid2 { grid-template-columns: 1fr 1fr; gap: 14px; }
 .mgp-banner { position: relative; aspect-ratio: 16 / 7; border-radius: 20px; overflow: hidden; background-size: cover; background-position: center; margin: 6px 0 18px; background-color: var(--card, #f4ece1); }
 .mgp-banner-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(45,32,20,0) 50%, rgba(45,32,20,.5)); }
 .mgp-banner-label { position: absolute; left: 18px; bottom: 16px; color: #fff; font-family: var(--serif); font-size: 22px; letter-spacing: -.01em; }
@@ -497,7 +498,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
   .mgp-chips { justify-content: center; }
   .mgp-banner { aspect-ratio: 24 / 7; }
   .mgp-banner-label { font-size: 28px; left: 26px; bottom: 22px; }
-  .mgp-grid2 { gap: 22px; }
+  .mgp-grid2 { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 22px; }
 }
 
 .mgp-sentinel { height: 1px; width: 100%; }
