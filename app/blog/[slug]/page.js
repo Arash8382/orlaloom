@@ -211,6 +211,37 @@ export default async function PostPage({ params }) {
       {/* Album grid — image-only picks, hover reveals name/price, click → retailer */}
       <AlbumGrid products={post.products} eyebrow="The picks" title="Shop the guide" sub="Tap any piece to shop it." showCount={false} />
 
+      {/* Evidence box — honest per-pick provenance: why it made the cut, evidence
+          type, and when prices were last checked. No fabricated testing claims. */}
+      {post.products && post.products.length > 0 && (
+        <section
+          style={{
+            background: "var(--card, #fbf7f0)",
+            border: "1px solid var(--line, #e7ddcf)",
+            borderRadius: 14,
+            padding: "16px 18px",
+            margin: "8px 0 20px",
+          }}
+        >
+          <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: ".06em", textTransform: "uppercase", color: "var(--head)", marginBottom: 8 }}>
+            Why each pick made the cut
+          </div>
+          <ul style={{ margin: 0, paddingLeft: 18, color: "var(--ink)", lineHeight: 1.6, fontSize: 14.5 }}>
+            {post.products.map((pr) => (
+              <li key={pr.name} style={{ marginBottom: 6 }}>
+                <strong>{pr.name}</strong>
+                {pr.blurb ? ` — ${firstSentence(pr.blurb)}` : ""}
+              </li>
+            ))}
+          </ul>
+          <p style={{ margin: "10px 0 0", fontSize: 12.5, color: "var(--muted-2, #8a7466)", lineHeight: 1.5 }}>
+            Evidence type: editorial research — specs, materials, and owner reviews compared across retailers; we have
+            not hands-on tested these unless a guide says so. Links and prices last checked{" "}
+            {wasUpdated ? modifiedStr : dateStr}. See our <Link href="/editorial-policy">editorial policy</Link>.
+          </p>
+        </section>
+      )}
+
       {post.products && post.products.length > 0 && (
         <div style={{ margin: "6px 0 8px" }}>
           <EmailSignup
