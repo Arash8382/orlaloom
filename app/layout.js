@@ -76,6 +76,7 @@ export default function RootLayout({ children }) {
                 <ul>
                   <li><Link href="/lahome-discount-code">Lahome Discount Code</Link></li>
                   <li><Link href="/about">About</Link></li>
+                  <li><Link href="/editorial-policy">Editorial Policy</Link></li>
                   <li><Link href="/disclosure">Affiliate Disclosure</Link></li>
                   <li><Link href="/privacy">Privacy</Link></li>
                 </ul>
