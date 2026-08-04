@@ -156,7 +156,15 @@ faqs:
       tumble-drying, which are hard on both dye and the rubber backing. Wash
       cold on gentle, skip the fabric softener, and air dry, and a good
       one-piece rug keeps its colour through many cycles.
-updated: '2026-08-02'
+  - q: Is Lahome as good as Ruggable?
+    a: >-
+      For the look and the washing, yes — Lahome's vintage florals and
+      scalloped borders match Ruggable's prettiest designs, and the one-piece
+      format is actually simpler to wash. What you give up is Ruggable's
+      swappable-cover system and some of its cushion. At roughly half the
+      price or less, most people come out ahead with Lahome unless seasonal
+      cover-swapping is the specific feature they want.
+updated: '2026-08-04'
 ---
 
 The best washable rug like Ruggable for most people is a one-piece machine-washable rug — the Lahome Aurielle Vintage Floral Scalloped is our top pick — because it delivers the same cottagecore look and throw-it-in-the-wash convenience for around $90 in a 5 x 7, versus roughly $230–$280 once you add Ruggable's required pad. That is about 60% less for the same job.
@@ -197,6 +205,18 @@ If you're searching brand by brand, here is the honest map of the field. **Lahom
 
 Whichever brand you land on, size the rug to the room first — our [rug size guide](/blog/rug-size-guide) covers the placement rules in two minutes — and if you're decorating in sage and moss tones, the [green cottagecore rugs](/blog/green-cottagecore-rugs) round-up has more washable options in that palette.
 
+## Lahome vs Ruggable: which should you buy?
+
+Since Lahome supplies four of our six picks, this comparison deserves its own answer. **Buy Lahome if you want Ruggable's style for half the money; buy Ruggable if you'll genuinely swap covers with the seasons.** Point by point:
+
+- **Price.** A 5 x 7 runs about $60–$90 at Lahome versus roughly $230–$280 for a Ruggable cover plus its required pad. The gap holds at every size.
+- **Format.** Lahome rugs are one piece — backing built in, the whole rug goes in the machine. Ruggable is a two-piece cover-and-pad system: more cushion and swappable covers, but two purchases and a cover to wrestle back on after every wash.
+- **Style.** This is where Lahome quietly wins for the cottagecore crowd: faded vintage florals, trailing botanicals and scalloped borders outnumber anything comparable in Ruggable's more modern, geometric catalogue.
+- **Washing.** One-piece is the easier chore — no peeling a soiled cover off a sticky pad. Both want cold, gentle cycles and air drying.
+- **Where Ruggable still earns it.** The swap-with-the-seasons trick, deeper cushion out of the box, and a larger dealer network for returns.
+
+One practical tip if you go the Lahome route: check our [Lahome discount code page](/lahome-discount-code) first — the current code takes 20% off orders over $70, which widens the price gap further.
+
 ## The price math, plainly
 
 Take a real example at the popular 5 x 7 size. Ruggable's floral covers generally run $199–$279, and the required cushioned pad adds $30–$80 if it isn't bundled — call it roughly $230–$280 all-in before any sale. The Aurielle above is about $90. The Eveloir is $90. The Orliane is $90 in the same size, the Elise is $73, and the two Amazon picks are around $40. Even if you add a $20 generic rug pad to one of the thin picks, you are still spending a third of the Ruggable total — or you could cover a living room, hallway and nursery with three washable rugs for the price of one two-piece system. Prices move around with sales on every side, so treat these as the shape of the gap rather than gospel, but the gap itself has been stable all year.
@@ -232,3 +252,7 @@ Tumble is more like Ruggable in format — it uses the same two-piece cover-plus
 **Do washable rug prints fade after washing?**
 
 Not if you treat them right. Fading comes from hot water and tumble-drying, which are hard on both dye and the rubber backing. Wash cold on gentle, skip the fabric softener, and air dry, and a good one-piece rug keeps its colour through many cycles.
+
+**Is Lahome as good as Ruggable?**
+
+For the look and the washing, yes — Lahome's vintage florals and scalloped borders match Ruggable's prettiest designs, and the one-piece format is actually simpler to wash. What you give up is Ruggable's swappable-cover system and some of its cushion. At roughly half the price or less, most people come out ahead with Lahome unless seasonal cover-swapping is the specific feature they want.
