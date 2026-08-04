@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-04T13:32:59.064Z",
-  "count": 430,
+  "generated_at": "2026-08-04T14:13:58.095Z",
+  "count": 436,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -10525,6 +10525,174 @@
         {
           "title": "The Best Speckled Stoneware Mugs for a Cozy Cottagecore Kitchen",
           "url": "https://orlaloom.com/blog/speckled-stoneware-mugs"
+        }
+      ]
+    },
+    {
+      "id": "arus-highlands-collection-tartan-throw-blanket-cream-red-60x80-in-queen",
+      "title": "Arus Highlands Collection Tartan Throw Blanket, Cream-Red, 60x80 in Queen",
+      "brand": "Arus",
+      "description": "This is the blanket that nails the vintage-prep look without the wool price tag: a classic cream-and-red tartan woven in soft, substantial acrylic at a generous 60 by 80 inches — big enough to actually share on the sofa or lay across the foot of a queen bed. The cream ground keeps it light and cottagecore rather than heavy and lodge-like, and at around thirty dollars it reads far more expensive than it is. Machine washable, which a real wool tartan never forgives.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 30,
+      "price_high": 35,
+      "price_display": "~$30-35",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81G9oejpqdL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/arus-highlands-collection-tartan-throw-blanket-cream-red-60x80-in-queen",
+      "buy_url": "https://www.amazon.com/dp/B0C74P24SX?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0C74P24SX",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0C74P24SX",
+      "affiliate_url": "https://www.amazon.com/dp/B0C74P24SX?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Tartan & Plaid Throw Blankets for a Cozy \"Vintage Prep\" Fall",
+          "url": "https://orlaloom.com/blog/tartan-plaid-throw-blankets"
+        }
+      ]
+    },
+    {
+      "id": "briomhar-tartan-wool-throw-blanket-with-fringe-60x72-in",
+      "title": "Briomhar Tartan Wool Throw Blanket with Fringe, 60x72 in",
+      "brand": "Briomhar",
+      "description": "If tartan is having its moment, this is the one to invest in: a proper woven wool throw with fringed ends, the kind of blanket that gets handed down rather than worn out. Wool insulates even when the room is drafty, resists odors between washes, and drapes with a weight that synthetics can't imitate. It moves happily from sofa to porch to picnic — the traditional tartan rug role — and looks better each season it ages.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 75,
+      "price_high": 85,
+      "price_display": "~$75-85",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61HJStNp6RL._AC_SL1080_.jpg",
+      "url": "https://orlaloom.com/shop/briomhar-tartan-wool-throw-blanket-with-fringe-60x72-in",
+      "buy_url": "https://www.amazon.com/dp/B0H3JLGY5F?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0H3JLGY5F",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0H3JLGY5F",
+      "affiliate_url": "https://www.amazon.com/dp/B0H3JLGY5F?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Tartan & Plaid Throw Blankets for a Cozy \"Vintage Prep\" Fall",
+          "url": "https://orlaloom.com/blog/tartan-plaid-throw-blankets"
+        }
+      ]
+    },
+    {
+      "id": "tommy-hilfiger-ultra-soft-plush-throw-blanket-edinburgh-tartan-blue-50x70-in",
+      "title": "Tommy Hilfiger Ultra-Soft Plush Throw Blanket, Edinburgh Tartan Blue, 50x70 in",
+      "brand": "Tommy Hilfiger",
+      "description": "Nobody does prep like Hilfiger, and the Edinburgh tartan colorway is the exact blue-forward plaid you see in every vintage-prep mood board. The plush face is genuinely soft, the reverse is a tailored solid, and the hem is finished properly — details that make it look intentional draped over a reading chair. At 50 by 70 inches it's longer than most throws, so tall nappers are finally covered, feet included.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 30,
+      "price_high": 40,
+      "price_display": "~$30-40",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81sXma1Vd9L._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/tommy-hilfiger-ultra-soft-plush-throw-blanket-edinburgh-tartan-blue-50x70-in",
+      "buy_url": "https://www.amazon.com/dp/B0FS9P9KPQ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0FS9P9KPQ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0FS9P9KPQ",
+      "affiliate_url": "https://www.amazon.com/dp/B0FS9P9KPQ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Tartan & Plaid Throw Blankets for a Cozy \"Vintage Prep\" Fall",
+          "url": "https://orlaloom.com/blog/tartan-plaid-throw-blankets"
+        }
+      ]
+    },
+    {
+      "id": "eddie-bauer-brushed-fleece-sherpa-throw-blanket-pine-tartan-dark-green-50x60-in",
+      "title": "Eddie Bauer Brushed Fleece & Sherpa Throw Blanket, Pine Tartan Dark Green, 50x60 in",
+      "brand": "Eddie Bauer",
+      "description": "This is the one you'll fight over on movie night: brushed fleece tartan on one side, deep plush sherpa on the other, so it's warm the second you pull it on rather than after ten minutes. The pine-green tartan is a heritage outdoor pattern that pairs beautifully with cream, brass and wood tones, and Eddie Bauer's cabin credentials mean it doesn't read as fast fashion. Machine washes without drama.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 25,
+      "price_high": 30,
+      "price_display": "~$25-30",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/813NwpAwYXL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/eddie-bauer-brushed-fleece-sherpa-throw-blanket-pine-tartan-dark-green-50x60-in",
+      "buy_url": "https://www.amazon.com/dp/B07TZL35QZ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B07TZL35QZ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B07TZL35QZ",
+      "affiliate_url": "https://www.amazon.com/dp/B07TZL35QZ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Tartan & Plaid Throw Blankets for a Cozy \"Vintage Prep\" Fall",
+          "url": "https://orlaloom.com/blog/tartan-plaid-throw-blankets"
+        }
+      ]
+    },
+    {
+      "id": "ginamuse-green-plaid-throw-blanket-with-tassels-50x60-in",
+      "title": "GINAMUSE Green Plaid Throw Blanket with Tassels, 50x60 in",
+      "brand": "GINAMUSE",
+      "description": "Not every throw needs to be a heat blanket. This lightweight green plaid is the layering piece — breathable enough for August evenings on the porch, pretty enough to leave folded over a chair back all year. The tasseled edge gives it that slightly undone, styled-but-not- trying look, and the sage-leaning green slots straight into the sage and cream kitchens trending this year.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 20,
+      "price_high": 25,
+      "price_display": "~$20-25",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81BIQ2qowsL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/ginamuse-green-plaid-throw-blanket-with-tassels-50x60-in",
+      "buy_url": "https://www.amazon.com/dp/B0CQ1KTZ9F?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0CQ1KTZ9F",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0CQ1KTZ9F",
+      "affiliate_url": "https://www.amazon.com/dp/B0CQ1KTZ9F?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Tartan & Plaid Throw Blankets for a Cozy \"Vintage Prep\" Fall",
+          "url": "https://orlaloom.com/blog/tartan-plaid-throw-blankets"
+        }
+      ]
+    },
+    {
+      "id": "bedelite-plaid-fleece-throw-blanket-navy-tartan-50x60-in",
+      "title": "BEDELITE Plaid Fleece Throw Blanket, Navy Tartan, 50x60 in",
+      "brand": "BEDELITE",
+      "description": "At around thirteen dollars, this is the tartan you buy in multiples — one for the den, one for the car, one for the guest room. The navy tartan is surprisingly handsome for the price, the microfiber fleece is soft and light, and it survives endless machine washing. If you want to test-drive the tartan look before investing in wool, this is the zero-risk way in.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 12,
+      "price_high": 15,
+      "price_display": "~$12-15",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81DOkpb-2pL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/bedelite-plaid-fleece-throw-blanket-navy-tartan-50x60-in",
+      "buy_url": "https://www.amazon.com/dp/B0GZNMX1KV?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0GZNMX1KV",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0GZNMX1KV",
+      "affiliate_url": "https://www.amazon.com/dp/B0GZNMX1KV?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Tartan & Plaid Throw Blankets for a Cozy \"Vintage Prep\" Fall",
+          "url": "https://orlaloom.com/blog/tartan-plaid-throw-blankets"
         }
       ]
     },
