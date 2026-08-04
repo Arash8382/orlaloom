@@ -27,6 +27,7 @@ export default function Header() {
         </Link>
 
         <div className="header-right">
+          <Link className="search-link" href="/blog">Guides</Link>
           <Link className="search-link" href="/about">About</Link>
           <Link className="search-link" href="/search" aria-label="Search products">🔍 Search</Link>
           <Link className="saved-link" href="/wishlist" aria-label="Your saved picks" title="Your saved picks" style={{ display: "inline-flex", alignItems: "center", gap: 5 }}>
@@ -58,6 +59,7 @@ export default function Header() {
 
       <div className={`mobile-menu ${open ? "open" : ""}`}>
         <Link href="/search" onClick={() => setOpen(false)}>🔍 Search</Link>
+        <Link href="/blog" onClick={() => setOpen(false)}>📖 All guides</Link>
         <Link href="/wishlist" onClick={() => setOpen(false)}>♥ Saved picks{savedCount > 0 ? ` (${savedCount})` : ""}</Link>
         {categories.map((c) => (
           <Link key={c.slug} href={`/category/${c.slug}`} onClick={() => setOpen(false)}>
