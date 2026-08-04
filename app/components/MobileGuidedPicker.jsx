@@ -41,20 +41,23 @@ export default function MobileGuidedPicker({ chips, products }) {
       <div className="mgp-head2">
         <span className="eyebrow">Cosy finds, gently chosen</span>
         <h1 className="mgp-q2">Shop the collection</h1>
-        <p className="mgp-sub2">Pick a space, then scroll the finds.</p>
+        <p className="mgp-sub2">Pick a space — swipe the row for more.</p>
       </div>
 
-      <div className="mgp-chips" role="tablist" aria-label="Shop by space">
-        {chips.map((c) => (
-          <button
-            key={c.key}
-            className={"mgp-chip" + (sel === c.key ? " is-on" : "")}
-            onClick={() => pick(c.key)}
-            aria-pressed={sel === c.key}
-          >
-            {c.label}
-          </button>
-        ))}
+      <div className="mgp-chips-wrap">
+        <div className="mgp-chips" role="tablist" aria-label="Shop by space">
+          {chips.map((c) => (
+            <button
+              key={c.key}
+              className={"mgp-chip" + (sel === c.key ? " is-on" : "")}
+              onClick={() => pick(c.key)}
+              aria-pressed={sel === c.key}
+            >
+              {c.label}
+            </button>
+          ))}
+        </div>
+        <span className="mgp-chips-more" aria-hidden="true">›</span>
       </div>
 
       {cur && cur.banner && (
