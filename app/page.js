@@ -110,7 +110,17 @@ export default function Home() {
       <section className="guides" style={{ paddingTop: 8 }}>
         <div className="guides-inner">
           <div className="guides-head">
-            <h2>New this week</h2>
+            <div>
+              <h2 style={{ display: "flex", alignItems: "center", gap: 10, flexWrap: "wrap" }}>
+                New this week
+                <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: ".05em", textTransform: "uppercase", color: "var(--terra, #c4704f)", background: "rgba(196,112,79,.12)", padding: "4px 10px", borderRadius: 999, whiteSpace: "nowrap" }}>
+                  ✦ New finds daily
+                </span>
+              </h2>
+              <p style={{ margin: "6px 0 0", fontSize: 13.5, color: "var(--muted-2, #8a7466)" }}>
+                We add fresh finds every day — come back tomorrow and there&apos;ll be more.
+              </p>
+            </div>
             <Link className="see-all" href="/category/rugs">See all guides →</Link>
           </div>
           <div className="guides-grid">
