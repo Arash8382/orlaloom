@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 import { notFound } from "next/navigation";
 import { site, categories, categoryBySlug } from "../../../lib/site";
-import { getPostsByCategory, getCategoryProducts } from "../../../lib/posts";
+import { getPostsByCategory, getCategoryProducts, productSlug } from "../../../lib/posts";
 import ShopScene from "../../components/ShopScene";
 import AlbumGrid from "../../components/AlbumGrid";
 
@@ -98,21 +98,18 @@ export default function CategoryPage({ params }) {
             {products.map((pr, i) => (
               <div className="product-card" key={i}>
                 <div className="product-img ph">
-                  {pr.image && (pr.url ? (
-                    <a className="img-link" href={pr.url} target="_blank" rel="nofollow sponsored noopener" aria-label={pr.name}>
+                  {pr.image && (
+                    <Link className="img-link" href={`/shop/${productSlug(pr)}`} aria-label={pr.name}>
                       <img src={pr.image} alt={pr.name} loading="lazy" />
-                    </a>
-                  ) : (
-                    <img src={pr.image} alt={pr.name} loading="lazy" />
-                  ))}
+                    </Link>
+                  )}
                   {pr.badge && <span className="product-badge">{pr.badge}</span>}
                 </div>
                 <div className="product-body">
-                  <div className="product-name">{pr.name}</div>
+                  <Link href={`/shop/${productSlug(pr)}`} style={{ textDecoration: "none" }}>
+                    <div className="product-name">{pr.name}</div>
+                  </Link>
                   <div className="product-meta">{pr.brand}{pr.brand && pr.price ? " · " : ""}{pr.price}</div>
-                  {pr.url && (
-                    <a className="btn product-btn" href={pr.url} target="_blank" rel="nofollow sponsored noopener">Shop on {pr.retailer || "site"} →</a>
-                  )}
                   <Link className="from-guide" href={`/blog/${pr.guideSlug}`}>Read the guide →</Link>
                 </div>
               </div>
