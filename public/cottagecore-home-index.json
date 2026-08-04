@@ -1,0 +1,98 @@
+{
+  "name": "Cottagecore Home Index",
+  "generated_at": "2026-08-04T19:48:01.316Z",
+  "product_count": 436,
+  "methodology": "Aggregated from the Orla Loom editorial catalog: every product featured in our buyer's guides, with price ranges verified against live retailer listings at time of publication. Median price uses the midpoint of each product's observed price range. Cite as: Orla Loom Cottagecore Home Index, orlaloom.com/data.",
+  "categories": [
+    {
+      "name": "Home Décor",
+      "count": 139,
+      "median_price": 33,
+      "min_price": 8,
+      "max_price": 280,
+      "brands": 98,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 94
+    },
+    {
+      "name": "Cottagecore Kitchen",
+      "count": 78,
+      "median_price": 35,
+      "min_price": 14,
+      "max_price": 425,
+      "brands": 66,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 91
+    },
+    {
+      "name": "Textiles & Linens",
+      "count": 65,
+      "median_price": 40,
+      "min_price": 11,
+      "max_price": 185,
+      "brands": 57,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 94
+    },
+    {
+      "name": "Retro Appliances",
+      "count": 49,
+      "median_price": 80,
+      "min_price": 13,
+      "max_price": 600,
+      "brands": 18,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 100
+    },
+    {
+      "name": "Rugs",
+      "count": 44,
+      "median_price": 110,
+      "min_price": 13,
+      "max_price": 169,
+      "brands": 10,
+      "top_retailer": "Lahome",
+      "top_retailer_share": 66
+    },
+    {
+      "name": "Glassware",
+      "count": 22,
+      "median_price": 35,
+      "min_price": 18,
+      "max_price": 195,
+      "brands": 19,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 82
+    },
+    {
+      "name": "Scalloped Dinnerware",
+      "count": 16,
+      "median_price": 34,
+      "min_price": 7,
+      "max_price": 230,
+      "brands": 11,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 100
+    },
+    {
+      "name": "Butter Dishes",
+      "count": 14,
+      "median_price": 34,
+      "min_price": 18,
+      "max_price": 53,
+      "brands": 13,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 79
+    },
+    {
+      "name": "Candles & Fragrance",
+      "count": 9,
+      "median_price": 28,
+      "min_price": 22,
+      "max_price": 35,
+      "brands": 6,
+      "top_retailer": "Amazon",
+      "top_retailer_share": 67
+    }
+  ]
+}
