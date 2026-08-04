@@ -453,7 +453,12 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 .mgp { padding: 6px 16px 8px; }
 .mgp-head2 { text-align: center; margin-bottom: 10px; }
 .mgp-q2 { font-family: var(--serif); font-size: 24px; color: var(--head); line-height: 1.12; margin: 6px 0 0; letter-spacing: -.01em; }
-.mgp-chips { display: flex; gap: 8px; overflow-x: auto; padding: 4px 2px 12px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+.mgp-chips-wrap { position: relative; }
+.mgp-chips-wrap::after { content: ""; position: absolute; top: 0; right: 0; bottom: 10px; width: 54px; background: linear-gradient(to left, var(--bg, #f6ece6) 15%, rgba(246,236,230,0)); pointer-events: none; }
+.mgp-chips-more { position: absolute; right: 2px; top: 50%; transform: translateY(-62%); font-size: 26px; line-height: 1; color: var(--terra, #c4704f); pointer-events: none; animation: mgp-nudge 1.6s ease-in-out 3; }
+@keyframes mgp-nudge { 0%, 100% { transform: translateY(-62%) translateX(0); } 50% { transform: translateY(-62%) translateX(-5px); } }
+@media (min-width: 901px) { .mgp-chips-wrap::after, .mgp-chips-more { display: none; } }
+.mgp-chips { display: flex; gap: 8px; overflow-x: auto; padding: 4px 26px 12px 2px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
 .mgp-chips::-webkit-scrollbar { display: none; }
 .mgp-chip { flex: 0 0 auto; background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 9px 16px; font-size: 13.5px; color: var(--brown); white-space: nowrap; cursor: pointer; -webkit-tap-highlight-color: transparent; }
 .mgp-chip.is-on { background: var(--head); color: #fff; border-color: var(--head); }
