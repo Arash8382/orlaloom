@@ -3,7 +3,7 @@ import { getAllPosts } from "../lib/posts";
 
 export default function sitemap() {
   const base = site.url.replace(/\/$/, "");
-  const staticPages = ["", "/blog", "/about", "/meet-orla", "/data", "/tools/rug-washer-fit", "/share-your-room", "/editorial-policy", "/disclosure", "/privacy", "/lahome-discount-code"].map((p) => ({
+  const staticPages = ["", "/blog", "/about", "/meet-orla", "/data", "/tools/rug-washer-fit", "/tools/retro-color-matcher", "/share-your-room", "/editorial-policy", "/disclosure", "/privacy", "/lahome-discount-code"].map((p) => ({
     url: `${base}${p}`,
     lastModified: new Date(),
   }));
