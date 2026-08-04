@@ -161,13 +161,20 @@ export default async function PostPage({ params }) {
         <h1>{post.title}</h1>
         <div className="byline">
           <span className="avatar">{author.initials}</span>
-          <span>By <a href="/about" style={{ color: "var(--head)", fontWeight: 600 }}>{author.name}</a> · {wasUpdated ? `Updated ${modifiedStr}` : dateStr} · Independently curated</span>
+          <span>By <a href="/about" style={{ color: "var(--head)", fontWeight: 600 }}>{author.name}</a> · {wasUpdated ? `Updated ${modifiedStr}` : dateStr} · Editorially selected</span>
         </div>
       </header>
 
       <p className="disclosure">
         This post contains affiliate links. If you buy through them, we may earn a small commission at no cost to you.
       </p>
+      {(post.products || []).some((p) => /lahome|partnerboost/i.test(p.url || "")) && (
+        <p className="disclosure" style={{ background: "var(--card)", borderRadius: 10, padding: "10px 14px" }}>
+          <strong>Partner note:</strong> Orla Loom has a direct affiliate partnership with Lahome and earns a commission
+          on Lahome purchases (code ORLALOOM20 is our shared discount). Lahome does not review or approve our rankings —
+          Lahome rugs are compared against alternatives using the same criteria as every other product here.
+        </p>
+      )}
 
       {topPick && (
         <div
@@ -184,7 +191,7 @@ export default async function PostPage({ params }) {
             Quick answer
           </div>
           <p style={{ margin: 0, color: "var(--ink)", lineHeight: 1.55 }}>
-            The best {cat ? cat.name.toLowerCase().replace(/&/g, "and") : "pick"} in this guide is{" "}
+            Our top pick among the {cat ? cat.name.toLowerCase().replace(/&/g, "and") : "products"} in this guide is{" "}
             <strong>{topPick.name}</strong>
             {topPick.price ? ` (${topPick.price})` : ""}. {firstSentence(topPick.blurb)}{" "}
             {topPick.url && (
