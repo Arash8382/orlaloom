@@ -76,6 +76,9 @@ export default function RootLayout({ children }) {
                 <ul>
                   <li><Link href="/lahome-discount-code">Lahome Discount Code</Link></li>
                   <li><Link href="/about">About</Link></li>
+                  <li><Link href="/data">Cottagecore Home Index</Link></li>
+                  <li><Link href="/tools/rug-washer-fit">Rug Washer-Fit Tool</Link></li>
+                  <li><Link href="/share-your-room">Share Your Room</Link></li>
                   <li><Link href="/editorial-policy">Editorial Policy</Link></li>
                   <li><Link href="/disclosure">Affiliate Disclosure</Link></li>
                   <li><Link href="/privacy">Privacy</Link></li>
