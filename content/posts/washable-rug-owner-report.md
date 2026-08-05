@@ -4,7 +4,7 @@ description: "An Orla Loom Owner Report: we read 190 verified owner reviews acro
 category: "rugs"
 date: "2026-08-04"
 updated: "2026-08-04"
-cover: "/thumbnails/thumb-washable-rug-owner-report.webp"
+cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 faqs:
   - q: "Are cheap washable rugs too thin?"
     a: "Thinness is the single most common complaint. Among the 102 critical (1-3 star) reviews we read, 31% mention the rug being thin or thinner than expected, versus 17% of positive reviews. These rugs are intentionally low-profile so they fit a washing machine - most owners who disliked the thinness expected a plush pile. If you want cushion, plan on a rug pad from day one."
