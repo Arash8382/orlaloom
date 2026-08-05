@@ -20,12 +20,11 @@ export default function About() {
         description: `How ${site.name} researches and chooses its cottagecore home-decor recommendations.`,
       },
       {
-        "@type": "Person",
-        "@id": `${site.url}/about#author`,
-        name: "Arash Tadi",
-        jobTitle: "Founder & Editor",
-        url: `${site.url}/about`,
-        worksFor: { "@type": "Organization", name: site.name, url: site.url },
+        "@type": "Organization",
+        "@id": `${site.url}#organization`,
+        name: site.name,
+        url: site.url,
+        description: "A small editorial team publishing hand-picked cottagecore and vintage home-decor guides.",
       },
     ],
   };
@@ -49,12 +48,11 @@ export default function About() {
 
         <h2>Who runs this</h2>
         <p>
-          Orla Loom is run by <strong>Arash Tadi</strong>, founder and editor. What
-          started as a personal obsession with warm, lived-in homes — scalloped
-          edges, colored glass, kitchens that feel like someone actually bakes in
-          them — became a full-time project: finding the pieces that make a house
-          feel collected rather than decorated, and being honest about which ones
-          are worth the money.
+          Orla Loom is made by a small editorial team. It started as a personal obsession with
+          warm, lived-in homes — scalloped edges, colored glass, kitchens that feel like someone
+          actually bakes in them — and became a full-time project: finding the pieces that make a
+          house feel collected rather than decorated, and being honest about which ones are worth
+          the money.
         </p>
         <p>
           We use AI tools to help research products, track prices, and keep every
