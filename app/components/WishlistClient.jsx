@@ -30,13 +30,19 @@ const css = `
 .wl-toast{display:inline-block;margin-left:10px;color:var(--terra,#c07a54);font-weight:700;font-size:13px}
 `;
 
+// Shared lists live in Supabase under a short code, so share links stay tiny
+// (orlaloom.com/wishlist?l=ab12cd34) instead of a wall of base64 in a text message.
+const SUPA_URL = "https://nrvwtckpoaibyjpsdsmw.supabase.co";
+const SUPA_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ydnd0Y2twb2FpYnlqcHNkc213Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk4OTUwNzAsImV4cCI6MjA5NTQ3MTA3MH0.mqVVvtHJY-uELnPP1s5BFOdn1E3lKwA58Nq2uPED7s8";
+const SUPA_HEADERS = { apikey: SUPA_KEY, Authorization: `Bearer ${SUPA_KEY}`, "Content-Type": "application/json" };
+
 export default function WishlistClient({ shared = "" }) {
   const [mine, setMine] = useState([]);
   const [ready, setReady] = useState(false);
   const [copied, setCopied] = useState(false);
   const [addedShared, setAddedShared] = useState(false);
+  const [sharedItems, setSharedItems] = useState([]);
 
-  const sharedItems = shared ? decodeList(shared) : [];
   const viewingShared = sharedItems.length > 0;
 
   useEffect(() => {
@@ -45,17 +51,53 @@ export default function WishlistClient({ shared = "" }) {
     sync();
     window.addEventListener(WISHLIST_EVENT, sync);
     window.addEventListener("storage", sync);
+
+    // Read the shared list entirely client-side so it works no matter how the
+    // page was rendered. New short links: ?l=<code>. Legacy links: ?list=<b64>.
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const code = params.get("l");
+      const legacy = params.get("list") || shared;
+      if (code) {
+        fetch(`${SUPA_URL}/rest/v1/orlaloom_shared_lists?code=eq.${encodeURIComponent(code)}&select=items`, { headers: SUPA_HEADERS })
+          .then((r) => (r.ok ? r.json() : []))
+          .then((rows) => {
+            const items = rows && rows[0] && Array.isArray(rows[0].items) ? rows[0].items : [];
+            setSharedItems(items.filter((p) => p && p.url && p.name));
+          })
+          .catch(() => {});
+      } else if (legacy) {
+        setSharedItems(decodeList(legacy));
+      }
+    } catch {}
+
     return () => {
       window.removeEventListener(WISHLIST_EVENT, sync);
       window.removeEventListener("storage", sync);
     };
-  }, []);
+  }, [shared]);
 
   const shareMyList = async () => {
-    const url = `${window.location.origin}/wishlist?list=${encodeList(mine)}`;
+    let url = `${window.location.origin}/wishlist`;
+    try {
+      const code = Math.random().toString(36).slice(2, 10);
+      const items = mine.map((p) => ({ name: p.name, price: p.price, url: p.url, image: p.image, brand: p.brand }));
+      const res = await fetch(`${SUPA_URL}/rest/v1/orlaloom_shared_lists`, {
+        method: "POST",
+        headers: { ...SUPA_HEADERS, Prefer: "return=minimal" },
+        body: JSON.stringify({ code, items }),
+      });
+      if (res.ok) {
+        url = `${window.location.origin}/wishlist?l=${code}`;
+      } else {
+        url = `${window.location.origin}/wishlist?list=${encodeList(mine)}`;
+      }
+    } catch {
+      url = `${window.location.origin}/wishlist?list=${encodeList(mine)}`;
+    }
     try {
       if (navigator.share) {
-        await navigator.share({ title: "My Orla Loom wishlist", url });
+        await navigator.share({ title: "My Orla Loom wishlist", text: "My cottagecore picks from Orla Loom ♥", url });
         return;
       }
     } catch {}
