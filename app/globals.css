@@ -332,7 +332,8 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 /* ===== Lahome deal announcement banner ===== */
 .deal-banner{position:relative;display:flex;align-items:center;justify-content:center;gap:10px;
   background:linear-gradient(90deg,var(--brown-700),var(--brown) 55%,var(--terra));
-  color:#fdf6f1;font-family:var(--sans);padding:9px 44px;text-align:center;letter-spacing:.01em;}
+  color:#fdf6f1;font-family:var(--sans);padding:9px 44px;text-align:center;letter-spacing:.01em;
+  min-height:44px;}
 .deal-banner-link{display:inline-flex;align-items:center;gap:9px;color:#fdf6f1;text-decoration:none;font-size:14.5px;flex-wrap:wrap;justify-content:center;}
 .deal-banner-link:hover .deal-banner-cta{text-decoration:underline;}
 .deal-banner-spark{color:#ffe3b3;}
@@ -343,7 +344,7 @@ h1, h2, h3, h4 { font-family: var(--serif); font-optical-sizing: auto; font-weig
 .deal-banner-close{position:absolute;right:12px;top:50%;transform:translateY(-50%);
   background:transparent;border:0;color:#fdf6f1;opacity:.7;cursor:pointer;font-size:13px;line-height:1;padding:6px;}
 .deal-banner-close:hover{opacity:1;}
-@media (max-width:640px){.deal-banner{padding:8px 40px;}.deal-banner-link{font-size:12.5px;gap:6px;}.deal-banner-cta{display:none;}}
+@media (max-width:640px){.deal-banner{padding:8px 40px;min-height:68px;}.deal-banner-link{font-size:12.5px;gap:6px;}.deal-banner-cta{display:none;}}
 
 /* ===== Source-aware welcome bar (Pinterest / Instagram / search) ===== */
 .welcome-bar{position:relative;display:flex;align-items:center;justify-content:center;gap:10px;
