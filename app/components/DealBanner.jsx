@@ -56,7 +56,6 @@ export default function DealBanner() {
   return (
     <div className="deal-banner" role="region" aria-label="Site announcements">
       <Link href={m.href} className="deal-banner-link" style={{ opacity: fade ? 1 : 0, transition: "opacity .35s ease" }}>
-        <span className="deal-banner-spark" aria-hidden="true">✦</span>
         <span className="deal-banner-text">{m.body}</span>
       </Link>
       <button
