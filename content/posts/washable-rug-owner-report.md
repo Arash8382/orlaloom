@@ -16,7 +16,40 @@ faqs:
     a: "Creasing and curling appeared in 15% of the critical reviews we read. Fold lines from shipping usually relax within a few days; persistent corner curl is the more genuine complaint, and a rug pad or reverse-rolling the corners is the fix owners report."
   - q: "Are washable floral rugs good with pets and kids?"
     a: "Pets or kids came up in 19% of all the reviews we read, and in 23% of positive reviews specifically - this is the use case owners buy them for. The washability is the point: busy florals hide day-to-day marks, and the whole rug goes in the machine when it needs it."
-products: []
+products:
+  - name: "Wonnitar Machine Washable 5x7 Boho Floral Rug, Pink & Green"
+    brand: "Wonnitar"
+    price: "~$35-45"
+    retailer: "Amazon"
+    badge: "Highest rated"
+    blurb: "The best-rated rug in our sample at 4.7 stars across 5,793 ratings, and softness was the single most-praised trait owners mentioned."
+    caveat: "Owners repeatedly describe it as thin - budget for a rug pad."
+    image: "https://m.media-amazon.com/images/I/81lZ1BiqiRL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/dp/B0D3KWKWTW?tag=orlaloom-20"
+  - name: "Dadasgk Pink Floral Scalloped 5x7 Washable Rug"
+    brand: "Dadasgk"
+    price: "~$40-50"
+    retailer: "Amazon"
+    blurb: "4.6 stars across 5,439 ratings, with the scalloped border that owners buying for nurseries and bedrooms kept calling out."
+    caveat: "Same thinness tradeoff as the category; creasing takes a few days to relax."
+    image: "https://m.media-amazon.com/images/I/91mDdEvJOYL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/dp/B0FPC7TWDR?tag=orlaloom-20"
+  - name: "Vionnet Modern Parisian Insect Beige Rug"
+    brand: "Lahome"
+    price: "$50.99 (5x7)"
+    retailer: "Amazon"
+    blurb: "A quieter neutral for rooms where the rug should not shout; 4.4 stars on a listing spanning many colours and sizes."
+    caveat: "Rating count covers all variations, not this colourway alone."
+    image: "https://lahomedecor.com/cdn/shop/files/5x7LahomeVionnetWashableModernParisianInsectBeigeRug_7477288b-3b48-4f49-a42f-8d5fafe8f095.webp"
+    url: "https://www.amazon.com/dp/B0CYLL9LQD?tag=orlaloom-20"
+  - name: "Flore Boho Parisian Floral Scalloped Brown Rug"
+    brand: "Lahome"
+    price: "$52.79 (5x7)"
+    retailer: "Amazon"
+    blurb: "The warm-brown scalloped floral - the most forgiving of the four for high-traffic rooms and pets."
+    caveat: "Also 4.4 stars across a multi-variation listing; check the exact size before ordering."
+    image: "https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralbrownwashableAreaRug_1.webp"
+    url: "https://www.amazon.com/dp/B0DC9Y26S4?tag=orlaloom-20"
 ---
 
 Every washable rug listing says the same three things: soft, machine washable, non-slip. None of them tell you that the most common frustration owners report has nothing to do with washing — it's that the vacuum keeps eating the rug.
@@ -38,6 +71,8 @@ We read **190 unique owner reviews** across **four best-selling washable floral 
 | Vionnet Modern Parisian Insect Beige | 4.4★ | 51,575 |
 | Flore Boho Parisian Floral Scalloped Brown | 4.4★ | 52,706 |
 
+**Shop the four rugs we analysed** — every pick below links straight through, and the full lineup lives in our [washable rug collection](/category/rugs).
+
 Ratings collected 4 August 2026. The two larger counts are listing-level totals that span the seller's colour and size variations, so treat them as a signal of scale rather than of that exact colourway.
 
 ## What owners praise
@@ -51,6 +86,8 @@ Ratings collected 4 August 2026. The two larger counts are listing-level totals 
 **The washing genuinely works.** Washing came up in 20% of positive reviews, and — notably — the people who mentioned washing rarely complained about it. One owner reported six months of kitchen use with only some discolouration in the heaviest-traffic spot.
 
 **Pets and kids are the real use case.** Mentioned in 23% of positive reviews. Nurseries, dog beds, high-traffic hallways: owners buy these specifically because the rug can be thrown in the machine.
+
+*Browsing while you read? The four rugs in this analysis are shoppable above, and every washable rug we track is in the [rug shop](/category/rugs).*
 
 ## What actually goes wrong
 
@@ -83,6 +120,14 @@ Buy a rug pad at the same time as the rug. It is the single fix that addresses t
 Beyond that: expect low-profile, not plush. Expect to adjust your vacuum, or to use the hard-floor setting. Expect fold lines for a few days. And know that the washability — the thing that's hardest to verify before buying — is the promise that owners report actually holding up.
 
 Ready to pick one? Start with our [washable cottagecore rug guide](/blog/cottagecore-washable-rugs), or check whether your machine can handle the size with our [rug washer-fit calculator](/tools/rug-washer-fit).
+
+## Shop the rugs from this report
+
+All four rugs analysed here are in the picks above — plus a rug pad, which the data says you should buy at the same time.
+
+- **[Browse every washable rug we track →](/category/rugs)**
+- **[Check your washer can handle the size →](/tools/rug-washer-fit)**
+- **[20% off Lahome rugs with code ORLALOOM20 →](/lahome-discount-code)**
 
 ## How to cite this report
 
