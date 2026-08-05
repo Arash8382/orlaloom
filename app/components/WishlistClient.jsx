@@ -140,7 +140,7 @@ export default function WishlistClient({ shared = "" }) {
             <>
               <div className="wl-bar">
                 <button className="wl-btn primary" onClick={shareMyList} disabled={mine.length === 0}>
-                  Share my list
+                  Send my picks to someone
                 </button>
                 {copied && <span className="wl-toast">Link copied ✓</span>}
                 {mine.length > 0 && (
