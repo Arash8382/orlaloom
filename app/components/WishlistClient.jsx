@@ -28,6 +28,7 @@ const css = `
 .wl-empty p{color:var(--muted-2,#7c6a5f);margin:0 auto 16px;max-width:46ch}
 .wl-share-note{background:var(--card,#fbf7f0);border:1px solid var(--line,#e7ddcf);border-left:4px solid var(--terra,#c07a54);border-radius:12px;padding:12px 16px;margin:0 0 18px;color:var(--ink,#4a3d34);font-size:14px}
 .wl-toast{display:inline-block;margin-left:10px;color:var(--terra,#c07a54);font-weight:700;font-size:13px}
+@media(max-width:640px){.wl-grid{grid-template-columns:1fr 1fr;gap:12px}}
 `;
 
 // Shared lists live in Supabase under a short code, so share links stay tiny
