@@ -20,7 +20,7 @@ products:
       along an entryway or bathroom wall reads as intentional decor rather than
       hardware. They hold real weight — coats, bath towels, market bags — so the
       prettiness is doing an actual job, which is the whole cottagecore ethos.
-      Reviewers rate them 4.7 stars and repeatedly mention the heft; these are
+      Reviewers rated them 4.7 stars when we checked in August 2026, and repeatedly mention the heft; these are
       solid metal, not hollow gold-toned plastic.
     caveat: >-
       Mounting screws are included but the exposed-screw look is part of the
@@ -111,7 +111,7 @@ products:
       A small white ceramic dish with a glossy pink bow perched on the rim,
       sized for the nightstand or bathroom counter where rings and earrings
       otherwise go missing. It is the classic impulse piece of the bow trend —
-      under ten dollars, 4.7 stars, and endlessly giftable for bridesmaids,
+      under ten dollars, 4.7 stars from a modest 30 ratings (checked August 2026), and endlessly giftable for bridesmaids,
       new-home cards and stocking season. The glazed ceramic wipes clean and the
       bow is part of the casting rather than glued on, so it survives daily use.
     caveat: >-
@@ -135,8 +135,8 @@ faqs:
       to the trend while keeping the space grounded.
   - q: Are bow wall hooks strong enough for coats and towels?
     a: >-
-      The solid-brass sets here are — the four-pack above is rated 4.7 stars
-      largely on sturdiness, and each hook holds a winter coat or wet bath towel
+      The solid-brass sets here are — the four-pack above rated 4.7 stars when we
+      checked in August 2026, largely on sturdiness, and each hook holds a winter coat or wet bath towel
       without flexing. The rule of thumb: if a bow hook is described as "resin"
       or feels light, treat it as jewelry-and-hats only; solid metal takes real
       daily weight.
@@ -172,4 +172,4 @@ The coquette version peaked as a fashion story, but decorative bows themselves a
 Skip the pink entirely and use metal: brass bow knobs on a dark wood dresser or cast-iron ribbon candlesticks on a walnut table read as antique hardware, not sweetness. One metallic bow piece per room is enough to nod to the trend while keeping the space grounded.
 
 **Are bow wall hooks strong enough for coats and towels?**
-The solid-brass sets here are — the four-pack above is rated 4.7 stars largely on sturdiness, and each hook holds a winter coat or wet bath towel without flexing. The rule of thumb: if a bow hook is described as "resin" or feels light, treat it as jewelry-and-hats only; solid metal takes real daily weight.
+The solid-brass sets here are — the four-pack above rated 4.7 stars when we checked in August 2026, largely on sturdiness, and each hook holds a winter coat or wet bath towel without flexing. The rule of thumb: if a bow hook is described as "resin" or feels light, treat it as jewelry-and-hats only; solid metal takes real daily weight.

@@ -95,3 +95,7 @@ The styling is retro; the internals are standard modern drip technology, so brew
 
 **What's the difference between a drip machine and a percolator?**
 Drip machines pass hot water through the grounds once, into a carafe — clean, consistent, mild. Percolators cycle boiling water up through the grounds repeatedly until you stop them, which extracts more (flavor and bitterness both). Percolator coffee is hotter and bolder; mid-century households swore by it, and it's having a quiet revival among people who find modern drip too thin.
+
+## Related guides
+
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — our own analysis of what owners actually complain about, across Smeg and Haden.

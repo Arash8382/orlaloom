@@ -191,3 +191,7 @@ If the toaster will be the visual anchor of your counter and you toast daily, th
 
 **Does Smeg make anything a dupe can't replace?**
 The stand mixer is where the gap is real: Smeg's SMF03 (and a KitchenAid) will out-mix any $70 compact mixer on stiff doughs and big batches. If you bake seriously, buy capacity and power; if the mixer is mostly decor with occasional cookies, the dupe is the smarter money.
+
+## Related guides
+
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — our own analysis of what owners actually complain about, across Smeg and Haden.

@@ -205,6 +205,7 @@ Retro (or vintage-style / 1950s-style) appliances are brand-new machines with mi
 
 ## Related guides
 
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — our own analysis of what owners actually complain about, across Smeg and Haden.
 - [Retro coffee makers](/blog/retro-coffee-makers) — drip, espresso and percolator picks with the 1950s silhouette.
 - [Retro stand mixers](/blog/retro-stand-mixers) — Smeg vs KitchenAid vs the budget lookalikes.
 - [Retro mini fridges](/blog/retro-mini-fridge) — the single biggest-impact retro piece for the money.

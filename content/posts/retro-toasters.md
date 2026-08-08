@@ -173,7 +173,9 @@ Go **4-slice** if you regularly feed two or more people breakfast at the same ti
 
 These two account for nearly every retro-toaster decision, so it's worth being blunt about the difference.
 
-**Smeg TSF01** is the original. The body is heavier, the enamel is baked on rather than coated, and the lever action has a damped, mechanical feel that the copies don't replicate. It browns evenly across both slots, which sounds like a low bar until you use a cheap toaster that doesn't. You are paying roughly three times the Haden price, and a meaningful share of that is the badge and the design licence — but the build genuinely is a decade-appliance rather than a three-year one.
+**Smeg TSF01** is the original. The body is heavier, the enamel is baked on rather than coated, and the lever action has a damped, mechanical feel that the copies don't replicate. You are paying roughly three times the Haden price, and a meaningful share of that is the badge and the design licence.
+
+What that premium does **not** reliably buy is better toast. We read 194 owner reviews across both brands for our [Retro Appliance Owner Report](/blog/retro-appliance-owner-report), and uneven browning was the single most common complaint at *both* price points — 47% of the critical Smeg reviews we read, against 43% of the critical Haden ones. Durability ran the same direction: 41% of critical Smeg reviews mentioned something breaking, versus 21% for the Haden. (An earlier version of this guide said the Smeg "browns evenly across both slots." Our own data didn't support it, so we've corrected it.)
 
 **Haden Heritage** is the value answer and the one most people end up buying. It copies the silhouette closely enough that guests won't clock the difference, adds wide self-centring slots, and comes in shades — English Rose, turquoise — that Smeg doesn't offer. Where it gives ground is heft and finish consistency: the enamel is thinner, the chrome trim is lighter, and browning across the two slots is good rather than perfect.
 

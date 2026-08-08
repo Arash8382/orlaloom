@@ -95,3 +95,7 @@ Occasionally, yes; regularly, no. The sub-$100 machines handle enriched doughs (
 
 **What size stand mixer do I actually need?**
 For one or two people who bake casually, a 3-3.5 quart compact does everything and stores away. For family baking, holiday cooking or doubling recipes, go 5 quarts or larger — undersized bowls throw flour and overwork motors. The 5.3-quart Martha Stewart is the safest single answer for most households.
+
+## Related guides
+
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — our own analysis of what owners actually complain about, across Smeg and Haden.

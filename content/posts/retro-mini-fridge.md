@@ -89,3 +89,7 @@ Yes — Galanz is the best-known name in retro compact fridges and its curved st
 
 **How much does a retro mini fridge cost?**
 Roughly $100-130 for a 1.6 cu ft cube, $150-250 for the sweet-spot 3-3.5 cu ft sizes, and $300+ for the most vintage-faithful Galanz colors. That's only a small premium over plain compact fridges — this is the cheapest category to buy "pretty" in.
+
+## Related guides
+
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — our own analysis of what owners actually complain about, across Smeg and Haden.
