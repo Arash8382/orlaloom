@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-04T14:13:58.095Z",
-  "count": 436,
+  "generated_at": "2026-08-08T16:14:54.407Z",
+  "count": 441,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -12313,6 +12313,141 @@
         {
           "title": "The Best Washed Linen Tablecloths for a Cottagecore Table",
           "url": "https://orlaloom.com/blog/washed-linen-tablecloths"
+        }
+      ]
+    },
+    {
+      "id": "bapawfish-buffalo-check-tier-curtains-red-white-28-x-24-in-set-of-2",
+      "title": "Bapawfish Buffalo Check Tier Curtains, Red & White, 28 x 24 in, Set of 2",
+      "brand": "Bapawfish",
+      "description": "The classic red-and-white check every cottage kitchen is built on — a thick yarn-dyed weave with a proper 2-inch rod-pocket header that gathers into neat folds instead of hanging limp.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 17,
+      "price_display": "~$17",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81LRgG7F5+L._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/bapawfish-buffalo-check-tier-curtains-red-white-28-x-24-in-set-of-2",
+      "buy_url": "https://www.amazon.com/dp/B095K2D9FX?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B095K2D9FX",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B095K2D9FX",
+      "affiliate_url": "https://www.amazon.com/dp/B095K2D9FX?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Checkerboard & Gingham Café Curtains for a Cottage Kitchen",
+          "url": "https://orlaloom.com/blog/gingham-cafe-curtains"
+        }
+      ]
+    },
+    {
+      "id": "brilaentre-buffalo-check-tier-curtains-sage-white-27-5-x-45-in-set-of-2",
+      "title": "Brilaentre Buffalo Check Tier Curtains, Sage & White, 27.5 x 45 in, Set of 2",
+      "brand": "Brilaentre",
+      "description": "Sage is the 2026 cottage kitchen colour, and this thick yarn-dyed check hits the exact soft, dusty green that plays nicely with wood cabinets and cream tile.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 22,
+      "price_display": "~$22",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/51HGTdkg5eL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/brilaentre-buffalo-check-tier-curtains-sage-white-27-5-x-45-in-set-of-2",
+      "buy_url": "https://www.amazon.com/dp/B0DTXFX6VQ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0DTXFX6VQ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0DTXFX6VQ",
+      "affiliate_url": "https://www.amazon.com/dp/B0DTXFX6VQ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Checkerboard & Gingham Café Curtains for a Cottage Kitchen",
+          "url": "https://orlaloom.com/blog/gingham-cafe-curtains"
+        }
+      ]
+    },
+    {
+      "id": "bapawfish-buffalo-check-tier-curtains-black-white-28-x-36-in-set-of-2",
+      "title": "Bapawfish Buffalo Check Tier Curtains, Black & White, 28 x 36 in, Set of 2",
+      "brand": "Bapawfish",
+      "description": "The graphic black-and-white check that bridges cottage and modern-farmhouse — sharp against white subway tile, grounding a kitchen with a lot of soft florals elsewhere.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 19,
+      "price_display": "~$19",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81ddFnYoNhL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/bapawfish-buffalo-check-tier-curtains-black-white-28-x-36-in-set-of-2",
+      "buy_url": "https://www.amazon.com/dp/B095K1VD8W?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B095K1VD8W",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B095K1VD8W",
+      "affiliate_url": "https://www.amazon.com/dp/B095K1VD8W?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Checkerboard & Gingham Café Curtains for a Cottage Kitchen",
+          "url": "https://orlaloom.com/blog/gingham-cafe-curtains"
+        }
+      ]
+    },
+    {
+      "id": "frigidaire-retro-compact-fridge-with-chiller-3-2-cu-ft-coral",
+      "title": "Frigidaire Retro Compact Fridge with Chiller (3.2 cu ft, Coral)",
+      "brand": "Frigidaire",
+      "description": "The most fridge-per-dollar in the retro category: 3.2 cu ft, curved 1950s lines, a chrome side bottle opener, and a coral pink that reads vintage rather than toy-like.",
+      "category": "Retro Appliances",
+      "category_slug": "retro-appliances",
+      "price_currency": "USD",
+      "price_low": 158,
+      "price_display": "~$158",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/51SDd7wTSNL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/frigidaire-retro-compact-fridge-with-chiller-3-2-cu-ft-coral",
+      "buy_url": "https://www.amazon.com/dp/B084GSNPH1?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B084GSNPH1",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B084GSNPH1",
+      "affiliate_url": "https://www.amazon.com/dp/B084GSNPH1?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Retro Mini Fridges for a 1950s Kitchen (2026)",
+          "url": "https://orlaloom.com/blog/retro-mini-fridge"
+        }
+      ]
+    },
+    {
+      "id": "frigidaire-efr840-retro-mini-fridge-with-freezer-3-2-cu-ft-mint",
+      "title": "Frigidaire EFR840 Retro Mini Fridge with Freezer (3.2 cu ft, Mint)",
+      "brand": "Frigidaire",
+      "description": "A proper two-door design — separate freezer compartment up top, fridge below — in a soft mint green, plus the signature bottle opener.",
+      "category": "Retro Appliances",
+      "category_slug": "retro-appliances",
+      "price_currency": "USD",
+      "price_low": 249,
+      "price_display": "~$249",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/6146ihCrYVL._AC_SL1500_.jpg",
+      "url": "https://orlaloom.com/shop/frigidaire-efr840-retro-mini-fridge-with-freezer-3-2-cu-ft-mint",
+      "buy_url": "https://www.amazon.com/dp/B091BJYCNT?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B091BJYCNT",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B091BJYCNT",
+      "affiliate_url": "https://www.amazon.com/dp/B091BJYCNT?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Retro Mini Fridges for a 1950s Kitchen (2026)",
+          "url": "https://orlaloom.com/blog/retro-mini-fridge"
         }
       ]
     }
