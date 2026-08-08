@@ -1,5 +1,5 @@
 ---
-title: "The Best Retro Toasters in Every Pastel Shade"
+title: "The Best Retro Toasters in Every Pastel Shade (Smeg vs. Haden Compared)"
 description: "The best retro toaster for your kitchen in 2026 — pastel Smeg, Haden, Dash, Galanz, Nostalgia and KitchenAid picks, honestly compared by price and shade."
 category: "retro-appliances"
 date: "2026-07-21"
@@ -77,6 +77,61 @@ products:
     caveat: "The blue is slightly deeper than Smeg's, and the sides get hot during long back-to-back toasting runs."
     image: "https://m.media-amazon.com/images/I/61sdDknvjjL._AC_SY355_.jpg"
     url: "https://www.amazon.com/dp/B07K41TWK8?tag=orlaloom-20"
+  - name: "Smeg TSF01 50's Retro Style 2-Slice Toaster, Pastel Blue"
+    image: "https://m.media-amazon.com/images/I/619Dr1jANgL._AC_SL1500_.jpg"
+    brand: "Smeg"
+    price: "~$170-230"
+    retailer: "Amazon"
+    badge: "The icon"
+    blurb: "The toaster that started the whole retro-countertop obsession. The TSF01's powder-coated steel body is genuinely sculptural — rounded like a 1950s Fiat fender, with a chrome lever and a dial that clicks like a rotary phone. Six browning levels, defrost and reheat presets, extra-wide self-centering slots, and a removable crumb tray. Toast quality is even and reliable, but be clear-eyed: you are paying mostly for the object, and as an object it has no equal."
+    caveat: "Roughly three times the price of the Haden for toast that isn't three times better — and the glossy finish shows fingerprints, so it wants an occasional wipe."
+    url: "https://www.amazon.com/dp/B08B9WR524?tag=orlaloom-20"
+  - name: "Haden Heritage 2-Slice Wide-Slot Toaster, Black & Chrome"
+    image: "https://m.media-amazon.com/images/I/61F2lzj27HL._AC_SL1500_.jpg"
+    brand: "Haden"
+    price: "~$55-65"
+    retailer: "Amazon"
+    badge: "Best value"
+    blurb: "Haden is a real English appliance brand from 1958, not a knock-off factory — which is why the Heritage reads as vintage rather than 'dupe.' You get the same rounded silhouette, wide self-centering slots, adjustable browning, a removable crumb tray and non-slip feet for about a third of the Smeg's price. The finish is painted steel rather than Smeg's thick enamel, but from across the kitchen the effect is remarkably close."
+    caveat: "The browning dial runs slightly hot — start a notch lower than you think. The lever action feels lighter and less buttery than the Smeg's."
+    url: "https://www.amazon.com/dp/B0B13ZNX1H?tag=orlaloom-20"
+  - name: "Haden Heritage 4-Slice Toaster, Ivory & Chrome"
+    image: "https://m.media-amazon.com/images/I/61W6EZxGXML._AC_SL1500_.jpg"
+    brand: "Haden"
+    price: "~$75-85"
+    retailer: "Amazon"
+    badge: "Prettiest Haden"
+    blurb: "If it's the cream-and-chrome cottage look you're after, this is the Haden to buy — warm ivory enamel-look body, copper-tone accents, and four extra-wide slots with independent browning controls per pair. It's 1500 watts, so all four slices actually finish at the same time. For families, this is the sleeper pick of the whole comparison: still cheaper than half a Smeg, and the ivory is the most cottagecore colorway either brand makes."
+    caveat: "A four-slice is a countertop commitment — measure your spot; it's noticeably wider than the two-slice models."
+    url: "https://www.amazon.com/dp/B0876235F1?tag=orlaloom-20"
+  - name: "Smeg KLF03 7-Cup Electric Kettle, Matte White"
+    image: "https://m.media-amazon.com/images/I/51hbKTEWK6S._AC_SL1300_.jpg"
+    brand: "Smeg"
+    price: "~$170-230"
+    retailer: "Amazon"
+    badge: "Matching kettle — Smeg"
+    blurb: "Half the reason people buy the Smeg toaster is to pair it with this kettle, and honestly, the kettle is the better appliance of the two. 1.7 liters, fast boil, soft-open lid, auto shut-off, and that unmistakable rounded profile with the chrome base. The matte white version is quietly lovely with cream, sage or blue kitchens alike, and it hides water spots better than the gloss finishes."
+    caveat: "No temperature control at this price — tea purists who want 175°F green-tea water will need to babysit it."
+    url: "https://www.amazon.com/dp/B08PJH4W9S?tag=orlaloom-20"
+  - name: "Haden Heritage 1.7L Electric Kettle, Ivory & Copper"
+    image: "https://m.media-amazon.com/images/I/61Ulm0CBwfL._AC_SL1500_.jpg"
+    brand: "Haden"
+    price: "~$80-90"
+    retailer: "Amazon"
+    badge: "Matching kettle — Haden"
+    blurb: "The companion piece to the ivory Heritage toaster and the easiest way to get the 'matching retro set' look for around $150 total. Stainless body in warm ivory with copper accents, 360-degree swivel base, auto shut-off and boil-dry protection. Side by side with its toaster on a wooden counter, this pair photographs like a magazine spread — guests assume it cost far more than it did."
+    caveat: "It's a fast, cheerful boiler but the exterior gets hot to the touch — mind little hands and use the handle only."
+    url: "https://www.amazon.com/dp/B0B116WH2K?tag=orlaloom-20"
+  - name: "Nostalgia Classic Retro 2-Slice Toaster, Cream"
+    image: "https://m.media-amazon.com/images/I/71k9mlvUwNL._AC_SL1500_.jpg"
+    brand: "Nostalgia"
+    price: "~$35-45"
+    retailer: "Amazon"
+    badge: "Budget pick"
+    blurb: "The under-$40 answer for renters, first kitchens and anyone not ready to spend appliance money on toast. Enamel-coated steel body in a soft cream, wide slots, six browning levels, bagel and defrost functions, a crumb tray and even cord storage underneath. It won't fool anyone up close — the proportions are boxier and the lever is plasticky — but styled next to a vase of dried flowers it absolutely holds its own in photos."
+    caveat: "Lighter-weight build than either Smeg or Haden; expect it to be a 3-to-5-year appliance rather than a decade one."
+    url: "https://www.amazon.com/dp/B0H2725ZLR?tag=orlaloom-20"
+updated: '2026-08-08'
 ---
 
 The best retro toaster overall is the **Smeg 2-Slice (TSF01)** — the genuine 50s-style icon, for anyone who wants a heirloom-quality centerpiece and doesn't mind the price. If you want that same pastel, curvy retro toaster look for a fraction of the cost, the **Haden Heritage** is the value pick almost everyone actually ends up buying. Below are eight real options across every shade — mint, turquoise, blush pink, seafoam, pistachio and pastel blue — so you can match your counter and your budget.
@@ -89,13 +144,25 @@ For most kitchens, the best retro toaster is the **Haden Heritage** — it's the
 
 If budget is no object and you want the real thing, the **Smeg TSF01** is the icon and it earns the splurge — the enamel finish and weighty build feel like an appliance you'll keep for a decade. On the other end, the **Galanz**, **Nostalgia** and **Keenstone** picks all land under $45 and still deliver the pastel-diner aesthetic; they simply trade away some heft and even-browning polish.
 
-Your shade will narrow it down fast: turquoise and seafoam lean playful mid-century, blush pink and pistachio read soft cottagecore, and pastel blue is the classic Smeg-alike. If you're weighing the two big names head to head, our [Smeg vs. Haden toaster comparison](/blog/smeg-vs-haden-toaster) breaks down the differences slot by slot.
+Your shade will narrow it down fast: turquoise and seafoam lean playful mid-century, blush pink and pistachio read soft cottagecore, and pastel blue is the classic Smeg-alike. If you're weighing the two big names head to head, our Smeg vs. Haden toaster comparison breaks down the differences slot by slot.
 
 ## 2-slice vs. 4-slice: which retro toaster to buy
 
 A **2-slice** retro toaster is the right call for most people. It's cheaper, takes up far less counter space, and the classic TSF01-style silhouette only exists in two-slot form anyway — so if the pure retro shape is what you're after, two slices is the look. Nearly every pick on this list, including both budget picks, is a two-slicer.
 
 Go **4-slice** if you regularly feed two or more people breakfast at the same time, or you toast bagels and thick sourdough in batches. The **Haden Heritage 4-Slice in English Rose** is the standout here: it keeps the retro styling, adds 1500W of power, and uses dual controls so you can run just one pair of slots when it's only you. The trade-off is a noticeably bigger footprint — measure your counter before committing, because a four-slice retro toaster is a chunky statement piece, not a tuck-away tool.
+
+## Smeg vs. Haden: the comparison most people are actually making
+
+These two account for nearly every retro-toaster decision, so it's worth being blunt about the difference.
+
+**Smeg TSF01** is the original. The body is heavier, the enamel is baked on rather than coated, and the lever action has a damped, mechanical feel that the copies don't replicate. It browns evenly across both slots, which sounds like a low bar until you use a cheap toaster that doesn't. You are paying roughly three times the Haden price, and a meaningful share of that is the badge and the design licence — but the build genuinely is a decade-appliance rather than a three-year one.
+
+**Haden Heritage** is the value answer and the one most people end up buying. It copies the silhouette closely enough that guests won't clock the difference, adds wide self-centring slots, and comes in shades — English Rose, turquoise — that Smeg doesn't offer. Where it gives ground is heft and finish consistency: the enamel is thinner, the chrome trim is lighter, and browning across the two slots is good rather than perfect.
+
+**How to decide.** If the toaster is a visual centrepiece you'll look at every day for years and the budget exists, buy the Smeg and stop thinking about it. If you want the look on a normal appliance budget, buy the Haden and spend the difference on the kettle. If you need four slices, the choice is made for you — Smeg's four-slice loses the iconic silhouette, so the Haden Heritage 4-Slice is the better-looking option as well as the cheaper one.
+
+One thing neither brand solves: glossy pastel enamel shows fingerprints on both. Budget for a microfibre cloth living nearby.
 
 ## Are retro toasters worth it?
 

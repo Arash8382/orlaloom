@@ -1,8 +1,6 @@
 ---
-title: The Best Aesthetic Butter Dishes for 2026
-description: >-
-  From mushroom to scalloped to classic French beurriers — the prettiest butter
-  dishes worth a spot on your table this year.
+title: "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)"
+description: "From mushroom and figural dishes to scalloped stoneware and classic French beurriers — the prettiest butter dishes worth a spot on your table, with sizing and material notes."
 category: butter-dishes
 date: '2026-06-30'
 cover: /thumbnails/thumb-aesthetic-butter-dishes.webp
@@ -159,6 +157,42 @@ products:
     image: 'https://m.media-amazon.com/images/I/51DO0EMMMAL._SL1500_.jpg'
     url: >-
       https://www.amazon.com/BigMouth-Inc-Udderly-Buttery-Butter/dp/B0CJML8LWR?tag=orlaloom-20
+  - name: "Fungi Fun Mushroom Butter Dish with Lid"
+    brand: "Fungi Fun"
+    price: "$25–30"
+    retailer: "Amazon"
+    badge: "Best overall"
+    blurb: "A stoneware rectangular dish with a sculpted toadstool lid — the rare mushroom dish that still fits a standard wrapped stick of butter."
+    caveat: "Mass-produced import; glaze and paint quality can vary slightly."
+    image: "https://m.media-amazon.com/images/I/71IreemEtDL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20"
+  - name: "Mushroom Butter Crock (Water-Seal)"
+    brand: "Fungi Fun"
+    price: "$28–34"
+    retailer: "Amazon"
+    badge: "Best for spreadable"
+    blurb: "A mushroom-shaped French-style crock that keeps butter soft and spreadable on the counter — function and whimsy in one."
+    caveat: "It's a crock, so it suits soft or packed butter, not a wrapped stick."
+    image: "https://m.media-amazon.com/images/I/71MaJsZ1SNL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/Mushroom-Butter-Crock-Countertop-Spreadable/dp/B0DLJNG1C7?tag=orlaloom-20"
+  - name: "Red Toadstool Mushroom Butter Dish"
+    brand: "Ceramic novelty"
+    price: "$22–28"
+    retailer: "Amazon"
+    badge: "Best under $25"
+    blurb: "The classic red-cap, white-spot toadstool — the most storybook look on this list and an easy, cheerful gift."
+    caveat: "Generic listing, so stock rotates; confirm it's live before buying."
+    image: "https://m.media-amazon.com/images/I/61MpJynV4GL._AC_SL1500_.jpg"
+    url: "https://www.amazon.com/Mushroom-Countertop-Ceramic-Butterdish-Container/dp/B0BWDVL76C?tag=orlaloom-20"
+  - name: "Handmade Mushroom Stick Butter Dish"
+    brand: "Ceramic Boutique"
+    price: "$45–60"
+    retailer: "Ceramic Boutique"
+    badge: "Best handmade"
+    blurb: "A genuinely hand-thrown pottery mushroom dish sized for a stick of butter — the premium, one-of-a-kind pick."
+    caveat: "Sold via the maker's own site, so no Prime shipping."
+    image: "https://shopceramicboutique.com/cdn/shop/files/2E1D833A-4011-4868-8151-7D173243B003_1080x.jpg?v=1673881952"
+    url: "https://shopceramicboutique.com/products/mushroom-butterdish"
 faqs:
   - q: Are butter dishes useful or just decorative?
     a: >-
@@ -172,7 +206,7 @@ faqs:
     a: >-
       Scalloped ceramic and mushroom or figural dishes are the breakout styles
       of 2026.
-updated: '2026-08-02'
+updated: '2026-08-08'
 ---
 
 If your kitchen counter could use one small, slightly impractical thing that makes breakfast feel like a moment — it's a butter dish. They've quietly become the tabletop obsession of 2026 (one UK retailer reported searches jumped over 100% last year), and the prettiest ones sell out fast. This guide rounds up the aesthetic butter dishes actually worth buying.
@@ -189,13 +223,23 @@ The dark-cottagecore and grandmacore revival is about bringing back small, nosta
 The defining silhouette of the trend. A scalloped lid catches candlelight beautifully on a moody table and reads instantly "cottage." Best for anyone leaning into the grandmacore look.
 
 ### Mushroom & figural
-The fun, collectible end. Mushroom dishes sit right at the intersection of two rising aesthetics and make a genuinely great gift. Still emerging, so the good ones move fast — see our full roundup of [mushroom butter dishes](/blog/mushroom-butter-dishes) for the picks that disappear quickest.
+The fun, collectible end. Mushroom dishes sit right at the intersection of two rising aesthetics and make a genuinely great gift. Still emerging, so the good ones move fast — see our full roundup of mushroom butter dishes for the picks that disappear quickest.
 
 ### French butter dishes (beurriers)
 The functional pick. A beurrier uses a water seal to keep butter soft and spreadable on the counter without spoiling — the actual problem a butter dish solves. Best for everyday butter lovers.
 
 ### Vintage & glass
 Pressed glass, milk glass, and amber depression-style dishes bring real antique character for very little money. Best for a collected, lived-in table.
+
+## The mushroom and figural dishes worth grabbing
+
+Mushroom decor and cottagecore collided, and the butter dish is where it landed. A little ceramic toadstool on the counter is the kind of detail that makes a kitchen feel like a storybook — and makes a genuinely good gift. Because these are handmade or small-batch more often than not, the good ones disappear quickly.
+
+The **Fungi Fun toadstool dish** is the one to start with: it's the rare figural dish that still fits a standard wrapped stick of butter, which most novelty dishes quietly don't. If you keep butter on the counter rather than in the fridge, the **mushroom water-seal crock** solves the actual problem — it holds butter soft and spreadable for days — though it suits soft or packed butter rather than a wrapped stick. The **red toadstool dish** is the most storybook-looking of the three and the easiest gift under $25, but it's a generic listing whose stock rotates, so check it's live before you count on it.
+
+Above that price, small studios sell genuinely hand-thrown mushroom dishes sized for a stick of butter. They cost roughly double the mass-produced versions and ship without Prime, but they're one-of-a-kind in a way an import never is.
+
+A note on the trade-off: figural dishes prioritise shape over capacity. Measure your butter — US sticks need a long narrow well, European blocks and whipped butter need a rounder crock — before falling for a silhouette.
 
 ## How to choose
 
@@ -218,7 +262,6 @@ Scalloped ceramic and mushroom or figural dishes are the breakout styles of 2026
 
 Keep building the cottagecore table with these companion guides:
 
-- [Mushroom butter dishes that sell out fast](/blog/mushroom-butter-dishes) — the figural picks worth grabbing before they go.
 - [Scalloped dinnerware sets](/blog/scalloped-dinnerware-sets) — the scalloped silhouette that pairs with a scalloped butter dish.
 - [Scalloped salad plates](/blog/scalloped-salad-plates) — the easiest way to add the same rim to your table.
 - [The best colored glassware](/blog/best-colored-glassware) — jewel-toned glass to set beside a glass butter dish.
