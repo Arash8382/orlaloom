@@ -153,6 +153,28 @@ The Haden kettle carries its own version of this: **30% of its critical reviews*
 
 **Expect to learn your toaster.** Given how universal the uneven-browning complaint is across price points, plan on a few weeks of adjusting the dial and rotating slices, whatever you buy.
 
+## FAQ
+
+**Does a Smeg toaster toast more evenly than a cheaper retro toaster?**
+
+Our review reading does not support that. Uneven browning was the single most common complaint for both toasters we analysed — mentioned in 47% of the 32 critical Smeg reviews we read and 43% of the 28 critical Haden reviews. Both listings still average 4.3–4.4 stars overall, so most owners are satisfied; the point is that the failure mode is the same at $180 as at $45.
+
+**Is a Smeg toaster worth the money?**
+
+It depends what you are buying. On looks and materials, owners are consistently happy. On durability our sample was less reassuring than the price implies: 41% of the critical Smeg toaster reviews we read mention something breaking, stopping or dying, against 21% for the Haden. Buy the Smeg because you want the object, not because you expect it to outlast a cheaper toaster.
+
+**Do retro electric kettles rust inside?**
+
+This is the most under-reported problem we found. Interior rust, corrosion or discolouration appeared in 23% of the 30 critical Haden kettle reviews we read and 14% of the 29 critical Smeg kettle reviews — and in almost none of the positive ones. Dry the interior between uses and descale regularly.
+
+**Which is better value, Smeg or Haden?**
+
+For the look, Haden. Our reading found the same headline complaint at both prices, and the Haden toaster drew proportionally fewer durability complaints. Where the Haden gives ground is perceived build: 30% of its critical kettle reviews mention feeling cheap, flimsy or lightweight.
+
+**What do owners complain about most with retro kettles?**
+
+Price justification, then durability, then rust. Value language appeared in 34% of the critical Smeg kettle reviews and 30% of the critical Haden kettle reviews we read — the highest of any theme for either kettle.
+
 ## How to cite this report
 
 Orla Loom, "We Read 194 Retro Appliance Reviews: Does the Smeg Premium Buy Better Toast?" Owner Report, August 2026. Sample: 194 unique Amazon owner reviews across four retro toasters and kettles, sampled across all star levels, collected 8 August 2026.

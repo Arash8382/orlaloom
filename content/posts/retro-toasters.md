@@ -10,7 +10,7 @@ faqs:
   - q: "Are pastel toasters just painted, or is the color durable?"
     a: "On the premium models (Smeg, Haden, KitchenAid) the color is a baked enamel or bonded finish that holds up to years of daily use. On budget picks it's typically a painted or coated steel that's still durable for normal kitchen life but more prone to visible chips or scratches over time."
   - q: "Do retro toasters actually toast well, or are they all looks?"
-    a: "The good ones toast genuinely well — wide self-centering slots, multiple browning levels, and bagel and defrost functions are standard on the Smeg, Haden and KitchenAid picks. The cheapest models toast fine but can brown a little unevenly and usually skip self-centering."
+    a: "Mostly looks, if we are honest about the data. Wide self-centering slots, multiple browning levels and bagel/defrost functions are standard on the Smeg, Haden and KitchenAid picks — but when we read 194 owner reviews, uneven browning was the top complaint at every price point, premium included."
   - q: "What's the most pastel-cottagecore shade to get?"
     a: "Blush pink (Haden's English Rose) and soft pistachio (KitchenAid) read the most cottagecore, while turquoise and seafoam aqua lean brighter 50s-diner. Pastel blue is the classic Smeg-alike shade if you want that specific look."
   - q: "Can I get the retro look for under $50?"
@@ -185,7 +185,7 @@ One thing neither brand solves: glossy pastel enamel shows fingerprints on both.
 
 ## Are retro toasters worth it?
 
-Yes — with a caveat. You're partly paying for looks, and that's a completely fair reason to buy: a pastel toaster is a small, daily-joy object that sets the tone for a cottagecore or 50s-diner kitchen. At the premium end, Smeg and Haden also back the styling with real build quality, wide self-centering slots and even browning, so you're not sacrificing function for form.
+Yes — with a caveat. You're partly paying for looks, and that's a completely fair reason to buy: a pastel toaster is a small, daily-joy object that sets the tone for a cottagecore or 50s-diner kitchen. At the premium end, Smeg and Haden back the styling with solid build and wide self-centering slots — though our own review analysis found uneven browning is a common complaint even at the top of the range.
 
 Where "worth it" gets shaky is the very top of the price range. A $150+ toaster does not make objectively better toast than a $40 one — it makes prettier, sturdier, longer-lasting toast-making. If the enamel finish and heirloom feel genuinely delight you every morning, that's worth it. If you mostly want the aesthetic, a Keenstone, Galanz or Nostalgia gets you 80% of the charm for a quarter of the money. Either way, budget for the counter space and know that glossy pastel finishes show fingerprints. If you're kitting out a whole retro corner, it's worth planning the set together — see our guide to the [best retro kitchen appliances](/blog/best-retro-kitchen-appliances) and our roundup of [affordable Smeg dupes](/blog/best-smeg-dupes).
 
@@ -201,7 +201,7 @@ On the premium models (Smeg, Haden, KitchenAid) the color is a baked enamel or b
 
 **Do retro toasters actually toast well, or are they all looks?**
 
-The good ones toast genuinely well — wide self-centering slots, multiple browning levels, and bagel and defrost functions are standard on the Smeg, Haden and KitchenAid picks. The cheapest models toast fine but can brown a little unevenly and usually skip self-centering.
+Mostly looks, if we are honest about the data. Wide self-centering slots, multiple browning levels and bagel/defrost functions are standard on the Smeg, Haden and KitchenAid picks — but when we read 194 owner reviews, uneven browning was the top complaint at every price point, premium included.
 
 **What's the most pastel-cottagecore shade to get?**
 

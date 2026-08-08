@@ -129,6 +129,28 @@ All four rugs analysed here are in the picks above — plus a rug pad, which the
 - **[Check your washer can handle the size →](/tools/rug-washer-fit)**
 - **[20% off Lahome rugs with code ORLALOOM20 →](/lahome-discount-code)**
 
+## FAQ
+
+**Are cheap washable rugs too thin?**
+
+Thinness is the single most common complaint. Among the 102 critical (1–3 star) reviews we read, 31% mention the rug being thin or thinner than expected, versus 17% of positive reviews. These rugs are intentionally low-profile so they fit a washing machine. If you want cushion, plan on a rug pad from day one.
+
+**Can you vacuum a machine-washable rug?**
+
+This is the most under-reported problem we found. Vacuuming came up in 34% of the critical reviews we read — lightweight washable rugs get sucked up by the vacuum or slide around instead of staying put. Owners who solved it used a rug pad, reduced suction, or switched to the hard-floor setting.
+
+**Do washable rugs really go in a home washing machine?**
+
+Owners confirm it works at the smaller sizes. Washing was mentioned in about a quarter of the reviews we read and the sentiment was overwhelmingly positive. Larger sizes (8x10 and up) generally need a commercial machine.
+
+**Do washable rugs curl at the corners or stay creased?**
+
+Creasing and curling appeared in 15% of the critical reviews we read. Fold lines from shipping usually relax within a few days; persistent corner curl is the more genuine complaint, and a rug pad or reverse-rolling the corners is the fix owners report.
+
+**Are washable floral rugs good with pets and kids?**
+
+Pets or kids came up in 19% of all the reviews we read, and in 23% of positive reviews specifically — this is the use case owners buy them for. Busy florals hide day-to-day marks, and the whole rug goes in the machine when it needs it.
+
 ## How to cite this report
 
 Orla Loom, "We Read 190 Washable Rug Reviews: What Owners Actually Say," Owner Report, August 2026. Sample: 190 unique Amazon owner reviews across four washable floral rugs, sampled across all star levels, collected 4 August 2026.
