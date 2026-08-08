@@ -24,6 +24,13 @@ export function generateMetadata({ params }) {
     title,
     description,
     alternates: { canonical: `/shop/${p.slug}` },
+    // 436 product pages share one template with only a short blurb of unique
+    // copy each - Google already flagged one as a duplicate. noindex,follow
+    // keeps them useful to readers (IG Story stickers, in-site browsing) and
+    // still passes link equity to the guides, without letting a thin-content
+    // sink form around the 71 guides we actually want indexed. Flip back to
+    // indexable per-product once Owner Ratings enrichment lands.
+    robots: { index: false, follow: true },
     openGraph: {
       title,
       description,
