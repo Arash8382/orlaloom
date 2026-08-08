@@ -4,6 +4,17 @@ description: "From mushroom and figural dishes to scalloped stoneware and classi
 category: butter-dishes
 date: '2026-06-30'
 cover: /thumbnails/thumb-aesthetic-butter-dishes.webp
+faqs:
+  - q: "Are butter dishes useful or just decorative?"
+    a: "Both. A covered dish keeps butter from absorbing fridge odors, and a French beurrier keeps it spreadable on the counter for days."
+  - q: "Does butter go bad on the counter?"
+    a: "Salted butter is generally fine at cool room temperature for several days, especially sealed in a water-cap beurrier."
+  - q: "What's the most popular style right now?"
+    a: "Scalloped ceramic and mushroom or figural dishes are the breakout styles of 2026."
+  - q: "Where can I find mushroom butter dishes?"
+    a: "Small ceramic studios, independent makers, and a growing number of homeware brands now carry them."
+  - q: "Are they functional?"
+    a: "Yes — they're real covered butter dishes, just shaped like a toadstool. Check the listed capacity for your butter type."
 products:
   - name: Fungi Fun Mushroom Butter Dish with Lid
     brand: Fungi Fun
@@ -193,19 +204,6 @@ products:
     caveat: "Sold via the maker's own site, so no Prime shipping."
     image: "https://shopceramicboutique.com/cdn/shop/files/2E1D833A-4011-4868-8151-7D173243B003_1080x.jpg?v=1673881952"
     url: "https://shopceramicboutique.com/products/mushroom-butterdish"
-faqs:
-  - q: Are butter dishes useful or just decorative?
-    a: >-
-      Both. A covered dish keeps butter from absorbing fridge odors, and a
-      French beurrier keeps it spreadable on the counter for days.
-  - q: Does butter go bad on the counter?
-    a: >-
-      Salted butter is generally fine at cool room temperature for several days,
-      especially sealed in a water-cap beurrier.
-  - q: What's the most popular style right now?
-    a: >-
-      Scalloped ceramic and mushroom or figural dishes are the breakout styles
-      of 2026.
 updated: '2026-08-08'
 ---
 
