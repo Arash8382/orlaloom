@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-08T16:37:26.996Z",
-  "count": 446,
+  "generated_at": "2026-08-11T14:26:07.822Z",
+  "count": 452,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -12583,6 +12583,168 @@
         {
           "title": "Cottagecore on a Budget: The Best Amazon Basics Home Finds (2026)",
           "url": "https://orlaloom.com/blog/cottagecore-on-a-budget-amazon-basics"
+        }
+      ]
+    },
+    {
+      "id": "wickerix-malibu-lounge-living-accent-armchair-natural-rattan-colonial-cream-cush",
+      "title": "Wickerix Malibu Lounge Living Accent Armchair, Natural Rattan (Colonial, Cream Cushion)",
+      "brand": "Wickerix",
+      "description": "A sunroom lives or dies on one chair — the piece you actually want to sit in with a book and a coffee. This handmade natural rattan armchair has the deep-set colonial silhouette that reads as cottage rather than patio-store generic, and the cream cushion keeps it from looking too heavy against a bright window wall.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 275,
+      "price_display": "~$275",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/91yd4HxjFWL._AC_SX679_.jpg",
+      "url": "https://orlaloom.com/shop/wickerix-malibu-lounge-living-accent-armchair-natural-rattan-colonial-cream-cush",
+      "buy_url": "https://www.amazon.com/dp/B01C4JVV34?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B01C4JVV34",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B01C4JVV34",
+      "affiliate_url": "https://www.amazon.com/dp/B01C4JVV34?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Sunroom Decor: Turn Any Sunny Corner Into a Cottage Retreat (2026)",
+          "url": "https://orlaloom.com/blog/cozy-sunroom-decor"
+        }
+      ]
+    },
+    {
+      "id": "pitalk-natural-flax-linen-curtains-for-sliding-glass-patio-doors-2-panels-84-in",
+      "title": "Pitalk Natural Flax Linen Curtains for Sliding Glass & Patio Doors (2 Panels, 84 in)",
+      "brand": "Pitalk",
+      "description": "Most sunroom light comes through a wall of glass, and this semi-sheer flax-linen-look curtain is built specifically for that — wide back-tab panels sized for sliding and patio doors rather than a standard window. It filters the harshest midday glare without blacking out the room, which is the whole point of a sunroom.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 30,
+      "price_display": "~$30",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81uTCXT6nnL._AC_SX679_.jpg",
+      "url": "https://orlaloom.com/shop/pitalk-natural-flax-linen-curtains-for-sliding-glass-patio-doors-2-panels-84-in",
+      "buy_url": "https://www.amazon.com/dp/B09B94W2PN?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B09B94W2PN",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B09B94W2PN",
+      "affiliate_url": "https://www.amazon.com/dp/B09B94W2PN?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Sunroom Decor: Turn Any Sunny Corner Into a Cottage Retreat (2026)",
+          "url": "https://orlaloom.com/blog/cozy-sunroom-decor"
+        }
+      ]
+    },
+    {
+      "id": "lena-rug-washable-easy-jute-look-area-rug-5x7-natural",
+      "title": "Lena Rug Washable Easy Jute-Look Area Rug, 5x7, Natural",
+      "brand": "Lena Rug",
+      "description": "A sunroom floor takes more UV, foot traffic and the occasional wet plant saucer than any other room in the house, which is exactly the brief this rug is built for — an indoor/outdoor woven jute look that wipes clean and is rated for sun exposure without the fading worries of a wool or synthetic-fiber rug.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 89,
+      "price_display": "~$89",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/91LvTaz+PoL._AC_SX679_.jpg",
+      "url": "https://orlaloom.com/shop/lena-rug-washable-easy-jute-look-area-rug-5x7-natural",
+      "buy_url": "https://www.amazon.com/dp/B0GLQB671P?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0GLQB671P",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0GLQB671P",
+      "affiliate_url": "https://www.amazon.com/dp/B0GLQB671P?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Sunroom Decor: Turn Any Sunny Corner Into a Cottage Retreat (2026)",
+          "url": "https://orlaloom.com/blog/cozy-sunroom-decor"
+        }
+      ]
+    },
+    {
+      "id": "honey-can-do-3-tier-carbonized-wood-plant-stand-indoor-outdoor",
+      "title": "Honey-Can-Do 3-Tier Carbonized Wood Plant Stand, Indoor/Outdoor",
+      "brand": "Honey-Can-Do",
+      "description": "A sunroom is the one room in the house where plants actually thrive, and a tiered stand lets you cluster several without eating up floor space — three slatted shelves, each rated to 30 lbs, in a carbonized wood finish that is treated for both indoor and outdoor use.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 80,
+      "price_display": "~$80",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61tJ4ENY0TL._AC_SX679_.jpg",
+      "url": "https://orlaloom.com/shop/honey-can-do-3-tier-carbonized-wood-plant-stand-indoor-outdoor",
+      "buy_url": "https://www.amazon.com/dp/B0H7CN2LS1?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0H7CN2LS1",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0H7CN2LS1",
+      "affiliate_url": "https://www.amazon.com/dp/B0H7CN2LS1?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Sunroom Decor: Turn Any Sunny Corner Into a Cottage Retreat (2026)",
+          "url": "https://orlaloom.com/blog/cozy-sunroom-decor"
+        }
+      ]
+    },
+    {
+      "id": "jyxin-16-5-in-round-rattan-side-table-with-wooden-top",
+      "title": "JYXIN 16.5 in Round Rattan Side Table with Wooden Top",
+      "brand": "JYXIN",
+      "description": "Every reading chair needs somewhere to set a mug down, and this small round rattan table does that job without competing with the armchair for attention — same woven material family, small enough footprint to fit a tight sunroom corner, rated for indoor or outdoor use.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 44,
+      "price_display": "~$44",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61BMleWh8BL._AC_SX679_.jpg",
+      "url": "https://orlaloom.com/shop/jyxin-16-5-in-round-rattan-side-table-with-wooden-top",
+      "buy_url": "https://www.amazon.com/dp/B0DQQ23WX2?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0DQQ23WX2",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0DQQ23WX2",
+      "affiliate_url": "https://www.amazon.com/dp/B0DQQ23WX2?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Sunroom Decor: Turn Any Sunny Corner Into a Cottage Retreat (2026)",
+          "url": "https://orlaloom.com/blog/cozy-sunroom-decor"
+        }
+      ]
+    },
+    {
+      "id": "longhui-bedding-chunky-cable-knit-throw-blanket-100-organic-cotton-beige-51-x-63",
+      "title": "Longhui Bedding Chunky Cable Knit Throw Blanket, 100% Organic Cotton, Beige (51 x 63 in)",
+      "brand": "Longhui bedding",
+      "description": "A sunroom is warm at midday and genuinely cold at 7 a.m. before the sun is fully up, especially in spring and fall — this organic cotton cable-knit throw is heavy enough to actually keep you warm on the rattan chair, not just decorative, and the oatmeal-beige color works with every other neutral in this list.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 37,
+      "price_display": "~$37",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81P+LJAS9KL._AC_SX679_.jpg",
+      "url": "https://orlaloom.com/shop/longhui-bedding-chunky-cable-knit-throw-blanket-100-organic-cotton-beige-51-x-63",
+      "buy_url": "https://www.amazon.com/dp/B0B38YC8CK?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0B38YC8CK",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0B38YC8CK",
+      "affiliate_url": "https://www.amazon.com/dp/B0B38YC8CK?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Sunroom Decor: Turn Any Sunny Corner Into a Cottage Retreat (2026)",
+          "url": "https://orlaloom.com/blog/cozy-sunroom-decor"
         }
       ]
     }
