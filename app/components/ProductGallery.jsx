@@ -43,7 +43,8 @@ export default function ProductGallery({ images = [], name, product }) {
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "repeat(auto-fill, minmax(58px, 1fr))",
+            // Always a single row: auto-fill wrapped a 6th thumbnail onto its own line.
+            gridTemplateColumns: `repeat(${Math.min(list.length, 6)}, 1fr)`,
             gap: 8,
             marginTop: 10,
           }}
