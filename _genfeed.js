@@ -8,7 +8,7 @@ const dir="content/posts";
 // read never quotes a stale hand-written range. Fails safe to frontmatter if absent.
 let ENRICH={};
 try{ ENRICH=(JSON.parse(fs.readFileSync("public/product-enrichment.json","utf8"))||{}).items||{}; }catch(e){ ENRICH={}; }
-const kebab=s=>String(s||"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"").slice(0,80);
+const kebab=s=>String(s||"").toLowerCase().replace(/&/g," and ").replace(/['"’.,()/]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"").slice(0,64);
 const parsePrice=(price)=>{ if(!price) return {}; const n=String(price).match(/\d+(?:\.\d+)?/g); if(!n) return {}; const v=n.map(Number).filter(x=>!isNaN(x)); if(!v.length) return {}; const o={price_currency:"USD",price_low:Math.min(...v)}; if(v.length>1)o.price_high=Math.max(...v); return o; };
 const posts=fs.readdirSync(dir).filter(f=>f.endsWith(".md"));
 const map=new Map();
