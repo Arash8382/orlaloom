@@ -3,8 +3,16 @@ import { notFound } from "next/navigation";
 import { site, author, categoryBySlug } from "../../../lib/site";
 import { getAllProductSlugs, getProductBySlug, getRelatedProducts } from "../../../lib/posts";
 import EmailSignup from "../../components/EmailSignup";
-import SaveButton from "../../components/SaveButton";
+import ProductGallery from "../../components/ProductGallery";
 import { getLivePriceForUrl } from "../../../lib/amazon-pricing";
+import {
+  getEnrichment,
+  galleryFor,
+  usefulSpecs,
+  usefulBullets,
+  priceNumber,
+  checkedAtLabel,
+} from "../../../lib/enrichment";
 
 export function generateStaticParams() {
   return getAllProductSlugs().map((slug) => ({ slug }));
@@ -68,8 +76,31 @@ export default async function ProductPage({ params }) {
 
   // Live price/stock from Amazon Creators API (fail-safe: null → static price).
   const live = await getLivePriceForUrl(p.url);
-  const displayPrice = (live && live.price) || p.price;
-  const outOfStock = live && live.inStock === false;
+
+  // Harvested enrichment: a real observed price, extra photos, specs, feature bullets.
+  // Priority for price is Creators API -> harvested -> hand-written range.
+  const enr = getEnrichment(p.url);
+  const harvestedPrice = enr && enr.price ? enr.price : null;
+  const displayPrice = (live && live.price) || harvestedPrice || p.price;
+  const priceSource = live && live.price ? "api" : harvestedPrice ? "harvested" : "static";
+  const checkedOn = priceSource === "harvested" ? checkedAtLabel(enr) : null;
+
+  // Flag when the observed price sits outside the range we published, so the page
+  // never quietly shows one number while our guide claims another.
+  const staticNums = String(p.price || "").match(/\d+(?:\.\d+)?/g) || [];
+  const harvestedNum = priceNumber(harvestedPrice);
+  const outsideRange =
+    priceSource === "harvested" &&
+    harvestedNum != null &&
+    staticNums.length > 0 &&
+    (harvestedNum < Math.min(...staticNums.map(Number)) * 0.9 ||
+      harvestedNum > Math.max(...staticNums.map(Number)) * 1.1);
+
+  const gallery = galleryFor(p, enr);
+  const specs = usefulSpecs(enr);
+  const bullets = usefulBullets(enr);
+
+  const outOfStock = (live && live.inStock === false) || (enr && enr.in_stock === false);
   const offers = priceToOffers(displayPrice, p.url);
 
   const jsonLd = {
@@ -79,7 +110,7 @@ export default async function ProductPage({ params }) {
         "@type": "Product",
         "@id": `${url}#product`,
         name: p.name,
-        ...(p.image ? { image: [p.image] } : {}),
+        ...(gallery.length ? { image: gallery } : p.image ? { image: [p.image] } : {}),
         ...(p.blurb ? { description: p.blurb } : {}),
         ...(p.brand ? { brand: { "@type": "Brand", name: p.brand } } : {}),
         ...(p.url ? { url: p.url } : {}),
@@ -108,24 +139,11 @@ export default async function ProductPage({ params }) {
       </div>
 
       <div className="product-hero" style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) minmax(0,1fr)", gap: 28, alignItems: "start", margin: "8px 0 10px" }}>
-        <div
-          style={{
-            position: "relative",
-            background: "var(--card, #fbf7f0)",
-            border: "1px solid var(--line, #e7ddcf)",
-            borderRadius: 16,
-            overflow: "hidden",
-            aspectRatio: "1 / 1",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-          }}
-        >
-          {p.image ? (
-            <img src={p.image} alt={p.name} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-          ) : null}
-          <SaveButton product={{ name: p.name, image: p.image, price: p.price, url: p.url, brand: p.brand }} />
-        </div>
+        <ProductGallery
+          images={gallery}
+          name={p.name}
+          product={{ name: p.name, image: p.image, price: displayPrice, url: p.url, brand: p.brand }}
+        />
 
         <div>
           {cat && <Link className="eyebrow" href={`/category/${cat.slug}`}>{cat.name}</Link>}
@@ -174,7 +192,16 @@ export default async function ProductPage({ params }) {
           )}
           {p.retailer && (
             <div style={{ fontSize: 12, color: "var(--muted,#7a6f60)", marginTop: 8 }}>
-              Sold by {p.retailer}. Price &amp; availability change quickly — confirm on the retailer&rsquo;s site.
+              Sold by {p.retailer}.{" "}
+              {checkedOn ? (
+                <>
+                  We last saw this price on {checkedOn}
+                  {outsideRange && p.price ? <> (our guide quotes {p.price})</> : null}. Prices change
+                  quickly — confirm on the retailer&rsquo;s site.
+                </>
+              ) : (
+                <>Price &amp; availability change quickly — confirm on the retailer&rsquo;s site.</>
+              )}
             </div>
           )}
 
@@ -197,6 +224,57 @@ export default async function ProductPage({ params }) {
           </div>
         </div>
       </div>
+
+      {(specs.length > 0 || bullets.length > 0) && (
+        <section style={{ margin: "26px 0 8px" }}>
+          <span className="eyebrow">The details</span>
+          <div
+            style={{
+              display: "grid",
+              gridTemplateColumns: specs.length && bullets.length ? "repeat(auto-fit, minmax(280px, 1fr))" : "1fr",
+              gap: 24,
+              marginTop: 12,
+            }}
+          >
+            {specs.length > 0 && (
+              <div>
+                <h2 style={{ fontSize: 17, margin: "0 0 8px" }}>Specifications</h2>
+                <dl style={{ margin: 0, fontSize: 14, lineHeight: 1.5 }}>
+                  {specs.map(([k, v]) => (
+                    <div
+                      key={k}
+                      style={{
+                        display: "grid",
+                        gridTemplateColumns: "minmax(110px, 38%) 1fr",
+                        gap: 10,
+                        padding: "7px 0",
+                        borderBottom: "1px solid var(--line,#e7ddcf)",
+                      }}
+                    >
+                      <dt style={{ color: "var(--muted,#7a6f60)", fontWeight: 600 }}>{k}</dt>
+                      <dd style={{ margin: 0, color: "var(--ink)" }}>{v}</dd>
+                    </div>
+                  ))}
+                </dl>
+              </div>
+            )}
+
+            {bullets.length > 0 && (
+              <div>
+                <h2 style={{ fontSize: 17, margin: "0 0 8px" }}>What the maker says</h2>
+                <ul style={{ margin: 0, paddingLeft: 18, fontSize: 14, lineHeight: 1.6, color: "var(--ink)" }}>
+                  {bullets.map((b, idx) => (
+                    <li key={idx} style={{ marginBottom: 6 }}>{b}</li>
+                  ))}
+                </ul>
+                <p style={{ fontSize: 12, color: "var(--muted,#7a6f60)", marginTop: 8 }}>
+                  Manufacturer claims from the product listing, not our own testing.
+                </p>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
 
       <div style={{ margin: "18px 0" }}>
         <EmailSignup
