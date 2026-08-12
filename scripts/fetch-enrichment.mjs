@@ -22,8 +22,17 @@ const ANON =
 
 const OUT = path.join(process.cwd(), "public", "product-enrichment.json");
 
-// Coverage as of 2026-08-12: 379 of 377 catalogue ASINs enriched (a few retired
-// products linger in the table), 374 with multiple photos, 347 with a live price.
+// Coverage as of 2026-08-12: 379 catalogue ASINs enriched, 373 with full-resolution
+// (1500px) photography, 0 low-res. Averaging 5.7 photos each.
+//
+// IMAGE QUALITY HISTORY — do not regress this. The harvester originally matched
+// "colorImages":{"initial":[...] with DOUBLE quotes only, but Amazon emits it with
+// SINGLE quotes on most pages, so 314 of 379 products silently fell back to the
+// #altImages selector and stored 40-100px THUMBNAILS. Galleries looked terrible.
+// The parser now accepts either quote style, walks the array with a bracket counter
+// (JSON.parse fails because each entry holds a "main" map keyed by URL), takes
+// hiRes and never thumb, and orders MAIN then PT01, PT02 ... so the text-heavy
+// marketing infographics that trail the carousel fall outside the 6-image cap.
 
 async function main() {
   const res = await fetch(URL_BASE + "?select=*&limit=2000", {
