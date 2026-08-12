@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/gen-control-status.mjs && next build",
+    "build": "node scripts/fetch-enrichment.mjs && node scripts/gen-control-status.mjs && node _genfeed.js && next build",
     "start": "next start"
   },
   "dependencies": {
