@@ -3,7 +3,7 @@ title: "We Read 190 Washable Rug Reviews: What Owners Actually Say (2026 Owner R
 description: "An Orla Loom Owner Report: we read 190 verified owner reviews across four best-selling washable floral rugs and counted what people actually praise and complain about — thinness, vacuuming, curling, and how they hold up in the wash."
 category: "rugs"
 date: "2026-08-04"
-updated: "2026-08-04"
+updated: '2026-08-15'
 cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 faqs:
   - q: "Are cheap washable rugs too thin?"
@@ -156,3 +156,10 @@ Pets or kids came up in 19% of all the reviews we read, and in 23% of positive r
 Orla Loom, "We Read 190 Washable Rug Reviews: What Owners Actually Say," Owner Report, August 2026. Sample: 190 unique Amazon owner reviews across four washable floral rugs, sampled across all star levels, collected 4 August 2026.
 
 *Methodology note: reviews were read and counted by the Orla Loom editorial team using keyword matching plus manual reading. Quotes are reproduced verbatim from public Amazon reviews and attributed as such; we did not contact reviewers, and no review text has been altered. We have not hands-on tested these rugs — this is owner-review analysis, and it's labelled that way everywhere it appears. See our [editorial policy](/editorial-policy).*
+
+## Related guides
+
+Keep building the look with these companion guides:
+
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — the next report in this series, on Smeg and Haden toasters and kettles.
+- [The best retro kitchen appliances](/blog/best-retro-kitchen-appliances) — the guide those findings feed into.

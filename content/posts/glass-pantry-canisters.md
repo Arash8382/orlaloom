@@ -7,6 +7,7 @@ description: >-
   full pantry renovation, with honest pros and cons on each.
 category: cottagecore-kitchen
 date: '2026-08-13'
+updated: '2026-08-15'
 cover: 'https://m.media-amazon.com/images/I/91GOlt7ygiL._AC_SL1500_.jpg'
 products:
   - name: Set of 5 Glass Kitchen Canisters with Airtight Bamboo Lids
@@ -147,3 +148,11 @@ Bamboo lids last well for years with basic care — hand wash, dry fully before 
 
 **How many jars do I actually need to start?**
 Five is the realistic starting point — flour, sugar, coffee, rice and pasta cover the staples most people actually decant first. Resist buying a 12-piece set right away; it is easy to end up with empty jars you never fill. Start with a 3-to-5 piece set, live with it for a few weeks, and buy a second set only once you know which additional pantry items you actually want off the shelf and into glass.
+
+## Related guides
+
+Keep building the look with these companion guides:
+
+- [The best retro kitchen appliances](/blog/best-retro-kitchen-appliances) — what to put beside the jars once the shelf is styled.
+- [The best retro toasters](/blog/retro-toasters) — the counter piece most people buy first.
+- [Retro & pastel stand mixers](/blog/retro-stand-mixers) — the baking counterpart to a decanted flour jar.

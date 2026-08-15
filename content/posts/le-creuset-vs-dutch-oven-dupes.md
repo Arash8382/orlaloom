@@ -137,7 +137,7 @@ faqs:
       standard braise, one loaf of bread. Go 7+ quarts for big families or batch
       cooking, and expect the weight to climb accordingly. Smaller than 5 quarts
       starts limiting recipes.
-updated: '2026-08-02'
+updated: '2026-08-15'
 ---
 
 Every cottagecore kitchen eventually arrives at the same question: is the Le Creuset actually worth it, or is a $60 dupe just as good? Having put the original next to the four most-recommended budget enameled Dutch ovens, here is the honest answer: **the dupes cook 90-95% as well, and the remaining 5-10% is exactly what you're deciding whether to pay for.**
@@ -177,3 +177,11 @@ For no-knead and Dutch-oven bread, yes — steam trapping and heat retention dep
 ### Which size Dutch oven should I buy?
 
 For two to four people, 5.5-6 quarts does everything: whole chicken, standard braise, one loaf of bread. Go 7+ quarts for big families or batch cooking, and expect the weight to climb accordingly. Smaller than 5 quarts starts limiting recipes.
+
+## Related guides
+
+Keep building the look with these companion guides:
+
+- [The best Smeg dupes](/blog/best-smeg-dupes) — the same buy-the-look-for-less question, applied to retro appliances instead of cookware.
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — our owner report on whether the premium price actually buys better performance.
+- [The best retro kitchen appliances](/blog/best-retro-kitchen-appliances) — the full pastel appliance line-up, from $13 up.

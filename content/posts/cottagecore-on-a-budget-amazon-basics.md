@@ -146,7 +146,7 @@ faqs:
       towels and napkins are consumables in any brand and will show wear
       over a few years of washing regardless of price point, so they are a
       reasonable place to save money rather than splurge.
-updated: '2026-08-08'
+updated: '2026-08-15'
 ---
 
 Cottagecore has a reputation for being an expensive aesthetic — scalloped china, hand-thrown pottery, linen that costs more than the meal you're eating on it. But the look is really built on a handful of unglamorous fundamentals: solid-color cookware, plain textiles, and a warm neutral palette. Those fundamentals are exactly what Amazon's own house brand does well, and does cheaply. This guide rounds up five Amazon Basics pieces that do real, everyday work in a cottagecore kitchen without the boutique price tag attached to the aesthetic.
@@ -178,3 +178,10 @@ The five pieces in this guide total under $150 combined and cover cookware, mixi
 ### Do Amazon Basics products actually hold up, or are they disposable?
 
 Cast iron and enameled cookware genuinely last for years with basic care (hand-wash the enamel, dry cast iron promptly to avoid rust) — the material is doing the work, not the brand. Textiles like the towels and napkins are consumables in any brand and will show wear over a few years of washing regardless of price point, so they are a reasonable place to save money rather than splurge.
+
+## Related guides
+
+Keep building the look with these companion guides:
+
+- [The best Smeg dupes](/blog/best-smeg-dupes) — the budget-versus-icon question applied to the appliances themselves.
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — owner data on whether paying more actually buys you a better toaster.

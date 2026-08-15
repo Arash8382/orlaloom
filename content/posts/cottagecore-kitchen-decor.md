@@ -146,7 +146,7 @@ faqs:
       floral focal point to the counter for around $15, and the curtains
       transform the window — together they shift the whole room's mood for under
       $45, and both are impossible to get wrong.
-updated: '2026-08-02'
+updated: '2026-08-15'
 ---
 
 A cottagecore kitchen isn't built in a renovation — it's built in small, collected pieces that look like they've been gathered over years. The whole aesthetic lives in the details you leave out on the counter: enamelware and embossed ceramics, a crock of wooden spoons by the stove, mason jars catching the light, and a floral towel over the oven handle. You don't need to touch the cabinets or the counters underneath. You just need the right layer of stuff on top.
@@ -197,3 +197,6 @@ Keep building the look with these companion guides:
 - [The complete dark cottagecore kitchen guide](/blog/dark-cottagecore-kitchen) — the moody, candlelit version of everything here.
 - [Vintage-style enamelware](/blog/vintage-style-enamelware) — a deeper dive on the colanders, mugs, and basins that anchor the counter.
 - [The best canning jars for jam](/blog/best-canning-jars-for-jam) — which jars to buy when the storage becomes a hobby of its own.
+- [The best retro toasters, Smeg vs. Haden](/blog/retro-toasters) — the pastel appliance that does the most work on a cottagecore counter.
+- [Retro & pastel stand mixers](/blog/retro-stand-mixers) — the baking centrepiece worth leaving out on display.
+- [The best Smeg dupes](/blog/best-smeg-dupes) — the same 1950s silhouette for a fraction of the price.

@@ -3,6 +3,7 @@ title: "Tea Corner Ideas: How to Build a Cottagecore Tea Station (2026)"
 description: "Tea corners are the new reading nooks. How to turn one small counter or sideboard into a proper cottagecore tea station — the kettle, floral tea set, tiered tray, tea box and honey pot that do it, with honest pros and cons."
 category: "cottagecore-kitchen"
 date: "2026-07-29"
+updated: '2026-08-15'
 cover: "/thumbnails/thumb-tea-corner-ideas.webp"
 products:
   - name: "Cosori Gooseneck Electric Kettle with Temperature Control, 0.8L, Matte Black"
@@ -92,3 +93,11 @@ For a dedicated corner, yes, and it is not close. An electric kettle lives *at* 
 ### How do I keep a tea corner from looking cluttered?
 
 Impose two rules. First, everything must fit on or under the tray — the moment items sprawl beyond it, edit something out. Second, keep the palette to two or three tones (warm wood, white ceramic and one accent color is the classic cottagecore combination). Boxes the tea came in, torn sleeves and novelty mugs are what tip a corner from styled to messy; decant, stash and gift accordingly.
+
+## Related guides
+
+Keep building the look with these companion guides:
+
+- [We read 194 retro appliance reviews](/blog/retro-appliance-owner-report) — what owners actually say about Smeg and Haden kettles, including the rust nobody warns you about.
+- [The best retro toasters](/blog/retro-toasters) — the matching toaster if your kettle is the start of a set.
+- [The best retro coffee makers](/blog/retro-coffee-makers) — for the mornings when tea is not the answer.
