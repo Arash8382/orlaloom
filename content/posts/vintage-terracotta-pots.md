@@ -1,73 +1,105 @@
 ---
-title: "The Best Vintage & Aged Terracotta Pots for 2026"
-description: "Aged, fluted, Italian, and whitewashed terracotta-look pots for a cottage garden, patio, or herb windowsill — from $5 clay classics to antique pieces."
-category: "home-decor"
-date: "2026-07-12"
-cover: "/thumbnails/thumb-vintage-terracotta-pots.webp"
+title: The Best Vintage & Aged Terracotta Pots for 2026
+description: >-
+  Aged, fluted, Italian, and whitewashed terracotta-look pots for a cottage
+  garden, patio, or herb windowsill — from $5 clay classics to antique pieces.
+category: home-decor
+date: '2026-07-12'
+cover: /thumbnails/thumb-vintage-terracotta-pots.webp
 products:
-  - name: "Deroma Terra Cotta Clay Pot (6\")"
-    image: "https://m.media-amazon.com/images/I/21oShxYTtAL._AC_SL1000_.jpg"
-    brand: "Deroma"
-    price: "~$5–12"
-    retailer: "Amazon"
-    badge: "Best classic"
-    blurb: "Genuine Italian clay that patinas beautifully over time — the honest, affordable choice for herbs."
-    caveat: "Heavy, breakable, and dries out faster than glazed or plastic pots."
-    url: "https://www.amazon.com/Deroma-M8090PZ-Terra-Cotta-Standard/dp/B016P3J3WQ?tag=orlaloom-20"
-  - name: "Bloem Terra Pot Resin Planter (8\")"
-    image: "https://m.media-amazon.com/images/I/51AsUCaMOhL._AC_SL1000_.jpg"
-    brand: "Bloem"
-    price: "~$8–15"
-    retailer: "Amazon"
-    badge: "Best lightweight"
-    blurb: "A lightweight resin pot with a convincing clay look and built-in drainage that won't crack outdoors."
-    caveat: "It's resin, so it lacks real terracotta's breathability and weight."
-    url: "https://www.amazon.com/Bloem-Terra-Pot-Planter-Cotta/dp/B06WWRSLXJ?tag=orlaloom-20"
-  - name: "Whitewashed Terracotta Pots with Saucer (2-Pack)"
-    image: "https://m.media-amazon.com/images/I/71BGsHLaNuL.jpg"
-    brand: "Various"
-    price: "~$18–30"
-    retailer: "Amazon"
-    badge: "Best aged look"
-    blurb: "A whitewashed, textured finish that nails the weathered, brought-in-from-the-garden look."
-    caveat: "Sellers rotate, so the exact one may sell out."
-    url: "https://www.amazon.com/dp/B0GS9KYYSY?tag=orlaloom-20"
-  - name: "Esschert Design Aged Terracotta Pots (Set of 3)"
-    image: "https://m.media-amazon.com/images/I/51mwmR29Y+L.jpg"
-    brand: "Various"
-    price: "~$20–40"
-    retailer: "Amazon"
-    badge: "Best value set"
-    blurb: "Pre-aged ribbed multi-packs for an instant weathered look without waiting years."
-    caveat: "'Aged' finishes are often painted and can wear unevenly outdoors."
-    url: "https://www.amazon.com/dp/B007JHXXRY?tag=orlaloom-20"
-  - name: "Antique Terracotta Planter"
-    image: "https://assets.rjimgs.com/rjimgs/ab/images/dp/wcm/202607/0045/antique-terracotta-planters-d.jpg"
-    brand: "Rejuvenation"
-    price: "~$100–300+"
-    retailer: "Rejuvenation"
-    badge: "The real thing"
-    blurb: "A genuinely old, one-of-a-kind European piece with real patina you can't fake."
-    caveat: "Pricey, limited stock, and sizes vary."
-    url: "https://www.rejuvenation.com/products/antique-terracotta-planter/"
-  - name: "Italian Classic & Vintage Terracotta Pots"
-    image: "https://m.media-amazon.com/images/I/61PciTZiyWL._AC_SY879_.jpg"
-    brand: "Eye of the Day"
-    price: "~$60–500+"
-    retailer: "Amazon"
-    badge: "Best authentic"
-    blurb: "Authentic imported Italian and antique terracotta for a true heirloom-garden look."
-    caveat: "Specialty retailer with high prices, heavy shipping, and no Prime."
-    url: "https://www.amazon.com/dp/B0B8HDQYN7?tag=orlaloom-20"
+  - name: 'vensovo Terracotta Clay Pots with Saucers, 6 in (4 Pack)'
+    image: 'https://m.media-amazon.com/images/I/61MPIqra9jL._AC_SL1000_.jpg'
+    brand: vensovo
+    price: ~$19 for four
+    retailer: Amazon
+    badge: Best classic
+    blurb: >-
+      Plain unglazed clay in the shape everyone pictures when they think
+      terracotta — six inches across, matching saucers included, and it
+      patinas into that chalky white bloom within a season. Buying four at
+      once is how a windowsill herb row ends up looking collected rather
+      than assembled one pot at a time.
+    caveat: >-
+      Heavy, breakable, and unglazed clay wicks moisture away from roots, so
+      expect to water noticeably more often than you would a glazed pot.
+    url: 'https://www.amazon.com/dp/B083JRHRW1?tag=orlaloom-20'
+  - name: Bloem Terra Pot Resin Planter (8")
+    image: 'https://m.media-amazon.com/images/I/51AsUCaMOhL._AC_SL1000_.jpg'
+    brand: Bloem
+    price: ~$8–15
+    retailer: Amazon
+    badge: Best lightweight
+    blurb: >-
+      A lightweight resin pot with a convincing clay look and built-in drainage
+      that won't crack outdoors.
+    caveat: 'It''s resin, so it lacks real terracotta''s breathability and weight.'
+    url: >-
+      https://www.amazon.com/Bloem-Terra-Pot-Planter-Cotta/dp/B06WWRSLXJ?tag=orlaloom-20
+  - name: Whitewashed Terracotta Pots with Saucer (2-Pack)
+    image: 'https://m.media-amazon.com/images/I/71BGsHLaNuL.jpg'
+    brand: Various
+    price: ~$18–30
+    retailer: Amazon
+    badge: Best aged look
+    blurb: >-
+      A whitewashed, textured finish that nails the weathered,
+      brought-in-from-the-garden look.
+    caveat: 'Sellers rotate, so the exact one may sell out.'
+    url: 'https://www.amazon.com/dp/B0GS9KYYSY?tag=orlaloom-20'
+  - name: Esschert Design Aged Terracotta Pots (Set of 3)
+    image: 'https://m.media-amazon.com/images/I/51mwmR29Y+L.jpg'
+    brand: Various
+    price: ~$20–40
+    retailer: Amazon
+    badge: Best value set
+    blurb: >-
+      Pre-aged ribbed multi-packs for an instant weathered look without waiting
+      years.
+    caveat: '''Aged'' finishes are often painted and can wear unevenly outdoors.'
+    url: 'https://www.amazon.com/dp/B007JHXXRY?tag=orlaloom-20'
+  - name: Antique Terracotta Planter
+    image: >-
+      https://assets.rjimgs.com/rjimgs/ab/images/dp/wcm/202607/0045/antique-terracotta-planters-d.jpg
+    brand: Rejuvenation
+    price: ~$100–300+
+    retailer: Rejuvenation
+    badge: The real thing
+    blurb: >-
+      A genuinely old, one-of-a-kind European piece with real patina you can't
+      fake.
+    caveat: 'Pricey, limited stock, and sizes vary.'
+    url: 'https://www.rejuvenation.com/products/antique-terracotta-planter/'
+  - name: Italian Classic & Vintage Terracotta Pots
+    image: 'https://m.media-amazon.com/images/I/61PciTZiyWL._AC_SY879_.jpg'
+    brand: Eye of the Day
+    price: ~$60–500+
+    retailer: Amazon
+    badge: Best authentic
+    blurb: >-
+      Authentic imported Italian and antique terracotta for a true
+      heirloom-garden look.
+    caveat: 'Specialty retailer with high prices, heavy shipping, and no Prime.'
+    url: 'https://www.amazon.com/dp/B0B8HDQYN7?tag=orlaloom-20'
+faqs:
+  - q: Will terracotta survive winter outdoors?
+    a: >-
+      Unglazed clay can crack if it freezes while damp. In cold climates, empty
+      and store pots, or choose frost-resistant or resin options for anything
+      left out.
+  - q: Best pots for windowsill herbs?
+    a: >-
+      Small real-clay vensovo pots with saucers — the breathable clay keeps roots
+      happy, and they look lovely lined up on a sunny sill.
+updated: '2026-08-02'
 ---
 
 Nothing says cottage garden like aged terracotta — sun-faded, a little mossy, with that perfect warm clay color. You can buy it genuinely old, or fake decades of weathering for a few dollars. Here's the full range.
 
-**Quick picks:** Best classic — Deroma · Best lightweight — Bloem resin · Best aged look — whitewashed embossed · The real thing — Rejuvenation antique.
+**Quick picks:** Best classic — vensovo four-pack · Best lightweight — Bloem resin · Best aged look — whitewashed embossed · The real thing — Rejuvenation antique.
 
 ## Age it yourself (it's easy and free)
 
-New terracotta looks orange and raw, but it weathers fast: leave plain Deroma pots outside, and rain plus a little shade gives you mossy patina within a season. For an instant head start, brush on watered-down white paint or a yogurt-and-water wash to encourage moss.
+New terracotta looks orange and raw, but it weathers fast: leave plain unglazed pots outside, and rain plus a little shade gives you mossy patina within a season. For an instant head start, brush on watered-down white paint or a yogurt-and-water wash to encourage moss.
 
 ## Real clay vs. resin
 
@@ -79,4 +111,4 @@ New terracotta looks orange and raw, but it weathers fast: leave plain Deroma po
 Unglazed clay can crack if it freezes while damp. In cold climates, empty and store pots, or choose frost-resistant or resin options for anything left out.
 
 **Best pots for windowsill herbs?**
-Small real-clay Deroma pots with saucers — the breathable clay keeps roots happy, and they look lovely lined up on a sunny sill.
+Small real-clay vensovo pots with saucers — the breathable clay keeps roots happy, and a four-pack lines up beautifully on a sunny sill.
