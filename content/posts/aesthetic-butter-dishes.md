@@ -168,15 +168,6 @@ products:
     image: 'https://m.media-amazon.com/images/I/51DO0EMMMAL._SL1500_.jpg'
     url: >-
       https://www.amazon.com/BigMouth-Inc-Udderly-Buttery-Butter/dp/B0CJML8LWR?tag=orlaloom-20
-  - name: "Fungi Fun Mushroom Butter Dish with Lid"
-    brand: "Fungi Fun"
-    price: "$25–30"
-    retailer: "Amazon"
-    badge: "Best overall"
-    blurb: "A stoneware rectangular dish with a sculpted toadstool lid — the rare mushroom dish that still fits a standard wrapped stick of butter."
-    caveat: "Mass-produced import; glaze and paint quality can vary slightly."
-    image: "https://m.media-amazon.com/images/I/71IreemEtDL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20"
   - name: "Mushroom Butter Crock (Water-Seal)"
     brand: "Fungi Fun"
     price: "$28–34"
@@ -186,15 +177,6 @@ products:
     caveat: "It's a crock, so it suits soft or packed butter, not a wrapped stick."
     image: "https://m.media-amazon.com/images/I/71MaJsZ1SNL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/Mushroom-Butter-Crock-Countertop-Spreadable/dp/B0DLJNG1C7?tag=orlaloom-20"
-  - name: "Red Toadstool Mushroom Butter Dish"
-    brand: "Ceramic novelty"
-    price: "$22–28"
-    retailer: "Amazon"
-    badge: "Best under $25"
-    blurb: "The classic red-cap, white-spot toadstool — the most storybook look on this list and an easy, cheerful gift."
-    caveat: "Generic listing, so stock rotates; confirm it's live before buying."
-    image: "https://m.media-amazon.com/images/I/61MpJynV4GL._AC_SL1500_.jpg"
-    url: "https://www.amazon.com/Mushroom-Countertop-Ceramic-Butterdish-Container/dp/B0BWDVL76C?tag=orlaloom-20"
   - name: "Handmade Mushroom Stick Butter Dish"
     brand: "Ceramic Boutique"
     price: "$45–60"
@@ -204,7 +186,31 @@ products:
     caveat: "Sold via the maker's own site, so no Prime shipping."
     image: "https://shopceramicboutique.com/cdn/shop/files/2E1D833A-4011-4868-8151-7D173243B003_1080x.jpg?v=1673881952"
     url: "https://shopceramicboutique.com/products/mushroom-butterdish"
-updated: '2026-08-08'
+  - name: 'Ceramic Mushroom Butter Dish with Lid and Knife'
+    image: 'https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg'
+    brand: Generic
+    price: ~$24
+    retailer: Amazon
+    badge: Best with spreader
+    blurb: >-
+      Comes with a matching ceramic spreader, which sounds like a gimmick until
+      you realise the alternative is a metal knife rattling around a ceramic
+      dish every morning. Highest-rated mushroom dish we found.
+    caveat: 'The included spreader is ceramic and will snap on fridge-cold butter.'
+    url: 'https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20'
+  - name: 'Martha Stewart Broadbrook Stoneware Butter Dish'
+    image: 'https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg'
+    brand: Martha Stewart
+    price: ~$13
+    retailer: Amazon
+    badge: Best budget
+    blurb: >-
+      Thirteen dollars for a cream-glazed stoneware keeper that fits a full
+      stick — the sensible baseline every other dish on this page is asking you
+      to pay a premium over.
+    caveat: 'Rectangular and plain; there is nothing whimsical about it.'
+    url: 'https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20'
+updated: '2026-08-16'
 ---
 
 If your kitchen counter could use one small, slightly impractical thing that makes breakfast feel like a moment — it's a butter dish. They've quietly become the tabletop obsession of 2026 (one UK retailer reported searches jumped over 100% last year), and the prettiest ones sell out fast. This guide rounds up the aesthetic butter dishes actually worth buying.

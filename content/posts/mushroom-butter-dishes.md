@@ -3,7 +3,6 @@ title: "Mushroom Butter Dishes That Sell Out Fast"
 description: "The cutest mushroom and figural butter dishes for a cottagecore table — ceramic, vintage, and gift-ready picks."
 category: "butter-dishes"
 date: "2026-06-30"
-updated: '2026-08-16'
 cover: "/thumbnails/thumb-mushroom-butter-dishes.webp"
 products:
   - name: "Fungi Fun Mushroom Butter Dish with Lid"
@@ -42,54 +41,6 @@ products:
     caveat: "Sold via the maker's own site, so no Prime shipping."
     image: "https://shopceramicboutique.com/cdn/shop/files/2E1D833A-4011-4868-8151-7D173243B003_1080x.jpg?v=1673881952"
     url: "https://shopceramicboutique.com/products/mushroom-butterdish"
-  - name: 'Ceramic Mushroom Butter Dish with Lid and Knife'
-    image: 'https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg'
-    brand: Generic
-    price: ~$24
-    retailer: Amazon
-    badge: Best with knife
-    blurb: >-
-      Comes with a matching ceramic spreader, which sounds like a gimmick until
-      you realise the alternative is a metal knife rattling around a ceramic
-      dish every morning.
-    caveat: 'The included spreader is ceramic and will snap if used on fridge-cold butter.'
-    url: 'https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20'
-  - name: 'Mushroom Butter Dish, Vintage French Cover'
-    image: 'https://m.media-amazon.com/images/I/71jyTNfkJYL._AC_SL1500_.jpg'
-    brand: Generic
-    price: ~$22
-    retailer: Amazon
-    badge: Highest rated
-    blurb: >-
-      The muted, almost antique glaze on this one is what separates it from the
-      bright toadstool versions — it reads as a found object rather than a
-      novelty, which is why it survives on a counter long-term.
-    caveat: 'Sized for a European-style butter block, not a full American stick.'
-    url: 'https://www.amazon.com/dp/B0D17D85G2?tag=orlaloom-20'
-  - name: 'fanquare Porcelain Butter Keeper with Raised Leg'
-    image: 'https://m.media-amazon.com/images/I/71nPaHJT5bL._AC_SL1500_.jpg'
-    brand: fanquare
-    price: ~$29
-    retailer: Amazon
-    badge: Best non-novelty
-    blurb: >-
-      For when the mushroom is a step too far: a plain footed porcelain keeper
-      with the same cottage feel, in a shape that will not date the way a
-      character piece can.
-    caveat: 'No mushroom anywhere on it — included as the restrained alternative.'
-    url: 'https://www.amazon.com/dp/B0CLNS6WNJ?tag=orlaloom-20'
-  - name: 'Martha Stewart Broadbrook Stoneware Butter Dish'
-    image: 'https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg'
-    brand: Martha Stewart
-    price: ~$13
-    retailer: Amazon
-    badge: Best budget
-    blurb: >-
-      Thirteen dollars for a cream-glazed stoneware keeper that fits a full
-      stick — the sensible baseline every other dish on this page is asking you
-      to pay a premium over.
-    caveat: 'Rectangular and plain; there is nothing whimsical about it.'
-    url: 'https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20'
 ---
 
 Mushroom decor and cottagecore collided, and the butter dish is where it landed. A little ceramic toadstool sitting on the counter is the kind of detail that makes a kitchen feel like a storybook — and makes a genuinely charming gift. Because they're handmade or small-batch more often than not, the good ones disappear quickly. Here are the mushroom and figural butter dishes worth grabbing.

@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-17T03:38:37.694Z",
-  "count": 471,
+  "generated_at": "2026-08-17T05:09:07.580Z",
+  "count": 469,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -47,10 +47,6 @@
       "affiliate_url": "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
-        {
-          "title": "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)",
-          "url": "https://orlaloom.com/blog/aesthetic-butter-dishes"
-        },
         {
           "title": "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)",
           "url": "https://orlaloom.com/blog/aesthetic-butter-dishes"
@@ -248,10 +244,6 @@
       "affiliate_url": "https://www.amazon.com/Mushroom-Countertop-Ceramic-Butterdish-Container/dp/B0BWDVL76C?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
-        {
-          "title": "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)",
-          "url": "https://orlaloom.com/blog/aesthetic-butter-dishes"
-        },
         {
           "title": "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)",
           "url": "https://orlaloom.com/blog/aesthetic-butter-dishes"
@@ -600,6 +592,80 @@
         {
           "title": "Mushroom Butter Dishes That Sell Out Fast",
           "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
+        }
+      ]
+    },
+    {
+      "id": "ceramic-mushroom-butter-dish-with-lid-and-knife",
+      "title": "Ceramic Mushroom Butter Dish with Lid and Knife",
+      "brand": "Generic",
+      "description": "Comes with a matching ceramic spreader, which sounds like a gimmick until you realise the alternative is a metal knife rattling around a ceramic dish every morning. Highest-rated mushroom dish we found.",
+      "category": "Butter Dishes",
+      "category_slug": "butter-dishes",
+      "price_currency": "USD",
+      "price_low": 23.99,
+      "price_display": "$23.99",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/810BzyHjrkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81HyJ8K9UwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81TYlLkRx3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81IkIU2zsoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UFn53C6-L._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/ceramic-mushroom-butter-dish-with-lid-and-knife",
+      "buy_url": "https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0F5BJYCXH",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0F5BJYCXH",
+      "affiliate_url": "https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)",
+          "url": "https://orlaloom.com/blog/aesthetic-butter-dishes"
+        }
+      ]
+    },
+    {
+      "id": "martha-stewart-broadbrook-stoneware-butter-dish",
+      "title": "Martha Stewart Broadbrook Stoneware Butter Dish",
+      "brand": "Martha Stewart",
+      "description": "Thirteen dollars for a cream-glazed stoneware keeper that fits a full stick — the sensible baseline every other dish on this page is asking you to pay a premium over.",
+      "category": "Butter Dishes",
+      "category_slug": "butter-dishes",
+      "price_currency": "USD",
+      "price_low": 12.98,
+      "price_display": "$12.98",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71is0iLyonL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51A4J7jbg1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51uCSZh2xML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61EnfUwJqJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LhSqG8NxL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/martha-stewart-broadbrook-stoneware-butter-dish",
+      "buy_url": "https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0FBCMT3NV",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0FBCMT3NV",
+      "affiliate_url": "https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Aesthetic Butter Dishes for 2026 (Scalloped, Mushroom & French)",
+          "url": "https://orlaloom.com/blog/aesthetic-butter-dishes"
         }
       ]
     },
@@ -12986,154 +13052,6 @@
         {
           "title": "Moody Dark Floral Bedding for Fall 2026: Best Duvet Covers & Comforter Sets",
           "url": "https://orlaloom.com/blog/moody-dark-floral-bedding"
-        }
-      ]
-    },
-    {
-      "id": "ceramic-mushroom-butter-dish-with-lid-and-knife",
-      "title": "Ceramic Mushroom Butter Dish with Lid and Knife",
-      "brand": "Generic",
-      "description": "Comes with a matching ceramic spreader, which sounds like a gimmick until you realise the alternative is a metal knife rattling around a ceramic dish every morning.",
-      "category": "Butter Dishes",
-      "category_slug": "butter-dishes",
-      "price_currency": "USD",
-      "price_low": 23.99,
-      "price_display": "$23.99",
-      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
-      "availability": "in_stock",
-      "image": "https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/810BzyHjrkL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81HyJ8K9UwL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81TYlLkRx3L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81IkIU2zsoL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81UFn53C6-L._AC_SL1500_.jpg"
-      ],
-      "specs": {},
-      "url": "https://orlaloom.com/shop/ceramic-mushroom-butter-dish-with-lid-and-knife",
-      "buy_url": "https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20",
-      "retailer": "Amazon",
-      "asin": "B0F5BJYCXH",
-      "gtin": null,
-      "canonical_url": "https://www.amazon.com/dp/B0F5BJYCXH",
-      "affiliate_url": "https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20",
-      "coupon": null,
-      "featured_in": [
-        {
-          "title": "Mushroom Butter Dishes That Sell Out Fast",
-          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
-        }
-      ]
-    },
-    {
-      "id": "mushroom-butter-dish-vintage-french-cover",
-      "title": "Mushroom Butter Dish, Vintage French Cover",
-      "brand": "Generic",
-      "description": "The muted, almost antique glaze on this one is what separates it from the bright toadstool versions — it reads as a found object rather than a novelty, which is why it survives on a counter long-term.",
-      "category": "Butter Dishes",
-      "category_slug": "butter-dishes",
-      "price_currency": "USD",
-      "price_low": 21.99,
-      "price_display": "$21.99",
-      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
-      "availability": "in_stock",
-      "image": "https://m.media-amazon.com/images/I/71jyTNfkJYL._AC_SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71jyTNfkJYL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71wcrbc3ANL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/91cZsmy02KL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/817b3A+1ToL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81-91r-QQML._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/8169zaW7YsL._AC_SL1500_.jpg"
-      ],
-      "specs": {},
-      "url": "https://orlaloom.com/shop/mushroom-butter-dish-vintage-french-cover",
-      "buy_url": "https://www.amazon.com/dp/B0D17D85G2?tag=orlaloom-20",
-      "retailer": "Amazon",
-      "asin": "B0D17D85G2",
-      "gtin": null,
-      "canonical_url": "https://www.amazon.com/dp/B0D17D85G2",
-      "affiliate_url": "https://www.amazon.com/dp/B0D17D85G2?tag=orlaloom-20",
-      "coupon": null,
-      "featured_in": [
-        {
-          "title": "Mushroom Butter Dishes That Sell Out Fast",
-          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
-        }
-      ]
-    },
-    {
-      "id": "fanquare-porcelain-butter-keeper-with-raised-leg",
-      "title": "fanquare Porcelain Butter Keeper with Raised Leg",
-      "brand": "fanquare",
-      "description": "For when the mushroom is a step too far: a plain footed porcelain keeper with the same cottage feel, in a shape that will not date the way a character piece can.",
-      "category": "Butter Dishes",
-      "category_slug": "butter-dishes",
-      "price_currency": "USD",
-      "price_low": 28.91,
-      "price_display": "$28.91",
-      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
-      "availability": "in_stock",
-      "image": "https://m.media-amazon.com/images/I/71nPaHJT5bL._AC_SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71nPaHJT5bL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/91TJUqi2WUL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71NNqrbN3WL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/815louz9jBL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/81OanTBRvTL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/61Fng6-mXJL._AC_SL1500_.jpg"
-      ],
-      "specs": {},
-      "url": "https://orlaloom.com/shop/fanquare-porcelain-butter-keeper-with-raised-leg",
-      "buy_url": "https://www.amazon.com/dp/B0CLNS6WNJ?tag=orlaloom-20",
-      "retailer": "Amazon",
-      "asin": "B0CLNS6WNJ",
-      "gtin": null,
-      "canonical_url": "https://www.amazon.com/dp/B0CLNS6WNJ",
-      "affiliate_url": "https://www.amazon.com/dp/B0CLNS6WNJ?tag=orlaloom-20",
-      "coupon": null,
-      "featured_in": [
-        {
-          "title": "Mushroom Butter Dishes That Sell Out Fast",
-          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
-        }
-      ]
-    },
-    {
-      "id": "martha-stewart-broadbrook-stoneware-butter-dish",
-      "title": "Martha Stewart Broadbrook Stoneware Butter Dish",
-      "brand": "Martha Stewart",
-      "description": "Thirteen dollars for a cream-glazed stoneware keeper that fits a full stick — the sensible baseline every other dish on this page is asking you to pay a premium over.",
-      "category": "Butter Dishes",
-      "category_slug": "butter-dishes",
-      "price_currency": "USD",
-      "price_low": 12.98,
-      "price_display": "$12.98",
-      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
-      "availability": "in_stock",
-      "image": "https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71is0iLyonL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/51A4J7jbg1L._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/51uCSZh2xML._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/61EnfUwJqJL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71LhSqG8NxL._AC_SL1500_.jpg"
-      ],
-      "specs": {},
-      "url": "https://orlaloom.com/shop/martha-stewart-broadbrook-stoneware-butter-dish",
-      "buy_url": "https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20",
-      "retailer": "Amazon",
-      "asin": "B0FBCMT3NV",
-      "gtin": null,
-      "canonical_url": "https://www.amazon.com/dp/B0FBCMT3NV",
-      "affiliate_url": "https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20",
-      "coupon": null,
-      "featured_in": [
-        {
-          "title": "Mushroom Butter Dishes That Sell Out Fast",
-          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
         }
       ]
     },
