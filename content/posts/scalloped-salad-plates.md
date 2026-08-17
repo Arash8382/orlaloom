@@ -3,6 +3,7 @@ title: "The Best Scalloped Salad & Side Plates for 2026"
 description: "The prettiest scalloped salad and side plates — blue ombre, floral, and designer picks to layer over any dinner plate."
 category: "scalloped-dinnerware"
 date: "2026-06-26"
+updated: '2026-08-16'
 cover: "/thumbnails/thumb-scalloped-salad-plates.webp"
 products:
   - name: "KeyChefLAB Petal Scalloped Plates (Set of 4, Blue Ombre)"
@@ -50,6 +51,44 @@ products:
     caveat: "Sold individually (it adds up), and colorways rotate, so matching re-orders isn't guaranteed."
     image: "https://m.media-amazon.com/images/I/71Z-juElOXL._AC_SX679_.jpg"
     url: "https://www.amazon.com/dp/B0GLDZV6V3?tag=orlaloom-20"
+  - name: 'UNICASA Scalloped Dessert Plates, 9 in (Set of 4)'
+    image: 'https://m.media-amazon.com/images/I/81KziAppQYL._AC_SL1500_.jpg'
+    brand: UNICASA
+    price: ~$30
+    retailer: Amazon
+    badge: Best plain scallop
+    blurb: >-
+      Nine inches is the useful size — big enough for an actual salad rather
+      than just dessert — and the undecorated finish means these layer under
+      patterned dinner plates without clashing.
+    caveat: 'Set of four only, so a table of six needs two sets.'
+    url: 'https://www.amazon.com/dp/B0FRG3RSK4?tag=orlaloom-20'
+  - name: 'Bico Ocean Wonders Scalloped Salad Plates, 8.75 in (Set of 4)'
+    image: 'https://m.media-amazon.com/images/I/71ir7cSM8zL._AC_SL1500_.jpg'
+    brand: Bico
+    price: ~$36
+    retailer: Amazon
+    badge: Best patterned
+    blurb: >-
+      A shell-and-wave motif that reads coastal-cottage rather than nautical
+      novelty, and the pattern sits under the glaze so it will not wear off in
+      the dishwasher.
+    caveat: >-
+      The seaside theme is specific — it will not blend with florals as easily
+      as a plain scallop.
+    url: 'https://www.amazon.com/dp/B0FSCZMYR1?tag=orlaloom-20'
+  - name: 'fanquare Vintage Blue Floral Porcelain Dessert Plates, 8 in (Set of 4)'
+    image: 'https://m.media-amazon.com/images/I/71xJkoC0iiL._AC_SL1500_.jpg'
+    brand: fanquare
+    price: ~$37
+    retailer: Amazon
+    badge: Best blue floral
+    blurb: >-
+      Proper porcelain rather than stoneware, so it is lighter and brighter in
+      the hand, with a blue floral that leans toward inherited china instead of
+      farmhouse print.
+    caveat: 'Eight inches is dessert-sized; too small to serve a main salad on.'
+    url: 'https://www.amazon.com/dp/B0BY7SZZC8?tag=orlaloom-20'
 ---
 
 A scalloped salad plate is the easiest way to add character to a table — layer one over a plain dinner plate and the whole setting suddenly looks considered. These are the prettiest scalloped salad and side plates to collect, from budget to designer.

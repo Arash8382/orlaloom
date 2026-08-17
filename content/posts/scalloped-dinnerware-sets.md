@@ -3,6 +3,7 @@ title: "The Best Scalloped Dinnerware Sets for 2026"
 description: "Scalloped-edge dinner plates and sets — from budget Target finds to heirloom Villeroy & Boch — for a romantic, cottage-perfect table."
 category: "scalloped-dinnerware"
 date: "2026-06-25"
+updated: '2026-08-16'
 cover: "/thumbnails/thumb-scalloped-dinnerware-sets.webp"
 products:
   - name: "Threshold Scalloped Dinner Plate (Gold Rim)"
@@ -50,6 +51,47 @@ products:
     caveat: "The cream tone won't match cool-white pieces, and bone china needs gentle handling."
     image: "https://m.media-amazon.com/images/I/71JnZWeK7LL.jpg"
     url: "https://www.amazon.com/dp/B0083VBIJ0?tag=orlaloom-20"
+  - name: 'Elama Luna Scallop-Embossed Stoneware Set, 16-Piece'
+    image: 'https://m.media-amazon.com/images/I/81Tto7HAb0L._AC_SL1500_.jpg'
+    brand: Elama
+    price: ~$60
+    retailer: Amazon
+    badge: Best value for four
+    blurb: >-
+      A full service for four under sixty dollars, with the scallop pressed into
+      the stoneware rather than painted on, so it survives the dishwasher
+      indefinitely. The embossing is subtle enough to sit under food without
+      fighting it.
+    caveat: >-
+      Stoneware is heavier and chips more readily at the rim than porcelain, and
+      the set is service for four only.
+    url: 'https://www.amazon.com/dp/B089LSW9KK?tag=orlaloom-20'
+  - name: 'Gibson Elite Malibu Shore Scallop Stoneware Set, 16-Piece'
+    image: 'https://m.media-amazon.com/images/I/71Uwo1HmYsL._AC_SL1500_.jpg'
+    brand: Gibson Elite
+    price: ~$90
+    retailer: Amazon
+    badge: Best reactive glaze
+    blurb: >-
+      Reactive glaze means no two pieces come out identical — the colour pools
+      differently in every scallop, which is the closest a mass-produced set
+      gets to looking like it came from a pottery. Service for four.
+    caveat: >-
+      Reactive glazing is unpredictable by design, so the set you receive will
+      not match the listing photo exactly.
+    url: 'https://www.amazon.com/dp/B0G3S9GM31?tag=orlaloom-20'
+  - name: 'Sango Bethany Scalloped White Plates & Bowls, 12-Piece'
+    image: 'https://m.media-amazon.com/images/I/61P2JWTMWzL._AC_SL1500_.jpg'
+    brand: Sango
+    price: ~$79
+    retailer: Amazon
+    badge: Best plain white
+    blurb: >-
+      Undecorated white with a deep, generous scallop — the version to buy if
+      you want the shape to do all the work and intend to layer patterned salad
+      plates on top.
+    caveat: 'Twelve pieces is service for four, and plain white shows scratches sooner.'
+    url: 'https://www.amazon.com/dp/B0F458DJDJ?tag=orlaloom-20'
 ---
 
 The scalloped plate is the silhouette of the moment — that soft, petal-edged rim instantly makes a table look collected and a little romantic. Whether you want an $8 Target find or an heirloom porcelain service, here are the scalloped dinnerware sets worth setting your table with.

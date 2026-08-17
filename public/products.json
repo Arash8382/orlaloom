@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-17T03:15:07.165Z",
-  "count": 461,
+  "generated_at": "2026-08-17T03:38:37.694Z",
+  "count": 471,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -12990,6 +12990,154 @@
       ]
     },
     {
+      "id": "ceramic-mushroom-butter-dish-with-lid-and-knife",
+      "title": "Ceramic Mushroom Butter Dish with Lid and Knife",
+      "brand": "Generic",
+      "description": "Comes with a matching ceramic spreader, which sounds like a gimmick until you realise the alternative is a metal knife rattling around a ceramic dish every morning.",
+      "category": "Butter Dishes",
+      "category_slug": "butter-dishes",
+      "price_currency": "USD",
+      "price_low": 23.99,
+      "price_display": "$23.99",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81UhEQc5sSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/810BzyHjrkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81HyJ8K9UwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81TYlLkRx3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81IkIU2zsoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UFn53C6-L._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/ceramic-mushroom-butter-dish-with-lid-and-knife",
+      "buy_url": "https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0F5BJYCXH",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0F5BJYCXH",
+      "affiliate_url": "https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Mushroom Butter Dishes That Sell Out Fast",
+          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
+        }
+      ]
+    },
+    {
+      "id": "mushroom-butter-dish-vintage-french-cover",
+      "title": "Mushroom Butter Dish, Vintage French Cover",
+      "brand": "Generic",
+      "description": "The muted, almost antique glaze on this one is what separates it from the bright toadstool versions — it reads as a found object rather than a novelty, which is why it survives on a counter long-term.",
+      "category": "Butter Dishes",
+      "category_slug": "butter-dishes",
+      "price_currency": "USD",
+      "price_low": 21.99,
+      "price_display": "$21.99",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71jyTNfkJYL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71jyTNfkJYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wcrbc3ANL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91cZsmy02KL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/817b3A+1ToL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81-91r-QQML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8169zaW7YsL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/mushroom-butter-dish-vintage-french-cover",
+      "buy_url": "https://www.amazon.com/dp/B0D17D85G2?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0D17D85G2",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0D17D85G2",
+      "affiliate_url": "https://www.amazon.com/dp/B0D17D85G2?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Mushroom Butter Dishes That Sell Out Fast",
+          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
+        }
+      ]
+    },
+    {
+      "id": "fanquare-porcelain-butter-keeper-with-raised-leg",
+      "title": "fanquare Porcelain Butter Keeper with Raised Leg",
+      "brand": "fanquare",
+      "description": "For when the mushroom is a step too far: a plain footed porcelain keeper with the same cottage feel, in a shape that will not date the way a character piece can.",
+      "category": "Butter Dishes",
+      "category_slug": "butter-dishes",
+      "price_currency": "USD",
+      "price_low": 28.91,
+      "price_display": "$28.91",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71nPaHJT5bL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71nPaHJT5bL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91TJUqi2WUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NNqrbN3WL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/815louz9jBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OanTBRvTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Fng6-mXJL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/fanquare-porcelain-butter-keeper-with-raised-leg",
+      "buy_url": "https://www.amazon.com/dp/B0CLNS6WNJ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0CLNS6WNJ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0CLNS6WNJ",
+      "affiliate_url": "https://www.amazon.com/dp/B0CLNS6WNJ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Mushroom Butter Dishes That Sell Out Fast",
+          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
+        }
+      ]
+    },
+    {
+      "id": "martha-stewart-broadbrook-stoneware-butter-dish",
+      "title": "Martha Stewart Broadbrook Stoneware Butter Dish",
+      "brand": "Martha Stewart",
+      "description": "Thirteen dollars for a cream-glazed stoneware keeper that fits a full stick — the sensible baseline every other dish on this page is asking you to pay a premium over.",
+      "category": "Butter Dishes",
+      "category_slug": "butter-dishes",
+      "price_currency": "USD",
+      "price_low": 12.98,
+      "price_display": "$12.98",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71is0iLyonL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51A4J7jbg1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51uCSZh2xML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61EnfUwJqJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LhSqG8NxL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/martha-stewart-broadbrook-stoneware-butter-dish",
+      "buy_url": "https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0FBCMT3NV",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0FBCMT3NV",
+      "affiliate_url": "https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Mushroom Butter Dishes That Sell Out Fast",
+          "url": "https://orlaloom.com/blog/mushroom-butter-dishes"
+        }
+      ]
+    },
+    {
       "id": "fredericks-brass-swing-arm-wall-lamp-with-ivory-pleated-shade",
       "title": "Fredericks Brass Swing-Arm Wall Lamp with Ivory Pleated Shade",
       "brand": "Barnes and Ivy",
@@ -16084,6 +16232,117 @@
       ]
     },
     {
+      "id": "elama-luna-scallop-embossed-stoneware-set-16-piece",
+      "title": "Elama Luna Scallop-Embossed Stoneware Set, 16-Piece",
+      "brand": "Elama",
+      "description": "A full service for four under sixty dollars, with the scallop pressed into the stoneware rather than painted on, so it survives the dishwasher indefinitely. The embossing is subtle enough to sit under food without fighting it.",
+      "category": "Scalloped Dinnerware",
+      "category_slug": "scalloped-dinnerware",
+      "price_currency": "USD",
+      "price_low": 60.29,
+      "price_display": "$60.29",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81Tto7HAb0L._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81Tto7HAb0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91z00YeTMPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71oa7RD7pWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81bvpGzbWVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714VztjCf3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M1TC2vZmL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/elama-luna-scallop-embossed-stoneware-set-16-piece",
+      "buy_url": "https://www.amazon.com/dp/B089LSW9KK?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B089LSW9KK",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B089LSW9KK",
+      "affiliate_url": "https://www.amazon.com/dp/B089LSW9KK?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Scalloped Dinnerware Sets for 2026",
+          "url": "https://orlaloom.com/blog/scalloped-dinnerware-sets"
+        }
+      ]
+    },
+    {
+      "id": "gibson-elite-malibu-shore-scallop-stoneware-set-16-piece",
+      "title": "Gibson Elite Malibu Shore Scallop Stoneware Set, 16-Piece",
+      "brand": "Gibson Elite",
+      "description": "Reactive glaze means no two pieces come out identical — the colour pools differently in every scallop, which is the closest a mass-produced set gets to looking like it came from a pottery. Service for four.",
+      "category": "Scalloped Dinnerware",
+      "category_slug": "scalloped-dinnerware",
+      "price_currency": "USD",
+      "price_low": 89.99,
+      "price_display": "$89.99",
+      "price_checked_at": "2026-08-17T03:37:47.694+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71Uwo1HmYsL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Uwo1HmYsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81upx9GGiuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61oWbKhinfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714paZZAOKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61t-mUW-xGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Qbma5Q3tL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/gibson-elite-malibu-shore-scallop-stoneware-set-16-piece",
+      "buy_url": "https://www.amazon.com/dp/B0G3S9GM31?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0G3S9GM31",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0G3S9GM31",
+      "affiliate_url": "https://www.amazon.com/dp/B0G3S9GM31?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Scalloped Dinnerware Sets for 2026",
+          "url": "https://orlaloom.com/blog/scalloped-dinnerware-sets"
+        }
+      ]
+    },
+    {
+      "id": "sango-bethany-scalloped-white-plates-and-bowls-12-piece",
+      "title": "Sango Bethany Scalloped White Plates & Bowls, 12-Piece",
+      "brand": "Sango",
+      "description": "Undecorated white with a deep, generous scallop — the version to buy if you want the shape to do all the work and intend to layer patterned salad plates on top.",
+      "category": "Scalloped Dinnerware",
+      "category_slug": "scalloped-dinnerware",
+      "price_currency": "USD",
+      "price_low": 78.99,
+      "price_display": "$78.99",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61P2JWTMWzL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61P2JWTMWzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818wtX37HLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71805fVl2-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PRsQq-cWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81-Ne2UpiBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81pB5TpVF-L._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/sango-bethany-scalloped-white-plates-and-bowls-12-piece",
+      "buy_url": "https://www.amazon.com/dp/B0F458DJDJ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0F458DJDJ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0F458DJDJ",
+      "affiliate_url": "https://www.amazon.com/dp/B0F458DJDJ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Scalloped Dinnerware Sets for 2026",
+          "url": "https://orlaloom.com/blog/scalloped-dinnerware-sets"
+        }
+      ]
+    },
+    {
       "id": "ariele-washable-vintage-floral-scalloped-sage-green-rug-lahome",
       "title": "Ariele Washable Vintage Floral Scalloped Sage Green Rug",
       "brand": "Lahome",
@@ -16476,6 +16735,117 @@
       "gtin": null,
       "canonical_url": "https://www.amazon.com/dp/B0GLDZV6V3",
       "affiliate_url": "https://www.amazon.com/dp/B0GLDZV6V3?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Scalloped Salad & Side Plates for 2026",
+          "url": "https://orlaloom.com/blog/scalloped-salad-plates"
+        }
+      ]
+    },
+    {
+      "id": "unicasa-scalloped-dessert-plates-9-in-set-of-4",
+      "title": "UNICASA Scalloped Dessert Plates, 9 in (Set of 4)",
+      "brand": "UNICASA",
+      "description": "Nine inches is the useful size — big enough for an actual salad rather than just dessert — and the undecorated finish means these layer under patterned dinner plates without clashing.",
+      "category": "Scalloped Dinnerware",
+      "category_slug": "scalloped-dinnerware",
+      "price_currency": "USD",
+      "price_low": 29.99,
+      "price_display": "$29.99",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81KziAppQYL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81KziAppQYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81RYHvZZONL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MKvPWT8iL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91moYwKobaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91WrgaUKHUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816f6hc3XWL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/unicasa-scalloped-dessert-plates-9-in-set-of-4",
+      "buy_url": "https://www.amazon.com/dp/B0FRG3RSK4?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0FRG3RSK4",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0FRG3RSK4",
+      "affiliate_url": "https://www.amazon.com/dp/B0FRG3RSK4?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Scalloped Salad & Side Plates for 2026",
+          "url": "https://orlaloom.com/blog/scalloped-salad-plates"
+        }
+      ]
+    },
+    {
+      "id": "bico-ocean-wonders-scalloped-salad-plates-875-in-set-of-4",
+      "title": "Bico Ocean Wonders Scalloped Salad Plates, 8.75 in (Set of 4)",
+      "brand": "Bico",
+      "description": "A shell-and-wave motif that reads coastal-cottage rather than nautical novelty, and the pattern sits under the glaze so it will not wear off in the dishwasher.",
+      "category": "Scalloped Dinnerware",
+      "category_slug": "scalloped-dinnerware",
+      "price_currency": "USD",
+      "price_low": 35.99,
+      "price_display": "$35.99",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71ir7cSM8zL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71ir7cSM8zL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1cOqPDKADL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ev34kwslL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61xyrb4+hJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91vQwIlpUQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1qjn8I1OEL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/bico-ocean-wonders-scalloped-salad-plates-875-in-set-of-4",
+      "buy_url": "https://www.amazon.com/dp/B0FSCZMYR1?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0FSCZMYR1",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0FSCZMYR1",
+      "affiliate_url": "https://www.amazon.com/dp/B0FSCZMYR1?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Scalloped Salad & Side Plates for 2026",
+          "url": "https://orlaloom.com/blog/scalloped-salad-plates"
+        }
+      ]
+    },
+    {
+      "id": "fanquare-vintage-blue-floral-porcelain-dessert-plates-8-in-set-o",
+      "title": "fanquare Vintage Blue Floral Porcelain Dessert Plates, 8 in (Set of 4)",
+      "brand": "fanquare",
+      "description": "Proper porcelain rather than stoneware, so it is lighter and brighter in the hand, with a blue floral that leans toward inherited china instead of farmhouse print.",
+      "category": "Scalloped Dinnerware",
+      "category_slug": "scalloped-dinnerware",
+      "price_currency": "USD",
+      "price_low": 36.91,
+      "price_display": "$36.91",
+      "price_checked_at": "2026-08-17T03:37:47.7+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71xJkoC0iiL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71xJkoC0iiL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91uLa1QTpTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7110+PvJ-IL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/916lOhlYizL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91a9Yq6HtQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Gwg4HNqiL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/fanquare-vintage-blue-floral-porcelain-dessert-plates-8-in-set-o",
+      "buy_url": "https://www.amazon.com/dp/B0BY7SZZC8?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0BY7SZZC8",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0BY7SZZC8",
+      "affiliate_url": "https://www.amazon.com/dp/B0BY7SZZC8?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
         {
