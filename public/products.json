@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-17T05:22:44.391Z",
-  "count": 469,
+  "generated_at": "2026-08-17T14:33:19.448Z",
+  "count": 474,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -2180,6 +2180,39 @@
       ]
     },
     {
+      "id": "museds-vintage-milk-glass-mushroom-table-lamp",
+      "title": "MUSEDS Vintage Milk Glass Mushroom Table Lamp",
+      "brand": "MUSEDS",
+      "description": "Opaque milk glass instead of the usual coloured art glass, so it glows a warm cream rather than throwing tinted light — the closest thing here to a real mid-century original.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 36,
+      "price_high": 45,
+      "price_display": "~$36-45",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/museds-vintage-milk-glass-mushroom-table-lamp",
+      "buy_url": "https://www.amazon.com/dp/B0G1MRHWK4?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0G1MRHWK4",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0G1MRHWK4",
+      "affiliate_url": "https://www.amazon.com/dp/B0G1MRHWK4?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Best Mushroom Lamps for a Cozy Cottagecore Glow",
+          "url": "https://orlaloom.com/blog/best-mushroom-lamps"
+        }
+      ]
+    },
+    {
       "id": "aspen-creative-33055-mushroom-pleated-empire-lamp-shade-white-13",
       "title": "Aspen Creative 33055 Mushroom Pleated Empire Lamp Shade, White (13 in bottom)",
       "brand": "Aspen Creative",
@@ -4321,6 +4354,39 @@
       "gtin": null,
       "canonical_url": "https://www.amazon.com/dp/B0FLX6WKSP",
       "affiliate_url": "https://www.amazon.com/dp/B0FLX6WKSP?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Cordless Kitchen Counter Lamps for a Cozy Glow (2026)",
+          "url": "https://orlaloom.com/blog/cordless-kitchen-counter-lamps"
+        }
+      ]
+    },
+    {
+      "id": "two-s-company-scalloped-edge-shade-led-cordless-table-lamp-14-in-blue",
+      "title": "Two's Company Scalloped Edge Shade LED Cordless Table Lamp, 14 in (Blue)",
+      "brand": "Two's Company",
+      "description": "A proper scalloped-edge shade on a rechargeable base, from a real home-decor house rather than a marketplace brand — the one here that looks bought rather than sourced.",
+      "category": "Cottagecore Kitchen",
+      "category_slug": "cottagecore-kitchen",
+      "price_currency": "USD",
+      "price_low": 60,
+      "price_high": 70,
+      "price_display": "~$60-70",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/two-s-company-scalloped-edge-shade-led-cordless-table-lamp-14-in-blue",
+      "buy_url": "https://www.amazon.com/dp/B0DK86RRZL?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0DK86RRZL",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0DK86RRZL",
+      "affiliate_url": "https://www.amazon.com/dp/B0DK86RRZL?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
         {
@@ -7994,6 +8060,72 @@
         {
           "title": "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs",
           "url": "https://orlaloom.com/blog/vintage-kitchen-accessories"
+        }
+      ]
+    },
+    {
+      "id": "creative-co-op-recycled-cotton-throw-blanket-with-fringe-brown-plaid",
+      "title": "Creative Co-Op Recycled Cotton Throw Blanket with Fringe, Brown Plaid",
+      "brand": "Creative Co-Op",
+      "description": "A soft brown-plaid recycled-cotton throw with a hand-knotted fringe — the one layer that turns a summer sofa into an autumn one for the price of two candles.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 20,
+      "price_high": 28,
+      "price_display": "~$20-28",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/creative-co-op-recycled-cotton-throw-blanket-with-fringe-brown-plaid",
+      "buy_url": "https://www.amazon.com/dp/B0B55VVTFX?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0B55VVTFX",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0B55VVTFX",
+      "affiliate_url": "https://www.amazon.com/dp/B0B55VVTFX?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Fall Cottagecore Decor: Warm Finds to Style for Autumn",
+          "url": "https://orlaloom.com/blog/cozy-fall-cottagecore-decor"
+        }
+      ]
+    },
+    {
+      "id": "sukh-dried-wheat-stalks-100-stems",
+      "title": "Sukh Dried Wheat Stalks, 100 Stems",
+      "brand": "Sukh",
+      "description": "A hundred natural wheat stems, enough to fill two or three pitchers — the cheapest genuinely seasonal thing you can put on a table, and it lasts years dry.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 8,
+      "price_high": 12,
+      "price_display": "~$8-12",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/sukh-dried-wheat-stalks-100-stems",
+      "buy_url": "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0D5MKV4MC",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0D5MKV4MC",
+      "affiliate_url": "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Fall Cottagecore Decor: Warm Finds to Style for Autumn",
+          "url": "https://orlaloom.com/blog/cozy-fall-cottagecore-decor"
         }
       ]
     },
@@ -18464,6 +18596,39 @@
         {
           "title": "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs",
           "url": "https://orlaloom.com/blog/vintage-kitchen-accessories"
+        }
+      ]
+    },
+    {
+      "id": "tabletops-gallery-hobnail-stoneware-nesting-mixing-bowl-set-4-piece-blue-storm",
+      "title": "Tabletops Gallery Hobnail Stoneware Nesting Mixing Bowl Set, 4-Piece (Blue Storm)",
+      "brand": "Tabletops Gallery",
+      "description": "Four nesting bowls with a raised hobnail texture and a soft storm-blue glaze — the cheapest way here to get the matched, stacked look in one box.",
+      "category": "Cottagecore Kitchen",
+      "category_slug": "cottagecore-kitchen",
+      "price_currency": "USD",
+      "price_low": 30,
+      "price_high": 40,
+      "price_display": "~$30-40 / set",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/tabletops-gallery-hobnail-stoneware-nesting-mixing-bowl-set-4-piece-blue-storm",
+      "buy_url": "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B097QL3ZQP",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B097QL3ZQP",
+      "affiliate_url": "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Vintage Farmhouse Mixing Bowl Sets: Nesting Stoneware We'd Buy",
+          "url": "https://orlaloom.com/blog/vintage-farmhouse-mixing-bowls"
         }
       ]
     },
