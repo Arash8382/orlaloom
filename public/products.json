@@ -7,7 +7,7 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-17T14:33:19.448Z",
+  "generated_at": "2026-08-17T14:44:58.858Z",
   "count": 474,
   "products": [
     {
@@ -18627,8 +18627,8 @@
       "coupon": null,
       "featured_in": [
         {
-          "title": "Vintage Farmhouse Mixing Bowl Sets: Nesting Stoneware We'd Buy",
-          "url": "https://orlaloom.com/blog/vintage-farmhouse-mixing-bowls"
+          "title": "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs",
+          "url": "https://orlaloom.com/blog/vintage-kitchen-accessories"
         }
       ]
     },
