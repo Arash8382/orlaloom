@@ -18,10 +18,11 @@ export default function ProductGallery({ images = [], name, product }) {
   const many = count > 1;
   const src = images[i] || (product && product.image) || "";
 
-  const go = useCallback(
-    (next) => {
+  // Functional update + a delta, so a fast flick can never act on a stale index.
+  const step = useCallback(
+    (delta) => {
       if (!count) return;
-      setI(((next % count) + count) % count);
+      setI((prev) => (((prev + delta) % count) + count) % count);
     },
     [count]
   );
@@ -31,7 +32,7 @@ export default function ProductGallery({ images = [], name, product }) {
     if (e.pointerType === "mouse" && e.button !== 0) return;
     // Never hijack a tap that starts on the save heart.
     if (e.target && e.target.closest && e.target.closest(".save-btn")) return;
-    start.current = { x: e.clientX, y: e.clientY, axis: null, id: e.pointerId };
+    start.current = { x: e.clientX, y: e.clientY, axis: null, id: e.pointerId, dx: 0 };
   };
 
   const onPointerMove = (e) => {
@@ -52,29 +53,34 @@ export default function ProductGallery({ images = [], name, product }) {
         }
       }
     }
-    if (s.axis === "x") setDx(mx);
+    if (s.axis === "x") {
+      // Keep the authoritative travel on the ref; state is only for the visual
+      // follow, and React may batch it away before pointerup runs.
+      s.dx = mx;
+      setDx(mx);
+    }
   };
 
   const finish = (e) => {
     const s = start.current;
     if (!s || (e && e.pointerId !== s.id)) return;
     start.current = null;
-    const moved = dx;
+    const moved = s.dx || 0;
     setDx(0);
     setDragging(false);
     if (s.axis !== "x") return;
-    if (moved <= -SWIPE_THRESHOLD) go(i + 1);
-    else if (moved >= SWIPE_THRESHOLD) go(i - 1);
+    if (moved <= -SWIPE_THRESHOLD) step(1);
+    else if (moved >= SWIPE_THRESHOLD) step(-1);
   };
 
   const onKeyDown = (e) => {
     if (!many) return;
     if (e.key === "ArrowRight") {
       e.preventDefault();
-      go(i + 1);
+      step(1);
     } else if (e.key === "ArrowLeft") {
       e.preventDefault();
-      go(i - 1);
+      step(-1);
     }
   };
 
@@ -150,7 +156,7 @@ export default function ProductGallery({ images = [], name, product }) {
             <button
               type="button"
               aria-label="Previous image"
-              onClick={() => go(i - 1)}
+              onClick={() => step(-1)}
               style={arrowStyle("left")}
             >
               &#8249;
@@ -158,7 +164,7 @@ export default function ProductGallery({ images = [], name, product }) {
             <button
               type="button"
               aria-label="Next image"
-              onClick={() => go(i + 1)}
+              onClick={() => step(1)}
               style={arrowStyle("right")}
             >
               &#8250;
