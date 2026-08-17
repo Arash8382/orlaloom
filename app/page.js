@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { site, categories, categoryImage } from "../lib/site";
-import { getAllPosts, getPostsByCategory, getCategoryThumbPool, getProductMap } from "../lib/posts";
+import { getAllPosts, getPostsByFreshness, getPostsByCategory, getCategoryThumbPool, getProductMap } from "../lib/posts";
 import RotatingCategories from "./components/RotatingCategories";
 import RotatingGuides from "./components/RotatingGuides";
 import MobileGuidedPicker from "./components/MobileGuidedPicker";
@@ -31,9 +31,11 @@ export default function Home() {
     catName: (categories.find((c) => c.slug === p.category) || {}).name || "Guide",
   }));
 
-  // Newest guides, so the homepage always surfaces fresh content (the daily
-  // generator adds ~1/day). getAllPosts() is already sorted newest-first.
-  const latest = getAllPosts().slice(0, 4).map((p) => ({
+  // Freshest guides by `updated` (falling back to `date`), NOT purely by publish
+  // date. New products get added to existing guides daily, so a refreshed guide
+  // is genuinely new content — and during a publishing freeze it is the only
+  // new content there is. Sorting by date alone made this block go stale.
+  const latest = getPostsByFreshness().slice(0, 4).map((p) => ({
     slug: p.slug,
     title: p.title,
     cover: p.cover || categoryImage(p.category),
@@ -112,13 +114,13 @@ export default function Home() {
           <div className="guides-head">
             <div>
               <h2 style={{ display: "flex", alignItems: "center", gap: 10, flexWrap: "wrap" }}>
-                New this week
+                Fresh this week
                 <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: ".05em", textTransform: "uppercase", color: "var(--terra, #c4704f)", background: "rgba(196,112,79,.12)", padding: "4px 10px", borderRadius: 999, whiteSpace: "nowrap" }}>
                   ✦ New finds daily
                 </span>
               </h2>
               <p style={{ margin: "6px 0 0", fontSize: 13.5, color: "var(--muted-2, #8a7466)" }}>
-                We add fresh finds every day — come back tomorrow and there&apos;ll be more.
+                New finds go into these guides every day — prices, picks and photos kept current.
               </p>
             </div>
             <Link className="see-all" href="/category/rugs">See all guides →</Link>

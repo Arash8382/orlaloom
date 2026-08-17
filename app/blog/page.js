@@ -83,7 +83,7 @@ export default function BlogIndexPage() {
         </h1>
         <div style={{ marginTop: 10 }}>
           <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: ".05em", textTransform: "uppercase", color: "var(--terra, #c4704f)", background: "rgba(196,112,79,.12)", padding: "4px 10px", borderRadius: 999 }}>
-            ✦ New finds added daily
+            ✦ Updated daily
           </span>
         </div>
         <p style={{ color: "var(--muted-2)", maxWidth: "72ch", marginTop: 10, lineHeight: 1.65 }}>

@@ -45,7 +45,7 @@ export default function DealBanner() {
       href: "/blog",
       body: (
         <>
-          <strong>New finds added every day</strong>
+          <strong>Fresh finds added daily</strong>
           <span className="deal-banner-cta">— see what&apos;s new →</span>
         </>
       ),
