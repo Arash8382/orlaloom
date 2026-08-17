@@ -98,7 +98,7 @@ faqs:
     a: >-
       Forest green, aubergine, oxblood, charcoal, and warm near-black, with
       cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-08-15'
+updated: '2026-08-17'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
@@ -123,7 +123,7 @@ You don't need new cabinets. These small swaps carry the look:
 - **Scalloped dinnerware** displayed on open shelves or a plate rack.
 - **Candles and brass candlesticks** for the after-dark glow that defines "dark" cottagecore.
 - **Colored or fluted glassware** catching light on a shelf.
-- **Ruffle linen napkins** and a washed-linen runner for soft texture.
+- **Ruffle linen napkins** and a washed-linen runner for soft texture — [scalloped waffle towels](/blog/scalloped-waffle-towels) in a deeper tone do the same job on the oven rail.
 - **Vintage-style small appliances** — a retro kettle or stand mixer in cream or sage.
 
 ## A simple plan to put it together

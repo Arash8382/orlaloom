@@ -145,7 +145,7 @@ faqs:
       high heat. Prices and availability shift with size and season, so tap
       through to Lahome for the current price and the sizes in stock for the
       room you're styling.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 The bedroom is the room cottagecore was made for. It's where the whole aesthetic began — white linen, pressed flowers, morning light through a window — and it's the one room that's genuinely yours to make as soft as you like. The fastest way to get there isn't new bedding or another shelf of trinkets. It's the floor. A **floral rug** beside the bed changes the first thing your feet touch in the morning and the last thing you see before the light goes off, and it pulls the whole colour scheme of the room together in one move.
@@ -154,7 +154,7 @@ Every rug in this guide is a real, in-stock washable floral from Lahome, chosen 
 
 ## How to choose a floral bedroom rug
 
-**Start with placement, because it sets the size.** There are three classic ways to rug a bedroom, and each wants a different size. A pair of small **runners** down either side of the bed is the cheapest and cosiest — your feet land on softness whichever side you get out. A single rug **across the foot of the bed**, running the width, is the designer-magazine look and needs a medium rug. Or you go big and float the bed's front two-thirds **on top of one large rug**, which makes even a small room feel finished and hotel-like. Measure your floor before you fall for a colour; the pretty ones sell out of the useful sizes first.
+**Start with placement, because it sets the size.** There are three classic ways to rug a bedroom, and each wants a different size. A pair of small **runners** down either side of the bed is the cheapest and cosiest — your feet land on softness whichever side you get out. A single rug **across the foot of the bed**, running the width, is the designer-magazine look and needs a medium rug. Or you go big and float the bed's front two-thirds **on top of one large rug**, which makes even a small room feel finished and hotel-like. Measure your floor before you fall for a colour; the pretty ones sell out of the useful sizes first. Rug down, bed next: a [ruched comforter set](/blog/ruched-comforter-sets) or soft quilt on top finishes the layered look — the full [cottagecore bedroom guide](/blog/cottagecore-bedroom) has the whole recipe.
 
 **Pick a colour that calms rather than shouts.** A bedroom is for winding down, so the faded, dusty end of the palette works better than anything vivid. Soft rose pink, sage green and dusty blue all read as restful and pair naturally with white or cream bedding. If your walls are already a colour, echo it in the rug rather than fighting it — a sage rug in a green room, a blush rug against warm white.
 
@@ -175,6 +175,10 @@ If "romantic" is the exact feeling you're after — more faded roses and candlel
 If you want one safe recommendation, the **Coralie** in rose pink is where I'd start. It's the most affordable rug here, it has the scalloped floral border that reads instantly cottagecore, and at bedside-runner size it's a genuinely low-risk way to try the look. If it turns out you love a floral floor, you can always size up to the **Nina** rose garden or the classic **Lorielle** Persian later. And if pink isn't your room, the **Ariele** dusty blue gives you the same gentle, faded charm in a cooler colour.
 
 ## FAQ
+
+**Are floral rugs in style for 2026?**
+
+Very much so — faded florals and botanical patterns are one of the defining rug looks of 2026, driven by the cottagecore and grandmillennial revivals. The trick to keeping them current is choosing dusty, tea-stained colourways over bright primary florals, and pairing them with calm, solid bedding so the rug is the room's one pattern statement.
 
 **What's the best floral rug for a bedroom?**
 For most bedrooms, a washable, low-pile floral in a faded palette: the Coralie rose-pink scalloped rug is the best overall (affordable, instantly cottagecore, easy bedside size), the Nina rose garden is the most romantic, and the Ariele dusty blue is the pick for cooler rooms. All three lie flat under bed frames and go in a home washing machine.

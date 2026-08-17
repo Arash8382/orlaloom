@@ -171,7 +171,7 @@ The **Drew DeRose floral canister set** is the showpiece here — three graduate
 
 Textiles are what keep a cottagecore kitchen from feeling like a staged showroom — they add softness, pattern, and a little imperfection. They're also the cheapest and most reversible changes you can make, which makes them perfect for renters.
 
-Swap a bare window for **jinchan floral café curtains** and the whole room warms up in ten minutes with a screwdriver-free tension rod. Then keep a stack of **rose-print flour-sack towels** by the sink — genuinely absorbent cotton that you won't mind draping over the oven handle as everyday color. If you only do one thing from this whole guide, hang the curtains; the return on a $25 spend is hard to beat.
+Swap a bare window for **jinchan floral café curtains** and the whole room warms up in ten minutes with a screwdriver-free tension rod. Then keep a stack of **rose-print flour-sack towels** by the sink — genuinely absorbent cotton that you won't mind draping over the oven handle as everyday color. If you only do one thing from this whole guide, hang the curtains; the return on a $25 spend is hard to beat. If you're leaning classic-checked rather than floral, our [gingham café curtain picks](/blog/gingham-cafe-curtains) round up the best buffalo-check tiers by colour and length — and on the towel side, the [scalloped waffle towels guide](/blog/scalloped-waffle-towels) covers the ones pretty enough to leave on the rail.
 
 ## Budget vs. splurge
 
@@ -195,7 +195,7 @@ Start with the utensil crock and the café curtains. The crock adds a floral foc
 Keep building the look with these companion guides:
 
 - [The complete dark cottagecore kitchen guide](/blog/dark-cottagecore-kitchen) — the moody, candlelit version of everything here.
-- [Vintage-style enamelware](/blog/vintage-style-enamelware) — a deeper dive on the colanders, mugs, and basins that anchor the counter.
+- [Vintage-style enamelware](/blog/vintage-kitchen-accessories) — a deeper dive on the colanders, mugs, and basins that anchor the counter.
 - [The best canning jars for jam](/blog/best-canning-jars-for-jam) — which jars to buy when the storage becomes a hobby of its own.
 - [The best retro toasters, Smeg vs. Haden](/blog/retro-toasters) — the pastel appliance that does the most work on a cottagecore counter.
 - [Retro & pastel stand mixers](/blog/retro-stand-mixers) — the baking centrepiece worth leaving out on display.

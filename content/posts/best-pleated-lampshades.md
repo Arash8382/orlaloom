@@ -165,7 +165,7 @@ Pleated shades were everywhere from the 1930s through the 1980s, then spent thre
 
 ## Three ways to wear the trend
 
-The lowest-commitment entry is a single replacement shade on a lamp you already love — the Aspen Creative mushroom pleat does exactly this for under $40. The mid-level move is the matching pair: two scalloped bells on bedside lamps make a bedroom look intentionally designed for about $34 total. And the full send is overhead: six pleated clip-ons transform a dated dining chandelier for less than a takeout dinner, no electrician involved.
+The lowest-commitment entry is a single replacement shade on a lamp you already love — the Aspen Creative mushroom pleat does exactly this for under $40. The mid-level move is the matching pair: two scalloped bells on bedside lamps make a bedroom look intentionally designed for about $34 total — they pair especially well with the gathered textures in our [ruffle duvet covers guide](/blog/ruffle-duvet-covers-lace-trim-pillowcases), and pleats-above, ruffles-below is the fastest route to a [cottagecore bedroom](/blog/cottagecore-bedroom) that looks styled rather than shopped. And the full send is overhead: six pleated clip-ons transform a dated dining chandelier for less than a takeout dinner, no electrician involved.
 
 One honest note on quality at this price point: sub-$60 shades are mostly hardback paper-and-fabric constructions, not the silk-lined couture shades that run $200+. Lit up in the evening — which is when lampshades earn their keep — the difference all but disappears.
 

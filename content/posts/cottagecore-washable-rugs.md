@@ -3,7 +3,7 @@ title: "Cottagecore Rugs: 7 Best Cottagecore Area Rugs of 2026 (All Washable)"
 description: "The best cottagecore rugs of 2026 — floral, vintage, scalloped and woodland area rugs from $40. Which cottagecore rug style suits each room, what size to buy, and why every pick here is machine-washable."
 category: "rugs"
 date: "2026-08-11"
-updated: "2026-08-11"
+updated: '2026-08-17'
 cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 faqs:
   - q: "Is it \"cottagecore rug\" or \"cottage core rug\"?"
@@ -172,7 +172,7 @@ Size is where most rug regret happens, so here's the short version. In a **livin
 
 ## Styling tips
 
-Layer a smaller patterned rug over a larger jute or neutral one for that collected, "inherited" look, and keep larger furniture calmer so the room doesn't fight itself. Don't be afraid to use a bold rug (the rust tiger, the insects) in a small entryway or reading nook — a little space can take a lot of personality.
+Layer a smaller patterned rug over a larger jute or neutral one for that collected, "inherited" look, and keep larger furniture calmer so the room doesn't fight itself. Don't be afraid to use a bold rug (the rust tiger, the insects) in a small entryway or reading nook — a little space can take a lot of personality. In the bedroom, carry the layering above the rug too — a [ruched comforter set](/blog/ruched-comforter-sets) or a [tartan throw](/blog/tartan-plaid-throw-blankets) over the foot of the bed picks up the same collected-over-time feeling.
 
 ## Related guides
 
@@ -190,6 +190,10 @@ Keep building the look with these companion guides:
 - [Washed linen tablecloths](/blog/washed-linen-tablecloths) — the same faded, lived-in softness for the table.
 
 ## FAQ
+
+**Which washable cottagecore rug is best for a bedroom?**
+
+Go for a low-pile floral in a faded colourway — low pile sits flat under bed legs and vacuum heads, and the muted palette keeps the room restful. Runners either side of the bed are the budget-friendly option; a large rug under the front two-thirds of the bed is the hotel-look upgrade. Every pick in this guide machine-washes, which matters more in a bedroom than anywhere except the entryway.
 
 **What is a cottagecore rug?**
 A cottagecore rug is an area rug in the cottage aesthetic, and it comes down to three things: a **faded, vintage-looking palette** of dusty pinks, sages, creams and washed blues; a **romantic motif** — florals above all, plus woodland scenes and botanical trails; and a slightly **imperfect, storybook quality**, like a scalloped edge or a print that looks hand-drawn rather than machine-perfect. The six main styles are faded floral, vintage Persian, scalloped-edge, woodland novelty, braided or jute, and tapestry chenille.
