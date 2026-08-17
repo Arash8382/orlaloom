@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { site, categories, categoryImage } from "../lib/site";
-import { getAllPosts, getPostsByFreshness, getPostsByCategory, getCategoryThumbPool, getProductMap } from "../lib/posts";
+import { getAllPosts, getPostsByFreshness, getPostsByCategory, getCategoryThumbPool, getProductMap, getProductsByFreshness } from "../lib/posts";
 import RotatingCategories from "./components/RotatingCategories";
 import RotatingGuides from "./components/RotatingGuides";
 import MobileGuidedPicker from "./components/MobileGuidedPicker";
@@ -60,7 +60,7 @@ export default function Home() {
     { slug: "textiles", label: "Linens" },
   ];
   const chipSlugs = new Set(chipCats.map((c) => c.slug));
-  const mobileProducts = [...getProductMap().values()]
+  const mobileProducts = getProductsByFreshness()
     .filter((p) => p.image && chipSlugs.has(p.category))
     .map((p) => ({ name: p.name, price: p.price || "", image: p.image, slug: p.slug, url: p.url || "", brand: p.brand || "", cat: p.category }));
   const mobileChips = [
