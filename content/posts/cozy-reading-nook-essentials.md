@@ -188,7 +188,7 @@ Renting? All six pieces here are freestanding and need no holes in the wall exce
 
 ## What to skip
 
-You do not need a matching ottoman — a pouf is cheaper, lighter and more useful. You do not need a dedicated book cart if you have a shelf. And you do not need a second chair. A reading nook is for one person, and the moment it becomes seating for two, it stops being a place people retreat to and becomes a spot where someone waits for you to finish your chapter.
+You do not need a matching ottoman — a pouf is cheaper, lighter and more useful. You do not need a dedicated book cart if you have a shelf. And you do not need a second chair. A reading nook is for one person, and the moment it becomes seating for two, it stops being a place people retreat to and becomes a spot where someone waits for you to finish your chapter. The chair earns its softness from what you pile on it — [floral chintz throw pillows](/blog/floral-chintz-throw-pillows) are the cheapest way to get that layered, slightly overstuffed look.
 
 ## FAQ
 

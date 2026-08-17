@@ -110,7 +110,7 @@ faqs:
       splash of peach nectar, topped with sparkling water at serving time. For
       an alcohol-free station, cucumber-mint water or hibiscus iced tea both
       look stunning in clear textured glass, which is half the point.
-updated: '2026-08-15'
+updated: '2026-08-17'
 ---
 
 There is a reason the self-serve drink station has become the signature of summer 2026 hosting: it solves the host's oldest problem. Instead of playing bartender all afternoon, you set out one beautiful pitcher or dispenser, a tray of glasses, and a bowl of sliced fruit — and your guests happily pour for themselves while you actually sit down at your own party.
@@ -139,15 +139,15 @@ Hobnail and embossed glass trap mineral spots in their crevices if you let them 
 
 ## FAQ
 
-### How many drinks does a 1.6-gallon dispenser actually serve?
+**How many drinks does a 1.6-gallon dispenser actually serve?**
 
 About 17 twelve-ounce pours before ice. In practice, plan on 12-14 real-world servings once you account for ice displacement and generous pourers — enough for a party of 10-12 without a refill.
 
-### Can I put hot drinks in a glass pitcher?
+**Can I put hot drinks in a glass pitcher?**
 
 Only if it's borosilicate glass — both the Buaic striped pitcher and the Bandesun embossed pitcher in this guide are. Standard soda-lime glass pitchers can crack from thermal shock, so check the listing before pouring anything steaming.
 
-### What drink should I batch for a garden party?
+**What drink should I batch for a garden party?**
 
 The 2026 favorite is white peach sangria — white wine, sliced peaches, a splash of peach nectar, topped with sparkling water at serving time. For an alcohol-free station, cucumber-mint water or hibiscus iced tea both look stunning in clear textured glass, which is half the point.
 

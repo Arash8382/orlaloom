@@ -146,7 +146,7 @@ faqs:
       towels and napkins are consumables in any brand and will show wear
       over a few years of washing regardless of price point, so they are a
       reasonable place to save money rather than splurge.
-updated: '2026-08-15'
+updated: '2026-08-17'
 ---
 
 Cottagecore has a reputation for being an expensive aesthetic — scalloped china, hand-thrown pottery, linen that costs more than the meal you're eating on it. But the look is really built on a handful of unglamorous fundamentals: solid-color cookware, plain textiles, and a warm neutral palette. Those fundamentals are exactly what Amazon's own house brand does well, and does cheaply. This guide rounds up five Amazon Basics pieces that do real, everyday work in a cottagecore kitchen without the boutique price tag attached to the aesthetic.
@@ -167,15 +167,15 @@ If you're building out the rest of a budget-conscious kitchen, our [best retro k
 
 ## FAQ
 
-### Is Amazon Basics actually good enough for a cottagecore kitchen, or does it look cheap?
+**Is Amazon Basics actually good enough for a cottagecore kitchen, or does it look cheap?**
 
 It depends entirely on which category you buy in. Solid-color enameled cookware and cast iron look genuinely close to premium brands once they are on your stove — the material and finish are the same idea, just without the brand markup. Where Amazon Basics can look obviously budget is anything with a printed pattern or a trend-chasing silhouette, since the prints skew generic rather than cottagecore-specific. The safest rule: buy Amazon Basics for plain cookware, textiles and storage, and spend your decorating budget on the one or two patterned showpieces (a floral teapot, a scalloped platter) that actually need personality.
 
-### How much can you furnish a full cottagecore kitchen for on an Amazon Basics budget?
+**How much can you furnish a full cottagecore kitchen for on an Amazon Basics budget?**
 
 The five pieces in this guide total under $150 combined and cover cookware, mixing and prep, and table textiles — the three categories that touch a kitchen every single day. That is a genuinely functional starter kitchen, not just accents. Layer in a handful of patterned or vintage-style pieces from a guide like our retro appliance picks for the counter and you have a kitchen that looks curated for a fraction of an all-boutique cost.
 
-### Do Amazon Basics products actually hold up, or are they disposable?
+**Do Amazon Basics products actually hold up, or are they disposable?**
 
 Cast iron and enameled cookware genuinely last for years with basic care (hand-wash the enamel, dry cast iron promptly to avoid rust) — the material is doing the work, not the brand. Textiles like the towels and napkins are consumables in any brand and will show wear over a few years of washing regardless of price point, so they are a reasonable place to save money rather than splurge.
 

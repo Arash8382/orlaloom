@@ -148,7 +148,7 @@ faqs:
       and price spikes, and consumables like candles keep perfectly well in a
       drawer. The recipe box is actually better bought early, since filling in a
       few recipe cards yourself takes time worth having.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Finding a gift that feels thoughtful without spending a fortune is a genuine skill — and the cottagecore aesthetic makes it easier than most, because the whole look is built on small, honest, useful things: candles, linens, little dishes, something handwritten. Every pick in this guide is under $30, in stock, and chosen because it feels like a gift rather than an obligation fulfilled.
@@ -173,18 +173,18 @@ This guide covers the under-$30 sweet spot, but if the occasion calls for someth
 
 ## FAQ
 
-### What is a good cottagecore gift under $30?
+**What is a good cottagecore gift under $30?**
 
 The most reliable picks are small, useful objects with a vintage feel: a scalloped ceramic trinket dish (~$14), pure beeswax taper candles (~$22), floral cotton tea towels (~$22), or a gift-boxed botanical mug (~$20). All of them work without knowing the recipient's exact decor, which is what makes them safe to give.
 
-### Can I combine these into a gift basket?
+**Can I combine these into a gift basket?**
 
 Yes — that's honestly the best way to use this guide. A classic combination is the beeswax tapers with the brass candlestick pair (about $40 together), or a kitchen basket with the tea towels, napkins and recipe box (about $65). Line a simple basket with one of the tea towels instead of tissue paper and the wrapping becomes part of the gift.
 
-### What do you get someone who loves cottagecore?
+**What do you get someone who loves cottagecore?**
 
 Think small, useful and vintage-feeling: candles and candlesticks, pretty linens, little ceramic dishes, botanical prints, and anything for a slow ritual like tea or baking. The safest single picks are consumables (beeswax tapers) and self-contained objects (a trinket dish, a gift-boxed mug) because they don't need to match a room. Avoid large decor like rugs, curtains or bedding unless you know their exact palette — those are the cottagecore gifts that miss.
 
-### Is it too early to buy holiday gifts in the summer?
+**Is it too early to buy holiday gifts in the summer?**
 
 Not at all — none of these picks are seasonal, so nothing here will feel dated by December. Buying ahead means you skip the holiday shipping crunch and price spikes, and consumables like candles keep perfectly well in a drawer. The recipe box is actually better bought early, since filling in a few recipe cards yourself takes time worth having.

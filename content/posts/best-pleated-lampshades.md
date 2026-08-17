@@ -142,7 +142,7 @@ faqs:
       pleats never scorch. A warm-white LED (2700K) at 40-60W equivalent gives
       the cozy, amber-striped glow these shades are made for; anything colder
       than 3000K makes even a lovely pleated shade feel like office lighting.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Somewhere around the end of last year, the flat white drum shade quietly lost its job. In its place: pleats, scallops, gathered edges and mushroom silhouettes — texture you can see from across the room. Designers keep saying the same thing about 2026 lighting: texture is king, and nothing delivers it more affordably than swapping a plain lampshade for a pleated one. It's the rare trend that costs $35, takes two minutes, and changes how a whole corner of your room feels.
@@ -171,14 +171,14 @@ One honest note on quality at this price point: sub-$60 shades are mostly hardba
 
 ## FAQ
 
-### Will a pleated shade fit my existing lamp?
+**Will a pleated shade fit my existing lamp?**
 
 If your current shade lifts off a harp with a little screw-on finial, yes — that's a spider fitter, which the full-size shades here use. Measure the bottom diameter of your old shade and stay within an inch or two of it. If your lamp is a small accent style where the shade clips onto the bulb, choose one of the clip-on sets instead.
 
-### Are pleated lampshades still in style for 2026, or am I late?
+**Are pleated lampshades still in style for 2026, or am I late?**
 
 You're mid-wave, not late. Pleats and scallops moved from designer sources into mainstream retail over the past two years, and 2026 trend reports have doubled down on textured lighting. Classic shapes like the mushroom pleat were standard for fifty years before their exile — this is less a fad than a restoration.
 
-### What bulbs should I use with fabric and paper shades?
+**What bulbs should I use with fabric and paper shades?**
 
 LED, almost always. LEDs run cool, so the shade fabric stays safe and the pleats never scorch. A warm-white LED (2700K) at 40-60W equivalent gives the cozy, amber-striped glow these shades are made for; anything colder than 3000K makes even a lovely pleated shade feel like office lighting.

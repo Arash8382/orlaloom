@@ -121,6 +121,7 @@ products:
       It arrives with an intentional wrinkle texture; if you want a crisp,
       formal runner, this airy boho style isn't it.
     url: 'https://www.amazon.com/dp/B0D9BBKTPK?tag=orlaloom-20'
+updated: '2026-08-17'
 ---
 
 Something lovely is happening to the way we entertain: the "supper club" is back. Not the velvet-booth restaurant kind — the at-home kind, where six friends crowd around a candlelit table on a Friday night for soup, bread, and three hours of conversation. Search interest in supper-club table settings has climbed more than 1000% heading into fall 2026, and it makes sense. Going out is expensive, hosting is cozy, and a beautifully set table is the cheapest form of hospitality glamour there is.
@@ -151,15 +152,15 @@ The households that keep a supper club going past October all do the same thing:
 
 ## FAQ
 
-### What exactly is the "supper club" trend?
+**What exactly is the "supper club" trend?**
 
 It's the revival of regular, semi-formal dinner parties at home — a rotating group of friends, a set table, courses instead of a buffet. The appeal is equal parts economy (restaurant prices keep climbing) and atmosphere: cloth napkins, candlelight, and no one asking you to leave the table by 9. The tablescape is half the experience, which is why searches for supper-club table settings have exploded this year.
 
-### Do I need matching dishes to host one?
+**Do I need matching dishes to host one?**
 
 No — mismatched is arguably more charming, and it's very much in the spirit of the trend. The layers in this guide (consistent napkins, rings, goblets, and candlesticks at every place) are what make a mixed collection of plates look curated instead of chaotic. Uniform linens forgive almost any china.
 
-### Are real candles safe on a dinner table?
+**Are real candles safe on a dinner table?**
 
 With sensible placement, yes — that's what the weighted holders and dripless beeswax here are for. Keep tapers away from the gauze runner's scrunched peaks, light them just before seating, and never leave them burning in an empty room. If small kids, curious cats, or rental rules make open flames a bad idea, quality flameless tapers have gotten remarkably convincing and slot into the same holders.
 

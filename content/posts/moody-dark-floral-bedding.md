@@ -156,7 +156,7 @@ faqs:
       the print itself — a sage green or dusty rose flat sheet that echoes the
       leaves or blooms in the pattern. The combination to avoid is bright optic
       white, which turns the pairing stark and hotel-like instead of cozy.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Every fall forecast for 2026 is telling the same story: the pastel, blown-out-bright bedroom is giving way to something richer. Moody florals — burgundy, plum, oxblood and near-black botanicals, the kind of prints that look like Dutch still-life paintings — are the season's defining bedding look. Pinterest's trend reports have been pointing this direction all year (the same reports that called aubergine kitchens and dark academia dorms), and the search data ramps every August as people start re-feathering their nests for the cold months.
@@ -177,14 +177,14 @@ Moody florals also play beautifully with the textures the cottagecore bedroom al
 
 ## FAQ
 
-### Is dark floral bedding just a fall and winter look?
+**Is dark floral bedding just a fall and winter look?**
 
 No — but it is seasonal in *feel*. The near-black and velvet picks genuinely shine October through March, when low light and early evenings flatter them. The tea-stained percale and dark brown options, though, are year-round bedding: in summer they read as antique and faded rather than heavy. Plenty of people run moody florals all year and simply swap the throw blanket and pillow covers with the seasons, which is far cheaper than owning two full bedding wardrobes.
 
-### Does dark bedding show more dirt than light bedding?
+**Does dark bedding show more dirt than light bedding?**
 
 It hides some things and broadcasts others. Stains, spills and general grime disappear on a dark botanical print — that is half its charm. What dark fabric does show is lint, pet hair and dust, especially on microfiber and velvet. If you share the bed with a golden retriever, the percale or the busy small-flower prints will serve you better than flat black, and a lint roller in the nightstand drawer solves most of the rest.
 
-### What color sheets go with dark floral bedding?
+**What color sheets go with dark floral bedding?**
 
 Cream, ivory or oatmeal, almost every time. Warm light neutrals give the dark layers something to contrast against and keep the bed from becoming one undifferentiated dark mass. If you want a second color, pull one from the print itself — a sage green or dusty rose flat sheet that echoes the leaves or blooms in the pattern. The combination to avoid is bright optic white, which turns the pairing stark and hotel-like instead of cozy.

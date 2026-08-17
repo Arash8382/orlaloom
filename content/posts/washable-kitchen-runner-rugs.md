@@ -128,7 +128,7 @@ faqs:
       at the edges, and don't let the rug sit under the arc of the oven door or
       the fridge's feet — you want to be able to lift it out for washing without
       moving furniture.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 If there's one floor in the house that earns a washable rug, it's the kitchen. It catches splashes from the sink, drips from the stove, crumbs from everywhere — and it's also the floor you stand on the longest, usually barefoot or in socks at 7am. A **washable kitchen runner rug** solves both problems at once: it makes the hardest-working strip of floor in your home softer and warmer, and when it inevitably takes a hit from the pasta pot, you peel it up and put it in the machine.
@@ -153,14 +153,14 @@ The opposite, usually. Small kitchens are mostly hard surfaces — cabinet front
 
 ## FAQ
 
-### Can I really machine-wash these, or will they fall apart?
+**Can I really machine-wash these, or will they fall apart?**
 
 The rugs here are built for it — the washable top layer is designed to detach from (or work with) its non-slip base and go through a normal cold, gentle cycle. Air-dry them flat or hung over a rail; skip the tumble dryer, which is what actually kills washable rugs by warping the backing. Expect years of monthly washes, not a handful.
 
-### Do I need a rug pad under a kitchen runner?
+**Do I need a rug pad under a kitchen runner?**
 
 Not with these — every pick here has a built-in non-slip backing that grips tile, hardwood and laminate. A separate thin pad only earns its place if your floor is unusually slick or you want a touch more cushion; if you add one, keep it an inch smaller than the rug all round so it never peeks out.
 
-### Where exactly should a runner go in the kitchen?
+**Where exactly should a runner go in the kitchen?**
 
 Wherever you stand and walk the most: the classic spots are the lane in front of the sink-and-dishwasher run, the full length of a galley, or along the working side of an island. Leave a few inches of visible floor at the edges, and don't let the rug sit under the arc of the oven door or the fridge's feet — you want to be able to lift it out for washing without moving furniture.

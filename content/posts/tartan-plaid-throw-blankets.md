@@ -118,6 +118,7 @@ products:
       It's a thin fleece — cozy, not substantial. The drape is floppy
       rather than tailored, so it styles best folded rather than draped.
     url: 'https://www.amazon.com/dp/B0GZNMX1KV?tag=orlaloom-20'
+updated: '2026-08-17'
 ---
 
 Cottagecore is getting a tailored update this fall, and the fashion press has already named it: "vintage prep." Think heritage patterns, cranberry and ochre, brass lamps, stacked books — and above all, tartan. The tartan throw blanket is the single easiest way to bring the look home: no repainting, no new furniture, just one piece of woven pattern draped over what you already own. Here's how to choose one, and the six we'd actually buy.
@@ -146,14 +147,14 @@ And don't retire it in spring. Folded to show mostly its cream ground, a tartan 
 
 ## FAQ
 
-### Is tartan the same as plaid?
+**Is tartan the same as plaid?**
 
 In the US the words are used interchangeably, but strictly speaking every tartan is a plaid while not every plaid is a tartan. Tartan is the Scottish tradition of specific criss-cross patterns, many tied to clans or regions; "plaid" covers any checked pattern, including buffalo check and gingham. For decorating purposes the difference doesn't matter — buy the colorway that suits your room, not the clan.
 
-### Are wool throws worth the extra money?
+**Are wool throws worth the extra money?**
 
 If the blanket will actually be used for warmth — porch evenings, drafty rooms, winter reading — yes. Wool stays warm even slightly damp, resists odors so it needs washing far less often, and lasts decades instead of seasons. If the throw is mostly decorative, or it needs to survive weekly machine washing, a good acrylic or fleece tartan gives you the look for a third of the price.
 
-### How do I wash a tartan throw blanket?
+**How do I wash a tartan throw blanket?**
 
 Fleece, plush and acrylic throws are nearly all machine washable: cold water, gentle cycle, low or no heat in the dryer, and skip fabric softener (it coats the fibers and reduces softness over time). Wool throws should be spot-cleaned or hand washed cold with wool detergent and dried flat — never machine dried, which felts and shrinks the weave.

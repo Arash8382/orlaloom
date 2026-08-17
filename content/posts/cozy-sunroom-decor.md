@@ -111,6 +111,7 @@ products:
       knits do, and it is bulkier to launder than a thin throw — a mesh
       wash bag helps it keep its shape.
     url: 'https://www.amazon.com/dp/B0B38YC8CK?tag=orlaloom-20'
+updated: '2026-08-17'
 ---
 
 "Cozy sunroom" searches on Pinterest are up more than 900% this year, and it is not hard to see why — a sunroom is the one room in most houses that is already doing half the design work for you before you buy a single thing. The light is free. The problem most people run into is furnishing one on an actual budget without it turning into a patio-furniture showroom, and without every fabric surface fading out within a year of full sun exposure.
@@ -123,7 +124,7 @@ Start with the one piece you will actually use every day: the chair. A sunroom's
 
 From there, work outward in three layers. The window layer comes first, because sunrooms are usually walled in glass and unfiltered midday sun is harsh, not cozy — a semi-sheer linen-look curtain softens it without losing the light that makes the room worth having. The floor layer comes next: whatever rug you pick needs to be rated for sun exposure and easy to wipe down, since a sunroom floor sees more UV and more incidental spills (watering cans, muddy shoes from the yard) than any other room. The surface layer is last — a small side table for your coffee, a tiered plant stand if you want greenery, and a heavy throw for the hours before the sun is fully up.
 
-One more practical note: if your sunroom gets full sun for more than a few hours a day, budget for fading. Natural rattan, jute-look rugs and cotton throws all hold their color better than dyed synthetic fabrics, but nothing is fade-proof under glass in direct sun for years on end — rotating cushions and throws seasonally, or adding the sheer curtain layer, is the realistic fix rather than chasing a "UV-proof" product that does not really exist at this price point.
+One more practical note: if your sunroom gets full sun for more than a few hours a day, budget for fading. Natural rattan, jute-look rugs and cotton throws all hold their color better than dyed synthetic fabrics, but nothing is fade-proof under glass in direct sun for years on end — rotating cushions and throws seasonally, or adding the sheer curtain layer, is the realistic fix rather than chasing a "UV-proof" product that does not really exist at this price point. One thing worth adding before you buy more furniture: a mirror. [Vintage arched and scalloped mirrors](/blog/vintage-arched-scalloped-mirrors) bounce the light back into the room and make a narrow sunroom read twice as wide.
 
 ## FAQ
 

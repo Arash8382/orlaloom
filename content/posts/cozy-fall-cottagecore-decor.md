@@ -151,14 +151,14 @@ Build a full autumn corner: set the [enamelware pitcher](/blog/vintage-style-ena
 
 ## FAQ
 
-### What makes decor "cottagecore" for fall?
+**What makes decor "cottagecore" for fall?**
 Fall cottagecore leans into natural materials and a harvest palette — terracotta, aged wood, patchwork cotton, dried florals and wheat, plus warm herbal or amber scents. It's cozy and gathered rather than orange-and-black Halloween styling.
 
-### What is the best cottagecore fall candle?
+**What is the best cottagecore fall candle?**
 For an autumn cottagecore mood, an earthy herbal scent works best. The P.F. Candle Co. Amber & Moss is our top pick — its mossy sage-and-lavender, damp-forest-floor scent captures the season better than sweeter pumpkin-spice candles.
 
-### How do I make my home feel cozy for autumn on a budget?
+**How do I make my home feel cozy for autumn on a budget?**
 Start with the cheapest high-impact layers: a single herbal candle, a patchwork quilt folded over the sofa, and a set of aged terracotta pots filled with grocery-store mums. Together those three run well under $100 and shift the whole feel of a room.
 
-### When should I start decorating for fall?
+**When should I start decorating for fall?**
 Early-to-mid September is the sweet spot in most of the US — cool enough to feel right, early enough to enjoy it through Halloween and into the harvest season. Candles and quilts can come out even sooner on the first cool evening.

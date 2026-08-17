@@ -175,7 +175,7 @@ faqs:
       and out of "trending" but never actually looks dated the way novelty
       colors do. Buy the pieces you would use anyway — a good Dutch oven, good
       towels — and the color is a bonus, not a bet.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Every year one color quietly takes over Pinterest kitchens, and for 2026 it is aubergine. Searches for "aubergine kitchen" are up nearly 500% year over year — the biggest jump of any kitchen color trend — and the reason is simple: after half a decade of sage green and greige, deep plum reads both moody and warm, which is precisely the combination cottagecore has been circling all along. It is the kitchen cousin of the dark-floral bedding wave, and it flatters the things cottagecore kitchens already have: cream cabinets, warm wood, brass hardware, dried flowers.
@@ -198,14 +198,14 @@ Aubergine plays beautifully with the rest of the cozy-kitchen cluster: it is the
 
 ## FAQ
 
-### Is aubergine too dark for a small kitchen?
+**Is aubergine too dark for a small kitchen?**
 
 Not when it stays in the accents. The rule of thumb is that in a small or dim kitchen, deep colors belong on movable objects — cookware, textiles, ceramics — rather than on walls or cabinet fronts. A 7-quart plum Dutch oven takes up exactly as much visual space as the silver one it replaced. If your kitchen is genuinely dark, favor the textiles (towels, curtains) whose texture keeps the color lively, and skip adding purple to shadowed corners where it will read black.
 
-### What colors go with aubergine in a kitchen?
+**What colors go with aubergine in a kitchen?**
 
 Cream and warm white are the foundation — they give the purple something to glow against. Warm woods (oak, walnut, butcher block) are the second pillar, and brass or copper hardware is the jewelry. For a second accent color, sage green is the classic pairing (the two sit opposite enough on the wheel to flatter each other), and dusty pink works if you want the kitchen sweeter. The combination to avoid is aubergine with lots of cool gray, which drains the warmth out of both.
 
-### Will the aubergine trend last, or will I regret buying purple things?
+**Will the aubergine trend last, or will I regret buying purple things?**
 
 Every trend fades, but this one is unusually low-risk for two reasons. First, nothing here is a renovation — the entire scheme is objects you can redistribute around the house in an afternoon (the pillow covers, curtains and Dutch oven all work in living rooms and bedrooms). Second, deep plum is a classic in the same family as burgundy and forest green: it cycles in and out of "trending" but never actually looks dated the way novelty colors do. Buy the pieces you would use anyway — a good Dutch oven, good towels — and the color is a bonus, not a bet.

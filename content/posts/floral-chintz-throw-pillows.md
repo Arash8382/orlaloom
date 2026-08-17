@@ -105,7 +105,7 @@ faqs:
       zippers, so any standard 18 in or 20 in insert works. If your inserts look
       deflated, choose new ones 2 inches larger than the cover for that plump,
       overstuffed grandmillennial silhouette — feather-blend inserts drape best.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Chintz is back, and this time it is not your grandmother's guest room — it is the centerpiece of the grandmillennial look that has taken over 2026's design pages. Bold, oversized rose bouquets, glazed-cotton florals, ruffled edges, and that slightly-too-much layering of pattern on pattern: what used to read as fussy now reads as warm, personal, and collected. And the cheapest, lowest-commitment way to bring it home is a handful of floral chintz throw pillow covers.
@@ -136,14 +136,14 @@ Wash printed cotton and linen covers cold, inside out, and hang or flat-dry to p
 
 ## FAQ
 
-### What exactly is chintz, and are these real chintz?
+**What exactly is chintz, and are these real chintz?**
 
 Traditional chintz is a glazed, polished cotton printed with large florals, popularized in English country houses. Almost all modern "chintz" pillows — including everything on this list — are chintz-style prints on unglazed cotton, linen blends, or velvet. You get the look without the stiff glaze, and they are far easier to wash.
 
-### How many floral pillows can I put on one sofa before it is too much?
+**How many floral pillows can I put on one sofa before it is too much?**
 
 A comfortable formula for a standard three-seat sofa is five pillows: two hero chintz prints in the corners, two quieter florals or textures inside, and one small accent. If every pillow is a large-scale bouquet, the eye has nowhere to rest — vary the scale and let one print lead.
 
-### Do I need new inserts, or can I reuse the ones I have?
+**Do I need new inserts, or can I reuse the ones I have?**
 
 Reuse them if they still have loft. All six picks are covers with hidden zippers, so any standard 18 in or 20 in insert works. If your inserts look deflated, choose new ones 2 inches larger than the cover for that plump, overstuffed grandmillennial silhouette — feather-blend inserts drape best.

@@ -113,7 +113,7 @@ faqs:
       soy sauce with dumplings, jam at breakfast, ketchup for fries. The lidded
       dip-bowl style is the entertaining hero: anything you'd serve with chips
       or crudités, kept covered until guests arrive.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 If one trend owns the summer 2026 table, it's produce-shaped ceramics. Cabbage-leaf plates, heirloom-tomato bowls and lettuce-ware serving pieces have gone from flea-market curiosities to the centerpiece of every hosting reel — and it makes sense. Veggie ware is nostalgic (your grandmother's lettuce ware, Dodie Thayer's famous cabbage plates), it's whimsical without being childish, and it turns an ordinary lunch into something that looks gathered from the garden. This guide rounds up the sculpted cabbage plates and tomato bowls actually worth buying, plus how to mix them into the dishes you already own.
@@ -142,14 +142,14 @@ The trick to keeping veggie ware charming rather than theme-party is to anchor i
 
 ## FAQ
 
-### Is cabbage ware the same as lettuce ware?
+**Is cabbage ware the same as lettuce ware?**
 
 They're cousins. "Lettuce ware" usually refers to the famous mid-century Dodie Thayer style — pale, tightly ruffled leaves — while modern "cabbage ware" tends to be deeper green with broader sculpted veining. Stores use the terms almost interchangeably now; what matters is sculpted dimension and a hand-glazed look.
 
-### Are sculpted cabbage plates practical for everyday meals?
+**Are sculpted cabbage plates practical for everyday meals?**
 
 Yes, with one caveat: the dimensional rim means slightly less flat surface than a plain plate of the same size, and they stack taller in a cabinet. For salads, pasta, sandwiches and desserts they're completely functional — this isn't display-only china.
 
-### Do tomato bowls actually get used, or are they just cute?
+**Do tomato bowls actually get used, or are they just cute?**
 
 The pinch-bowl size earns its keep fast — salt and pepper by the stove, soy sauce with dumplings, jam at breakfast, ketchup for fries. The lidded dip-bowl style is the entertaining hero: anything you'd serve with chips or crudités, kept covered until guests arrive.

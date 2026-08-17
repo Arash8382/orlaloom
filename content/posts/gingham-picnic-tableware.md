@@ -137,7 +137,7 @@ faqs:
       heavier waterproof-coated cloth like the ones above — the coating adds
       just enough weight that light breezes leave it alone. In real wind, clip
       the corners and let the ruffle do the rest.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 There is a reason gingham is everywhere this summer: design editors have officially crowned it the successor to stripes for outdoor entertaining, and one look at a checked tablecloth fluttering under a fruit tree explains why. Gingham is nostalgic without being fussy. It says picnic the way a wicker basket says picnic — instantly, universally, and in any language. If you have been collecting cottagecore pieces for your kitchen all year, a garden party is where they finally get to perform together.
@@ -162,18 +162,18 @@ Resist the urge to over-decorate — gingham does most of the work. A single jug
 
 ## What a full setup costs
 
-The complete table above — cloth, 12-piece dinnerware, dessert plates, a dozen napkins and eight tumblers — lands around $155 to $180 depending on which tablecloth you choose. Buy it once and it serves every picnic, porch supper and garden birthday for years; most pieces here are the kind you replace because you lost them, not because they broke.
+The complete table above — cloth, 12-piece dinnerware, dessert plates, a dozen napkins and eight tumblers — lands around $155 to $180 depending on which tablecloth you choose. Buy it once and it serves every picnic, porch supper and garden birthday for years; most pieces here are the kind you replace because you lost them, not because they broke. A basket to carry it all in matters as much as the tableware — our guide to [wicker picnic baskets](/blog/best-wicker-picnic-baskets) covers the lined, strapped ones that actually survive a season.
 
 ## FAQ
 
-### Is gingham still in style for 2026?
+**Is gingham still in style for 2026?**
 
 Very much so — if anything it is peaking. Design press called gingham the pattern replacing stripes for summer 2026 outdoor decor, and it is threaded through this year's bigger grandmillennial and "grandma chic" revival. Because gingham has been a picnic staple since the 19th century, it also never truly dates: a checked tablecloth bought this year will look just as right in ten summers.
 
-### Can melamine plates go in the dishwasher or microwave?
+**Can melamine plates go in the dishwasher or microwave?**
 
 Dishwasher, yes — every melamine piece in this guide is dishwasher safe, though the top rack is gentler on the finish. Microwave, no, ever: melamine can overheat, degrade and leach at microwave temperatures. Reheat food on a ceramic plate indoors, then serve on the melamine outside.
 
-### How do I keep a tablecloth from blowing around at an outdoor party?
+**How do I keep a tablecloth from blowing around at an outdoor party?**
 
 Three easy options: tablecloth clips or weights that grip the hem (the least visible fix), heavier centerpieces like a stoneware jug of flowers and a full drink dispenser anchoring each end, or simply choosing a heavier waterproof-coated cloth like the ones above — the coating adds just enough weight that light breezes leave it alone. In real wind, clip the corners and let the ruffle do the rest.

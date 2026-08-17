@@ -59,6 +59,7 @@ products:
     blurb: "The pure-linen upgrade from the same trusted brand — pre-washed with a natural slub texture."
     caveat: "Narrower color selection than the blend line."
     url: "https://www.amazon.com/dp/B097PXSXTW?tag=orlaloom-20"
+updated: '2026-08-17'
 ---
 
 Nothing softens a table like washed linen — it drapes, it rumples, and it looks like it's been in the family for years (even if it arrived yesterday). Here's how to get the heirloom look at every budget.
@@ -71,7 +72,7 @@ Pure linen has the most beautiful drape and that signature slubby texture, but i
 
 ## Embrace the wrinkles
 
-Don't fight it: shake it out, lay it on the table slightly damp if you like, and let the creases fall. A perfectly pressed linen cloth actually looks less cottage, not more.
+Don't fight it: shake it out, lay it on the table slightly damp if you like, and let the creases fall. A perfectly pressed linen cloth actually looks less cottage, not more. For the everyday version of the same washed-textile look, [scalloped waffle towels](/blog/scalloped-waffle-towels) bring the texture into the kitchen and bath.
 
 ## FAQ
 

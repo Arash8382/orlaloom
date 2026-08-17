@@ -3,7 +3,7 @@ title: "The Best Scalloped Dinnerware Sets for 2026"
 description: "Scalloped-edge dinner plates and sets — from budget Target finds to heirloom Villeroy & Boch — for a romantic, cottage-perfect table."
 category: "scalloped-dinnerware"
 date: "2026-06-25"
-updated: '2026-08-16'
+updated: '2026-08-17'
 cover: "/thumbnails/thumb-scalloped-dinnerware-sets.webp"
 products:
   - name: "Threshold Scalloped Dinner Plate (Gold Rim)"
@@ -106,7 +106,7 @@ The scalloped plate is the silhouette of the moment — that soft, petal-edged r
 
 ## Style it
 
-Layer a scalloped dinner plate under a colored or floral salad plate, add a linen napkin and a little brass, and you have a tablescape with almost no effort.
+Layer a scalloped dinner plate under a colored or floral salad plate, add a linen napkin and a little brass, and you have a tablescape with almost no effort. Scalloped plates are too pretty to keep in a cupboard, which is the whole argument behind [decorative wall plates](/blog/decorative-wall-plates) — the same shapes, hung as a collection.
 
 ## FAQ
 

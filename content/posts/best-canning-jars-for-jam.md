@@ -146,7 +146,7 @@ faqs:
       keeps its color and set best in small jars because you finish them faster
       once opened — and small jars process a few minutes quicker in the water
       bath too.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 There is a moment in July — berries cheap and fragrant at the farmers market, the kitchen smelling of sugar and fruit — when making your own jam stops being a quaint idea and becomes an urgent little mission. Pinterest calls it "grandmacore"; anyone who grew up with a preserving grandmother just calls it summer. Either way, the gear matters more than you might think. The right jars seal reliably, look beautiful lined up on a shelf, and turn a $4 basket of strawberries into a row of gifts. The wrong ones leak, rust, or refuse to seal at all.
@@ -171,18 +171,18 @@ The **Weck 744 tulip jars** are the ones to buy when the jars themselves are par
 
 ## A note on safety (the two-minute version)
 
-Jam is one of the safest things you can can at home: fruit plus sugar plus lemon juice is high-acid, which means a simple boiling-water bath — no pressure canner — gives you a shelf-stable seal. Use tested recipes for ratios, simmer your lids, leave a quarter-inch of headspace, and process half-pints for about ten minutes. If a lid does not pop down as it cools, that jar just goes in the fridge and becomes this week's toast. The National Center for Home Food Preservation publishes free tested recipes if you are starting from scratch.
+Jam is one of the safest things you can can at home: fruit plus sugar plus lemon juice is high-acid, which means a simple boiling-water bath — no pressure canner — gives you a shelf-stable seal. Use tested recipes for ratios, simmer your lids, leave a quarter-inch of headspace, and process half-pints for about ten minutes. If a lid does not pop down as it cools, that jar just goes in the fridge and becomes this week's toast. The National Center for Home Food Preservation publishes free tested recipes if you are starting from scratch. Once the jam is eaten, the storage question stays — [glass pantry canisters](/blog/glass-pantry-canisters) are the matched, lidded version for flour, sugar and pasta.
 
 ## FAQ
 
-### Can I reuse canning jars and lids?
+**Can I reuse canning jars and lids?**
 
 Jars and screw bands: yes, indefinitely, as long as the rim is chip-free. The flat metal lids in the Ball system are single-use for canning — the sealing compound compresses once — so budget a couple of dollars for fresh lids each season. Weck's rubber gaskets are reusable until they stretch or crack; the glass lids last forever.
 
-### Do I really need a maslin pan, or will a stockpot work?
+**Do I really need a maslin pan, or will a stockpot work?**
 
 A stockpot works — millions of batches of jam have been made in one. But a maslin pan's wide top evaporates water faster, so the jam reaches its set in less time and tastes brighter because the fruit cooks less. If you make more than a couple of batches a year, it is the single upgrade that most changes the result.
 
-### What size jar is best for homemade jam?
+**What size jar is best for homemade jam?**
 
 Half-pint (8 oz) for everyday, quarter-pint (4 oz) minis for gifts. Jam keeps its color and set best in small jars because you finish them faster once opened — and small jars process a few minutes quicker in the water bath too.

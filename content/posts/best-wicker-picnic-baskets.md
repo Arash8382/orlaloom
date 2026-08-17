@@ -153,7 +153,7 @@ faqs:
       because included sets are serviceable rather than special. A popular
       middle path: buy the equipped set now, then upgrade one component each
       season as anniversaries and birthdays roll around.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Few objects carry as much instant summer shorthand as a wicker picnic basket. Before a single sandwich is unwrapped, the basket has already promised the whole afternoon: a blanket in long grass, lemonade sweating in the shade, someone reading aloud while the strawberries disappear. In a year when gingham, grandma chic and garden parties dominate every 2026 trend report, the wicker basket is not an accessory to the aesthetic — it is the anchor of it.
@@ -178,14 +178,14 @@ The secret to justifying a good basket is that it never really goes in the attic
 
 ## FAQ
 
-### What's the difference between wicker, willow and rattan?
+**What's the difference between wicker, willow and rattan?**
 
 Wicker is the weaving technique, not the material — so "wicker" baskets can be woven from willow, rattan, bamboo, seagrass or plastic. Willow is the classic European picnic-basket material: stiff, light and honey-toned. Rattan is a tropical vine, slightly more flexible and often glossier. For picnic duty they perform similarly; what you want to avoid is synthetic "resin wicker," which belongs on patio furniture, not picnic blankets.
 
-### How do I clean and care for a wicker picnic basket?
+**How do I clean and care for a wicker picnic basket?**
 
 Vacuum crumbs with a brush attachment, then wipe the weave with a barely damp cloth and mild soap — never soak willow, which can warp and loosen the weave as it dries. Machine-wash the removable liner. Store the basket indoors away from radiators (dry heat makes willow brittle) and out of direct sun, which fades it. Treated well, a willow basket outlives the blanket, the plates and quite possibly the relationship it was bought to celebrate.
 
-### Are equipped picnic basket sets worth it, or should I build my own kit?
+**Are equipped picnic basket sets worth it, or should I build my own kit?**
 
 If you are starting from zero, the sets win on math alone: basket, blanket, cooler bag and service for two bought separately would run well past the $50-60 the sets cost. Build-your-own wins when you care about the specifics — real linen napkins, vintage flatware, enamelware plates — because included sets are serviceable rather than special. A popular middle path: buy the equipped set now, then upgrade one component each season as anniversaries and birthdays roll around.

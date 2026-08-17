@@ -150,7 +150,7 @@ faqs:
       dishwasher. Our advice: buy new for the glasses you drink from daily, and
       save the vintage budget for display pieces like a Fenton vase or candy
       dish where age and provenance actually show.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 There is a reason hobnail glass keeps showing up in every cottagecore kitchen tour and vintage tablescape on your feed: those little raised bumps do something magical with light. Where smooth glass simply lets sunshine pass through, a hobnail tumbler scatters it, throwing dozens of tiny sparkles across the table like water. The pattern dates back to Victorian pressed glass and hit its stride in the 1940s and 50s, when Fenton's milk-glass hobnail pieces became the wedding gift in America. Original pieces now command serious money at estate sales — but the good news is that the look has been faithfully revived, and you can set an entire table with new, dishwasher-friendly hobnail glassware for less than the price of one collectible Fenton vase.
@@ -175,14 +175,14 @@ Hobnail rewards being displayed rather than hidden. A row of clear tumblers on a
 
 ## FAQ
 
-### Is new hobnail glassware dishwasher safe?
+**Is new hobnail glassware dishwasher safe?**
 
 The clear and colored tumbler sets in this guide are dishwasher safe on a normal cycle — modern pressed soda-lime glass handles it fine. Two sensible exceptions: stemmed coupes should be hand-washed because dishwasher racks are where stems go to die, and any glass with applied (rather than through-colored) finish should skip the machine. When in doubt, top rack, away from the heating element.
 
-### What is the difference between hobnail and bubble glass?
+**What is the difference between hobnail and bubble glass?**
 
 Hobnail has a regular grid of raised, rounded bumps on the outside surface of the glass — the name comes from the hobnail studs on Victorian boot soles. Bubble glass has irregular air bubbles trapped inside the glass wall itself. Hobnail is a molded exterior texture you can feel; bubbles are internal and smooth to the touch. Both scatter light beautifully, and both fit a vintage table, but hobnail is the more structured, collected-looking of the two.
 
-### Are vintage Fenton hobnail pieces worth buying instead?
+**Are vintage Fenton hobnail pieces worth buying instead?**
 
 If you love the hunt, absolutely — original Fenton milk-glass hobnail is beautiful, and small pieces like bud vases still turn up at fair prices. But for drinking glasses specifically, vintage pieces are often sold in odd quantities, may have invisible chips, and predate any notion of a dishwasher. Our advice: buy new for the glasses you drink from daily, and save the vintage budget for display pieces like a Fenton vase or candy dish where age and provenance actually show.

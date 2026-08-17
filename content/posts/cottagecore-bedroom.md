@@ -191,7 +191,7 @@ You don't need everything at once — and doing it slowly is more in the spirit 
 3. **Lace sheer curtains (~$30).** Transforms the light for the price of a takeaway dinner.
 4. **A throw and a flower lamp (~$50 together).** The styling layer that makes it look finished.
 
-That's a completely transformed room for around $140. The **cane headboard** is the one bigger investment; save it for last, or skip it and hang the pressed-botanical art above the bed instead — a strong piece of wall art fakes the "anchored" feeling a headboard gives for a fraction of the price and effort.
+That's a completely transformed room for around $140. The **cane headboard** is the one bigger investment; save it for last, or skip it and hang the pressed-botanical art above the bed instead — a strong piece of wall art fakes the "anchored" feeling a headboard gives for a fraction of the price and effort. If you like the softer, more romantic end of this, [coquette bow decor](/blog/coquette-bow-decor) is the same instinct turned up — ribbon, scallop and a little deliberate sweetness.
 
 ## FAQ
 

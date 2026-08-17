@@ -95,14 +95,14 @@ If you love the look, it pairs beautifully with the rest of the warm-glow toolki
 
 ## FAQ
 
-## How long do cordless lamps actually last on a charge?
+**How long do cordless lamps actually last on a charge?**
 
 At the lowest warm setting, all six picks here run multiple evenings — typically 10 to 45+ hours depending on brightness. At full brightness expect more like 5-10 hours. In practice, most people top them up once or twice a week, the same rhythm as a phone. If forgetting to charge annoys you, pick one with a timer so it only runs the hours you actually want it lit.
 
-## Are battery lamps bright enough to cook by?
+**Are battery lamps bright enough to cook by?**
 
 No — and that is by design. These put out roughly 100-200 lumens, which is ambiance lighting, not task lighting. Think of them as replacing a candle, not your overheads: they make the kitchen feel warm while the ceiling lights do the actual work when you're chopping.
 
-## Is it safe to leave a rechargeable lamp on the counter all the time?
+**Is it safe to leave a rechargeable lamp on the counter all the time?**
 
 Yes. These use low-heat LEDs and lithium batteries with standard charge protection — the same technology as a portable phone charger. The sensible precautions are the obvious ones: keep fabric shades away from open flames and the stovetop, and charge with the included cable on a hard surface.

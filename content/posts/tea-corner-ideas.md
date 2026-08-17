@@ -82,15 +82,15 @@ If you are building the cozy-kitchen cluster more broadly, a tea corner pairs na
 
 ## FAQ
 
-### How much space does a tea corner actually need?
+**How much space does a tea corner actually need?**
 
 Less than you think: about 20 to 24 inches of counter width comfortably fits a kettle beside a two-tier tray. The tray is what makes a small footprint work, since cups, honey pot and tea box stack vertically instead of spreading sideways. If counter space is truly scarce, a small rolling cart parked at the end of the cabinets does the same job and can be wheeled out of the way. One more thing worth knowing before you commit to a spot: a [cordless counter lamp](/blog/cordless-kitchen-counter-lamps) frees you from needing an outlet at all, which is usually the constraint that decides where a tea corner can go.
 
-### Is an electric kettle better than a stovetop kettle for a tea station?
+**Is an electric kettle better than a stovetop kettle for a tea station?**
 
 For a dedicated corner, yes, and it is not close. An electric kettle lives *at* the station, so the whole ritual happens in one place, while a stovetop kettle chains your tea corner to the range. Temperature presets are the bigger advantage: they get green, white and oolong teas right, which a whistling stovetop kettle simply cannot do. The stovetop kettle earns its place on looks — if you love the silhouette, style one on an open shelf and let the electric one do the daily work.
 
-### How do I keep a tea corner from looking cluttered?
+**How do I keep a tea corner from looking cluttered?**
 
 Impose two rules. First, everything must fit on or under the tray — the moment items sprawl beyond it, edit something out. Second, keep the palette to two or three tones (warm wood, white ceramic and one accent color is the classic cottagecore combination). Boxes the tea came in, torn sleeves and novelty mugs are what tip a corner from styled to messy; decant, stash and gift accordingly.
 

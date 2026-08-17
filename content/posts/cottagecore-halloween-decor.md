@@ -121,7 +121,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.
@@ -148,14 +148,14 @@ Layer the velvet pumpkins along a mantel with the glowing ghost trio between the
 
 ## FAQ
 
-### What is cottagecore Halloween decor?
+**What is cottagecore Halloween decor?**
 It is Halloween styled through a harvest, storybook lens — velvet and ceramic pumpkins, friendly ghosts, black cats, dried florals and amber glass in a warm cream-sage-toffee palette, instead of gore, neon and plastic. Think "grandmother's October sideboard," not haunted house.
 
-### How do I decorate for Halloween without it looking tacky?
+**How do I decorate for Halloween without it looking tacky?**
 Keep roughly a three-to-one ratio of harvest pieces to overtly Halloween pieces, use natural materials (ceramic, glass, velvet, dried botanicals), and cluster items in small vignettes rather than spreading singles around the room. One beautiful black cat jar does more than a dozen plastic bats.
 
-### When should I put up cottagecore Halloween decor?
+**When should I put up cottagecore Halloween decor?**
 Because most of these pieces are really harvest decor, you can start in early September without it feeling premature — US fall-decor searches start climbing in August. Add the ghosts and the black cat in early October, and after Halloween simply remove those two; everything else carries through Thanksgiving.
 
-### Is cottagecore Halloween decor kid-friendly?
+**Is cottagecore Halloween decor kid-friendly?**
 Very — that is much of its appeal. The ghosts are the friendly picture-book kind and there is nothing gory or jump-scare about the look. Just place breakable ceramic and porcelain pieces (the cookie jar, the Lenox cat) on higher shelves if small children are grabbing candy.

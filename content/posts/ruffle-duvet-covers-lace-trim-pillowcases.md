@@ -59,6 +59,7 @@ products:
     blurb: "Cascading side ruffles in smooth 550-thread-count Egyptian cotton with a zipper closure — the grown-up, hotel-weight version of the ruffle duvet for a main bedroom."
     caveat: "It is the priciest piece here by far, and the ruffles fall down the sides rather than across the face — a subtler effect than the Bedorm."
     url: "https://www.amazon.com/dp/B0F9B726RB?tag=orlaloom-20"
+updated: '2026-08-17'
 ---
 
 If 2026 has one bedding story, it is ruffles. Design editors have been calling romantic ruffles the biggest home trend of the year, and you can see why: after a decade of flat, hotel-plain white beds, a duvet edged in soft gathered cotton or a pillowcase finished with a strip of eyelet lace makes a bedroom feel dressed rather than just made. The good news for anyone chasing the look is that it is fundamentally a white-cotton trend — which means you can build it piece by piece on Amazon for far less than the boutique linen brands charge.
@@ -83,14 +84,14 @@ One honest note: ruffled bedding asks slightly more of you on laundry day. Pull 
 
 ## FAQ
 
-### Are ruffle duvet covers hard to wash?
+**Are ruffle duvet covers hard to wash?**
 
 No — every pick here is machine-washable cotton. Wash cold or warm on gentle, tumble dry low, and take ruffled pieces out of the dryer as soon as the cycle ends so the gathers fall softly instead of setting in creases. Skip fabric softener on percale; it dulls the crispness that makes lace trim look sharp.
 
-### Do ruffles work in a modern bedroom, or only in cottage-style rooms?
+**Do ruffles work in a modern bedroom, or only in cottage-style rooms?**
 
 They translate surprisingly well. In a modern room, keep everything white, choose the subtler pieces — lace-trim pillowcases and the side-ruffle waterfall duvet rather than all-over ruffles — and pair them with clean-lined furniture. The contrast between soft gathered cotton and simple modern frames is exactly what stylists mean by "romantic minimalism."
 
-### What size duvet insert should I use with a ruffle duvet cover?
+**What size duvet insert should I use with a ruffle duvet cover?**
 
 Use the size matched to the cover, and err plush: a slightly overfilled insert (or one size up if the cover runs generous) keeps the cover smooth so the ruffles stand out against a full surface rather than sagging. A limp insert makes even the prettiest ruffled cover look deflated.

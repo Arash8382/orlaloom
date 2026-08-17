@@ -113,7 +113,7 @@ faqs:
       quiet enough that it doesn't fight a roommate's setup. The wall collage
       kit helps here too — you can scale it from six prints to seventy depending
       on how much territory is yours.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 There is no room in the world less cottagecore than a college dorm: cinder-block walls, a plastic-wrapped twin XL mattress, one buzzing fluorescent tube. Which is exactly why the transformation is so satisfying. With one weekend and a modest budget, the same room can feel like a hedgerow cottage — warm light, soft florals, woven textures — and every piece here survives the two non-negotiables of dorm life: nothing that damages walls, and nothing an RA will confiscate.
@@ -144,14 +144,14 @@ Make the bed first — comforter, then the ruffle throw folded in thirds at the 
 
 ## FAQ
 
-### Is cottagecore decor allowed in dorms?
+**Is cottagecore decor allowed in dorms?**
 
 Everything in this guide is dorm-policy-friendly in the general case: battery-powered lights, putty-hung paper decor, and standard bedding. The two rules that vary most by school are string-light wattage and how much wall coverage is allowed, so skim your housing handbook before hanging the vines.
 
-### What's the difference between twin and twin XL bedding?
+**What's the difference between twin and twin XL bedding?**
 
 Twin XL mattresses are 80 inches long versus 75 for a standard twin — same width. Fitted sheets must be twin XL; comforters labeled "twin/twin XL" work because they drape. When in doubt, buy XL: it fits home twin beds later, but the reverse never works.
 
-### How do I do cottagecore in a shared room without taking over?
+**How do I do cottagecore in a shared room without taking over?**
 
 Keep it to your bed wall and desk. A floral bed, one lit vine, and a lamp create a complete vignette on your half, and the sage-cream palette is quiet enough that it doesn't fight a roommate's setup. The wall collage kit helps here too — you can scale it from six prints to seventy depending on how much territory is yours.

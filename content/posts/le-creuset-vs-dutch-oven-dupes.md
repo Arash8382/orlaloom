@@ -137,7 +137,7 @@ faqs:
       standard braise, one loaf of bread. Go 7+ quarts for big families or batch
       cooking, and expect the weight to climb accordingly. Smaller than 5 quarts
       starts limiting recipes.
-updated: '2026-08-15'
+updated: '2026-08-17'
 ---
 
 Every cottagecore kitchen eventually arrives at the same question: is the Le Creuset actually worth it, or is a $60 dupe just as good? Having put the original next to the four most-recommended budget enameled Dutch ovens, here is the honest answer: **the dupes cook 90-95% as well, and the remaining 5-10% is exactly what you're deciding whether to pay for.**
@@ -166,15 +166,15 @@ One sizing note: 5.5-6 quarts is the sweet spot for households of two to four; g
 
 ## FAQ
 
-### Are Dutch oven dupes safe to cook in?
+**Are Dutch oven dupes safe to cook in?**
 
 Yes. Reputable brands like Lodge, Cuisinart, Crock-Pot and Amazon Basics all use standard porcelain enamel that's inert and food-safe, and all are oven-safe to around 500°F. The safety concern with very cheap pots isn't the material — it's chipped enamel, which is why you should inspect on arrival and retire any pot with chips inside the cooking surface.
 
-### Will a budget Dutch oven really bake bread as well as a Le Creuset?
+**Will a budget Dutch oven really bake bread as well as a Le Creuset?**
 
 For no-knead and Dutch-oven bread, yes — steam trapping and heat retention depend on mass and a heavy lid, which every pot here has. The one practical difference: light interiors (Le Creuset, Lodge) make it easier to see how dark your crust is getting.
 
-### Which size Dutch oven should I buy?
+**Which size Dutch oven should I buy?**
 
 For two to four people, 5.5-6 quarts does everything: whole chicken, standard braise, one loaf of bread. Go 7+ quarts for big families or batch cooking, and expect the weight to climb accordingly. Smaller than 5 quarts starts limiting recipes.
 
