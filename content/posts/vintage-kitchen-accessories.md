@@ -231,7 +231,16 @@ products:
     blurb: "A sculpted stoneware mushroom mug with a matching lid and gift box — peak cottagecore whimsy that needs no extra styling."
     caveat: "A novelty shape, so it's more of a decorative statement piece than an everyday-stackable mug."
     url: "https://www.amazon.com/Dreamstall-Stoneware-Decorative-Cottagecore-Aesthetics/dp/B0B62L9Q9B?tag=orlaloom-20"
-updated: '2026-08-08'
+  - name: "Tabletops Gallery Hobnail Stoneware Nesting Mixing Bowl Set, 4-Piece (Blue Storm)"
+    image: "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg"
+    brand: "Tabletops Gallery"
+    price: "~$30-40 / set"
+    retailer: "Amazon"
+    badge: "Best budget bowls"
+    blurb: "Four nesting bowls with a raised hobnail texture and a soft storm-blue glaze — the cheapest way to get the matched, stacked look in one box."
+    caveat: "Thin stoneware chips at the rim if you stack it wet, and glaze consistency varies between sets."
+    url: "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20"
+updated: '2026-08-17'
 ---
 
 You don't need a renovation to get a cottagecore kitchen — you need a handful of the right small things on the counter. These are the vintage-style accessories that do the most work for the least money (with one splurgy centerpiece).
