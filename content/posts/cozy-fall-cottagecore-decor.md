@@ -87,6 +87,24 @@ products:
       rustic.
     image: 'https://m.media-amazon.com/images/I/61vbV+u+89L.jpg'
     url: 'https://www.amazon.com/dp/B09H9ZPGXP?tag=orlaloom-20'
+  - name: "Creative Co-Op Recycled Cotton Throw Blanket with Fringe, Brown Plaid"
+    image: "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg"
+    brand: "Creative Co-Op"
+    price: "~$20-28"
+    retailer: "Amazon"
+    badge: "Best throw"
+    blurb: "A soft brown-plaid recycled-cotton throw with a hand-knotted fringe — the one layer that turns a summer sofa into an autumn one for the price of two candles."
+    caveat: "It is a light, breathable weave rather than a heavy wool blanket, so it drapes beautifully but warms modestly."
+    url: "https://www.amazon.com/dp/B0B55VVTFX?tag=orlaloom-20"
+  - name: "Sukh Dried Wheat Stalks, 100 Stems"
+    image: "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg"
+    brand: "Sukh"
+    price: "~$8-12"
+    retailer: "Amazon"
+    badge: "Best under $10"
+    blurb: "A hundred natural wheat stems, enough to fill two or three pitchers — the cheapest genuinely seasonal thing you can put on a table, and it lasts years dry."
+    caveat: "Stems arrive compressed and need a day to relax, and they shed a little; trim to height rather than bending them."
+    url: "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20"
 faqs:
   - q: What makes decor "cottagecore" for fall?
     a: >-
@@ -112,7 +130,7 @@ faqs:
       to feel right, early enough to enjoy it through Halloween and into the
       harvest season. Candles and quilts can come out even sooner on the first
       cool evening.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 When the light goes golden and the evenings turn cool, cottagecore quietly shifts into its cosiest season. Fall is less about buying a whole new look and more about layering warmth into the one you have — a herbal candle burning by four o'clock, a patchwork quilt over the sofa, terracotta crowded with mums, and a mug that lives permanently by the kettle. These are the warm, gather-in finds worth adding first, each one a piece you'll keep long after the leaves are down.

@@ -59,6 +59,16 @@ products:
     blurb: "A 13-inch ginger-jar-adjacent silhouette with an upgraded ceramic base, plus a remote with timer and dimmer. Set it to glow from 6 to 10 every evening and your kitchen greets you lit."
     caveat: "The priciest pick here, and like the INTELIVE it has color-changing modes you'll probably never use."
     url: "https://www.amazon.com/dp/B0FLX6WKSP?tag=orlaloom-20"
+  - name: "Two's Company Scalloped Edge Shade LED Cordless Table Lamp, 14 in (Blue)"
+    image: "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg"
+    brand: "Two's Company"
+    price: "~$60-70"
+    retailer: "Amazon"
+    badge: "Prettiest shade"
+    blurb: "A proper scalloped-edge shade on a rechargeable base, from a real home-decor house rather than a marketplace brand — the one here that looks bought rather than sourced."
+    caveat: "The most expensive pick on this page and the review history is still thin, so buy it for the shade rather than for the specs."
+    url: "https://www.amazon.com/dp/B0DK86RRZL?tag=orlaloom-20"
+updated: '2026-08-17'
 ---
 
 There is a reason the "little lamp on the kitchen counter" has become *the* look of 2026 kitchens: overhead lights are for cooking, but a small warm lamp is for living. It is the glow you see in every Nancy Meyers film kitchen — a pool of amber light next to the bread bin that makes a plain Tuesday-evening cup of tea feel like a scene. The catch has always been the cord. Kitchen counters rarely have a spare outlet where you actually want the lamp, and a cable snaking behind the kettle is the opposite of cozy.

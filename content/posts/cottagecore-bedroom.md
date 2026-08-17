@@ -155,7 +155,7 @@ faqs:
       tension rod, a bedside flower lamp, and a framed botanical propped on a
       shelf will get you 90% of the way there — and it all packs into a couple
       of boxes when you move.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 A cottagecore bedroom is really just a room that looks like it grew slowly — florals that don't quite match, a lace curtain gone soft with washing, a jar of dried flowers on the sill, and lamplight the colour of butter. It shouldn't feel designed so much as *tended*. The good news is that you don't need to rip anything out or repaint to get there; the whole look is built from soft, swappable layers, most of them textiles, and most of them under fifty dollars.
@@ -168,19 +168,19 @@ Below is a shop-the-look guide to a dreamy cottagecore bedroom, layer by layer �
 
 The bed is where cottagecore lives or dies, and the trick is layering rather than matching. Start with a **floral or ditsy-print quilt** as your base — the [RiverGlow Floral Quilt Set](https://www.amazon.com/RiverGlow-Floral-Quilt-Queen-Size/dp/B0GYJ2N3HF?tag=orlaloom-20) does the whole look in one purchase, while the [Tache patchwork coverlet](https://www.amazon.com/Tache-Patchwork-Burgundy-Lightweight-Coverlet/dp/B01MSEIVCT?tag=orlaloom-20) is the moodier, antique-market version if you lean darker.
 
-Then comes the part people actually notice: the pillows. A set of **cotton lace ruffle pillowcases** on top of your sleeping pillows adds the romance that a plain duvet can't, and it's the cheapest upgrade here. If you want to go further, our guides to [floral ditsy quilts](/posts/floral-ditsy-quilts) and to [ruffle duvet covers and lace-trim pillowcases](/posts/ruffle-duvet-covers-lace-trim-pillowcases) go deeper on bedding specifically. Finish with a **quilted floral throw** folded across the foot — it's the small styling move that makes the bed look intentional instead of just made.
+Then comes the part people actually notice: the pillows. A set of **cotton lace ruffle pillowcases** on top of your sleeping pillows adds the romance that a plain duvet can't, and it's the cheapest upgrade here. If you want to go further, our guides to [floral ditsy quilts](/blog/floral-ditsy-quilts) and to [ruffle duvet covers and lace-trim pillowcases](/blog/ruffle-duvet-covers-lace-trim-pillowcases) go deeper on bedding specifically. Finish with a **quilted floral throw** folded across the foot — it's the small styling move that makes the bed look intentional instead of just made.
 
 ## Soften the windows and walls (sheers, botanical art)
 
 Nothing changes the mood of a room faster than what's on the window. Swap heavy blinds for **floral lace sheer curtains** and watch the afternoon light turn dappled and petal-soft — the [ALIGOGO panels](https://www.amazon.com/Curtains-inches-Long-Vintage-Floral-Luxury/dp/B09N41Y9XW?tag=orlaloom-20) with scalloped edges are the atmospheric heart of the whole look. Just remember sheers give little privacy after dark, so layer something behind them if you need it.
 
-For the walls, resist the urge to fill them and instead hang one gathered-looking thing well. A **framed pressed-botanical piece** — real flowers and herbs under glass — reads like something you dried yourself, and it's the detail that tips a room from "floral bedding" into proper cottagecore. If you want more wall ideas, our [vintage botanical wall art](/posts/vintage-botanical-wall-art) roundup has a full range of pressed-flower and herbarium prints.
+For the walls, resist the urge to fill them and instead hang one gathered-looking thing well. A **framed pressed-botanical piece** — real flowers and herbs under glass — reads like something you dried yourself, and it's the detail that tips a room from "floral bedding" into proper cottagecore. If you want more wall ideas, our [vintage botanical wall art](/blog/vintage-botanical-wall-art) roundup has a full range of pressed-flower and herbarium prints.
 
 ## Lighting & the floor (table lamp, floral rug)
 
-Cottagecore lighting is warm, low and a little whimsical — never a cold overhead beam. A **flower-shaped bedside lamp** like the WERFOP lily-of-the-valley does the job with charm, and at this price you can buy two for a symmetrical bed. It's a mood light rather than a reading light, so keep expectations gentle; for brighter or more sculptural options, see our [cottagecore table lamps](/posts/cottagecore-table-lamps) and [pleated lampshades](/posts/best-pleated-lampshades) guides.
+Cottagecore lighting is warm, low and a little whimsical — never a cold overhead beam. A **flower-shaped bedside lamp** like the WERFOP lily-of-the-valley does the job with charm, and at this price you can buy two for a symmetrical bed. It's a mood light rather than a reading light, so keep expectations gentle; for brighter or more sculptural options, see our [cottagecore table lamps](/blog/cottagecore-table-lamps) and [pleated lampshades](/blog/best-pleated-lampshades) guides. For the wider lighting picture, our [cottagecore table lamps](/blog/cottagecore-table-lamps) roundup covers the full-size options, [best mushroom lamps](/blog/best-mushroom-lamps) covers the sculptural glass ones, and [pleated lampshades](/blog/best-pleated-lampshades) is where to start if you would rather re-shade a lamp you already own. Renters who cannot add a bedside outlet should look at [plug-in wall sconces](/blog/plug-in-wall-sconces-for-renters) instead — they mount either side of the bed and free the nightstand completely.
 
-Underfoot, a **soft floral rug** beside the bed is the last layer — something to land on in the morning that pulls the colours of the quilt down onto the floor. We've covered these in detail in our [floral bedroom rugs](/posts/floral-bedroom-rugs) guide, so rather than repeat it here, pick a washable one in a colour drawn from your bedding: dusty pink, sage, or faded blue.
+Underfoot, a **soft floral rug** beside the bed is the last layer — something to land on in the morning that pulls the colours of the quilt down onto the floor. We've covered these in detail in our [floral bedroom rugs](/blog/floral-bedroom-rugs) guide, so rather than repeat it here, pick a washable one in a colour drawn from your bedding: dusty pink, sage, or faded blue.
 
 ## How to get the look on a budget
 

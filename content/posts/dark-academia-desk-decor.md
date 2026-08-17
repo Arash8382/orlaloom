@@ -150,7 +150,7 @@ faqs:
       burn in a dorm anyway. The look holds up because every piece on this list
       works for a living — light, storage, book support, surface protection.
       Decor that does nothing is the first thing you stop dusting.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Dark academia never really left, but this back-to-school season it is having a proper moment — the dorm-decor trend forecasts are calling it the year of the "heritage dorm," all worn leather, brass, and old-library green instead of fairy lights and plastic crates. Which makes sense. A dorm room is the least atmospheric room most people will ever live in, and dark academia is the fastest way to give a room an atmosphere.
@@ -161,7 +161,7 @@ Everything below fits a student budget and a suitcase, and every piece keeps wor
 
 ## How to build the look
 
-**Start with the light, because the light is the look.** Dark academia is really a lighting scheme wearing a wardrobe: warm, low, pooled light instead of the flat overhead fluorescents that dorms ship with. A banker's lamp does this in one move — the green glass shade throws light down onto the work surface and glows softly at eye level. Put a warm bulb in it, 2700K or lower, and stop using the ceiling light after dark. That single habit changes the room more than any purchase.
+**Start with the light, because the light is the look.** Dark academia is really a lighting scheme wearing a wardrobe: warm, low, pooled light instead of the flat overhead fluorescents that dorms ship with. A banker's lamp does this in one move — the green glass shade throws light down onto the work surface and glows softly at eye level. Put a warm bulb in it, 2700K or lower, and stop using the ceiling light after dark. That single habit changes the room more than any purchase. If the green glass reads too austere for your room, a [cottagecore table lamp](/blog/cottagecore-table-lamps) with a [pleated shade](/blog/best-pleated-lampshades) throws the same low, warm pool of light in a softer register.
 
 **Ground the desk with a dark surface.** Most dorm and rental desks are pale laminate, and pale laminate is the enemy of the aesthetic. You cannot refinish it, but you can cover it: a leather-toned desk pad in brown or oxblood lays a warm foundation over the plastic, and suddenly the brass and wood on top of it have something to belong to.
 

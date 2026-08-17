@@ -159,7 +159,7 @@ faqs:
       off, lean art against the wall on a shelf rather than hanging it, and
       choose a tall narrow bookcase whose single anti-tip anchor is the only
       thing you will need to patch on your way out.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 Pinterest searches for a comfy reading chair in a small space are up more than 450 percent this year, which tells you two things. People want a reading nook. And almost nobody has a spare room to put one in.
@@ -172,7 +172,7 @@ Everything below is chosen for tight square footage. Nothing here is more than 2
 
 **Start with the chair, and measure before you fall in love.** The number that matters is not the advertised width but the seat width and depth. A 19-inch seat with 20 inches of depth is the minimum for sitting cross-legged, which is how most people actually read. Anything under 18 inches will have you perching. Anything over 24 inches deep needs a cushion behind your back or you will slouch. Barrel and tub shapes suit nooks better than square armchairs because the curved back wraps your shoulders — that is the enclosure feeling, built into the furniture.
 
-**Light the page, not the room.** Overhead ceiling light in a reading corner is the single most common mistake: it puts your own shadow on the book. You want light coming over your shoulder from behind and slightly to the side. An arc floor lamp does this in a small space better than anything else because the heavy base sits out of the way while the head reaches over the chair, and a floor lamp needs no table to stand on. Aim for 800 to 1200 lumens and insist on a dimmer. A warm bulb between 2700K and 3000K is the difference between cosy and waiting room.
+**Light the page, not the room.** Overhead ceiling light in a reading corner is the single most common mistake: it puts your own shadow on the book. You want light coming over your shoulder from behind and slightly to the side. An arc floor lamp does this in a small space better than anything else because the heavy base sits out of the way while the head reaches over the chair, and a floor lamp needs no table to stand on. Aim for 800 to 1200 lumens and insist on a dimmer. A warm bulb between 2700K and 3000K is the difference between cosy and waiting room. If you are renting and cannot hardwire anything, a [plug-in wall sconce](/blog/plug-in-wall-sconces-for-renters) mounted just behind the chair does the over-the-shoulder job without taking up floor space, and a swapped [pleated lampshade](/blog/best-pleated-lampshades) on an existing [table lamp](/blog/cottagecore-table-lamps) softens the pool of light without dimming it. What will not work as your reading light is a [mushroom lamp](/blog/best-mushroom-lamps) — beautiful on the side table, but the glass shade diffuses too much to read under, so treat it as the second lamp rather than the first.
 
 **Go vertical for storage.** In a small nook, a wide low bookshelf eats the floor you need for your feet. A narrow tall one — under 16 inches wide — uses the wall instead, and doubles as the second wall of your enclosure. Anchor it. Every tall narrow shelf should be strapped to the wall, and the hardware almost always comes in the box.
 

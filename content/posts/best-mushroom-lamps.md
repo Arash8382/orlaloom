@@ -128,6 +128,15 @@ products:
       around, so make sure your palette wants it.
     image: 'https://m.media-amazon.com/images/I/71RkiGnZuaL._AC_SL1500_.jpg'
     url: 'https://www.amazon.com/dp/B0CPLRGDP8?tag=orlaloom-20'
+  - name: "MUSEDS Vintage Milk Glass Mushroom Table Lamp"
+    image: "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg"
+    brand: "MUSEDS"
+    price: "~$36-45"
+    retailer: "Amazon"
+    badge: "Most vintage"
+    blurb: "Opaque milk glass instead of the usual coloured art glass, so it glows a warm cream rather than throwing tinted light — the closest thing here to a real mid-century original."
+    caveat: "Milk glass hides the bulb but also dims it; this is a bedside and console lamp, not a reading light."
+    url: "https://www.amazon.com/dp/B0G1MRHWK4?tag=orlaloom-20"
 faqs:
   - q: Are mushroom lamps bright enough to read by?
     a: >-
@@ -161,7 +170,7 @@ faqs:
       originals keep appreciating at vintage markets, and new versions in wood,
       glass and ceramic now fit everything from coquette bedrooms to minimalist
       living rooms.
-updated: '2026-08-02'
+updated: '2026-08-17'
 ---
 
 The best mushroom lamp for most people is the **Moroommt Wood Mushroom Lamp** — the viral, under-$20, rechargeable little beech-wood dome that drops instant cottage warmth onto any nightstand or shelf, no wiring required. If you want something more grown-up to actually anchor a room, spend up on the **BOHON Ceramic Mushroom Lamp**, a glossy 4.8-star piece on a solid wood base. Either way, a mushroom lamp is that rare bit of decor that works as both a sculpture by day and a soft glow by night.
