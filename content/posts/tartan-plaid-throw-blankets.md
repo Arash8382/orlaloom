@@ -118,7 +118,6 @@ products:
       It's a thin fleece — cozy, not substantial. The drape is floppy
       rather than tailored, so it styles best folded rather than draped.
     url: 'https://www.amazon.com/dp/B0GZNMX1KV?tag=orlaloom-20'
-updated: '2026-08-17'
 ---
 
 Cottagecore is getting a tailored update this fall, and the fashion press has already named it: "vintage prep." Think heritage patterns, cranberry and ochre, brass lamps, stacked books — and above all, tartan. The tartan throw blanket is the single easiest way to bring the look home: no repainting, no new furniture, just one piece of woven pattern draped over what you already own. Here's how to choose one, and the six we'd actually buy.

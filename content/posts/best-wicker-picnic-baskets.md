@@ -153,7 +153,7 @@ faqs:
       because included sets are serviceable rather than special. A popular
       middle path: buy the equipped set now, then upgrade one component each
       season as anniversaries and birthdays roll around.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 Few objects carry as much instant summer shorthand as a wicker picnic basket. Before a single sandwich is unwrapped, the basket has already promised the whole afternoon: a blanket in long grass, lemonade sweating in the shade, someone reading aloud while the strawberries disappear. In a year when gingham, grandma chic and garden parties dominate every 2026 trend report, the wicker basket is not an accessory to the aesthetic — it is the anchor of it.

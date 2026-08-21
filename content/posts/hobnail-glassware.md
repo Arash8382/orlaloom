@@ -150,7 +150,7 @@ faqs:
       dishwasher. Our advice: buy new for the glasses you drink from daily, and
       save the vintage budget for display pieces like a Fenton vase or candy
       dish where age and provenance actually show.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 There is a reason hobnail glass keeps showing up in every cottagecore kitchen tour and vintage tablescape on your feed: those little raised bumps do something magical with light. Where smooth glass simply lets sunshine pass through, a hobnail tumbler scatters it, throwing dozens of tiny sparkles across the table like water. The pattern dates back to Victorian pressed glass and hit its stride in the 1940s and 50s, when Fenton's milk-glass hobnail pieces became the wedding gift in America. Original pieces now command serious money at estate sales — but the good news is that the look has been faithfully revived, and you can set an entire table with new, dishwasher-friendly hobnail glassware for less than the price of one collectible Fenton vase.

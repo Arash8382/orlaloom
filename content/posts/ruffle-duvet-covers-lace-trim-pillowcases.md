@@ -59,7 +59,6 @@ products:
     blurb: "Cascading side ruffles in smooth 550-thread-count Egyptian cotton with a zipper closure — the grown-up, hotel-weight version of the ruffle duvet for a main bedroom."
     caveat: "It is the priciest piece here by far, and the ruffles fall down the sides rather than across the face — a subtler effect than the Bedorm."
     url: "https://www.amazon.com/dp/B0F9B726RB?tag=orlaloom-20"
-updated: '2026-08-17'
 ---
 
 If 2026 has one bedding story, it is ruffles. Design editors have been calling romantic ruffles the biggest home trend of the year, and you can see why: after a decade of flat, hotel-plain white beds, a duvet edged in soft gathered cotton or a pillowcase finished with a strip of eyelet lace makes a bedroom feel dressed rather than just made. The good news for anyone chasing the look is that it is fundamentally a white-cotton trend — which means you can build it piece by piece on Amazon for far less than the boutique linen brands charge.

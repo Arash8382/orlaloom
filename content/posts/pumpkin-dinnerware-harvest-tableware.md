@@ -120,7 +120,6 @@ products:
       Intricate molds demand thorough greasing — brush melted butter or
       baking spray into every crevice, and hand-wash only.
     url: 'https://www.amazon.com/dp/B075HJGHKN?tag=orlaloom-20'
-updated: '2026-08-17'
 ---
 
 There's a reason pumpkin dinnerware sells out earlier every year. Somewhere between the first cool evening and the first pot of chili, the plain white bowls that served you all summer start to feel a little underdressed — and a lidded stoneware pumpkin, carried steaming to the table, is the exact opposite of underdressed. Sellers' data backs up what your feed is already telling you: pumpkin-shaped bakeware and tableware are among this fall's fastest-rising kitchen purchases, and the good pieces are gone by late September. Buying in August isn't eager; it's strategic.

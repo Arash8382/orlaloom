@@ -128,7 +128,7 @@ faqs:
       at the edges, and don't let the rug sit under the arc of the oven door or
       the fridge's feet — you want to be able to lift it out for washing without
       moving furniture.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 If there's one floor in the house that earns a washable rug, it's the kitchen. It catches splashes from the sink, drips from the stove, crumbs from everywhere — and it's also the floor you stand on the longest, usually barefoot or in socks at 7am. A **washable kitchen runner rug** solves both problems at once: it makes the hardest-working strip of floor in your home softer and warmer, and when it inevitably takes a hit from the pasta pot, you peel it up and put it in the machine.

@@ -150,7 +150,7 @@ faqs:
       burn in a dorm anyway. The look holds up because every piece on this list
       works for a living — light, storage, book support, surface protection.
       Decor that does nothing is the first thing you stop dusting.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 Dark academia never really left, but this back-to-school season it is having a proper moment — the dorm-decor trend forecasts are calling it the year of the "heritage dorm," all worn leather, brass, and old-library green instead of fairy lights and plastic crates. Which makes sense. A dorm room is the least atmospheric room most people will ever live in, and dark academia is the fastest way to give a room an atmosphere.

@@ -146,7 +146,7 @@ faqs:
       floral focal point to the counter for around $15, and the curtains
       transform the window — together they shift the whole room's mood for under
       $45, and both are impossible to get wrong.
-updated: '2026-08-17'
+updated: '2026-08-15'
 ---
 
 A cottagecore kitchen isn't built in a renovation — it's built in small, collected pieces that look like they've been gathered over years. The whole aesthetic lives in the details you leave out on the counter: enamelware and embossed ceramics, a crock of wooden spoons by the stove, mason jars catching the light, and a floral towel over the oven handle. You don't need to touch the cabinets or the counters underneath. You just need the right layer of stuff on top. Lighting belongs on that list too — a [cordless kitchen counter lamp](/blog/cordless-kitchen-counter-lamps) is the one addition that changes how the whole room reads after dark, with no wiring and no outlet to give up.

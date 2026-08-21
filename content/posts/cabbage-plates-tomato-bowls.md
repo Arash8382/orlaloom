@@ -113,7 +113,7 @@ faqs:
       soy sauce with dumplings, jam at breakfast, ketchup for fries. The lidded
       dip-bowl style is the entertaining hero: anything you'd serve with chips
       or crudités, kept covered until guests arrive.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 If one trend owns the summer 2026 table, it's produce-shaped ceramics. Cabbage-leaf plates, heirloom-tomato bowls and lettuce-ware serving pieces have gone from flea-market curiosities to the centerpiece of every hosting reel — and it makes sense. Veggie ware is nostalgic (your grandmother's lettuce ware, Dodie Thayer's famous cabbage plates), it's whimsical without being childish, and it turns an ordinary lunch into something that looks gathered from the garden. This guide rounds up the sculpted cabbage plates and tomato bowls actually worth buying, plus how to mix them into the dishes you already own.

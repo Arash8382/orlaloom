@@ -105,7 +105,7 @@ faqs:
       zippers, so any standard 18 in or 20 in insert works. If your inserts look
       deflated, choose new ones 2 inches larger than the cover for that plump,
       overstuffed grandmillennial silhouette — feather-blend inserts drape best.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 Chintz is back, and this time it is not your grandmother's guest room — it is the centerpiece of the grandmillennial look that has taken over 2026's design pages. Bold, oversized rose bouquets, glazed-cotton florals, ruffled edges, and that slightly-too-much layering of pattern on pattern: what used to read as fussy now reads as warm, personal, and collected. And the cheapest, lowest-commitment way to bring it home is a handful of floral chintz throw pillow covers.

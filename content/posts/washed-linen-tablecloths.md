@@ -59,7 +59,6 @@ products:
     blurb: "The pure-linen upgrade from the same trusted brand — pre-washed with a natural slub texture."
     caveat: "Narrower color selection than the blend line."
     url: "https://www.amazon.com/dp/B097PXSXTW?tag=orlaloom-20"
-updated: '2026-08-17'
 ---
 
 Nothing softens a table like washed linen — it drapes, it rumples, and it looks like it's been in the family for years (even if it arrived yesterday). Here's how to get the heirloom look at every budget.

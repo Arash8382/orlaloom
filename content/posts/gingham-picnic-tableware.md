@@ -137,7 +137,7 @@ faqs:
       heavier waterproof-coated cloth like the ones above — the coating adds
       just enough weight that light breezes leave it alone. In real wind, clip
       the corners and let the ruffle do the rest.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 There is a reason gingham is everywhere this summer: design editors have officially crowned it the successor to stripes for outdoor entertaining, and one look at a checked tablecloth fluttering under a fruit tree explains why. Gingham is nostalgic without being fussy. It says picnic the way a wicker basket says picnic — instantly, universally, and in any language. If you have been collecting cottagecore pieces for your kitchen all year, a garden party is where they finally get to perform together.

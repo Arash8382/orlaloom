@@ -113,7 +113,7 @@ faqs:
       quiet enough that it doesn't fight a roommate's setup. The wall collage
       kit helps here too — you can scale it from six prints to seventy depending
       on how much territory is yours.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 There is no room in the world less cottagecore than a college dorm: cinder-block walls, a plastic-wrapped twin XL mattress, one buzzing fluorescent tube. Which is exactly why the transformation is so satisfying. With one weekend and a modest budget, the same room can feel like a hedgerow cottage — warm light, soft florals, woven textures — and every piece here survives the two non-negotiables of dorm life: nothing that damages walls, and nothing an RA will confiscate.

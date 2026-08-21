@@ -145,7 +145,7 @@ faqs:
       high heat. Prices and availability shift with size and season, so tap
       through to Lahome for the current price and the sizes in stock for the
       room you're styling.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 The bedroom is the room cottagecore was made for. It's where the whole aesthetic began — white linen, pressed flowers, morning light through a window — and it's the one room that's genuinely yours to make as soft as you like. The fastest way to get there isn't new bedding or another shelf of trinkets. It's the floor. A **floral rug** beside the bed changes the first thing your feet touch in the morning and the last thing you see before the light goes off, and it pulls the whole colour scheme of the room together in one move.

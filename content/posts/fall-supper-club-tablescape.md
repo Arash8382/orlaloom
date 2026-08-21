@@ -121,7 +121,6 @@ products:
       It arrives with an intentional wrinkle texture; if you want a crisp,
       formal runner, this airy boho style isn't it.
     url: 'https://www.amazon.com/dp/B0D9BBKTPK?tag=orlaloom-20'
-updated: '2026-08-17'
 ---
 
 Something lovely is happening to the way we entertain: the "supper club" is back. Not the velvet-booth restaurant kind — the at-home kind, where six friends crowd around a candlelit table on a Friday night for soup, bread, and three hours of conversation. Search interest in supper-club table settings has climbed more than 1000% heading into fall 2026, and it makes sense. Going out is expensive, hosting is cozy, and a beautifully set table is the cheapest form of hospitality glamour there is.

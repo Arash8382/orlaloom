@@ -156,7 +156,7 @@ faqs:
       the print itself — a sage green or dusty rose flat sheet that echoes the
       leaves or blooms in the pattern. The combination to avoid is bright optic
       white, which turns the pairing stark and hotel-like instead of cozy.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 Every fall forecast for 2026 is telling the same story: the pastel, blown-out-bright bedroom is giving way to something richer. Moody florals — burgundy, plum, oxblood and near-black botanicals, the kind of prints that look like Dutch still-life paintings — are the season's defining bedding look. Pinterest's trend reports have been pointing this direction all year (the same reports that called aubergine kitchens and dark academia dorms), and the search data ramps every August as people start re-feathering their nests for the cold months.

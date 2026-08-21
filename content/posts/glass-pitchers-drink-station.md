@@ -110,7 +110,7 @@ faqs:
       splash of peach nectar, topped with sparkling water at serving time. For
       an alcohol-free station, cucumber-mint water or hibiscus iced tea both
       look stunning in clear textured glass, which is half the point.
-updated: '2026-08-17'
+updated: '2026-08-15'
 ---
 
 There is a reason the self-serve drink station has become the signature of summer 2026 hosting: it solves the host's oldest problem. Instead of playing bartender all afternoon, you set out one beautiful pitcher or dispenser, a tray of glasses, and a bowl of sliced fruit — and your guests happily pour for themselves while you actually sit down at your own party.

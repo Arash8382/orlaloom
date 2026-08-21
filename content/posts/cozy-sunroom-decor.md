@@ -111,7 +111,6 @@ products:
       knits do, and it is bulkier to launder than a thin throw — a mesh
       wash bag helps it keep its shape.
     url: 'https://www.amazon.com/dp/B0B38YC8CK?tag=orlaloom-20'
-updated: '2026-08-17'
 ---
 
 "Cozy sunroom" searches on Pinterest are up more than 900% this year, and it is not hard to see why — a sunroom is the one room in most houses that is already doing half the design work for you before you buy a single thing. The light is free. The problem most people run into is furnishing one on an actual budget without it turning into a patio-furniture showroom, and without every fabric surface fading out within a year of full sun exposure.

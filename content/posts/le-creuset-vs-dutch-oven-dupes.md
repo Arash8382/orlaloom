@@ -137,7 +137,7 @@ faqs:
       standard braise, one loaf of bread. Go 7+ quarts for big families or batch
       cooking, and expect the weight to climb accordingly. Smaller than 5 quarts
       starts limiting recipes.
-updated: '2026-08-17'
+updated: '2026-08-15'
 ---
 
 Every cottagecore kitchen eventually arrives at the same question: is the Le Creuset actually worth it, or is a $60 dupe just as good? Having put the original next to the four most-recommended budget enameled Dutch ovens, here is the honest answer: **the dupes cook 90-95% as well, and the remaining 5-10% is exactly what you're deciding whether to pay for.**

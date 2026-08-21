@@ -155,7 +155,7 @@ faqs:
       tension rod, a bedside flower lamp, and a framed botanical propped on a
       shelf will get you 90% of the way there — and it all packs into a couple
       of boxes when you move.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 A cottagecore bedroom is really just a room that looks like it grew slowly — florals that don't quite match, a lace curtain gone soft with washing, a jar of dried flowers on the sill, and lamplight the colour of butter. It shouldn't feel designed so much as *tended*. The good news is that you don't need to rip anything out or repaint to get there; the whole look is built from soft, swappable layers, most of them textiles, and most of them under fifty dollars.

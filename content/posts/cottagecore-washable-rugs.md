@@ -3,7 +3,7 @@ title: "Cottagecore Rugs: 7 Best Cottagecore Area Rugs of 2026 (All Washable)"
 description: "The best cottagecore rugs of 2026 — floral, vintage, scalloped and woodland area rugs from $40. Which cottagecore rug style suits each room, what size to buy, and why every pick here is machine-washable."
 category: "rugs"
 date: "2026-08-11"
-updated: '2026-08-17'
+updated: '2026-08-11'
 cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 faqs:
   - q: "Is it \"cottagecore rug\" or \"cottage core rug\"?"

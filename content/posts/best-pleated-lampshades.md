@@ -142,7 +142,7 @@ faqs:
       pleats never scorch. A warm-white LED (2700K) at 40-60W equivalent gives
       the cozy, amber-striped glow these shades are made for; anything colder
       than 3000K makes even a lovely pleated shade feel like office lighting.
-updated: '2026-08-17'
+updated: '2026-08-02'
 ---
 
 Somewhere around the end of last year, the flat white drum shade quietly lost its job. In its place: pleats, scallops, gathered edges and mushroom silhouettes — texture you can see from across the room. Designers keep saying the same thing about 2026 lighting: texture is king, and nothing delivers it more affordably than swapping a plain lampshade for a pleated one. It's the rare trend that costs $35, takes two minutes, and changes how a whole corner of your room feels.
