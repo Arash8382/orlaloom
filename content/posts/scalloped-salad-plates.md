@@ -14,6 +14,7 @@ products:
     blurb: "A sculpted petal rim with a hand-painted blue-to-white ombre glaze — the layering plate that makes everyone ask where you got them."
     caveat: "Handmade glaze means color and edge vary a little piece to piece."
     image: "https://m.media-amazon.com/images/I/51Lp-HzEJyL._AC_SL1024_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/KeyChefLAB-Scalloped-Microwave-Dishwasher-Dinnerware/dp/B0GSVTYYJZ?tag=orlaloom-20"
   - name: "HomeElves Blue Floral Scalloped Salad Plates (Set of 6)"
     brand: "HomeElves"
@@ -23,6 +24,7 @@ products:
     blurb: "White porcelain with a delicate blue floral motif — true transferware/grandmillennial charm at a budget price."
     caveat: "Lighter porcelain than premium brands, and the pattern is printed rather than embossed."
     image: "https://m.media-amazon.com/images/I/81KA4OajUYL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/HomeElves-Salad-Plates-Microwave-Porcelain/dp/B0BK84Y867?tag=orlaloom-20"
   - name: "Threshold Scalloped Salad Plate (Gold Rim)"
     brand: "Threshold (Target)"
@@ -32,6 +34,7 @@ products:
     blurb: "Coordinates with the Threshold dinner plate for a layered ivory-and-gold setting at pocket-money prices."
     caveat: "Hand-wash only; the gold rim isn't microwave-safe."
     image: "https://m.media-amazon.com/images/I/61y-XzcyXBL._AC_SX679_.jpg"
+    added: '2026-07-23'
     url: "https://www.amazon.com/dp/B0DWKYFF7J?tag=orlaloom-20"
   - name: "Y YHY Off-White Scalloped Dessert Plates"
     brand: "Y YHY"
@@ -41,6 +44,7 @@ products:
     blurb: "Petal-edge off-white porcelain in a salad/dessert size — a clean neutral that mixes with absolutely anything."
     caveat: "Off-white reads slightly cream, so it won't perfectly match bright-white dinnerware."
     image: "https://m.media-amazon.com/images/I/61+5xREuGZL._AC_SX679_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B06XSP3ZXD?tag=orlaloom-20"
   - name: "Anthropologie Scalloped Salad Plate"
     brand: "Anthropologie"
@@ -50,6 +54,7 @@ products:
     blurb: "Anthropologie's hand-glazed scalloped salad plates in seasonal colorways — the designer-cottagecore splurge."
     caveat: "Sold individually (it adds up), and colorways rotate, so matching re-orders isn't guaranteed."
     image: "https://m.media-amazon.com/images/I/71Z-juElOXL._AC_SX679_.jpg"
+    added: '2026-07-23'
     url: "https://www.amazon.com/dp/B0GLDZV6V3?tag=orlaloom-20"
   - name: 'UNICASA Scalloped Dessert Plates, 9 in (Set of 4)'
     image: 'https://m.media-amazon.com/images/I/81KziAppQYL._AC_SL1500_.jpg'
@@ -62,6 +67,7 @@ products:
       than just dessert — and the undecorated finish means these layer under
       patterned dinner plates without clashing.
     caveat: 'Set of four only, so a table of six needs two sets.'
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0FRG3RSK4?tag=orlaloom-20'
   - name: 'Bico Ocean Wonders Scalloped Salad Plates, 8.75 in (Set of 4)'
     image: 'https://m.media-amazon.com/images/I/71ir7cSM8zL._AC_SL1500_.jpg'
@@ -76,6 +82,7 @@ products:
     caveat: >-
       The seaside theme is specific — it will not blend with florals as easily
       as a plain scallop.
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0FSCZMYR1?tag=orlaloom-20'
   - name: 'fanquare Vintage Blue Floral Porcelain Dessert Plates, 8 in (Set of 4)'
     image: 'https://m.media-amazon.com/images/I/71xJkoC0iiL._AC_SL1500_.jpg'
@@ -88,6 +95,7 @@ products:
       the hand, with a blue floral that leans toward inherited china instead of
       farmhouse print.
     caveat: 'Eight inches is dessert-sized; too small to serve a main salad on.'
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0BY7SZZC8?tag=orlaloom-20'
 ---
 

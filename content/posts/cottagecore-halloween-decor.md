@@ -21,6 +21,7 @@ products:
       These are lightweight foam under the velvet, so they can tip in a drafty
       entryway — save them for indoor styling.
     image: 'https://m.media-amazon.com/images/I/81yagKylYSL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B09B1QQ9BZ?tag=orlaloom-20'
   - name: Fitz and Floyd Fall Harvest Pumpkin Cookie Jar (8 in)
     brand: Fitz and Floyd
@@ -36,6 +37,7 @@ products:
       Hand-wash only, and the lid is not airtight — it is an heirloom display
       jar first, a cookie vault second.
     image: 'https://m.media-amazon.com/images/I/619IZMH45SL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B00YEWESRQ?tag=orlaloom-20'
   - name: Lenox Haunted Halloween Black Cat Candy Jar (26 oz)
     brand: Lenox
@@ -51,6 +53,7 @@ products:
       It is porcelain and priced like Lenox — keep it out of reach of
       trick-or-treat crowds and wash it by hand.
     image: 'https://m.media-amazon.com/images/I/71smuAUiowL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0DVY5NTH9?tag=orlaloom-20'
   - name: Vintage Amber Glass Candy Dish with Lid (22 oz)
     brand: FANTESTICRYAN
@@ -65,6 +68,7 @@ products:
       It is decorative pressed glass, not crystal, and at 22 oz it suits a side
       table rather than a full trick-or-treat haul.
     image: 'https://m.media-amazon.com/images/I/81SoI1haQML._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0FGCDFMHV?tag=orlaloom-20'
   - name: BINFEN Boho Fall Wreath with Faux Dried Hydrangea & Pampas (18 in)
     brand: BINFEN
@@ -79,6 +83,7 @@ products:
       At 18 in it reads petite on a double or oversized door; keep it under a
       covered porch, as faux dried stems fade in direct sun and rain.
     image: 'https://m.media-amazon.com/images/I/8181cI-nouL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0D9RMQF3T?tag=orlaloom-20'
   - name: Light-Up Ceramic Ghost Figurines with LED Tea Lights (Set of 3)
     brand: HOOJO
@@ -94,6 +99,7 @@ products:
       The LED tea lights are basic included extras — batteries do not last the
       whole season, so keep spares on hand.
     image: 'https://m.media-amazon.com/images/I/613seHEsnZL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0DXJXCXLV?tag=orlaloom-20'
 faqs:
   - q: What is cottagecore Halloween decor?

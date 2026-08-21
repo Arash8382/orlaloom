@@ -26,6 +26,7 @@ products:
     caveat: >-
       The Weck system is not interchangeable with Ball lids, and replacement
       gaskets are a separate purchase — buy a spare set with your first order.
+    added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B00E9E45JA?tag=orlaloom-20'
   - name: 'Weck Mini Tulip Jelly Jars with Glass Lids, Rings and Clamps, 6 Count'
     image: 'https://m.media-amazon.com/images/I/71a6yL+wMwL._AC_SL1500_.jpg'
@@ -45,6 +46,7 @@ products:
     caveat: >-
       Mini means mini — check the dimensions before you order, because
       first-time Weck buyers are often surprised how small these run.
+    added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B00F739OFC?tag=orlaloom-20'
   - name: >-
       Ball Regular Mouth Glass Mason Jars with Lids and Bands, Half Pint 8 oz,
@@ -66,6 +68,7 @@ products:
     caveat: >-
       The flat lids are single-use for canning — reuse the jars and bands
       forever, but buy fresh lids each preserving season for a safe seal.
+    added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B0D42BNSCZ?tag=orlaloom-20'
   - name: McSunley 9 Qt Prep N Cook Stainless Steel Maslin Pan
     image: 'https://m.media-amazon.com/images/I/715dDlYYmoL._AC_SL1500_.jpg'
@@ -85,6 +88,7 @@ products:
     caveat: >-
       Nine quarts is genuinely big — make sure you have cupboard space, and note
       stock runs low during peak preserving season.
+    added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B0F3ZQ9F23?tag=orlaloom-20'
   - name: 'Supa Ant 24 Qt Water Bath Canning Pot with Rack, Lid and Tool Set'
     image: 'https://m.media-amazon.com/images/I/81xP+Ypf5VL._AC_SL1500_.jpg'
@@ -104,6 +108,7 @@ products:
     caveat: >-
       It is a lot of pot — 24 quarts full of water is heavy, so fill it on the
       stove rather than carrying it from the sink.
+    added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B0BC5FKBHX?tag=orlaloom-20'
   - name: >-
       Stainless Steel Canning Tools Starter Kit with Jar Lifter, Funnel, Tongs
@@ -124,6 +129,7 @@ products:
     caveat: >-
       The included rack is small — fine for a stockpot, but pair it with a
       dedicated canner like the one above if you preserve in volume.
+    added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B0B54GH26T?tag=orlaloom-20'
 faqs:
   - q: Can I reuse canning jars and lids?

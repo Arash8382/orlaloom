@@ -87,6 +87,7 @@ products:
     caveat: >-
       The warm brown ground wants creams and wood tones around it rather than
       cool greys.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0DC9Y26S4?tag=orlaloom-20'
   - name: 'BAGAIL Felt and Rubber Non-Slip Rug Pad, 5x7'
     image: 'https://m.media-amazon.com/images/I/81V8byjXj3L._AC_SL1500_.jpg'
@@ -101,6 +102,7 @@ products:
     caveat: >-
       It is trimmable but scissors-on-felt is a workout; get the closest size to
       your rug and trim only a little.
+    added: '2026-07-22'
     url: 'https://www.amazon.com/dp/B0D1V8CSPG?tag=orlaloom-20'
 faqs:
   - q: Is a 5x7 rug big enough for a living room?

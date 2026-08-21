@@ -26,6 +26,7 @@ products:
     caveat: >-
       It comes empty — plates, cutlery and blanket are up to you. If you want
       everything included, look at the equipped sets below.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B00JOL7J6Y?tag=orlaloom-20'
   - name: >-
       ZORMY Vintage-Style Wicker Picnic Basket with Removable Liner and Folding
@@ -47,6 +48,7 @@ products:
       The lighter-colored weave shows scuffs and grass stains more readily than
       natural honey willow — treat it a little more gently on rough stone or
       gravel.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0C88THMNT?tag=orlaloom-20'
   - name: GRANNY SAYS Woven Wicker Picnic Basket with Lid and Handle
     image: 'https://m.media-amazon.com/images/I/81SDJCH-YAL._AC_SL1500_.jpg'
@@ -65,6 +67,7 @@ products:
     caveat: >-
       Its cozier size suits a picnic for two with modest appetites; a full
       family spread will overflow it.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0DT47B5Y7?tag=orlaloom-20'
   - name: >-
       G GOOD GAIN Willow Picnic Basket Set for 2 with Insulated Cooler Bag and
@@ -85,6 +88,7 @@ products:
     caveat: >-
       The included service is basic (think starter set, not heirloom) — lovely
       to begin with, and easy to upgrade piece by piece later.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B07WJ13H4X?tag=orlaloom-20'
   - name: >-
       G GOOD GAIN 19-Piece Wicker Picnic Basket Set for 2 with Striped Blanket,
@@ -105,6 +109,7 @@ products:
     caveat: >-
       The priciest two-person option here; if you already own a nice blanket and
       wine tote, the standard set above saves you about ten dollars.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0CCV8Q9Z3?tag=orlaloom-20'
   - name: >-
       HYBDAMAI Large Wicker Picnic Basket for 4 with Waterproof Blanket and
@@ -125,6 +130,7 @@ products:
     caveat: >-
       Fully loaded it is heavy — a two-hands or two-people carry. Stock also
       runs thinner on this one in peak summer, so don't sleep on it.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0F4QSXQ4Y?tag=orlaloom-20'
 faqs:
   - q: 'What''s the difference between wicker, willow and rattan?'

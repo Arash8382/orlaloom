@@ -28,6 +28,7 @@ products:
     caveat: >-
       Pure cotton means they will wrinkle; embrace the lived-in look or plan
       on a quick pass with the iron before guests arrive.
+    added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B0DTHVZGZ4?tag=orlaloom-20'
   - name: 'ITOS365 Hammered Gold Napkin Rings, Set of 6'
     image: 'https://m.media-amazon.com/images/I/71qIw2ZExFL._AC_SL1500_.jpg'
@@ -47,6 +48,7 @@ products:
       The hammered finish varies slightly ring to ring because they really
       are handmade — charming to most, a flaw if you want machine-perfect
       uniformity.
+    added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B09J56WT3Y?tag=orlaloom-20'
   - name: 'Kingrol Vintage Embossed Glass Goblets, 10 oz, Set of 6'
     image: 'https://m.media-amazon.com/images/I/81kAMWYMamL._AC_SL1500_.jpg'
@@ -65,6 +67,7 @@ products:
     caveat: >-
       Hand-washing is strongly recommended to keep the pressed pattern
       sparkling — the dishwasher will cloud them over time.
+    added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B095RYQRP3?tag=orlaloom-20'
   - name: 'NUPTIO Vintage Gold Candlestick Holders, Set of 6 Solid Metal Taper Holders'
     image: 'https://m.media-amazon.com/images/I/61yjFs5uUfL._AC_SL1500_.jpg'
@@ -83,6 +86,7 @@ products:
     caveat: >-
       They hold standard 3/4 in tapers snugly, but thinner candles will need
       a wax drip or a bit of sticky tack to stand perfectly straight.
+    added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B08MLGXSPH?tag=orlaloom-20'
   - name: 'Bluecorn 100% Beeswax Taper Candles, 12 in Terracotta, 2 Count'
     image: 'https://m.media-amazon.com/images/I/41Uowx8oshL._AC_SL1500_.jpg'
@@ -102,6 +106,7 @@ products:
       Real beeswax costs real money per candle compared to a bulk paraffin
       box; treat them as part of the table decor budget, not a consumable
       afterthought.
+    added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B0FLMQ19JF?tag=orlaloom-20'
   - name: 'HOMEBROS Terracotta Cheesecloth Gauze Table Runner, 10 Ft'
     image: 'https://m.media-amazon.com/images/I/91mK5dlnupL._AC_SL1500_.jpg'
@@ -120,6 +125,7 @@ products:
     caveat: >-
       It arrives with an intentional wrinkle texture; if you want a crisp,
       formal runner, this airy boho style isn't it.
+    added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B0D9BBKTPK?tag=orlaloom-20'
 ---
 

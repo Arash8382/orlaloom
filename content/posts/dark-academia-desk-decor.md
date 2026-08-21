@@ -28,6 +28,7 @@ products:
       The shade is genuinely glass, which is the point but also the risk —
       unpack it carefully and give it a spot where it will not get elbowed off
       the edge.
+    added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B09FZ4DHMP?tag=orlaloom-20'
   - name: 'Nordik Leather Desk Mat, Whiskey Brown, 35x17 in'
     image: 'https://m.media-amazon.com/images/I/81vexwYjHZS._AC_SL1500_.jpg'
@@ -48,6 +49,7 @@ products:
     caveat: >-
       It is vegan leather, not full-grain hide — that keeps it affordable and
       stain-resistant, but it will not develop the patina real leather does.
+    added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B07N5K716Y?tag=orlaloom-20'
   - name: 'Jolitac Wooden Decorative Book Boxes, Vintage Style, 3-Pack'
     image: 'https://m.media-amazon.com/images/I/71vH3PaP8TL._AC_SL1500_.jpg'
@@ -69,6 +71,7 @@ products:
       They read as vintage from a normal viewing distance, but up close a
       sharp-eyed guest will clock them as replicas — style them in a stack
       rather than as the star of the shelf.
+    added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B0D8HSSLZH?tag=orlaloom-20'
   - name: 'CRAFTSMAN ROAD Cast Iron Brick Arch Bookends, Antique Brass, Set of 2'
     image: 'https://m.media-amazon.com/images/I/71M1qkXpC0L._AC_SL1500_.jpg'
@@ -89,6 +92,7 @@ products:
     caveat: >-
       They are heavy — wonderful for holding books, less wonderful in a moving
       box. Budget for the weight if you are shipping to campus.
+    added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B0CZNH4HQ1?tag=orlaloom-20'
   - name: 'QWORK Wooden Vintage Apothecary Cabinet Desk Organizer, 9 Drawers'
     image: 'https://m.media-amazon.com/images/I/61ftO65K-bL._AC_SL1500_.jpg'
@@ -109,6 +113,7 @@ products:
       The drawers are genuinely small — perfect for pens and paperclips, too
       small for notebooks or a stapler. It organizes the little things, not the
       big ones.
+    added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B09XXDQG2J?tag=orlaloom-20'
   - name: 'Annova Antique Globe, 5.5 in, Bronze Tone Desktop Decoration'
     image: 'https://m.media-amazon.com/images/I/91EQ5XSY0KL._AC_SL1500_.jpg'
@@ -129,6 +134,7 @@ products:
     caveat: >-
       It is a decorative globe, not a reference one — the map is stylized and
       small, so do not plan your geography homework around it.
+    added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B08W9RM9G7?tag=orlaloom-20'
 faqs:
   - q: Isn't dark academia too dark for a small dorm room?

@@ -14,6 +14,7 @@ products:
     badge: "The workhorse"
     blurb: "Every tea corner is really built around one appliance, and this is the one to get right. The Cosori gooseneck has five temperature presets — which matters more for tea than for coffee, because green and white teas turn bitter when you scald them with full-boil water — plus a 60-minute keep-warm so your second cup does not require a second trip. Nothing but stainless steel touches the water, the slim gooseneck spout pours precisely without splashing your saucers, and the matte black body looks deliberately chosen rather than merely functional, which is the whole game on an open counter."
     caveat: "The 0.8-liter capacity is perfect for one or two people but a crowd will have you refilling; if you regularly pour for four, size up."
+    added: '2026-07-29'
     url: "https://www.amazon.com/dp/B07T1CH2HH?tag=orlaloom-20"
   - name: "fanquare Vintage Porcelain Tea Set for 6, Pink Rose Floral Teapot with Cups and Saucers"
     image: "https://m.media-amazon.com/images/I/71QtVycQ6rL._AC_SL1500_.jpg"
@@ -23,6 +24,7 @@ products:
     badge: "The centerpiece"
     blurb: "This is the piece that makes a tea corner look like a tea corner. A full vintage-style service for six — teapot, cups and saucers scattered with pink roses — that reads like something inherited from a grandmother with excellent taste, at a price that decidedly does not. Displayed openly on a shelf or tray it does half the decorating for you, and unlike true vintage china from the antique mall, every piece matches and none of it arrives with mystery crazing. It is the single most photographed item in this guide for a reason."
     caveat: "The porcelain is on the delicate side and hand-washing is the safe route — this is a set for slow afternoons, not the dishwasher."
+    added: '2026-07-29'
     url: "https://www.amazon.com/dp/B08XTKMXQW?tag=orlaloom-20"
   - name: "YIMITEE Tea for One Set with Tassel, 16 oz Floral Teapot Stacked on Cup and Saucer"
     image: "https://m.media-amazon.com/images/I/616uji2vrwL._AC_SL1500_.jpg"
@@ -32,6 +34,7 @@ products:
     badge: "Best under $20"
     blurb: "If a service for six is more commitment than your counter (or budget) allows, the tea-for-one format is the clever answer: a small floral teapot that stacks on its own matching cup and saucer, taking up the footprint of a single mug. It holds sixteen ounces — genuinely two cups of tea, not the polite fiction of one — and the stacked silhouette with its little tassel is exactly the kind of detail that makes a corner feel styled rather than stocked. A lovely first piece for a dorm or apartment tea station, and an even better gift."
     caveat: "The pot pours best when filled below the strainer line; overfill it and the first pour dribbles."
+    added: '2026-07-29'
     url: "https://www.amazon.com/dp/B0DT16G1KF?tag=orlaloom-20"
   - name: "Mustry Rustic Wooden 2-Tier Tray Stand, Wood and Metal Farmhouse Serving Tray"
     image: "https://m.media-amazon.com/images/I/71jQeLWV7LL._AC_SL1500_.jpg"
@@ -41,6 +44,7 @@ products:
     badge: "The stage"
     blurb: "The difference between clutter and a station is vertical staging, and a two-tier tray solves it in one move. Cups and the honey pot go up top, the tea box and canisters below, and suddenly eight objects occupy the counter space of three. The rustic wood-and-metal build leans farmhouse in exactly the way a cottagecore kitchen wants, it assembles without tools, and the carry handle means the whole arrangement travels to the table when someone actually comes for tea — which is, after all, the point."
     caveat: "Measure your counter-to-cabinet clearance first; tiered stands need more headroom than you think under upper cabinets."
+    added: '2026-07-29'
     url: "https://www.amazon.com/dp/B09FJDJF92?tag=orlaloom-20"
   - name: "Bamboo Tea Bag Organizer Box with Acrylic Lid, 8 Compartments and Drawer"
     image: "https://m.media-amazon.com/images/I/81W7kti8gNL._AC_SL1500_.jpg"
@@ -50,6 +54,7 @@ products:
     badge: "Best tea storage"
     blurb: "The unglamorous truth of tea ownership is that it multiplies: one day you have a box of English Breakfast, the next you own eleven open sleeves of assorted everything. This bamboo chest puts eight compartments behind a clear acrylic window — so choosing tea becomes a small pleasant ritual instead of a rummage — plus a drawer underneath for spoons, sweetener packets and the strays. Warm bamboo against a clear lid is one of the few storage looks that genuinely belongs on display, and the magnetic closure keeps the lid from clattering."
     caveat: "The compartments fit standard wrapped tea bags well but tall pyramid-sachet boxes may need decanting."
+    added: '2026-07-29'
     url: "https://www.amazon.com/dp/B0784VKM9M?tag=orlaloom-20"
   - name: "Creative Co-Op Farmhouse Embossed Stoneware Honey Pot with Wood Dipper, White"
     image: "https://m.media-amazon.com/images/I/61mNgHa3yQL._AC_SL1500_.jpg"
@@ -59,6 +64,7 @@ products:
     badge: "The finishing touch"
     blurb: "Every styled corner needs one small object that exists mostly because it is charming, and the honey pot is the tea station's version. Creative Co-Op's embossed white stoneware pot with its little wooden dipper is the piece guests pick up and comment on — it keeps the honey (and the sticky jar) off your nice tray, the lid notch holds the dipper in place, and the embossed floral relief catches window light beautifully. Under twenty dollars for the thing that finishes the whole tableau is the best ratio in this guide."
     caveat: "It holds about a cup of honey, so heavy honey users will still keep the big jar in the pantry and decant."
+    added: '2026-07-29'
     url: "https://www.amazon.com/dp/B0B55VMV4S?tag=orlaloom-20"
 ---
 

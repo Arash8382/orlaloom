@@ -13,6 +13,7 @@ products:
     badge: "Best embossed"
     blurb: "A nesting 2 / 3 / 4.25-qt trio with embossed sides and a golden-honey glaze that reads instantly vintage."
     caveat: "Generic brand, so quality control can vary between sets."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Vintage-Stoneware-Embossed-Patterns-Golden-Honey/dp/B0DWNGKM38?tag=orlaloom-20"
   - name: "Mason Cash Cane 3-Piece Mixing Bowl Set"
     image: "https://images.thdstatic.com/productImages/274830253aaf43cd899e8c61647a7027/svn/cream-mason-cash-mixing-bowls-1800-155-64_1000.jpg"
@@ -31,6 +32,7 @@ products:
     badge: "Made in USA"
     blurb: "Hand-turned in Texas with the classic blue-stripe look; microwave, oven, and dishwasher safe."
     caveat: "Mostly sold as singles, so a full nested set adds up."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Heritage-Blue-Stripe-Stoneware-Mixing/dp/B00TU6EDLM?tag=orlaloom-20"
   - name: "Heritage Blue Stripe Mixing Bowls (Set of 4)"
     image: "https://www.lehmans.com/cdn/shop/files/c053323ad6a3b37cb70e0244f21f549055f18a1d_1101255_1_L.jpg?v=1777014404"
@@ -49,6 +51,7 @@ products:
     badge: "Best everyday"
     blurb: "Durable speckled, matte ceramic bowls that work just as well for prep as for display."
     caveat: "Modern-minimal styling is a softer fit for the vintage theme."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B09S7L95XR?tag=orlaloom-20"
   - name: "Cavendish Handcrafted Stoneware Mixing Bowls (Set of 3)"
     image: "https://www.vermontcountrystore.com/ccstore/v1/images/?source=/file/v348379567528641373/products/83782.main.png&height=475&width=475&outputFormat=JPEG"

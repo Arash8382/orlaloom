@@ -14,6 +14,7 @@ products:
     badge: "Cutest detail"
     blurb: "Cotton fingertip towels with an embroidered scalloped hem and a plush 600 GSM feel."
     caveat: "Fingertip size — decorative accents rather than everyday workhorses."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Hahafelt-Scalloped-Bathroom-Absorbent-Embroidered/dp/B0D9PR8HXM?tag=orlaloom-20"
   - name: "Kassatex Chairish Scalloped Towels"
     image: "https://kassatex.com/cdn/shop/products/Chairish-Towels_2023_01_grande.jpg?v=1689787028"
@@ -32,6 +33,7 @@ products:
     badge: "Best waffle"
     blurb: "A 4-piece set — 2 hand and 2 bath — of organic Turkish-cotton waffle towels: airy, quick-drying, and that lovely textured cottage look."
     caveat: "Thin and lightweight by design, so less plush than terry."
+    added: '2026-07-15'
     url: "https://www.amazon.com/P%C3%BCsk%C3%BCl-Bathroom-Premium-Organic-100-Turkish/dp/B0BQBSY7PR?tag=orlaloom-20"
   - name: "Smyrna Turkish Cotton Bath Towels"
     image: "https://m.media-amazon.com/images/I/91fwL2dfqVL._AC_SL1500_.jpg"
@@ -41,6 +43,7 @@ products:
     badge: "Best everyday"
     blurb: "Prewashed, quick-drying Turkish cotton with a lived-in vintage hand."
     caveat: "The classic version is flat/terry, not waffle — check the weave you're picking."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Turkish-Versatile-Bathroom-Absorbent-Prewashed/dp/B09RWY3YTV?tag=orlaloom-20"
   - name: "Turkish Waffle Terry Towel Set (14-Piece)"
     image: "https://m.media-amazon.com/images/I/61Rpp0GMIDL._AC_SL1300_.jpg"
@@ -50,6 +53,7 @@ products:
     badge: "Whole-bathroom set"
     blurb: "A full 14-piece cotton waffle set — the one-click way to outfit a bathroom."
     caveat: "Unbranded, so quality and color can be a little inconsistent."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Turkish-Waffle-Towels-Percent-Textured/dp/B07ZBNXNBP?tag=orlaloom-20"
   - name: "Scalloped Decorative Hand Towels (2-Pack)"
     image: "https://m.media-amazon.com/images/I/61KZPuxtUmL.jpg"
@@ -59,6 +63,7 @@ products:
     badge: "Best variety"
     blurb: "Scalloped-edge sets in soft lilac, taupe, and cream trims — easy to match to a cottage palette."
     caveat: "Brand varies by listing, so read reviews before committing."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B0G4NKXYSJ?tag=orlaloom-20"
   - name: "S&T INC. Aura Waffle Bath Towels (4-Pack)"
     image: "https://m.media-amazon.com/images/I/81CIIwHCX8L._AC_SL1500_.jpg"
@@ -68,6 +73,7 @@ products:
     badge: "Best budget waffle"
     blurb: "Four full-size 30x60 waffle bath towels in a soft beige — the affordable way to do a whole waffle bathroom instead of one showpiece towel."
     caveat: "Lighter than the Turkish sets; the weave relaxes a little after the first few washes."
+    added: '2026-08-21'
     url: "https://www.amazon.com/ST-INC-Waffle-Bath-Towels/dp/B0DYRG3QBQ?tag=orlaloom-20"
   - name: "Peri Home Scalloped Bath Rug (20x30)"
     image: "https://m.media-amazon.com/images/I/81gjbArYPOL._AC_SL1500_.jpg"
@@ -77,6 +83,7 @@ products:
     badge: "Matching bath mat"
     blurb: "Tufted 100% cotton in white with a sage scalloped border — the piece that ties a scalloped towel set to the floor."
     caveat: "Cotton tufting takes a while to dry; it needs a bar or hook, not a puddle on the floor."
+    added: '2026-08-21'
     url: "https://www.amazon.com/Peri-Home-Scalloped-Bath-Rug/dp/B0D3VMFGM2?tag=orlaloom-20"
 
 ---

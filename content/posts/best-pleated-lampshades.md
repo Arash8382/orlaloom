@@ -27,6 +27,7 @@ products:
       Hardback construction means the pleats are crisp but the glow is slightly
       cooler than a fabric-lined shade; check your harp height — a 13 in shade
       wants a medium-size lamp, not a hallway mini.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0B5ZJ8Y73?tag=orlaloom-20'
   - name: >-
       Springcrest Eggshell Pleated Large Empire Shade with Harp & Finial (17 in
@@ -48,6 +49,7 @@ products:
       It's the priciest single shade here, and eggshell reads noticeably warmer
       than white — hold a sheet of printer paper next to your current shade to
       see which family you're in before ordering.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B01D3K6ZJI?tag=orlaloom-20'
   - name: 'Scalloped Petal-Edge Bell Lamp Shades, White, Set of 2 (13 in bottom)'
     image: 'https://m.media-amazon.com/images/I/615i3ONb6kL._AC_SL1500_.jpg'
@@ -66,6 +68,7 @@ products:
       The fabric is on the lighter side — lovely lit, but if you look up into
       the shade you'll see the seams; keep bulbs to 60W equivalent LED or lower
       to avoid hot spots.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0DJJP3PWT?tag=orlaloom-20'
   - name: 'GO&SO White Pleated Linen Clip-On Chandelier Shades, Set of 6'
     image: 'https://m.media-amazon.com/images/I/81VGQj0ZOHL._AC_SL1500_.jpg'
@@ -84,6 +87,7 @@ products:
       Clip-ons grip the bulb itself, so they work best with standard-shape
       candelabra bulbs — skinny flame-tip bulbs can leave them sitting slightly
       crooked.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0CPBCPQY8?tag=orlaloom-20'
   - name: 'Threshold Mini Rattan & Pleated Shade Table Lamp, Brown'
     image: 'https://m.media-amazon.com/images/I/61s9hysEVbL._AC_SL1000_.jpg'
@@ -102,6 +106,7 @@ products:
       A newer listing without an established review history, and stock runs low
       — if it's sold out, the two shade picks above on a thrifted base get you
       the same look.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0H23B1M4R?tag=orlaloom-20'
   - name: 'Ropoloogy French Toile Scalloped Clip-On Shades, Light Green, Set of 6'
     image: 'https://m.media-amazon.com/images/I/819xZAKwPqL._AC_SL1500_.jpg'
@@ -120,6 +125,7 @@ products:
       A brand-new listing with little review history yet, and toile is a
       commitment — if you tire of pattern quickly, the plain linen GO&SO set
       above is the safer buy.
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0H1CYG2Q3?tag=orlaloom-20'
 faqs:
   - q: Will a pleated shade fit my existing lamp?

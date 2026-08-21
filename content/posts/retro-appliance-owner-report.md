@@ -30,6 +30,7 @@ products:
       41% of the critical reviews we read mention something breaking or stopping.
       Buy it for the object, not for expected longevity.
     image: 'https://m.media-amazon.com/images/I/51jPDlCsWVL._AC_SL1300_.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B00ZVCJ1YS?tag=orlaloom-20'
   - name: "Haden Heritage 2-Slice Toaster"
     brand: "Haden"
@@ -44,6 +45,7 @@ products:
       Thinner enamel and lighter chrome; 21% of critical reviews still mention
       failures.
     image: 'https://m.media-amazon.com/images/I/61oSag6C5+S._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B096T892FS?tag=orlaloom-20'
   - name: "Smeg 50's Retro Electric Kettle (KLF03)"
     brand: "Smeg"
@@ -57,6 +59,7 @@ products:
       14% of critical reviews mention interior rust or corrosion; a few flag
       plastic components inside the water path.
     image: 'https://m.media-amazon.com/images/I/51lFJDhrmeL._AC_SL1000_.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B077PJF9DF?tag=orlaloom-20'
   - name: "Haden Heritage 1.7L Electric Kettle"
     brand: "Haden"
@@ -71,6 +74,7 @@ products:
       23% of the critical reviews we read mention interior rust; several note the
       handle gets hot after repeated boils.
     image: 'https://m.media-amazon.com/images/I/61NaPoTFjFL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B07WT7ND3F?tag=orlaloom-20'
 ---
 

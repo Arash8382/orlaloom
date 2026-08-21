@@ -28,6 +28,7 @@ products:
       It is a mass-produced import, so glaze and paint can vary a little unit to
       unit.
     image: 'https://m.media-amazon.com/images/I/71IreemEtDL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20
   - name: The Original Butter Bell Crock
@@ -40,6 +41,7 @@ products:
       glossy colors. Keeps butter soft and spreadable right on the counter.
     caveat: Change the water every 2–3 days or the butter can spoil.
     image: 'https://m.media-amazon.com/images/I/61oiWAdXtoL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Original-Butter-Bell-Tremain-Collection/dp/B01BLXFK7C?tag=orlaloom-20
   - name: Le Creuset Stoneware Butter Crock
@@ -52,6 +54,7 @@ products:
       signature colors — the piece you keep for decades.
     caveat: 'Small (6 oz, about a stick), and you are partly paying for the name.'
     image: 'https://m.media-amazon.com/images/I/41qFMR+7NXL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Creuset-Stoneware-Butter-Crock-6-Ounce/dp/B000RGWQ54?tag=orlaloom-20
   - name: Mosser Jadeite Glass Butter Tub
@@ -91,6 +94,7 @@ products:
       Generic/unbranded listing, so stock rotates; confirm it's live before you
       buy.
     image: 'https://m.media-amazon.com/images/I/61MpJynV4GL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Mushroom-Countertop-Ceramic-Butterdish-Container/dp/B0BWDVL76C?tag=orlaloom-20
   - name: Scalloped-Edge Stoneware Butter Dish
@@ -105,6 +109,7 @@ products:
       Handmade stock sells out fast; pick a shop with good inventory so the link
       lasts.
     image: 'https://m.media-amazon.com/images/I/51Wx-1mCfxL._AC_SX679_.jpg'
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0G47LKMJV?tag=orlaloom-20'
   - name: Sweese Porcelain Butter Dish with Lid
     brand: Sweese
@@ -116,6 +121,7 @@ products:
       doubles as a tray — fits both East- and West-Coast butter sticks.
     caveat: 'Not an airtight crock, and the wood lid shouldn''t go in the dishwasher.'
     image: 'https://m.media-amazon.com/images/I/71AgEWMOf+L._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Sweese-3157-Large-Butter-Dish/dp/B07H2H28KN?tag=orlaloom-20
   - name: Emile Henry French Butter Pot
@@ -128,6 +134,7 @@ products:
       spreadable for weeks — beautiful glazes and a 10-year guarantee.
     caveat: 'Holds about 6 oz, and you must refresh the water every few days.'
     image: 'https://m.media-amazon.com/images/I/61dlwuOJvEL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Emile-Henry-France-Modern-Classics/dp/B00WRIIAGE?tag=orlaloom-20
   - name: Mason Cash English Stoneware Butter Dish
@@ -140,6 +147,7 @@ products:
       — thick walls insulate the butter and it reads instantly 'grandmacore.'
     caveat: 'Sized for UK butter blocks, so a single US stick rattles around a bit.'
     image: 'https://m.media-amazon.com/images/I/61YvB7hNxSL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Mason-Cash-Stoneware-Debossed-Dishwasher/dp/B0DVLMXYKP?tag=orlaloom-20
   - name: Anchor Hocking Glass Butter Dish
@@ -154,6 +162,7 @@ products:
       Sized for a single quarter-pound stick; the lid offers no seal or
       insulation.
     image: 'https://m.media-amazon.com/images/I/6116z-dxHPL._AC_SL1024_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Anchor-Hocking-presence-Glass-Butter/dp/B00O2EDJ4Y?tag=orlaloom-20
   - name: Udderly Buttery Cow Butter Dish
@@ -166,6 +175,7 @@ products:
       — a genuinely charming gift that's different from the mushroom dishes.
     caveat: 'A gift-y novelty: holds one stick and is best hand-washed.'
     image: 'https://m.media-amazon.com/images/I/51DO0EMMMAL._SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/BigMouth-Inc-Udderly-Buttery-Butter/dp/B0CJML8LWR?tag=orlaloom-20
   - name: "Mushroom Butter Crock (Water-Seal)"
@@ -176,6 +186,7 @@ products:
     blurb: "A mushroom-shaped French-style crock that keeps butter soft and spreadable on the counter — function and whimsy in one."
     caveat: "It's a crock, so it suits soft or packed butter, not a wrapped stick."
     image: "https://m.media-amazon.com/images/I/71MaJsZ1SNL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Mushroom-Butter-Crock-Countertop-Spreadable/dp/B0DLJNG1C7?tag=orlaloom-20"
   - name: "Handmade Mushroom Stick Butter Dish"
     brand: "Ceramic Boutique"
@@ -197,6 +208,7 @@ products:
       you realise the alternative is a metal knife rattling around a ceramic
       dish every morning. Highest-rated mushroom dish we found.
     caveat: 'The included spreader is ceramic and will snap on fridge-cold butter.'
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0F5BJYCXH?tag=orlaloom-20'
   - name: 'Martha Stewart Broadbrook Stoneware Butter Dish'
     image: 'https://m.media-amazon.com/images/I/615cfb7QDZL._AC_SL1500_.jpg'
@@ -209,6 +221,7 @@ products:
       stick — the sensible baseline every other dish on this page is asking you
       to pay a premium over.
     caveat: 'Rectangular and plain; there is nothing whimsical about it.'
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20'
 updated: '2026-08-16'
 ---

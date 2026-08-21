@@ -45,6 +45,7 @@ products:
       garden in summer' mood-lifter.
     caveat: 'Citrus scents fade faster than woody ones, and the throw is light.'
     image: 'https://m.media-amazon.com/images/I/61LeSXrwPIL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/P-F-Candle-Co-Grapefruit-Standard/dp/B01GVWE8MQ?tag=orlaloom-20
   - name: 'Voluspa Japonica (Orchid, Lily & Moss)'
@@ -72,6 +73,7 @@ products:
       The scent is gentle and powdery rather than bold, so the room throw is
       subtle.
     image: 'https://m.media-amazon.com/images/I/61zugvyprAL._AC_SX679_.jpg'
+    added: '2026-07-15'
     url: >-
       https://www.amazon.com/Barr-Co-Apothecary-Candle-Original/dp/B00C4XXEHC?tag=orlaloom-20
   - name: Paddywax Relish Lavender + Thyme, 9.5 oz
@@ -93,6 +95,7 @@ products:
       whole-room one — it will not scent an open-plan kitchen on its own.
       Getting the wax out for reuse means an overnight stint in the freezer.
     image: 'https://m.media-amazon.com/images/I/61IMN8UhtOL._AC_SL1500_.jpg'
+    added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B00C0SX9BM?tag=orlaloom-20'
   - name: Paddywax Relish Pomegranate + Spruce, 9.5 oz
     brand: Paddywax
@@ -112,6 +115,7 @@ products:
       go for the Lavender + Thyme instead. Like the rest of the Relish line
       it is a close-range candle rather than a room-filler.
     image: 'https://m.media-amazon.com/images/I/71064WH3ySL._AC_SL1500_.jpg'
+    added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B00C0SX9F8?tag=orlaloom-20'
 faqs:
   - q: What's the most 'cottagecore' candle scent?

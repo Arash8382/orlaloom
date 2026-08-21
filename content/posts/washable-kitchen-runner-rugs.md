@@ -89,6 +89,7 @@ products:
     caveat: >-
       It's a thin, flat-woven mat rather than a plush rug — underfoot it feels
       more like heavy fabric than pile.
+    added: '2026-07-17'
     url: 'https://www.amazon.com/dp/B0DWK2ND9J?tag=orlaloom-20'
   - name: 'Zealude Washable Kitchen Runner Rug, Floral 2 x 6 ft, Beige'
     image: 'https://m.media-amazon.com/images/I/81GoYxv-tBL._AC_SL1500_.jpg'
@@ -104,6 +105,7 @@ products:
     caveat: >-
       The pale beige shows muddy footprints faster than the darker picks; it
       earns its keep because it washes easily.
+    added: '2026-07-17'
     url: 'https://www.amazon.com/dp/B0F9L5X4XT?tag=orlaloom-20'
 faqs:
   - q: 'Can I really machine-wash these, or will they fall apart?'

@@ -19,6 +19,7 @@ products:
     caveat: >-
       Hand-painting varies piece to piece, and it's more decorative than
       heavy-duty.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0C23HZ3YF?tag=orlaloom-20'
   - name: Fluted Flair White Ceramic Pitcher Vase
     image: >-
@@ -45,6 +46,7 @@ products:
     caveat: >-
       No single canonical listing, so dimensions vary by seller — check before
       buying.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0F9SVL9X4?tag=orlaloom-20'
   - name: Farmhouse Ceramic Pitcher Vase (White)
     image: 'https://m.media-amazon.com/images/I/61xPNoZuR8L._AC_SX679_.jpg'
@@ -54,6 +56,7 @@ products:
     badge: Best for bunches
     blurb: 'A classic pitcher silhouette sized for loose, gathered wildflower bunches.'
     caveat: Larger scale — not the one for a single delicate stem.
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B094DC2JV6?tag=orlaloom-20'
   - name: White Ceramic Bud Vase Set (Set of 11)
     image: 'https://m.media-amazon.com/images/I/81BVnb9l+lL.jpg'
@@ -65,6 +68,7 @@ products:
       Small bud vases in multi-packs — perfect for scattering single stems down
       a table.
     caveat: Listings vary; check reviews for true ceramic vs. thin earthenware.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0GK2P622Z?tag=orlaloom-20'
   - name: Sullivans Ceramic Bud Vase Set (Set of 3)
     image: 'https://m.media-amazon.com/images/I/61Auj4k8KGL._AC_SL1500_.jpg'
@@ -78,6 +82,7 @@ products:
     caveat: >-
       Small accent vases sized for single stems and dried grasses, not big
       bouquets.
+    added: '2026-07-15'
     url: >-
       https://www.amazon.com/Sullivans-Ceramic-Centerpieces-Kitchen-CM2583/dp/B01AV4YQ3Q?tag=orlaloom-20
 faqs:

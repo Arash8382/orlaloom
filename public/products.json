@@ -7,8 +7,8 @@
   "feed_type": "orla-loom-product-catalog",
   "schema_hint": "schema.org/Product + Offer; affiliate_url credits this site, canonical_url is the plain retailer listing; apply coupon.code at checkout where present",
   "version": "1.1",
-  "generated_at": "2026-08-17T14:44:58.858Z",
-  "count": 474,
+  "generated_at": "2026-08-21T15:02:22.280Z",
+  "count": 484,
   "products": [
     {
       "id": "fungi-fun-mushroom-butter-dish-with-lid",
@@ -1836,6 +1836,80 @@
       ]
     },
     {
+      "id": "paddywax-relish-lavender-thyme-95-oz",
+      "title": "Paddywax Relish Lavender + Thyme, 9.5 oz",
+      "brand": "Paddywax",
+      "description": "Crushed lavender, white thyme and eucalyptus in a ribbed jar that is a deliberate nod to a kitchen storage jar — which is exactly what it becomes once the wax is gone. At 9.5 oz it is the largest candle here for the money, with a stated burn of up to 60 hours from Paddywax's soy blend and a cotton wick, and the herbal-green scent lands closer to a herb bed after rain than to a spa. If you want one candle that reads cottagecore without smelling of perfume, this is the cheapest way to get there.",
+      "category": "Candles & Fragrance",
+      "category_slug": "candles",
+      "price_currency": "USD",
+      "price_low": 26,
+      "price_display": "$26.00",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61IMN8UhtOL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61IMN8UhtOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714NFSho+RL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hmTTIxu1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JpVcdFN9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71UooyZCG0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81wG1tV67KL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/paddywax-relish-lavender-thyme-95-oz",
+      "buy_url": "https://www.amazon.com/dp/B00C0SX9BM?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B00C0SX9BM",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B00C0SX9BM",
+      "affiliate_url": "https://www.amazon.com/dp/B00C0SX9BM?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Cottagecore Candles for a Cozy Kitchen",
+          "url": "https://orlaloom.com/blog/best-cottagecore-candles"
+        }
+      ]
+    },
+    {
+      "id": "paddywax-relish-pomegranate-spruce-95-oz",
+      "title": "Paddywax Relish Pomegranate + Spruce, 9.5 oz",
+      "brand": "Paddywax",
+      "description": "The same 9.5 oz ribbed Relish jar in the scent worth lighting from September onward: tart pomegranate over green spruce, which keeps it from collapsing into the cinnamon-and-clove cliche most autumn candles settle for. It is the highest-rated candle on this page by some margin, and the fruit-plus-evergreen structure means it carries straight through from harvest suppers to Christmas without ever smelling explicitly festive.",
+      "category": "Candles & Fragrance",
+      "category_slug": "candles",
+      "price_currency": "USD",
+      "price_low": 26,
+      "price_display": "$26.00",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71064WH3ySL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71064WH3ySL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71T1nxMYwjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81I9D1CG9hL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JpVcdFN9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lLirlLD6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81wG1tV67KL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/paddywax-relish-pomegranate-spruce-95-oz",
+      "buy_url": "https://www.amazon.com/dp/B00C0SX9F8?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B00C0SX9F8",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B00C0SX9F8",
+      "affiliate_url": "https://www.amazon.com/dp/B00C0SX9F8?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Cottagecore Candles for a Cozy Kitchen",
+          "url": "https://orlaloom.com/blog/best-cottagecore-candles"
+        }
+      ]
+    },
+    {
       "id": "moroommt-wood-mushroom-lamp-rechargeable-touch-night-light",
       "title": "Moroommt Wood Mushroom Lamp, Rechargeable Touch Night Light",
       "brand": "Moroommt",
@@ -2187,16 +2261,20 @@
       "category": "Home Décor",
       "category_slug": "home-decor",
       "price_currency": "USD",
-      "price_low": 36,
-      "price_high": 45,
-      "price_display": "~$36-45",
-      "price_checked_at": null,
+      "price_low": 39.99,
+      "price_display": "$39.99",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
       "availability": "in_stock",
       "image": "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71dlWkcXoPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71g-w9xY0nL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81wex39qbML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71j91dP-xcL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NahNbBxHL._AC_SL1500_.jpg"
       ],
-      "specs": null,
+      "specs": {},
       "url": "https://orlaloom.com/shop/museds-vintage-milk-glass-mushroom-table-lamp",
       "buy_url": "https://www.amazon.com/dp/B0G1MRHWK4?tag=orlaloom-20",
       "retailer": "Amazon",
@@ -4363,24 +4441,27 @@
       ]
     },
     {
-      "id": "two-s-company-scalloped-edge-shade-led-cordless-table-lamp-14-in-blue",
+      "id": "twos-company-scalloped-edge-shade-led-cordless-table-lamp-14-in-",
       "title": "Two's Company Scalloped Edge Shade LED Cordless Table Lamp, 14 in (Blue)",
       "brand": "Two's Company",
       "description": "A proper scalloped-edge shade on a rechargeable base, from a real home-decor house rather than a marketplace brand — the one here that looks bought rather than sourced.",
       "category": "Cottagecore Kitchen",
       "category_slug": "cottagecore-kitchen",
       "price_currency": "USD",
-      "price_low": 60,
-      "price_high": 70,
-      "price_display": "~$60-70",
-      "price_checked_at": null,
+      "price_low": 63.8,
+      "price_display": "$63.80",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
       "availability": "in_stock",
       "image": "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51jrPoSmBEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61WhR+MXPlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41KTTzii6FL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61GEzfH71qL._AC_SL1500_.jpg"
       ],
-      "specs": null,
-      "url": "https://orlaloom.com/shop/two-s-company-scalloped-edge-shade-led-cordless-table-lamp-14-in-blue",
+      "specs": {},
+      "url": "https://orlaloom.com/shop/twos-company-scalloped-edge-shade-led-cordless-table-lamp-14-in-",
       "buy_url": "https://www.amazon.com/dp/B0DK86RRZL?tag=orlaloom-20",
       "retailer": "Amazon",
       "asin": "B0DK86RRZL",
@@ -6878,6 +6959,43 @@
       ]
     },
     {
+      "id": "amazon-basics-glazed-stoneware-dinnerware-12-piece-set-olive",
+      "title": "Amazon Basics Glazed Stoneware Dinnerware, 12-Piece Set, Olive",
+      "brand": "Amazon Basics",
+      "description": "Twelve pieces — four 10.5 in dinner plates, four 8.3 in salad plates and four 5.5 in cereal bowls — in a glossy olive glaze that does the job hand-thrown stoneware usually charges four times as much for. Olive is the shade that makes a plain white kitchen look considered, and because it is stoneware rather than porcelain it has the weight and slight irregularity of pottery instead of the thin ring of catering china. It is microwave, freezer, dishwasher and stain-resistant, which is the part genuinely handmade pottery almost never manages.",
+      "category": "Cottagecore Kitchen",
+      "category_slug": "cottagecore-kitchen",
+      "price_currency": "USD",
+      "price_low": 50.39,
+      "price_display": "$50.39",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61ELFgEwCGL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ELFgEwCGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81VlIaRR9rL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vfYIoZCwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81AJD2pyrML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81xwvwunoNL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81qC7R9uYVL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/amazon-basics-glazed-stoneware-dinnerware-12-piece-set-olive",
+      "buy_url": "https://www.amazon.com/dp/B0F4JWD1HQ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0F4JWD1HQ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0F4JWD1HQ",
+      "affiliate_url": "https://www.amazon.com/dp/B0F4JWD1HQ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cottagecore on a Budget: The Best Amazon Basics Home Finds (2026)",
+          "url": "https://orlaloom.com/blog/cottagecore-on-a-budget-amazon-basics"
+        }
+      ]
+    },
+    {
       "id": "genuine-fred-magic-sprout-mini-mushroom-bookmarks-set-of-4",
       "title": "Genuine Fred Magic Sprout Mini-Mushroom Bookmarks, Set of 4",
       "brand": "Genuine Fred",
@@ -8064,24 +8182,27 @@
       ]
     },
     {
-      "id": "creative-co-op-recycled-cotton-throw-blanket-with-fringe-brown-plaid",
+      "id": "creative-co-op-recycled-cotton-throw-blanket-with-fringe-brown-p",
       "title": "Creative Co-Op Recycled Cotton Throw Blanket with Fringe, Brown Plaid",
       "brand": "Creative Co-Op",
       "description": "A soft brown-plaid recycled-cotton throw with a hand-knotted fringe — the one layer that turns a summer sofa into an autumn one for the price of two candles.",
       "category": "Home Décor",
       "category_slug": "home-decor",
       "price_currency": "USD",
-      "price_low": 20,
-      "price_high": 28,
-      "price_display": "~$20-28",
-      "price_checked_at": null,
+      "price_low": 19.99,
+      "price_display": "$19.99",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
       "availability": "in_stock",
       "image": "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91mHt04cOKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UmdPTfFuL._AC_SL1277_.jpg",
+        "https://m.media-amazon.com/images/I/A1spQAY94zL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1cbM08mwgL._AC_SL1500_.jpg"
       ],
-      "specs": null,
-      "url": "https://orlaloom.com/shop/creative-co-op-recycled-cotton-throw-blanket-with-fringe-brown-plaid",
+      "specs": {},
+      "url": "https://orlaloom.com/shop/creative-co-op-recycled-cotton-throw-blanket-with-fringe-brown-p",
       "buy_url": "https://www.amazon.com/dp/B0B55VVTFX?tag=orlaloom-20",
       "retailer": "Amazon",
       "asin": "B0B55VVTFX",
@@ -8104,16 +8225,20 @@
       "category": "Home Décor",
       "category_slug": "home-decor",
       "price_currency": "USD",
-      "price_low": 8,
-      "price_high": 12,
-      "price_display": "~$8-12",
-      "price_checked_at": null,
+      "price_low": 7.99,
+      "price_display": "$7.99",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
       "availability": "in_stock",
       "image": "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg"
+        "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71-ifWve44L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eiO4DAPeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71OwCr-h91L._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71NKgcJzdML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71flvszW46L._AC_SL1500_.jpg"
       ],
-      "specs": null,
+      "specs": {},
       "url": "https://orlaloom.com/shop/sukh-dried-wheat-stalks-100-stems",
       "buy_url": "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20",
       "retailer": "Amazon",
@@ -8121,6 +8246,43 @@
       "gtin": null,
       "canonical_url": "https://www.amazon.com/dp/B0D5MKV4MC",
       "affiliate_url": "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Cozy Fall Cottagecore Decor: Warm Finds to Style for Autumn",
+          "url": "https://orlaloom.com/blog/cozy-fall-cottagecore-decor"
+        }
+      ]
+    },
+    {
+      "id": "antique-brass-iron-taper-candle-holders-set-of-3",
+      "title": "Antique Brass Iron Taper Candle Holders (Set of 3)",
+      "brand": "SUJUN",
+      "description": "Cast iron finished in soft antique brass, in three heights (roughly 7, 9 and 11 inches) so a single set builds the stepped centrepiece that reads instantly autumnal. The molded, slightly irregular shape is the point — it looks salvaged rather than bought, and it carries a plain beeswax taper better than anything polished. Grouped on a wooden board with a few dried stems, it does more for a fall table than any pumpkin.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 38.98,
+      "price_display": "$38.98",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61FW5ipX1dL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61FW5ipX1dL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81DLlAKyWEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lJtbxJHPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71K2eB7n2TL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71HHzG7+8eL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71DQSctJKcL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/antique-brass-iron-taper-candle-holders-set-of-3",
+      "buy_url": "https://www.amazon.com/dp/B0BV9XJF8Q?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0BV9XJF8Q",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0BV9XJF8Q",
+      "affiliate_url": "https://www.amazon.com/dp/B0BV9XJF8Q?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
         {
@@ -17150,6 +17312,72 @@
       ]
     },
     {
+      "id": "s-and-t-inc-aura-waffle-bath-towels-4-pack",
+      "title": "S&T INC. Aura Waffle Bath Towels (4-Pack)",
+      "brand": "S&T INC.",
+      "description": "Four full-size 30x60 waffle bath towels in a soft beige — the affordable way to do a whole waffle bathroom instead of one showpiece towel.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 28,
+      "price_high": 34,
+      "price_display": "~$28-34",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81CIIwHCX8L._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81CIIwHCX8L._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/s-and-t-inc-aura-waffle-bath-towels-4-pack",
+      "buy_url": "https://www.amazon.com/ST-INC-Waffle-Bath-Towels/dp/B0DYRG3QBQ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0DYRG3QBQ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0DYRG3QBQ",
+      "affiliate_url": "https://www.amazon.com/ST-INC-Waffle-Bath-Towels/dp/B0DYRG3QBQ?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Scalloped & Waffle-Weave Towels for a Cottagecore Bathroom",
+          "url": "https://orlaloom.com/blog/scalloped-waffle-towels"
+        }
+      ]
+    },
+    {
+      "id": "peri-home-scalloped-bath-rug-20x30",
+      "title": "Peri Home Scalloped Bath Rug (20x30)",
+      "brand": "Peri Home",
+      "description": "Tufted 100% cotton in white with a sage scalloped border — the piece that ties a scalloped towel set to the floor.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 28,
+      "price_high": 34,
+      "price_display": "~$28-34",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/81gjbArYPOL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81gjbArYPOL._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/peri-home-scalloped-bath-rug-20x30",
+      "buy_url": "https://www.amazon.com/Peri-Home-Scalloped-Bath-Rug/dp/B0D3VMFGM2?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0D3VMFGM2",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0D3VMFGM2",
+      "affiliate_url": "https://www.amazon.com/Peri-Home-Scalloped-Bath-Rug/dp/B0D3VMFGM2?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Scalloped & Waffle-Weave Towels for a Cottagecore Bathroom",
+          "url": "https://orlaloom.com/blog/scalloped-waffle-towels"
+        }
+      ]
+    },
+    {
       "id": "le-creuset-stoneware-mug-14-oz",
       "title": "Le Creuset Stoneware Mug (14 oz)",
       "brand": "Le Creuset",
@@ -18130,6 +18358,39 @@
       ]
     },
     {
+      "id": "emaison-scalloped-arch-wall-mirror-24-x-35-in",
+      "title": "EMAISON Scalloped Arch Wall Mirror, 24 x 35 in",
+      "brand": "EMAISON",
+      "description": "A scalloped arch in a natural brown wood frame with real glass — the warm, rustic counterpart to the gold scalloped mirrors, and the one that suits a bathroom or entryway rather than a glam vanity.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 60,
+      "price_high": 72,
+      "price_display": "~$60-72",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61LVXXda2CL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61LVXXda2CL._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/emaison-scalloped-arch-wall-mirror-24-x-35-in",
+      "buy_url": "https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0F9L63SKB",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0F9L63SKB",
+      "affiliate_url": "https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Vintage-Style Arched & Scalloped Wall Mirrors We Love",
+          "url": "https://orlaloom.com/blog/vintage-arched-scalloped-mirrors"
+        }
+      ]
+    },
+    {
       "id": "neutral-wildflower-wall-art-set-of-3-wood-framed-12x16",
       "title": "Neutral Wildflower Wall Art, Set of 3 (Wood Framed, 12x16)",
       "brand": "Various",
@@ -18600,39 +18861,6 @@
       ]
     },
     {
-      "id": "tabletops-gallery-hobnail-stoneware-nesting-mixing-bowl-set-4-piece-blue-storm",
-      "title": "Tabletops Gallery Hobnail Stoneware Nesting Mixing Bowl Set, 4-Piece (Blue Storm)",
-      "brand": "Tabletops Gallery",
-      "description": "Four nesting bowls with a raised hobnail texture and a soft storm-blue glaze — the cheapest way here to get the matched, stacked look in one box.",
-      "category": "Cottagecore Kitchen",
-      "category_slug": "cottagecore-kitchen",
-      "price_currency": "USD",
-      "price_low": 30,
-      "price_high": 40,
-      "price_display": "~$30-40 / set",
-      "price_checked_at": null,
-      "availability": "in_stock",
-      "image": "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg"
-      ],
-      "specs": null,
-      "url": "https://orlaloom.com/shop/tabletops-gallery-hobnail-stoneware-nesting-mixing-bowl-set-4-piece-blue-storm",
-      "buy_url": "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20",
-      "retailer": "Amazon",
-      "asin": "B097QL3ZQP",
-      "gtin": null,
-      "canonical_url": "https://www.amazon.com/dp/B097QL3ZQP",
-      "affiliate_url": "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20",
-      "coupon": null,
-      "featured_in": [
-        {
-          "title": "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs",
-          "url": "https://orlaloom.com/blog/vintage-kitchen-accessories"
-        }
-      ]
-    },
-    {
       "id": "kitchenaid-artisan-stand-mixer",
       "title": "KitchenAid Artisan Stand Mixer",
       "brand": "KitchenAid",
@@ -19068,6 +19296,85 @@
       ]
     },
     {
+      "id": "tabletops-gallery-hobnail-stoneware-nesting-mixing-bowl-set-4-pi",
+      "title": "Tabletops Gallery Hobnail Stoneware Nesting Mixing Bowl Set, 4-Piece (Blue Storm)",
+      "brand": "Tabletops Gallery",
+      "description": "Four nesting bowls with a raised hobnail texture and a soft storm-blue glaze — the cheapest way to get the matched, stacked look in one box.",
+      "category": "Cottagecore Kitchen",
+      "category_slug": "cottagecore-kitchen",
+      "price_currency": "USD",
+      "price_low": 36,
+      "price_display": "$36.00",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91flzujtbTS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nbUIT5n8S._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91JdOESVtIS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61whUtrR6CS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/513Qm5ZYbSS._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/tabletops-gallery-hobnail-stoneware-nesting-mixing-bowl-set-4-pi",
+      "buy_url": "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B097QL3ZQP",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B097QL3ZQP",
+      "affiliate_url": "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs",
+          "url": "https://orlaloom.com/blog/vintage-kitchen-accessories"
+        }
+      ]
+    },
+    {
+      "id": "amazon-basics-organic-cotton-waffle-weave-kitchen-dish-towels",
+      "title": "Amazon Basics Organic Cotton Waffle Weave Kitchen Dish Towels",
+      "brand": "Amazon Basics",
+      "description": "Organic cotton waffle towels at 15 by 25 inches — the plain, absorbent ones you actually dry dishes with, so the ruffled gingham set stays pretty on the oven rail.",
+      "category": "Cottagecore Kitchen",
+      "category_slug": "cottagecore-kitchen",
+      "price_currency": "USD",
+      "price_low": 16.78,
+      "price_display": "$16.78",
+      "price_checked_at": "2026-08-12T06:56:27.889+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61eXrkleMBL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61eXrkleMBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eb2bJVYYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/712q01NVATL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61M-igAfRIL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619I-VneQCL._AC_SL1500_.jpg"
+      ],
+      "specs": {
+        "Brand": "Amazon Basics",
+        "Color": "White",
+        "Number of Items": "6",
+        "Towel form type": "Kitchen Cloth",
+        "Product Dimensions": "25\"L x 15\"W"
+      },
+      "url": "https://orlaloom.com/shop/amazon-basics-organic-cotton-waffle-weave-kitchen-dish-towels",
+      "buy_url": "https://www.amazon.com/Amazon-Basics-Organic-Cotton-Waffle/dp/B0DQ5FVHC8?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0DQ5FVHC8",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0DQ5FVHC8",
+      "affiliate_url": "https://www.amazon.com/Amazon-Basics-Organic-Cotton-Waffle/dp/B0DQ5FVHC8?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs",
+          "url": "https://orlaloom.com/blog/vintage-kitchen-accessories"
+        }
+      ]
+    },
+    {
       "id": "vensovo-terracotta-clay-pots-with-saucers-6-in-4-pack",
       "title": "vensovo Terracotta Clay Pots with Saucers, 6 in (4 Pack)",
       "brand": "vensovo",
@@ -19253,6 +19560,43 @@
       "gtin": null,
       "canonical_url": "https://www.amazon.com/dp/B0B8HDQYN7",
       "affiliate_url": "https://www.amazon.com/dp/B0B8HDQYN7?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Vintage & Aged Terracotta Pots for 2026",
+          "url": "https://orlaloom.com/blog/vintage-terracotta-pots"
+        }
+      ]
+    },
+    {
+      "id": "orceler-4-in-terracotta-pots-with-saucers-6-pack",
+      "title": "Orceler 4 in Terracotta Pots with Saucers (6 Pack)",
+      "brand": "Orceler",
+      "description": "The four-inch size is the one you actually reach for indoors: small enough to line up along a windowsill or a kitchen shelf, big enough for a supermarket herb pot to be repotted into. Six with matching saucers for under twenty dollars means you can commit to the look in one go rather than collecting mismatched pots over a year, and the clay is properly porous so it blooms chalky white within a season outdoors.",
+      "category": "Home Décor",
+      "category_slug": "home-decor",
+      "price_currency": "USD",
+      "price_low": 17.58,
+      "price_display": "$17.58",
+      "price_checked_at": "2026-08-21T07:35:22.621+00:00",
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/61FkRycJ7WL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61FkRycJ7WL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81h3UKDmSuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613PMezvzqL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61sBqcR06gL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71crrgDMMgL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81vc98yHPvL._AC_SL1500_.jpg"
+      ],
+      "specs": {},
+      "url": "https://orlaloom.com/shop/orceler-4-in-terracotta-pots-with-saucers-6-pack",
+      "buy_url": "https://www.amazon.com/dp/B0B4HVN7DZ?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0B4HVN7DZ",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0B4HVN7DZ",
+      "affiliate_url": "https://www.amazon.com/dp/B0B4HVN7DZ?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
         {
@@ -19967,6 +20311,39 @@
       "gtin": null,
       "canonical_url": "https://www.amazon.com/dp/B097PXSXTW",
       "affiliate_url": "https://www.amazon.com/dp/B097PXSXTW?tag=orlaloom-20",
+      "coupon": null,
+      "featured_in": [
+        {
+          "title": "The Best Washed Linen Tablecloths for a Cottagecore Table",
+          "url": "https://orlaloom.com/blog/washed-linen-tablecloths"
+        }
+      ]
+    },
+    {
+      "id": "talasily-100-linen-tablecloth-stone-washed-60x120",
+      "title": "Talasily 100% Linen Tablecloth, Stone Washed (60x120)",
+      "brand": "Talasily",
+      "description": "Pure stonewashed linen in a genuine 60 by 120 inch cut — the size for a harvest table or two tables pushed together, which most linen listings simply do not offer.",
+      "category": "Textiles & Linens",
+      "category_slug": "textiles",
+      "price_currency": "USD",
+      "price_low": 68,
+      "price_high": 78,
+      "price_display": "~$68-78",
+      "price_checked_at": null,
+      "availability": "in_stock",
+      "image": "https://m.media-amazon.com/images/I/71KeyOuNSzL._AC_SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71KeyOuNSzL._AC_SL1500_.jpg"
+      ],
+      "specs": null,
+      "url": "https://orlaloom.com/shop/talasily-100-linen-tablecloth-stone-washed-60x120",
+      "buy_url": "https://www.amazon.com/Talasily-Linen-Tablecloth-Rectangle-Washed/dp/B0C8LYM7K2?tag=orlaloom-20",
+      "retailer": "Amazon",
+      "asin": "B0C8LYM7K2",
+      "gtin": null,
+      "canonical_url": "https://www.amazon.com/dp/B0C8LYM7K2",
+      "affiliate_url": "https://www.amazon.com/Talasily-Linen-Tablecloth-Rectangle-Washed/dp/B0C8LYM7K2?tag=orlaloom-20",
       "coupon": null,
       "featured_in": [
         {

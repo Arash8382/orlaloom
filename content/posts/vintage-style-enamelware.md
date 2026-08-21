@@ -13,6 +13,7 @@ products:
     badge: "The icon"
     blurb: "The quintessential hand-flicked splatter camp mug — instantly nostalgic and endlessly photogenic."
     caveat: "Enamel-over-steel chips if dropped, and it gets hot with hot drinks."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Enamelware-Coffee-Mug-Cream-Marble/dp/B0025YYHR6?tag=orlaloom-20"
   - name: "Golden Rabbit Enamelware Dinner Plates (Set of 4)"
     image: "https://m.media-amazon.com/images/I/815mSdVh4RL._AC_SL1500_.jpg"
@@ -22,6 +23,7 @@ products:
     badge: "Best plates"
     blurb: "Carbon-steel core with stainless rims, oven-to-table safe, in a swirl pattern that varies charmingly piece to piece."
     caveat: "Not microwave-safe, and the rims can chip over years of use."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Golden-Rabbit-Enamelware-Dinner-Plates/dp/B08DHHMDZM?tag=orlaloom-20"
   - name: "Golden Rabbit Enamelware Pitcher, 1 qt (Swirl)"
     image: "https://m.media-amazon.com/images/I/71wto4T9EqL._AC_SL1500_.jpg"
@@ -31,6 +33,7 @@ products:
     badge: "Doubles as a vase"
     blurb: "A swirl-pattern pitcher that's as happy holding wildflowers as it is iced tea."
     caveat: "1 qt is modest — more for serving and decor than big pours."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Golden-Rabbit-Enamelware-Glass-Pitcher/dp/B085TQHDY6?tag=orlaloom-20"
   - name: "Falcon Enamelware Mug (Pigeon Grey)"
     image: "https://www.falconenamelware.com/cdn/shop/products/tDmiSHWNStauWTv8CETL_falcon-mug-samphire-rgb-pkg_1024x1024.jpg?v=1637936901"
@@ -49,6 +52,7 @@ products:
     badge: "Best jug"
     blurb: "A tall, slim jug that's oven/freezer/dishwasher safe and looks lovely as a stem vase."
     caveat: "Premium price, and the slim profile holds less than it appears."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Falcon-Enamelware-Pint-Size-Pigeon/dp/B07CPH3QVK?tag=orlaloom-20"
   - name: "Golden Rabbit Enamelware Oval Platter (Swirl)"
     image: "https://m.media-amazon.com/images/I/81gHVyW0a6L._AC_SL1500_.jpg"
@@ -58,6 +62,7 @@ products:
     badge: "Statement serving"
     blurb: "A big swirl-pattern platter that anchors a farmhouse spread."
     caveat: "Bulky to store, and edges can chip with heavy use."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Golden-Rabbit-Enamelware-Serving-Platter/dp/B07BVWYY5T?tag=orlaloom-20"
 ---
 

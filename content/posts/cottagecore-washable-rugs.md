@@ -73,6 +73,7 @@ products:
     blurb: "Butterflies, dragonflies and beetles scattered across a soft ground — a cabinet-of-curiosities, grandmillennial-with-a-wink rug that always gets a comment."
     caveat: "The insect motif is a love-it-or-not look; check you're charmed, not squeamish."
     image: "https://lahomedecor.com/cdn/shop/files/5x7LahomeVionnetWashableModernParisianInsectBeigeRug_7477288b-3b48-4f49-a42f-8d5fafe8f095.webp"
+    added: '2026-07-08'
     url: "https://www.amazon.com/dp/B0CYLL9LQD?tag=orlaloom-20"
   - name: "Rava Wild Tiger Rust Rug"
     brand: "Lahome"
@@ -91,6 +92,7 @@ products:
     blurb: "Bright botanical blooms scattered across a warm brown ground, framed by a soft scalloped edge — pure Parisian-cottagecore. Cloud-soft, low-pile, machine-washable, and one of the most affordable ways into the look."
     caveat: "The brown ground reads warmer in person; pair with creams and wood tones rather than cool greys."
     image: "https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralbrownwashableAreaRug_1.webp"
+    added: '2026-07-08'
     url: "https://www.amazon.com/dp/B0DC9Y26S4?tag=orlaloom-20"
 ---
 

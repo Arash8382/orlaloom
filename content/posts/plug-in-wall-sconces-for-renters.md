@@ -13,6 +13,7 @@ products:
     badge: "Best overall / most cottagecore"
     blurb: "The wall-mounted answer to our favorite mushroom lamps: an ivory pleated fabric shade on an antique-brass swing arm that throws the same warm, gathered-light glow. The arm swings so you can angle it over a reading chair or straight down a hallway wall."
     caveat: "It's sold as a single lamp, not a pair — budget for two if you want a symmetrical look flanking a bed or sofa, which roughly doubles the cost."
+    added: '2026-08-13'
     url: "https://www.amazon.com/dp/B000QSMXS8?tag=orlaloom-20"
   - name: "Weaboopre Hand-Woven Rattan Plug-In Wall Sconces, Set of 2"
     image: "https://m.media-amazon.com/images/I/717gTPgLCjL._AC_SX679_.jpg"
@@ -22,6 +23,7 @@ products:
     badge: "Best woven/boho pick"
     blurb: "Hand-woven rattan globe shades on brushed-brass swing arms, sold as a matched pair with a built-in dimmer on the cord and bulbs included. It's the unfitted-kitchen woven-texture trend translated straight into lighting."
     caveat: "Rattan shades filter more light than fabric, so these read as mood lighting rather than a bright reading lamp — and they're a popular item that sells out of stock periodically."
+    added: '2026-08-13'
     url: "https://www.amazon.com/dp/B0DB5MQNRK?tag=orlaloom-20"
   - name: "SAMTEEN Gold Swing-Arm Wall Sconces with Linen Shade, Set of Two"
     image: "https://m.media-amazon.com/images/I/71sw0PnMwcL._AC_SX679_.jpg"
@@ -31,6 +33,7 @@ products:
     badge: "Best classic pair"
     blurb: "Two brass swing-arm sconces with beige linen trapezoid shades, sold together so you get instant symmetry out of the box — no separate order needed for a matching second lamp."
     caveat: "The rotary switch is on/off only, with no built-in dimmer; pair it with a dimmable smart bulb if you want to control the mood."
+    added: '2026-08-13'
     url: "https://www.amazon.com/dp/B08K78XN1T?tag=orlaloom-20"
   - name: "Battery-Operated Wireless Wall Sconce, Set of 2 (12,000mAh)"
     image: "https://m.media-amazon.com/images/I/71+wl2ZKXoL._AC_SX342_SY445_QL70_FMwebp_.jpg"
@@ -40,6 +43,7 @@ products:
     badge: "Best truly cordless (no nearby outlet needed)"
     blurb: "Skips the cord entirely. A 12,000mAh rechargeable battery and remote control mean these can go on any wall — no outlet, no cord to route or hide, and no visible plug ruining the look."
     caveat: "The battery needs recharging every few weeks with regular use, and you'll still use small mounting screws to hang the backplate — check your lease's stance on wall anchors first."
+    added: '2026-08-13'
     url: "https://www.amazon.com/dp/B0CLNTCXHQ?tag=orlaloom-20"
   - name: "Paintable White Cord Cover Raceway Kit, 315 in"
     image: "https://m.media-amazon.com/images/I/71VGoOuIetL._AC_SX679_.jpg"
@@ -49,6 +53,7 @@ products:
     badge: "Best finishing touch"
     blurb: "An adhesive-backed PVC channel that hides the cord running from a plug-in sconce down to the outlet, and it's paintable to match your wall so the finished look reads built-in rather than plugged-in."
     caveat: "The adhesive can pull paint or leave residue on textured, older, or freshly painted walls when removed — test a small hidden spot first, especially if your deposit is on the line."
+    added: '2026-08-13'
     url: "https://www.amazon.com/dp/B0BPCWH4G3?tag=orlaloom-20"
 ---
 

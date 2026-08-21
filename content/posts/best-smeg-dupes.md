@@ -21,6 +21,7 @@ products:
       1200W boils noticeably slower than Smeg's 1500W, and the plastic accents
       feel lighter in hand.
     image: 'https://m.media-amazon.com/images/I/51HeNEQin7L._AC_SL1500_.jpg'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0BWY1NLHQ?tag=orlaloom-20'
   - name: 'Keenstone Retro 2-Slice Toaster, Pastel Blue'
     brand: Keenstone
@@ -35,6 +36,7 @@ products:
       The pastel blue is slightly deeper than Smeg's; sides get hot during long
       toasting runs.
     image: 'https://m.media-amazon.com/images/I/61sdDknvjjL._AC_SL1500_.jpg'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B07K41TWK8?tag=orlaloom-20'
   - name: Nostalgia Classic Retro 10-Cup Coffee Maker
     brand: Nostalgia
@@ -48,6 +50,7 @@ products:
       No programmable auto-start timer at this price tier, and the water window
       is small.
     image: 'https://m.media-amazon.com/images/I/7130Wo17J4L._AC_SL1500_.jpg'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0GGLXFCHX?tag=orlaloom-20'
   - name: 'Kitchen in the box 3.2Qt Stand Mixer, Pink'
     brand: Kitchen in the box
@@ -62,6 +65,7 @@ products:
       3.2 quarts is compact — fine for a batch of cookies, undersized for double
       batches or heavy bread dough.
     image: 'https://m.media-amazon.com/images/I/61oPH4B-GeL._AC_SL1500_.jpg'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B09BVFKNB5?tag=orlaloom-20'
   - name: 'Frigidaire Retro Compact Fridge (3.2 cu ft, Moonbeam)'
     brand: Frigidaire
@@ -76,6 +80,7 @@ products:
       It's a compact bar fridge, not a full-size refrigerator; the chiller
       compartment is not a true freezer.
     image: 'https://m.media-amazon.com/images/I/51p2mz1qGTL._AC_SL1500_.jpg'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B084GSPD28?tag=orlaloom-20'
   - name: Culinary Chef Retro Mason-Jar Smoothie Blender
     brand: Culinary Chef
@@ -89,6 +94,7 @@ products:
       300W handles smoothies and shakes, not ice-heavy frozen drinks;
       single-serve capacity only.
     image: 'https://m.media-amazon.com/images/I/716jvsihyoL._AC_SL1500_.jpg'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DQRFTX7K?tag=orlaloom-20'
 faqs:
   - q: What is the best Smeg dupe overall?

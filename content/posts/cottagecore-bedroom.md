@@ -20,6 +20,7 @@ products:
       It's a lightweight coverlet, not a heavy comforter, so you'll want an
       extra blanket in winter.
     image: 'https://m.media-amazon.com/images/I/81J+-pateWL._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/RiverGlow-Floral-Quilt-Queen-Size/dp/B0GYJ2N3HF?tag=orlaloom-20
   - name: Tache Cotton Patchwork Ditsy Floral Coverlet
@@ -36,6 +37,7 @@ products:
       The darker colourway runs warmer and busier than the pastel quilts, so
       pair it with plain white sheets.
     image: 'https://m.media-amazon.com/images/I/A10qjJZPvcL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Tache-Patchwork-Burgundy-Lightweight-Coverlet/dp/B01MSEIVCT?tag=orlaloom-20
   - name: 'Cotton Lace Ruffle Pillowcases (Set of 2, Pink)'
@@ -51,6 +53,7 @@ products:
       The ruffles need ironing or a good shake out of the dryer to look their
       best; they crush easily in storage.
     image: 'https://m.media-amazon.com/images/I/71fWe76ixAL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Ruffled-Quilted-Pillowcase-Decorative-Pillows/dp/B0GK1H4MKX?tag=orlaloom-20
   - name: 'ALIGOGO Vintage Floral Lace Sheer Curtains (2 Panels, 84")'
@@ -67,6 +70,7 @@ products:
       Being true sheers, they give almost no privacy after dark — layer a
       blackout or linen panel behind if your window faces the street.
     image: 'https://m.media-amazon.com/images/I/61W5EEDcQlL._AC_SL1001_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Curtains-inches-Long-Vintage-Floral-Luxury/dp/B09N41Y9XW?tag=orlaloom-20
   - name: Modway Halcyon Cane Woven Rattan Queen Headboard
@@ -83,6 +87,7 @@ products:
       It's the priciest pick here and needs assembly; some reviewers note the
       cane can look slightly plasticky up close.
     image: 'https://m.media-amazon.com/images/I/71lplOFs3TL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Modway-Halcyon-Rattan-Headboard-Walnut/dp/B08T9XLKGX?tag=orlaloom-20
   - name: Framed Pressed Botanical Wall Art (Distressed Green Frame Set)
@@ -99,6 +104,7 @@ products:
       It's handmade, so the exact flowers vary piece to piece; the tall narrow
       format suits a slim wall better than a wide one.
     image: 'https://m.media-amazon.com/images/I/81nkorPzXiL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/botanicals-botanical-Distressed-farmhouse-29-3x11-5/dp/B0DLL587QQ?tag=orlaloom-20
   - name: WERFOP Green Flower Table Lamp (Lily of the Valley)
@@ -115,6 +121,7 @@ products:
       It's a decorative accent light, not a reading lamp — the glow is gentle
       and mood-setting rather than bright.
     image: 'https://m.media-amazon.com/images/I/61ENVwgHBHL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/WERFOP-Vintage-Bedside-Nightstand-Bedroom/dp/B0CQK613S1?tag=orlaloom-20
   - name: Cozy Line Vintage Floral Quilted Cotton Throw
@@ -131,6 +138,7 @@ products:
       At throw size it's for styling and naps, not full bed coverage; you'll
       still want a proper blanket underneath.
     image: 'https://m.media-amazon.com/images/I/81qTSkHZLJL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Cozy-Line-Home-Fashions-Reversible/dp/B081V6WJ4H?tag=orlaloom-20
 faqs:

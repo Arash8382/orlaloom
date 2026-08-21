@@ -13,6 +13,7 @@ products:
     badge: "The icon"
     blurb: "The toaster that started the whole retro-countertop obsession. The TSF01's powder-coated steel body is genuinely sculptural — rounded like a 1950s Fiat fender, with a chrome lever and a dial that clicks like a rotary phone. Six browning levels, defrost and reheat presets, extra-wide self-centering slots, and a removable crumb tray. Toast quality is even and reliable, but be clear-eyed: you are paying mostly for the object, and as an object it has no equal."
     caveat: "Roughly three times the price of the Haden for toast that isn't three times better — and the glossy finish shows fingerprints, so it wants an occasional wipe."
+    added: '2026-07-07'
     url: "https://www.amazon.com/dp/B08B9WR524?tag=orlaloom-20"
   - name: "Haden Heritage 2-Slice Wide-Slot Toaster, Black & Chrome"
     image: "https://m.media-amazon.com/images/I/61F2lzj27HL._AC_SL1500_.jpg"
@@ -22,6 +23,7 @@ products:
     badge: "Best value"
     blurb: "Haden is a real English appliance brand from 1958, not a knock-off factory — which is why the Heritage reads as vintage rather than 'dupe.' You get the same rounded silhouette, wide self-centering slots, adjustable browning, a removable crumb tray and non-slip feet for about a third of the Smeg's price. The finish is painted steel rather than Smeg's thick enamel, but from across the kitchen the effect is remarkably close."
     caveat: "The browning dial runs slightly hot — start a notch lower than you think. The lever action feels lighter and less buttery than the Smeg's."
+    added: '2026-07-07'
     url: "https://www.amazon.com/dp/B0B13ZNX1H?tag=orlaloom-20"
   - name: "Haden Heritage 4-Slice Toaster, Ivory & Chrome"
     image: "https://m.media-amazon.com/images/I/61W6EZxGXML._AC_SL1500_.jpg"
@@ -31,6 +33,7 @@ products:
     badge: "Prettiest Haden"
     blurb: "If it's the cream-and-chrome cottage look you're after, this is the Haden to buy — warm ivory enamel-look body, copper-tone accents, and four extra-wide slots with independent browning controls per pair. It's 1500 watts, so all four slices actually finish at the same time. For families, this is the sleeper pick of the whole comparison: still cheaper than half a Smeg, and the ivory is the most cottagecore colorway either brand makes."
     caveat: "A four-slice is a countertop commitment — measure your spot; it's noticeably wider than the two-slice models."
+    added: '2026-07-07'
     url: "https://www.amazon.com/dp/B0876235F1?tag=orlaloom-20"
   - name: "Smeg KLF03 7-Cup Electric Kettle, Matte White"
     image: "https://m.media-amazon.com/images/I/51hbKTEWK6S._AC_SL1300_.jpg"
@@ -40,6 +43,7 @@ products:
     badge: "Matching kettle — Smeg"
     blurb: "Half the reason people buy the Smeg toaster is to pair it with this kettle, and honestly, the kettle is the better appliance of the two. 1.7 liters, fast boil, soft-open lid, auto shut-off, and that unmistakable rounded profile with the chrome base. The matte white version is quietly lovely with cream, sage or blue kitchens alike, and it hides water spots better than the gloss finishes."
     caveat: "No temperature control at this price — tea purists who want 175°F green-tea water will need to babysit it."
+    added: '2026-07-07'
     url: "https://www.amazon.com/dp/B08PJH4W9S?tag=orlaloom-20"
   - name: "Haden Heritage 1.7L Electric Kettle, Ivory & Copper"
     image: "https://m.media-amazon.com/images/I/61Ulm0CBwfL._AC_SL1500_.jpg"
@@ -49,6 +53,7 @@ products:
     badge: "Matching kettle — Haden"
     blurb: "The companion piece to the ivory Heritage toaster and the easiest way to get the 'matching retro set' look for around $150 total. Stainless body in warm ivory with copper accents, 360-degree swivel base, auto shut-off and boil-dry protection. Side by side with its toaster on a wooden counter, this pair photographs like a magazine spread — guests assume it cost far more than it did."
     caveat: "It's a fast, cheerful boiler but the exterior gets hot to the touch — mind little hands and use the handle only."
+    added: '2026-07-07'
     url: "https://www.amazon.com/dp/B0B116WH2K?tag=orlaloom-20"
   - name: "Nostalgia Classic Retro 2-Slice Toaster, Cream"
     image: "https://m.media-amazon.com/images/I/71k9mlvUwNL._AC_SL1500_.jpg"
@@ -58,6 +63,7 @@ products:
     badge: "Budget pick"
     blurb: "The under-$40 answer for renters, first kitchens and anyone not ready to spend appliance money on toast. Enamel-coated steel body in a soft cream, wide slots, six browning levels, bagel and defrost functions, a crumb tray and even cord storage underneath. It won't fool anyone up close — the proportions are boxier and the lever is plasticky — but styled next to a vase of dried flowers it absolutely holds its own in photos."
     caveat: "Lighter-weight build than either Smeg or Haden; expect it to be a 3-to-5-year appliance rather than a decade one."
+    added: '2026-07-07'
     url: "https://www.amazon.com/dp/B0H2725ZLR?tag=orlaloom-20"
 ---
 

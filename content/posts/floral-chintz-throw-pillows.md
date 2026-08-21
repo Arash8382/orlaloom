@@ -18,6 +18,7 @@ products:
       closest thing to true vintage chintz on Amazon, and the pattern that
       anchors the whole look.
     caveat: 'Cover only, so you''ll need a 20 in insert; the print sits on one side.'
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DRSFHP58?tag=orlaloom-20'
   - name: YugTex Pink Vintage Rose Bouquet Pillow Cover (20 x 20 in)
     image: 'https://m.media-amazon.com/images/I/91Al2xWMjvL._AC_SL1500_.jpg'
@@ -31,6 +32,7 @@ products:
     caveat: >-
       Slightly warmer cream base than the blue colorway, so check it against
       stark white sofas.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0GN8Y4MMN?tag=orlaloom-20'
   - name: 'Ridhi Block Print Ruffle Pillow Covers, Set of 2 (18 x 18 in)'
     image: 'https://m.media-amazon.com/images/I/818NPvzwkYL._AC_SL1500_.jpg'
@@ -45,6 +47,7 @@ products:
     caveat: >-
       The green is more sage-meadow than bold chintz, so treat these as your
       quiet supporting pillows.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DX1MLYPS?tag=orlaloom-20'
   - name: 'KozaHopa Vintage Peony Pillow Covers, Set of 2 (18 x 18 in)'
     image: 'https://m.media-amazon.com/images/I/71Qb9lvQy8L._AC_SL1500_.jpg'
@@ -59,6 +62,7 @@ products:
     caveat: >-
       Printed poly-linen blend rather than woven cotton, so the texture is
       flatter up close.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0FX522LV7?tag=orlaloom-20'
   - name: AureoMadis Vintage Rose Tapestry Pillow Cover
     image: 'https://m.media-amazon.com/images/I/8159vU4SH1L._AC_SL1500_.jpg'
@@ -72,6 +76,7 @@ products:
     caveat: >-
       Woven fabric is stiffer than linen or velvet; it holds a formal shape
       rather than slouching.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0F8N1ZFJW?tag=orlaloom-20'
   - name: 'KSLIDS Sage Floral Velvet Pillow Covers, Set of 2 (18 x 18 in)'
     image: 'https://m.media-amazon.com/images/I/81MnK3it1hL._AC_SL1500_.jpg'
@@ -84,6 +89,7 @@ products:
       counterpoint that keeps an all-cotton pillow arrangement from feeling
       flat.
     caveat: Velvet shows seat-crush and pet hair more readily than woven cotton.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DDSTT7LN?tag=orlaloom-20'
 faqs:
   - q: 'What exactly is chintz, and are these real chintz?'

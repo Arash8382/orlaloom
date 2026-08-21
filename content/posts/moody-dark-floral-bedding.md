@@ -28,6 +28,7 @@ products:
     caveat: >-
       Stock runs thin on this one (it dips to a handful left regularly), and
       dark microfiber shows lint — keep a lint roller in the nightstand.
+    added: '2026-07-30'
     url: 'https://www.amazon.com/dp/B0D9Y9M1P5?tag=orlaloom-20'
   - name: 'Madison Park Floral Velvet Reversible 5-Piece Queen Comforter Set, Purple'
     image: 'https://m.media-amazon.com/images/I/91r661cp3bL._AC_SL1500_.jpg'
@@ -47,6 +48,7 @@ products:
     caveat: >-
       Velvet runs warm; if you sleep hot or your bedroom stays toasty in
       September, treat this as your October-to-March set.
+    added: '2026-07-30'
     url: 'https://www.amazon.com/dp/B0GMGJGVBB?tag=orlaloom-20'
   - name: >-
       Puralens Dark Beige Moody Floral Duvet Cover Set, Queen, 100% Cotton
@@ -67,6 +69,7 @@ products:
     caveat: >-
       Percale wrinkles honestly; embrace the rumpled look or budget five minutes
       with a steamer after wash day.
+    added: '2026-07-30'
     url: 'https://www.amazon.com/dp/B0GGRF4F5V?tag=orlaloom-20'
   - name: >-
       zcwl Burgundy Moody Floral 3-Piece Duvet Cover Set, Queen, with Zipper
@@ -87,6 +90,7 @@ products:
     caveat: >-
       Colors read slightly brighter on some screens than in person — expect deep
       wine, not cherry red.
+    added: '2026-07-30'
     url: 'https://www.amazon.com/dp/B0FSZYBGSK?tag=orlaloom-20'
   - name: >-
       Bedsure Dark Brown Queen Comforter Set, Reversible Botanical Floral, 3
@@ -108,6 +112,7 @@ products:
     caveat: >-
       It is a lightweight summer-weight fill; deep-winter sleepers will want a
       blanket layered under it by December.
+    added: '2026-07-30'
     url: 'https://www.amazon.com/dp/B0F21995FY?tag=orlaloom-20'
   - name: >-
       JOVITRA Burgundy Floral Throw Pillow Covers, 18x18 in, Set of 2, Vintage
@@ -129,6 +134,7 @@ products:
     caveat: >-
       Covers only, no inserts — and the linen-blend fabric benefits from a quick
       iron out of the package.
+    added: '2026-07-30'
     url: 'https://www.amazon.com/dp/B0FD77B1C9?tag=orlaloom-20'
 faqs:
   - q: Is dark floral bedding just a fall and winter look?

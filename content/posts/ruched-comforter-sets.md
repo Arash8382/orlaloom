@@ -13,6 +13,7 @@ products:
     blurb: "Rows of soft pinch-pleat ruching run the full length of the comforter in a muted sage that reads straight out of a cottage bedroom — and it lands as a complete 7-piece bed-in-a-bag with comforter, sheets, shams, and pillowcases, so one box dresses the whole bed."
     caveat: "The filling is a light down-alternative microfiber; it is a three-season weight, so deep-winter sleepers may want an extra blanket layered underneath."
     image: "https://m.media-amazon.com/images/I/71Utb+bBaxL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B0C8HTT9JV?tag=orlaloom-20"
   - name: "Bedsure GentleSoft Pintuck Comforter Set, Pink (Queen, 7-Piece)"
     brand: "Bedsure"
@@ -22,6 +23,7 @@ products:
     blurb: "The pinch-pleat pintuck rows here catch light in a dimensional, gathered way that flat bedding never does, and the soft blush-pink colorway is the exact grown-up-coquette tone all over 2026 bedrooms. Comes complete with sheets, shams, and pillowcases."
     caveat: "The pink photographs slightly warmer and more mauve in person than the bright listing images suggest — a plus for a cozy room, worth knowing if you want true baby-pink."
     image: "https://m.media-amazon.com/images/I/91fJVc677ML._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B0974HY46Q?tag=orlaloom-20"
   - name: "Andency Ruched Ruffle Comforter Set, Beige (Queen, 7-Piece)"
     brand: "Andency"
@@ -31,6 +33,7 @@ products:
     blurb: "This is ruching at its most romantic — gathered ruffle rows in a warm cream-beige that give the bed that soft, shabby-chic billow. The OEKO-TEX-tested microfiber feels plush against skin, and it arrives as a full 7-piece set."
     caveat: "The gathered ruffles are the whole look, so the bed reads soft and feminine rather than tailored; press the seams flat out of the dryer for the neatest finish."
     image: "https://m.media-amazon.com/images/I/719ULY58WuL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B0GD7DMK7F?tag=orlaloom-20"
   - name: "BedDecor 3-Piece Ruched Duvet Cover Set, Egyptian Cotton (Full/Queen)"
     brand: "BedDecor"
@@ -40,6 +43,7 @@ products:
     blurb: "If you already own a duvet insert, this is the cinched-seam route to the trend: the entire cover face is dressed in ruched pleats in breathable 500-thread-count Egyptian cotton, with a zipper closure and corner ties to keep the insert in place."
     caveat: "It is a cover only — you supply the duvet insert — and cotton this dense wants a warm iron or a good dryer shake to keep the ruching cloud-like rather than crushed."
     image: "https://m.media-amazon.com/images/I/51kZHNtsb+L._AC_SL1254_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B08C5GPR26?tag=orlaloom-20"
   - name: "EVERGRACE Ruched Velvet Coverlet Set, Olive Green (Queen)"
     brand: "EVERGRACE"
@@ -49,6 +53,7 @@ products:
     blurb: "A lighter-weight ruched velvet coverlet with two matching shams — the layer you want at the foot of the bed in summer, or over a plain duvet when you want texture without extra warmth. The olive-sage velvet has real cottage-parlor depth."
     caveat: "Velvet shows brush marks and is warmer to the touch than cotton; it suits cool bedrooms better than hot sleepers, and it needs gentle-cycle washing."
     image: "https://m.media-amazon.com/images/I/81pP91Cv4lL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B0CLY9ZB88?tag=orlaloom-20"
   - name: "CozyLux Twin XL Pintuck Comforter Set, Sage Green (5-Piece)"
     brand: "CozyLux"
@@ -58,6 +63,7 @@ products:
     blurb: "The same sage pinch-pleat design sized for a dorm bed and bundled as a 5-piece Twin XL bed-in-a-bag — comforter, sheets, pillowcase, and sham in one move-in box. Genuinely the easiest back-to-school bedding decision on this list."
     caveat: "Twin XL only, so double-check your dorm requires the extra-long length before ordering; a standard twin insert will leave the foot short."
     image: "https://m.media-amazon.com/images/I/71awW7o--jL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B0F3D6H84H?tag=orlaloom-20"
   - name: "Swift Home 3D Floral Pintuck Comforter Set, Blush Rose (Twin/Twin XL, 2-Piece)"
     brand: "Swift Home"
@@ -67,6 +73,7 @@ products:
     blurb: "The cheapest way onto the trend: a raised 3D-floral pintuck comforter with one matching sham in a soft blush rose. It fits both Twin and Twin XL frames, which makes it a low-risk dorm or guest-room buy."
     caveat: "You get a comforter and one sham only — no sheets — so budget for a sheet set separately if this is your whole bed."
     image: "https://m.media-amazon.com/images/I/818Qs0o-bwL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B07JX5SYQ1?tag=orlaloom-20"
   - name: "Andency 3-Piece Pinch Pleat Pintuck Comforter Set, Black (Queen)"
     brand: "Andency"
@@ -76,6 +83,7 @@ products:
     blurb: "For a moodier, dark-cottagecore bedroom: crisp diagonal pintuck ruching in a deep black, as a simple 3-piece set (comforter plus two shams). The pleats give a flat black bed the shadow and dimension that keeps it from reading harsh."
     caveat: "Black shows lint and pet hair readily and the 3-piece set skips sheets — pair it with charcoal or cream sheets you already own."
     image: "https://m.media-amazon.com/images/I/71G43sf0gBL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B08JTYL975?tag=orlaloom-20"
 ---
 

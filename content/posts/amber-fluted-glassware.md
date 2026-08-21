@@ -20,6 +20,7 @@ products:
       Mass-produced (not hand-blown), and the amber tint is light — more honey
       than deep amber.
     image: 'https://m.media-amazon.com/images/I/81S8PHagdmL._AC_SL1500_.jpg'
+    added: '2026-08-01'
     url: 'https://www.amazon.com/dp/B0F4X933SS?tag=orlaloom-20'
   - name: 'Qipecedm Ribbed Highball Glasses (Set of 6, 16 oz)'
     brand: Qipecedm
@@ -31,6 +32,7 @@ products:
       ribbed look without the color, ready to pair with amber.
     caveat: 'Clear, not amber, so add the amber set if you want the warm tone.'
     image: 'https://m.media-amazon.com/images/I/81jd48e9NTL._AC_SL1500_.jpg'
+    added: '2026-08-01'
     url: 'https://www.amazon.com/dp/B0BVBJJV1W?tag=orlaloom-20'
   - name: Amber Glass Pitcher with Lid (64 oz)
     brand: AEFPOYMXU
@@ -42,6 +44,7 @@ products:
       piece that pulls an amber drink station together.
     caveat: 'Smooth (not fluted) body, and the lid/seal is fairly basic.'
     image: 'https://m.media-amazon.com/images/I/61gWpci+CkL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Pitcher-Beverage-Pitchers-Carafe-Lemonade/dp/B09YLRFRSY?tag=orlaloom-20
   - name: Estelle Coupe (Amber Smoke)

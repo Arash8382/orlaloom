@@ -21,6 +21,7 @@ products:
     caveat: >-
       The microfiber fill is light — plan on adding a blanket layer once the
       radiator wars of November begin.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DRJK253S?tag=orlaloom-20'
   - name: 'JMEXSUSS Ivy Vines with Fairy Lights, 33 ft / 100 LED with Remote'
     image: 'https://m.media-amazon.com/images/I/71gehjsz-hL._AC_SL1500_.jpg'
@@ -35,6 +36,7 @@ products:
     caveat: >-
       Battery operated, so keep spare AAs on hand; hang it with damage-free
       hooks, not tape, or it sags by midterms.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0CZCQ36SG?tag=orlaloom-20'
   - name: Sage Green Ruffle Fringed Quilted Throw Blanket (50 x 60 in)
     image: 'https://m.media-amazon.com/images/I/91tG2ShPelL._AC_SL1500_.jpg'
@@ -49,6 +51,7 @@ products:
     caveat: >-
       The olive-sage reads a touch darker in person than in photos — lovely with
       cream sheets, less so with cool grays.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0C2BKQH21?tag=orlaloom-20'
   - name: 'BECCOBEAT Vintage Glass Mushroom Lamp, Red Cap'
     image: 'https://m.media-amazon.com/images/I/71AGvzOaazL._AC_SL1500_.jpg'
@@ -63,6 +66,7 @@ products:
     caveat: >-
       It is a night-light-scale lamp, not a study lamp; treat it as mood
       lighting.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0C56ZNZK1?tag=orlaloom-20'
   - name: 'KBKBART Vintage Wall Collage Kit, 70 Botanical Prints (4 x 6 in)'
     image: 'https://m.media-amazon.com/images/I/81G0jWXym3L._AC_SL1500_.jpg'
@@ -77,6 +81,7 @@ products:
     caveat: >-
       Prints are lightweight card stock, not framed art; a full-wall grid takes
       a patient hour to lay out straight.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0C9LCFR1L?tag=orlaloom-20'
   - name: 'Coeusy Scalloped Water Hyacinth Baskets, Set of 2'
     image: 'https://m.media-amazon.com/images/I/815u4S4Jj3L._AC_SL1500_.jpg'
@@ -91,6 +96,7 @@ products:
     caveat: >-
       Natural fiber varies basket to basket; measure your shelf cubby first, as
       the large one is roomier than dorm cubbies expect.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DWJLPNJN?tag=orlaloom-20'
 faqs:
   - q: Is cottagecore decor allowed in dorms?

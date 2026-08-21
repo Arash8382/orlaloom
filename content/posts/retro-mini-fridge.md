@@ -13,6 +13,7 @@ products:
     blurb: "The most fridge-per-dollar in the retro category: 3.2 cu ft, curved 1950s lines, a chrome side bottle opener, and a pink that reads vintage rather than toy-like."
     caveat: "No real freezer — just a small chiller shelf; often ships in 1-2 weeks rather than overnight."
     image: "https://m.media-amazon.com/images/I/51RW9AOaJQL._AC_SL1500_.jpg"
+    added: '2026-07-17'
     url: "https://www.amazon.com/dp/B084GSR67L?tag=orlaloom-20"
   - name: "Galanz Retro Compact Refrigerator (2.5 cu ft, Green)"
     brand: "Galanz"
@@ -22,6 +23,7 @@ products:
     blurb: "The one that looks most like it rolled out of an actual 1950s kitchen — deep curved corners, a long chrome door handle, and a saturated sage green with a built-in chiller."
     caveat: "You pay a premium for the styling; 2.5 cu ft is smaller than similarly priced rivals."
     image: "https://m.media-amazon.com/images/I/71mqgFsFIxL._AC_SL1500_.jpg"
+    added: '2026-07-17'
     url: "https://www.amazon.com/dp/B08D3VPXTZ?tag=orlaloom-20"
   - name: "Frigidaire EFR840 Retro Mini Fridge with Freezer (3.1 cu ft, Cream)"
     brand: "Frigidaire"
@@ -31,6 +33,7 @@ products:
     blurb: "A proper two-door design — separate freezer compartment up top, fridge below — in a soft cream that fits a cottage kitchen better than stark white, plus the signature bottle opener."
     caveat: "The freezer is small (ice trays and a pint or two, not a week of frozen meals)."
     image: "https://m.media-amazon.com/images/I/51J2TKpEVsL._AC_SL1500_.jpg"
+    added: '2026-07-17'
     url: "https://www.amazon.com/dp/B0BW88K1R3?tag=orlaloom-20"
   - name: "DEMULLER Retro Mini Fridge with Top Freezer (3.5 cu ft)"
     brand: "DEMULLER"
@@ -40,6 +43,7 @@ products:
     blurb: "The biggest of our picks at 3.5 cu ft with a true dual-door top freezer, retro handles and curved edges — apartment-size function with the vintage silhouette."
     caveat: "The badging and finish feel a touch less premium up close than Galanz or Frigidaire."
     image: "https://m.media-amazon.com/images/I/51gNJeJEu2L._AC_SL1500_.jpg"
+    added: '2026-07-17'
     url: "https://www.amazon.com/dp/B0C6XH8RTH?tag=orlaloom-20"
   - name: "Galanz Retro Compact Refrigerator (3.3 cu ft, Blue)"
     brand: "Galanz"
@@ -49,6 +53,7 @@ products:
     blurb: "Galanz's bigger single-door in a glossy retro blue — the closest thing to a Smeg-fridge look for a third of Smeg money, with an adjustable thermostat and chiller."
     caveat: "Stock runs low often; single door means the chiller isn't a true freezer."
     image: "https://m.media-amazon.com/images/I/71dxfAAvSRL._AC_SL1500_.jpg"
+    added: '2026-07-17'
     url: "https://www.amazon.com/dp/B08BX515HP?tag=orlaloom-20"
   - name: "Frigidaire EFR176 Retro Bar Fridge (1.6 cu ft, Red)"
     brand: "Frigidaire"
@@ -58,6 +63,7 @@ products:
     blurb: "The cheapest way to get the curved-corner chrome-handle look — a desk-side 1.6 cu ft cube in classic diner red that keeps drinks and snacks cold in a dorm, office or craft room."
     caveat: "1.6 cu ft is genuinely tiny — drinks and butter, not groceries."
     image: "https://m.media-amazon.com/images/I/61L-nkQqw9L._AC_SL1500_.jpg"
+    added: '2026-07-17'
     url: "https://www.amazon.com/dp/B019MQT6T8?tag=orlaloom-20"
 ---
 

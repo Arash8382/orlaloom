@@ -14,6 +14,7 @@ products:
     badge: "Best value"
     blurb: "An openwork hemstitch border and a soft blend that only gets better with washing — the easy entry point."
     caveat: "A cotton-linen blend, not pure linen, so it drapes a little lighter."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Solino-Home-Hemstitch-Cotton-Tablecloth/dp/B096S77X26?tag=orlaloom-20"
   - name: "All Cotton and Linen Pure Linen Tablecloth"
     image: "https://m.media-amazon.com/images/I/81Vt-U1LpwL.jpg"
@@ -23,6 +24,7 @@ products:
     badge: "Best rustic drape"
     blurb: "100% stonewashed linen with that faded, rumpled cottage drape — and it's machine washable."
     caveat: "It still wrinkles (that's the look), and color can vary slightly between batches."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B09HZM2L7K?tag=orlaloom-20"
   - name: "EVERLY Stonewashed French Linen Hemstitch Tablecloth"
     image: "https://m.media-amazon.com/images/I/81Ag8XOHxrL._AC_SL1500_.jpg"
@@ -32,6 +34,7 @@ products:
     badge: "Best hemstitch"
     blurb: "100% French linen with a tidy hemstitch edge, sized generously for rectangle tables."
     caveat: "Often natural-tone only, with limited cottage color options."
+    added: '2026-06-29'
     url: "https://www.amazon.com/EVERLY-Table-Stonewashed-Thanksgiving-Tablecloths/dp/B0B5BZFC5V?tag=orlaloom-20"
   - name: "Linen World 100% French Linen Tablecloth (60×90)"
     image: "https://m.media-amazon.com/images/I/91TAlUGAKAL._AC_SL1500_.jpg"
@@ -41,6 +44,7 @@ products:
     badge: "Best natural linen"
     blurb: "Stonewashed 100% French flax linen with a soft, lived-in drape and natural slubs — the authentic rustic-linen look for a fraction of boutique prices."
     caveat: "Natural linen wrinkles freely (that's the charm); press it if you want it crisp."
+    added: '2026-07-15'
     url: "https://www.amazon.com/Linen-World-Tablecloth-Rectangular-Cloth-Natural/dp/B09XTHDM9S?tag=orlaloom-20"
   - name: "AmourLinen Washed Linen Tablecloth"
     image: "https://cdn.shopify.com/s/files/1/0266/3206/0972/files/White_tablecloth_1313455b-f23d-4ef5-9823-2fc2fe7e84f9.jpg"
@@ -59,6 +63,7 @@ products:
     badge: "Pure-linen step up"
     blurb: "The pure-linen upgrade from the same trusted brand — pre-washed with a natural slub texture."
     caveat: "Narrower color selection than the blend line."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B097PXSXTW?tag=orlaloom-20"
   - name: "Talasily 100% Linen Tablecloth, Stone Washed (60x120)"
     image: "https://m.media-amazon.com/images/I/71KeyOuNSzL._AC_SL1500_.jpg"
@@ -68,6 +73,7 @@ products:
     badge: "Best long-table size"
     blurb: "Pure stonewashed linen in a genuine 60 by 120 inch cut — the size for a harvest table or two tables pushed together, which most linen listings simply do not offer."
     caveat: "Long enough that it needs a big machine and a real drying rack; a standard dryer will crease it badly."
+    added: '2026-08-21'
     url: "https://www.amazon.com/Talasily-Linen-Tablecloth-Rectangle-Washed/dp/B0C8LYM7K2?tag=orlaloom-20"
 ---
 

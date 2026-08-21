@@ -20,6 +20,7 @@ products:
     caveat: >-
       The lids rest in place rather than sealing, so pour gently on the first
       tilt.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0D44DTJXJ?tag=orlaloom-20'
   - name: Bandesun Vintage Embossed Glass Pitcher with Lid (68 oz)
     image: 'https://m.media-amazon.com/images/I/71zpRHfifrL._AC_SL1500_.jpg'
@@ -34,6 +35,7 @@ products:
     caveat: >-
       The embossing makes the interior slightly harder to scrub; a bottle brush
       sorts it.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0FHGPS5XC?tag=orlaloom-20'
   - name: 'Yirilan Glass Pitcher with Lid, 2.2 Liter Fridge Carafe'
     image: 'https://m.media-amazon.com/images/I/71Urnp2bXZL._AC_SL1500_.jpg'
@@ -48,6 +50,7 @@ products:
     caveat: >-
       Simpler, more modern lines than the embossed picks — function first,
       romance second.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B09DYDCXXS?tag=orlaloom-20'
   - name: 'Hlukana Vintage Hobnail Drinking Glasses, Set of 8 (12 oz + 10 oz)'
     image: 'https://m.media-amazon.com/images/I/91fPtP2MlLL._AC_SL1500_.jpg'
@@ -62,6 +65,7 @@ products:
     caveat: >-
       At 10-12 oz they're daintier than modern 16 oz tumblers; big-drink people
       will refill.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0CC31XP2D?tag=orlaloom-20'
   - name: 'ALINK Wave Bubble Glass Cups with Lids and Straws, Set of 4 (16 oz)'
     image: 'https://m.media-amazon.com/images/I/71ZDAreSt+L._AC_SL1499_.jpg'
@@ -76,6 +80,7 @@ products:
     caveat: >-
       Lids and straws mean more parts to hand-wash; the glasses themselves are
       dishwasher-safe.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0CVZMWG6W?tag=orlaloom-20'
   - name: Lifewit Glass Drink Dispenser with Stand (1.6 Gallon)
     image: 'https://m.media-amazon.com/images/I/713XvEfyt5L._AC_SL1500_.jpg'
@@ -91,6 +96,7 @@ products:
     caveat: >-
       It's big — check your table depth, and wash it in the sink, not the
       dishwasher.
+    added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0GY9688HF?tag=orlaloom-20'
 faqs:
   - q: How many drinks does a 1.6-gallon dispenser actually serve?

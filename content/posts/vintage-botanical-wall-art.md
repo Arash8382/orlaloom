@@ -13,6 +13,7 @@ products:
     badge: "Best framed set"
     blurb: "A soft-toned wildflower trio in real wood frames — a coordinated gallery wall straight out of the box."
     caveat: "Canvas prints, so a touch more casual than fine-art paper."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Wildflower-Botanical-Pictures-Cottagecore-Painting/dp/B0GXF8ZX36?tag=orlaloom-20"
   - name: "Ink Inc. Vintage Botanical Prints, Set of 6 (8x10, Unframed)"
     image: "https://m.media-amazon.com/images/I/81MYGwp90WL._AC_SL1500_.jpg"
@@ -22,6 +23,7 @@ products:
     badge: "Best value"
     blurb: "An affordable six-print vintage botanical set — instant gallery wall for very little."
     caveat: "Unframed, so budget for frames on top."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Botanical-Wildflower-Ink-Inc-Cottagecore/dp/B09PJ41SP4?tag=orlaloom-20"
   - name: "Framed Country Wildflower Wall Art Set (Meadow)"
     image: "https://m.media-amazon.com/images/I/91G3g43InaL._AC_SL1500_.jpg"
@@ -31,6 +33,7 @@ products:
     badge: "Most romantic"
     blurb: "A French-rustic flower-field canvas set in a warm meadow palette."
     caveat: "The 'oil painting' look is a printed reproduction, not real brushwork."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Country-Wildflower-Painting-Natural-Cottagecore/dp/B0GK8YZCNF?tag=orlaloom-20"
   - name: "Vintage Framed Wildflower Wall Art (Green Meadow, 12x16)"
     image: "https://m.media-amazon.com/images/I/81RBcEz9lyL._AC_SL1500_.jpg"
@@ -40,6 +43,7 @@ products:
     badge: "Single statement"
     blurb: "A single framed green-meadow botanical with a rustic farmhouse look."
     caveat: "Sold as one piece — you'll want a few for a wall."
+    added: '2026-06-29'
     url: "https://www.amazon.com/zaczdr-Wildflower-Cottagecore-Botanical-Farmhouse/dp/B0GW5TDDYS?tag=orlaloom-20"
   - name: "Vintage Gold Framed Pink Wildflower Bouquet Art"
     image: "https://m.media-amazon.com/images/I/916Qgz2JrBL._AC_SL1500_.jpg"
@@ -49,6 +53,7 @@ products:
     badge: "Softest palette"
     blurb: "A pink wildflower bouquet in a vintage gold frame — lovely for a nursery or soft room."
     caveat: "The gold-and-pink palette is specific and won't suit every space."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Cottagecore-Wildflower-Farmhouse-Botanical-Painting/dp/B0GL1FX8N7?tag=orlaloom-20"
   - name: "Vintage Wildflowers Hanging Poster Set (2-Pc, 15.8x23.6)"
     image: "https://m.media-amazon.com/images/I/81l+ZZo-thL._AC_SL1500_.jpg"
@@ -58,6 +63,7 @@ products:
     badge: "Best large-format"
     blurb: "A retro botanical hanging-poster pair for a relaxed, large-scale look."
     caveat: "Lightweight wood rails rather than glass-and-frame."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Vintage-Wildflowers-Botanical-Cottagecore-Aesthetic/dp/B0BTM9YQDQ?tag=orlaloom-20"
 ---
 

@@ -22,6 +22,7 @@ products:
       It is a night light, not a reading lamp — expect ambience, not task
       lighting, and a recharge every few evenings of heavy use.
     image: 'https://m.media-amazon.com/images/I/71-3Fzze83L._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0DSLCR6G9?tag=orlaloom-20'
   - name: 'BOHON Ceramic Mushroom Lamp with Wood Base, Orange'
     brand: BOHON
@@ -38,6 +39,7 @@ products:
       glass — lovely and cozy, but pick a glass style if you want the whole cap
       to light up.
     image: 'https://m.media-amazon.com/images/I/61FkDr+-0uL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0DPF82JTR?tag=orlaloom-20'
   - name: HEQET Hand-Blown Orange Glass Mushroom Lamp
     brand: HEQET
@@ -53,6 +55,7 @@ products:
       Hand-blown glass means small bubbles and slight asymmetry piece to piece —
       character to most eyes, but not for perfectionists.
     image: 'https://m.media-amazon.com/images/I/51EsCqcdqlL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0BPNXX2MF?tag=orlaloom-20'
   - name: Glivpny Mid-Century Glass Mushroom Table Lamp
     brand: Glivpny
@@ -68,6 +71,7 @@ products:
       It sits on the small side for a large nightstand — measure before you buy
       if you want real presence rather than an accent.
     image: 'https://m.media-amazon.com/images/I/615y+g1kiAL._AC_SL1400_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0CX144DHK?tag=orlaloom-20'
   - name: ONEWISH Hand-Blown Vintage Mushroom Lamp with Speckled Glass
     brand: ONEWISH
@@ -82,6 +86,7 @@ products:
       The speckled finish photographs darker than it looks in person; in
       daylight, unlit, it reads more grey than amber.
     image: 'https://m.media-amazon.com/images/I/71jxeru6o6L._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0BV6YJQ6D?tag=orlaloom-20'
   - name: Ppbmocw Tiffany Stained-Glass Mushroom Lamp
     brand: Ppbmocw
@@ -96,6 +101,7 @@ products:
       At about 8 inches it is a decorative accent, not a whole-room light
       source, and the soldered glass is the most fragile style here.
     image: 'https://m.media-amazon.com/images/I/71mQ4htDU1L._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Ppbmocw-Tiffany-Stained-Mushroom-8X11inch/dp/B0CNP5JZMX?tag=orlaloom-20
   - name: 'Cordless Rechargeable Mushroom Table Lamp (3-Color, Dimmable)'
@@ -112,6 +118,7 @@ products:
       It is a night-light-class glow rather than a task light, and the
       lightweight body feels less premium than the glass or ceramic picks.
     image: 'https://m.media-amazon.com/images/I/712exC52VHL._AC_SL1500_.jpg'
+    added: '2026-07-22'
     url: 'https://www.amazon.com/dp/B0G2Q9LB3V?tag=orlaloom-20'
   - name: 'BOHON Ceramic Mushroom Lamp with Wood Base, Pink'
     brand: BOHON
@@ -127,6 +134,7 @@ products:
       Pink is commitment: it is the piece the whole corner ends up styled
       around, so make sure your palette wants it.
     image: 'https://m.media-amazon.com/images/I/71RkiGnZuaL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0CPLRGDP8?tag=orlaloom-20'
   - name: "MUSEDS Vintage Milk Glass Mushroom Table Lamp"
     image: "https://m.media-amazon.com/images/I/71nnND-K9FL._AC_SL1500_.jpg"
@@ -136,6 +144,7 @@ products:
     badge: "Most vintage"
     blurb: "Opaque milk glass instead of the usual coloured art glass, so it glows a warm cream rather than throwing tinted light — the closest thing here to a real mid-century original."
     caveat: "Milk glass hides the bulb but also dims it; this is a bedside and console lamp, not a reading light."
+    added: '2026-08-17'
     url: "https://www.amazon.com/dp/B0G1MRHWK4?tag=orlaloom-20"
 faqs:
   - q: Are mushroom lamps bright enough to read by?

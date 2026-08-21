@@ -25,6 +25,7 @@ products:
     caveat: >-
       These are real botanicals, so slices vary in size and color — that's the
       charm, but don't expect factory uniformity.
+    added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B0FVCGV4LN?tag=orlaloom-20'
   - name: Indianshelf Handcrafted Vintage Glass Ornaments with Gift Box (25 Pieces)
     image: 'https://m.media-amazon.com/images/I/91cxGTCBaEL._AC_SL1500_.jpg'
@@ -41,6 +42,7 @@ products:
     caveat: >-
       Real glass, really breakable — hang these above the reach of toddlers and
       tail-wagging dogs.
+    added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B099PHBHS1?tag=orlaloom-20'
   - name: 'Rustic Dried Orange Slice Garland, 10.3 ft'
     image: 'https://m.media-amazon.com/images/I/81gO6tg7TBL._AC_SL1500_.jpg'
@@ -57,6 +59,7 @@ products:
     caveat: >-
       It arrives coiled, so give it a day hanging to relax out of its packing
       curve.
+    added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B0G2GB71QT?tag=orlaloom-20'
   - name: 'Fesciory Cable Knit Christmas Stockings, 18 in (Set of 6)'
     image: 'https://m.media-amazon.com/images/I/91YMZaAn+ML._AC_SL1500_.jpg'
@@ -73,6 +76,7 @@ products:
     caveat: >-
       The knit stretches when loaded — heavy gifts belong under the tree, not in
       the toe.
+    added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B09BYTPGGZ?tag=orlaloom-20'
   - name: 'KINGLAKE Red & White Gingham Wired Ribbon, 2.5 in x 11 yd'
     image: 'https://m.media-amazon.com/images/I/81IBa1aEXEL._AC_SL1500_.jpg'
@@ -89,6 +93,7 @@ products:
     caveat: >-
       The wired edge is the point, but it means this isn't the ribbon for
       soft-drape wrapping jobs.
+    added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B0FKGB42MN?tag=orlaloom-20'
   - name: 'Nordic Straw Ornament Set — Stars, Snowflakes, Hearts & Angels'
     image: 'https://m.media-amazon.com/images/I/81avag5jTBL._AC_SL1500_.jpg'
@@ -105,6 +110,7 @@ products:
     caveat: >-
       Straw is delicate at the points; store them flat in their box rather than
       tossed in an ornament bin.
+    added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B0FR3G6GSY?tag=orlaloom-20'
 faqs:
   - q: Will dried orange decorations attract bugs or go moldy?

@@ -17,6 +17,7 @@ products:
       hook, so you can trial it on a shelf before committing to the wall.
     caveat: Sold as a single plate — you'll need several to build a wall.
     image: 'https://m.media-amazon.com/images/I/71+2Tmo8lUL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Ceramic-Display-Farmhouse-Vintage-Decorative/dp/B0FXFYMVP8?tag=orlaloom-20
   - name: 'Yiyiring Holland Blue & White Plate Set (10 Pieces, Mixed Sizes)'
@@ -32,6 +33,7 @@ products:
       These are thin decorative ceramic, not heavy heirloom china — lovely on a
       wall, not for dinner.
     image: 'https://m.media-amazon.com/images/I/81hXfArW+KL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Yiyiring-Holland-Sculpture-Dinnerware-Ornament/dp/B0G48NDWWX?tag=orlaloom-20
   - name: 'Ayennur Turkish Hand-Painted Ceramic Plates, Set of 3 (7 in)'
@@ -47,6 +49,7 @@ products:
       Bolder and more colorful than a soft floral scheme; best as accents among
       quieter plates.
     image: 'https://m.media-amazon.com/images/I/91p4A2xM32L._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Ayennur-Turkish-Decorative-Handmade-Ceramic/dp/B08971YZF3?tag=orlaloom-20
   - name: William Morris Pink Roses & Iris Decorative Plate (with Stand/Hook)
@@ -60,6 +63,7 @@ products:
       there's no drilling.
     caveat: 'A printed reproduction on a modern blank, not antique china.'
     image: 'https://m.media-amazon.com/images/I/71Jds56xCfL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Christmas-Decorative-Customize-Decorations-Vertical/dp/B0FT28YKJ9?tag=orlaloom-20
   - name: 'Bordallo Pinheiro Green Cabbage Plate / Charger (12 in, Portugal Majolica)'
@@ -74,6 +78,7 @@ products:
       Heavy earthenware, so use a sturdy spring hanger, not a light adhesive
       disc.
     image: 'https://m.media-amazon.com/images/I/815YZExOJxL._SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Bordallo-Pinheiro-Cabbage-Portugal-Majolica/dp/B07QKFG1HT?tag=orlaloom-20
   - name: 'Pink Rose Blossoms Decorative Plate (8 in, with Stand, Hook & Sticker)'
@@ -87,6 +92,7 @@ products:
       pieces.
     caveat: Value-priced ceramic; the glaze and print are simpler up close.
     image: 'https://m.media-amazon.com/images/I/71yc-C9BWSL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Decorative-Roses-Flower-Blossoms-Collectible/dp/B0CDTVHMPZ?tag=orlaloom-20
   - name: 'Flatirons Invisible Disc Adhesive Plate Hangers (Variety Pack, 15 ct)'
@@ -102,6 +108,7 @@ products:
       Needs a full cure time (often 24 hours-plus) before hanging, and works
       best on lighter plates.
     image: 'https://m.media-amazon.com/images/I/81Y3XngkFEL._AC_SL1420_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Flatirons-Disc-Invisible-English-Adhesive/dp/B07Q1DFPGW?tag=orlaloom-20
   - name: 'Creative Hobbies Deluxe Spring Plate Hangers (3 Sizes, Gold Wire)'
@@ -117,6 +124,7 @@ products:
       The wire arms are faintly visible at the plate's edges, unlike the
       invisible discs.
     image: 'https://m.media-amazon.com/images/I/71pGZWsv8WL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Creative-Hobbies-Deluxe-Display-Hangers/dp/B0792C9RHT?tag=orlaloom-20
 faqs:

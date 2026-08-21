@@ -19,6 +19,7 @@ products:
     caveat: >-
       A busy print that can feel a little traditional; wash gently to keep it
       soft.
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Greenland-Home-Blooming-Prairie-Quilt/dp/B003G2ZVT4?tag=orlaloom-20
   - name: Greenland Home Antique Chic Patchwork Quilt Set
@@ -31,6 +32,7 @@ products:
       Cotton patchwork with full bedspread coverage in a soft, faded palette
       that suits a sun-washed room.
     caveat: 'Runs oversized and long, so it may pool on the floor.'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Greenland-Home-Antique-3-Piece-Bedspread/dp/B003RWTN8S?tag=orlaloom-20
   - name: Greenland Home Ditsy Ruffle Quilt Set
@@ -68,6 +70,7 @@ products:
       A cotton floral-medallion quilt, reversible, with a slightly more grown-up
       French feel.
     caveat: More medallion and damask than a true tiny ditsy print.
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Levtex-Margaux-Queen-Cotton-Damask/dp/B00T6OTIJU?tag=orlaloom-20
   - name: Laura Ashley Floral Quilt Set
@@ -80,6 +83,7 @@ products:
       The original cottage-floral name, with several small-floral patterns to
       choose from.
     caveat: Patterns rotate seasonally and the best ones sell out.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B07W8S5531?tag=orlaloom-20'
 faqs:
   - q: Are these warm enough on their own?

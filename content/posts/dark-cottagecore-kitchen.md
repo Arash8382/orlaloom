@@ -33,6 +33,7 @@ products:
       of 'dark' cottagecore — the easiest, cheapest mood upgrade.
     caveat: 'Brass-finished metal, not solid brass — lovely for decor, but it''s plated.'
     image: 'https://m.media-amazon.com/images/I/715IJSAc9JL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Vintage-Candlestick-Candle-Holders-Brass/dp/B0CNLX2V7T?tag=orlaloom-20
   - name: Washed Linen Ruffle-Edge Napkins (Set of 4)
@@ -45,6 +46,7 @@ products:
       — the textile that makes a moody table feel lived-in, not staged.
     caveat: Handmade lead times can run 1–3 weeks; colors read softer in person.
     image: 'https://m.media-amazon.com/images/I/71UUQ314NiL._AC_SX679_.jpg'
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0F1CZVMF9?tag=orlaloom-20'
   - name: Brown Transferware Serving Platter (Vintage)
     brand: English ironstone
@@ -58,6 +60,7 @@ products:
       Authentic vintage is single-quantity; some are display-only, so check
       food-safety notes.
     image: 'https://m.media-amazon.com/images/I/71+nasmBupL._AC_SX679_.jpg'
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0FTZSKZ9X?tag=orlaloom-20'
   - name: Scalloped Stoneware Cake Stand
     brand: House of Jade Home

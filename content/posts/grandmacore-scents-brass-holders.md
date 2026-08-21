@@ -19,6 +19,7 @@ products:
       Brass-finished metal, not solid brass, so it won't develop a true antique
       patina.
     image: 'https://m.media-amazon.com/images/I/51GxOUu2WbL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Nuptio-Candlestick-Decorative-Centerpiece-Housewarming/dp/B07W554ZNB?tag=orlaloom-20
   - name: Vintage Solid Brass Candlesticks
@@ -72,6 +73,7 @@ products:
       Lightweight metal with a decorative brass-tone finish, not
       heirloom-weight.
     image: 'https://m.media-amazon.com/images/I/517LEwjQFnL._AC_SL1000_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Candlestick-Centerpiece-Decorative-Candlelight-Reception/dp/B07W7KWNY6?tag=orlaloom-20
 faqs:

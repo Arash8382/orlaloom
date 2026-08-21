@@ -26,6 +26,7 @@ products:
       You are paying a real premium for lightness, longevity and the name — if
       this is your first Dutch oven and you're not sure you'll use it weekly,
       start cheaper and upgrade later.
+    added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B00VA5HG0Q?tag=orlaloom-20'
   - name: 'Lodge Essential Enamel Cast Iron Dutch Oven, 6 qt, Caribbean Blue'
     image: 'https://m.media-amazon.com/images/I/715gJs8aBqL._AC_SL1500_.jpg'
@@ -44,6 +45,7 @@ products:
       About 2 lbs heavier than the equivalent Le Creuset, and the rim is bare
       cast iron under the lid — dry it after washing or it can show surface
       rust.
+    added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B000N4WN08?tag=orlaloom-20'
   - name: 'Lodge Essential Enamel Cast Iron Dutch Oven, 7.5 qt, Indigo'
     image: 'https://m.media-amazon.com/images/I/61DD75S7d8S._AC_SL1500_.jpg'
@@ -62,6 +64,7 @@ products:
     caveat: >-
       It's a big, heavy pot (around 17 lbs loaded lid) — think about where it
       will live, because it won't be a cabinet you lift it out of daily.
+    added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B096L1F6DM?tag=orlaloom-20'
   - name: 'Crock-Pot Artisan Round Dutch Oven, 7 qt, Matte Linen White with Gold Knob'
     image: 'https://m.media-amazon.com/images/I/61dzFa+kWXL._AC_SL1500_.jpg'
@@ -80,6 +83,7 @@ products:
       The interior enamel is dark, which makes it harder to judge fond and
       browning than Le Creuset's light sand interior — and matte white exteriors
       need a gentler sponge to stay pristine.
+    added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B0CT43ZHQM?tag=orlaloom-20'
   - name: 'Cuisinart Chef''s Classic Enameled Cast Iron Dutch Oven, 5 qt, Gray/Sage'
     image: 'https://m.media-amazon.com/images/I/51CKz54eKHL._AC_SL1331_.jpg'
@@ -97,6 +101,7 @@ products:
     caveat: >-
       Cuisinart's lid knob is phenolic on some batches — check yours before
       broiling, and swap in a $10 steel knob if you roast above 450°F often.
+    added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B0CG7NB5H6?tag=orlaloom-20'
   - name: 'Amazon Basics Enameled Cast Iron Dutch Oven, 6 qt, Light Pink'
     image: 'https://m.media-amazon.com/images/I/61euZKKruFL._AC_SL1500_.jpg'
@@ -116,6 +121,7 @@ products:
       Quality control is more variable than the name brands — inspect the enamel
       on arrival and return any pot with chips or rough spots. Expect a 5-year
       pot, not a 50-year one.
+    added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B07Y6TRH27?tag=orlaloom-20'
 faqs:
   - q: Are Dutch oven dupes safe to cook in?

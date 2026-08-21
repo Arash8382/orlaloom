@@ -28,6 +28,7 @@ products:
     caveat: >-
       The cream color is lovely but shows tomato-based soup stains if left
       overnight — rinse before the movie, not after.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0F83ZF6Z6?tag=orlaloom-20'
   - name: 'FYUEROPA Pumpkin Bowl Set with Lid and Handle, Set of 2 Stoneware Ramekins, 14 oz'
     image: 'https://m.media-amazon.com/images/I/51OxJoD-SrL._AC_SL1500_.jpg'
@@ -46,6 +47,7 @@ products:
     caveat: >-
       Only two bowls per set — hosting six means buying three sets, at which
       point the Maxdot set is the better deal.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0B6SXBDR6?tag=orlaloom-20'
   - name: 'Certified International Harvest Morning 11 in Dinner Plates, Set of 4'
     image: 'https://m.media-amazon.com/images/I/81v6M+CCxeL._AC_SL1500_.jpg'
@@ -65,6 +67,7 @@ products:
       The painted design means hand-washing is safest long-term, though
       they're rated dishwasher-safe; avoid the microwave-scorch risk and
       reheat on something plainer.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0B4BDT95F?tag=orlaloom-20'
   - name: 'Certified International Harvest Morning Pumpkin Platter, 13.75 in x 11.5 in'
     image: 'https://m.media-amazon.com/images/I/71NUp6uFiqL._AC_SL1500_.jpg'
@@ -83,6 +86,7 @@ products:
     caveat: >-
       It's ceramic and sizeable — store it upright in a plate rack rather
       than stacked under heavy dishes.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0B4BHJXRY?tag=orlaloom-20'
   - name: 'Nat & Jules Pumpkin Shaped 8 in Ceramic Plates, Set of 4, White'
     image: 'https://m.media-amazon.com/images/I/51CU4+3um0L._AC_SL1500_.jpg'
@@ -101,6 +105,7 @@ products:
     caveat: >-
       At 8 in they're accent and dessert plates, not dinner plates — and
       stock runs low as fall approaches, so don't sit on this one.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0BP9FR8MZ?tag=orlaloom-20'
   - name: 'Nordic Ware Harvest Bounty Loaf Pan, Cast Aluminum'
     image: 'https://m.media-amazon.com/images/I/81-3du31uTL._AC_SL1500_.jpg'
@@ -119,6 +124,7 @@ products:
     caveat: >-
       Intricate molds demand thorough greasing — brush melted butter or
       baking spray into every crevice, and hand-wash only.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B075HJGHKN?tag=orlaloom-20'
 ---
 

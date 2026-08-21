@@ -25,6 +25,7 @@ products:
     blurb: "The best-rated rug in our sample at 4.7 stars across 5,793 ratings, and softness was the single most-praised trait owners mentioned."
     caveat: "Owners repeatedly describe it as thin - budget for a rug pad."
     image: "https://m.media-amazon.com/images/I/81lZ1BiqiRL._AC_SL1500_.jpg"
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0D3KWKWTW?tag=orlaloom-20"
   - name: "Dadasgk Pink Floral Scalloped 5x7 Washable Rug"
     brand: "Dadasgk"
@@ -33,6 +34,7 @@ products:
     blurb: "4.6 stars across 5,439 ratings, with the scalloped border that owners buying for nurseries and bedrooms kept calling out."
     caveat: "Same thinness tradeoff as the category; creasing takes a few days to relax."
     image: "https://m.media-amazon.com/images/I/91mDdEvJOYL._AC_SL1500_.jpg"
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0FPC7TWDR?tag=orlaloom-20"
   - name: "Vionnet Modern Parisian Insect Beige Rug"
     brand: "Lahome"
@@ -41,6 +43,7 @@ products:
     blurb: "A quieter neutral for rooms where the rug should not shout; 4.4 stars on a listing spanning many colours and sizes."
     caveat: "Rating count covers all variations, not this colourway alone."
     image: "https://lahomedecor.com/cdn/shop/files/5x7LahomeVionnetWashableModernParisianInsectBeigeRug_7477288b-3b48-4f49-a42f-8d5fafe8f095.webp"
+    added: '2026-07-08'
     url: "https://www.amazon.com/dp/B0CYLL9LQD?tag=orlaloom-20"
   - name: "Flore Boho Parisian Floral Scalloped Brown Rug"
     brand: "Lahome"
@@ -49,6 +52,7 @@ products:
     blurb: "The warm-brown scalloped floral - the most forgiving of the four for high-traffic rooms and pets."
     caveat: "Also 4.4 stars across a multi-variation listing; check the exact size before ordering."
     image: "https://lahomedecor.com/cdn/shop/files/5x7lahomeBohoModernParisianFloralbrownwashableAreaRug_1.webp"
+    added: '2026-07-08'
     url: "https://www.amazon.com/dp/B0DC9Y26S4?tag=orlaloom-20"
 ---
 

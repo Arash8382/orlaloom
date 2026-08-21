@@ -13,6 +13,7 @@ products:
     blurb: "The stand mixer every retro roundup is measured against: a die-cast 1950s silhouette, 10 speeds, a 5-quart stainless bowl and that unmistakable pastel enamel finish that turns a counter into a set piece."
     caveat: "You are paying flagship KitchenAid money for a mixer that bakes like machines a third of its price — this one is as much furniture as tool."
     image: "https://m.media-amazon.com/images/I/51Dq5W2Z89L._AC_SL1300_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B0CGY2PCRY?tag=orlaloom-20"
   - name: "Cuisinart Precision Master 5.5-Qt Stand Mixer (Robin's Egg, SM-50TQ)"
     brand: "Cuisinart"
@@ -22,6 +23,7 @@ products:
     blurb: "The strongest baker on this list: a 500-watt, 12-speed, all-metal workhorse whose soft robin's-egg blue happens to be one of the prettiest pastels any appliance brand makes — it kneads real bread dough without complaint."
     caveat: "It is a rounded-modern shape rather than a true 1950s silhouette, and at over 17 pounds it is not a mixer you casually move around."
     image: "https://m.media-amazon.com/images/I/51x5TWsDQUL._AC_SL1024_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B074MPMPXS?tag=orlaloom-20"
   - name: "Martha Stewart 5.3-Qt 12-Speed Tilt-Head Stand Mixer (Honeydew Green)"
     brand: "Martha Stewart"
@@ -31,6 +33,7 @@ products:
     blurb: "The sweet spot of the list: a full-size 5.3-quart bowl, 12 speeds, tilt-head design and a soft honeydew-green finish that photographs like a mixer twice its price — with whisk, dough hook, beater and splash guard included."
     caveat: "A newer listing without years of review history behind it, and the finish is paint over metal rather than Smeg-style enamel."
     image: "https://m.media-amazon.com/images/I/71G6VWw-zrL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B0GJG3NNFR?tag=orlaloom-20"
   - name: "Culinary Chef 4.75-Qt Retro Stand Mixer (Pink)"
     brand: "Culinary Chef"
@@ -40,6 +43,7 @@ products:
     blurb: "The most convincing vintage silhouette under $100 — a curvy, chrome-trimmed body in soft pink with 8 speeds and a 4.75-quart bowl that looks straight out of a 1950s diner kitchen."
     caveat: "The body is lighter than it looks, so it can walk on the counter with heavy dough — keep a hand on it for bread."
     image: "https://m.media-amazon.com/images/I/61ZQlVnZaGL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B07Y8VK3TL?tag=orlaloom-20"
   - name: "Kitchen in the box 3.2-Qt Compact Stand Mixer (Blue)"
     brand: "Kitchen in the box"
@@ -49,6 +53,7 @@ products:
     blurb: "A 3.2-quart, 6-speed mixer that weighs so little you can store it in a cabinet and lift it out one-handed — the pastel blue reads surprisingly premium for the price, and it comes with whisk, dough hook and beater."
     caveat: "The smaller bowl tops out around a single batch of cookie dough; big-batch bakers will outgrow it quickly."
     image: "https://m.media-amazon.com/images/I/61anBuiHUhL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B09BVDKSTN?tag=orlaloom-20"
   - name: "Dash Everyday 3-Qt Compact Tilt-Head Stand Mixer (Aqua)"
     brand: "Dash"
@@ -58,6 +63,7 @@ products:
     blurb: "Dash's pastel-aqua entry point to stand mixing: 6 speeds, a 3-quart stainless bowl, a genuinely tiny footprint and the same cheerful color family as its cult-favorite mini appliances."
     caveat: "It is a light-duty machine — perfect for cakes, cookies and frosting, but dense bread dough is beyond its pay grade."
     image: "https://m.media-amazon.com/images/I/713lD9y3qsL._AC_SL1500_.jpg"
+    added: '2026-07-21'
     url: "https://www.amazon.com/dp/B00PYM7QEW?tag=orlaloom-20"
 updated: '2026-08-20'
 ---

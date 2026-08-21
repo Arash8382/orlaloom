@@ -35,6 +35,7 @@ products:
       A busy print that can feel a little traditional; wash gently to keep it
       soft.
     image: 'https://m.media-amazon.com/images/I/91eNIWEHMtL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Greenland-Home-Blooming-Prairie-Quilt/dp/B003G2ZVT4?tag=orlaloom-20
   - name: Esschert Design Aged Terracotta Pots (Set of 3)
@@ -47,6 +48,7 @@ products:
       for a mantel of mums, dried wheat, or a cluster of mini pumpkins.
     caveat: '''Aged'' finishes are often painted and can wear unevenly outdoors.'
     image: 'https://m.media-amazon.com/images/I/51mwmR29Y+L.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B007JHXXRY?tag=orlaloom-20'
   - name: BEBE BASK Scalloped Wicker Wall Basket (16 x 10 in)
     brand: BEBE BASK
@@ -60,6 +62,7 @@ products:
       It's one basket at this price, so it's an investment piece rather than a
       budget filler.
     image: 'https://m.media-amazon.com/images/I/81rzxA9Jo4L._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0D7PLDGPD?tag=orlaloom-20'
   - name: 'Golden Rabbit Enamelware Pitcher, 1 qt (Swirl)'
     brand: Golden Rabbit
@@ -72,6 +75,7 @@ products:
       autumn tablescape.
     caveat: 1 qt is modest — more for serving and decor than big pours.
     image: 'https://m.media-amazon.com/images/I/71wto4T9EqL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Golden-Rabbit-Enamelware-Glass-Pitcher/dp/B085TQHDY6?tag=orlaloom-20
   - name: Mora Ceramics Stoneware Mug
@@ -86,6 +90,7 @@ products:
       Leans clean-modern, so it's cottagecore-adjacent rather than overtly
       rustic.
     image: 'https://m.media-amazon.com/images/I/61vbV+u+89L.jpg'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B09H9ZPGXP?tag=orlaloom-20'
   - name: "Creative Co-Op Recycled Cotton Throw Blanket with Fringe, Brown Plaid"
     image: "https://m.media-amazon.com/images/I/919obxMA5pL._AC_SL1500_.jpg"
@@ -95,6 +100,7 @@ products:
     badge: "Best throw"
     blurb: "A soft brown-plaid recycled-cotton throw with a hand-knotted fringe — the one layer that turns a summer sofa into an autumn one for the price of two candles."
     caveat: "It is a light, breathable weave rather than a heavy wool blanket, so it drapes beautifully but warms modestly."
+    added: '2026-08-17'
     url: "https://www.amazon.com/dp/B0B55VVTFX?tag=orlaloom-20"
   - name: "Sukh Dried Wheat Stalks, 100 Stems"
     image: "https://m.media-amazon.com/images/I/71V9W3d7xOL._AC_SL1500_.jpg"
@@ -104,6 +110,7 @@ products:
     badge: "Best under $10"
     blurb: "A hundred natural wheat stems, enough to fill two or three pitchers — the cheapest genuinely seasonal thing you can put on a table, and it lasts years dry."
     caveat: "Stems arrive compressed and need a day to relax, and they shed a little; trim to height rather than bending them."
+    added: '2026-08-17'
     url: "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20"
   - name: "Antique Brass Iron Taper Candle Holders (Set of 3)"
     brand: "SUJUN"
@@ -113,6 +120,7 @@ products:
     image: "https://m.media-amazon.com/images/I/61FW5ipX1dL._AC_SL1500_.jpg"
     blurb: "Cast iron finished in soft antique brass, in three heights (roughly 7, 9 and 11 inches) so a single set builds the stepped centrepiece that reads instantly autumnal. The molded, slightly irregular shape is the point — it looks salvaged rather than bought, and it carries a plain beeswax taper better than anything polished. Grouped on a wooden board with a few dried stems, it does more for a fall table than any pumpkin."
     caveat: "They are cast iron, so they are heavy and the bases can mark a bare wood table — use felt pads or a runner. The cups fit standard 0.8 inch tapers only; slim dinner candles wobble without a stub of putty."
+    added: '2026-08-20'
     url: "https://www.amazon.com/dp/B0BV9XJF8Q?tag=orlaloom-20"
 faqs:
   - q: What makes decor "cottagecore" for fall?

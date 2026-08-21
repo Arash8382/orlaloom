@@ -13,6 +13,7 @@ products:
     blurb: "Chrome accents, a curved retro body, and bagel/defrost settings at roughly a quarter of the Smeg price — the best-known affordable dupe."
     caveat: "Plasticky build vs. Smeg's enamel-and-steel, and browning can be slightly uneven."
     image: "https://m.media-amazon.com/images/I/61oSag6C5+S._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Heritage-Toaster-Removable-Settings-Turquoise/dp/B096T892FS?tag=orlaloom-20"
   - name: "Haden Heritage 1.7L Electric Kettle"
     brand: "Haden"
@@ -22,6 +23,7 @@ products:
     blurb: "The retro kettle that pairs with the toaster — stainless body, 360° base, auto shut-off, and a water-level window."
     caveat: "Limited colors (turquoise, English rose, white) and no variable temperature."
     image: "https://m.media-amazon.com/images/I/61NaPoTFjFL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/HERITAGE-Stainless-Electric-Protection-Turquoise/dp/B07WT7ND3F?tag=orlaloom-20"
   - name: "Zulay Handheld Milk Frother"
     brand: "Zulay"
@@ -31,6 +33,7 @@ products:
     blurb: "A battery handheld frother in genuinely pretty pastels (mint, bubblegum, aqua, lavender) — the perfect cottagecore latte prop."
     caveat: "Color availability rotates; aqua and bubblegum are the most reliably stocked."
     image: "https://m.media-amazon.com/images/I/811azKMn+yL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Zulay-Milk-Frother-Fresh-Mint/dp/B08M9784NT?tag=orlaloom-20"
   - name: "Dash Mini Waffle Maker (Aqua)"
     brand: "Dash"
@@ -40,6 +43,7 @@ products:
     blurb: "The 4-inch mini waffle iron in pastel aqua — cheap, cute, and a guaranteed cottagecore-shelf charmer."
     caveat: "Truly mini — makes one small waffle at a time, not built for a crowd."
     image: "https://m.media-amazon.com/images/I/61+fTyek2TL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01M9I779L?tag=orlaloom-20"
   - name: "Dash Everyday Hand Mixer (Aqua)"
     brand: "Dash"
@@ -49,6 +53,7 @@ products:
     blurb: "A 3-speed pastel-aqua hand mixer with one-touch beater eject and onboard storage — an affordable pastel mixer that actually bakes."
     caveat: "Only three speeds and a lower-wattage motor; fine for batters, underpowered for stiff dough."
     image: "https://m.media-amazon.com/images/I/71UuXj9WQbL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Dash-SmartStore-Hand-Mixer-Attachments/dp/B08XSGX1FB?tag=orlaloom-20"
   - name: "Dash Personal USB Bottle Blender (Aqua)"
     brand: "Dash"
@@ -58,6 +63,7 @@ products:
     blurb: "A rechargeable single-serve blender with a travel lid in matching pastel aqua — blends a smoothie right in the bottle, no outlet needed."
     caveat: "Personal-size (~16 oz) and USB-rechargeable, so it's for single drinks, not batch blending."
     image: "https://m.media-amazon.com/images/I/71emWdAZ+5L._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Personal-Blender-Charging-Single-Serve-Smoothie/dp/B0BQNBJS58?tag=orlaloom-20"
 ---
 

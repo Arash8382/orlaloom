@@ -31,6 +31,7 @@ products:
     caveat: >-
       It weighs what real cast iron weighs — around 14 pounds empty — so plan
       for it to live on the stovetop, not in a high cabinet.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0B41F5CRJ?tag=orlaloom-20'
   - name: 'Homaxy 100% Cotton Waffle Weave Kitchen Dish Towels, Eggplant, Set of 4'
     image: 'https://m.media-amazon.com/images/I/81XdZegLXFL._AC_SL1500_.jpg'
@@ -51,6 +52,7 @@ products:
     caveat: >-
       Like all waffle cotton they shed a little lint the first two or three
       washes — run them through the laundry once before their close-up.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0FCXWK7KZ?tag=orlaloom-20'
   - name: 'JIEMEI HOME Farmhouse Ceramic Utensil Crock with Cork Mat, Antique Purple'
     image: 'https://m.media-amazon.com/images/I/81KcottWZpL._AC_SL1500_.jpg'
@@ -70,6 +72,7 @@ products:
     caveat: >-
       The glaze varies piece to piece — that is the charm, but if you want two
       identical crocks, order them together and expect slight differences.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0FQ57R6ZP?tag=orlaloom-20'
   - name: Reston Lloyd Plum Spoon Rest for Kitchen Counter
     image: 'https://m.media-amazon.com/images/I/71woFuEbhdL._AC_SL1500_.jpg'
@@ -89,6 +92,7 @@ products:
     caveat: >-
       It is plastic, and up close it looks like nice plastic rather than ceramic
       — the trade-off for being effectively unbreakable.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B005EOSS42?tag=orlaloom-20'
   - name: 'Comfify Purple Mason Jar Ceramic Sponge Holder, Farmhouse Sink Caddy'
     image: 'https://m.media-amazon.com/images/I/51l5y4F69cL._AC_SL1500_.jpg'
@@ -107,6 +111,7 @@ products:
     caveat: >-
       It holds one standard sponge plus the included scrubby; oversized
       double-thick sponges need a squeeze to fit.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B07C9GT6ZZ?tag=orlaloom-20'
   - name: 'TWOPAGES Linen Blend Pinch Pleat Cafe Curtains, Plum, 2 Panels'
     image: 'https://m.media-amazon.com/images/I/81EpW4MAVHL._AC_SL1500_.jpg'
@@ -126,6 +131,7 @@ products:
     caveat: >-
       They are made to order, so allow roughly a week before shipping — and clip
       rings are sold separately.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0G48NMJ1V?tag=orlaloom-20'
   - name: 'CaliTime Chenille Throw Pillow Covers, Plum Purple, 18 x 18, Set of 4'
     image: 'https://m.media-amazon.com/images/I/81x9eTyhY7L._AC_SL1500_.jpg'
@@ -145,6 +151,7 @@ products:
     caveat: >-
       These are covers only — they want 20-inch inserts for that plump,
       overstuffed look, so size up on the fills.
+    added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0C1MNWYJP?tag=orlaloom-20'
 faqs:
   - q: Is aubergine too dark for a small kitchen?

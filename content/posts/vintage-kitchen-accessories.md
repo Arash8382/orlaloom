@@ -33,6 +33,7 @@ products:
     blurb: "The iconic tilt-head mixer in soft pastels like Ice Blue or Pistachio — the cottagecore counter showpiece that also actually bakes."
     caveat: "Big-ticket, and pastel/limited shades cost more and aren't always in stock."
     image: "https://m.media-amazon.com/images/I/61u2QA5G7+L.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B07QJR3W3V?tag=orlaloom-20"
   - name: "Ceramic Cottagecore Canister Set"
     brand: "Independent makers"
@@ -42,6 +43,7 @@ products:
     blurb: "Handmade flour, sugar, and coffee canisters with vintage glaze and wood lids — instant counter-ready cottage character."
     caveat: "Handmade means lead times and size variation; sealing isn't always airtight, so check the listing."
     image: "https://m.media-amazon.com/images/I/71H07Cqy5AL._AC_SX679_.jpg"
+    added: '2026-07-23'
     url: "https://www.amazon.com/dp/B0F3NY87WH?tag=orlaloom-20"
   - name: "Red Co. Enamelware Colander (10.5 in)"
     brand: "Enamelware"
@@ -51,6 +53,7 @@ products:
     blurb: "A speckled enamel-on-steel colander that doubles as a fruit bowl on display — function and farmhouse charm in one."
     caveat: "Enamel can chip if dropped, exposing the steel to rust over time."
     image: "https://m.media-amazon.com/images/I/61SLxIHlOFL.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B0973L5TQW?tag=orlaloom-20"
   - name: "Ruffled Gingham Dish Towels (Set of 4)"
     brand: "Various"
@@ -60,6 +63,7 @@ products:
     blurb: "Classic gingham-check cotton towels — the cheapest, fastest way to make a kitchen feel instantly cottagecore."
     caveat: "Cheaper sets are thin and can shrink or fray; check the weight and material."
     image: "https://m.media-amazon.com/images/I/71kNd1JijSL.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B0H2942K9G?tag=orlaloom-20"
   - name: "Ceramic Utensil Crock"
     brand: "Various"
@@ -69,6 +73,7 @@ products:
     blurb: "A glazed ceramic crock to corral wooden spoons and rolling pins — a functional cottagecore staple that earns its counter space."
     caveat: "Heavy ceramic can chip, and wide-mouth styles tip if overloaded on one side."
     image: "https://m.media-amazon.com/images/I/81QrXm2+idL.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B0GWZRH3CP?tag=orlaloom-20"
   - name: "Crow Canyon Home Enamelware Mug, 12 oz (Splatter)"
     image: "https://m.media-amazon.com/images/I/91eCdPAYyuL._AC_SL1500_.jpg"
@@ -78,6 +83,7 @@ products:
     badge: "The icon"
     blurb: "The quintessential hand-flicked splatter camp mug — instantly nostalgic and endlessly photogenic."
     caveat: "Enamel-over-steel chips if dropped, and it gets hot with hot drinks."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Enamelware-Coffee-Mug-Cream-Marble/dp/B0025YYHR6?tag=orlaloom-20"
   - name: "Golden Rabbit Enamelware Dinner Plates (Set of 4)"
     image: "https://m.media-amazon.com/images/I/815mSdVh4RL._AC_SL1500_.jpg"
@@ -87,6 +93,7 @@ products:
     badge: "Best plates"
     blurb: "Carbon-steel core with stainless rims, oven-to-table safe, in a swirl pattern that varies charmingly piece to piece."
     caveat: "Not microwave-safe, and the rims can chip over years of use."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Golden-Rabbit-Enamelware-Dinner-Plates/dp/B08DHHMDZM?tag=orlaloom-20"
   - name: "Golden Rabbit Enamelware Pitcher, 1 qt (Swirl)"
     image: "https://m.media-amazon.com/images/I/71wto4T9EqL._AC_SL1500_.jpg"
@@ -96,6 +103,7 @@ products:
     badge: "Doubles as a vase"
     blurb: "A swirl-pattern pitcher that's as happy holding wildflowers as it is iced tea."
     caveat: "1 qt is modest — more for serving and decor than big pours."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Golden-Rabbit-Enamelware-Glass-Pitcher/dp/B085TQHDY6?tag=orlaloom-20"
   - name: "Falcon Enamelware Mug (Pigeon Grey)"
     image: "https://www.falconenamelware.com/cdn/shop/products/tDmiSHWNStauWTv8CETL_falcon-mug-samphire-rgb-pkg_1024x1024.jpg?v=1637936901"
@@ -114,6 +122,7 @@ products:
     badge: "Best jug"
     blurb: "A tall, slim jug that's oven/freezer/dishwasher safe and looks lovely as a stem vase."
     caveat: "Premium price, and the slim profile holds less than it appears."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Falcon-Enamelware-Pint-Size-Pigeon/dp/B07CPH3QVK?tag=orlaloom-20"
   - name: "Golden Rabbit Enamelware Oval Platter (Swirl)"
     image: "https://m.media-amazon.com/images/I/81gHVyW0a6L._AC_SL1500_.jpg"
@@ -123,6 +132,7 @@ products:
     badge: "Statement serving"
     blurb: "A big swirl-pattern platter that anchors a farmhouse spread."
     caveat: "Bulky to store, and edges can chip with heavy use."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Golden-Rabbit-Enamelware-Serving-Platter/dp/B07BVWYY5T?tag=orlaloom-20"
   - name: "Vintage Farm Stoneware Mixing Bowl Set, 3-Piece (Embossed)"
     image: "https://m.media-amazon.com/images/I/71-cCzy3RhL._AC_SL1500_.jpg"
@@ -132,6 +142,7 @@ products:
     badge: "Best embossed"
     blurb: "A nesting 2 / 3 / 4.25-qt trio with embossed sides and a golden-honey glaze that reads instantly vintage."
     caveat: "Generic brand, so quality control can vary between sets."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Vintage-Stoneware-Embossed-Patterns-Golden-Honey/dp/B0DWNGKM38?tag=orlaloom-20"
   - name: "Mason Cash Cane 3-Piece Mixing Bowl Set"
     image: "https://images.thdstatic.com/productImages/274830253aaf43cd899e8c61647a7027/svn/cream-mason-cash-mixing-bowls-1800-155-64_1000.jpg"
@@ -150,6 +161,7 @@ products:
     badge: "Made in USA"
     blurb: "Hand-turned in Texas with the classic blue-stripe look; microwave, oven, and dishwasher safe."
     caveat: "Mostly sold as singles, so a full nested set adds up."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Heritage-Blue-Stripe-Stoneware-Mixing/dp/B00TU6EDLM?tag=orlaloom-20"
   - name: "Heritage Blue Stripe Mixing Bowls (Set of 4)"
     image: "https://www.lehmans.com/cdn/shop/files/c053323ad6a3b37cb70e0244f21f549055f18a1d_1101255_1_L.jpg?v=1777014404"
@@ -168,6 +180,7 @@ products:
     badge: "Best everyday"
     blurb: "Durable speckled, matte ceramic bowls that work just as well for prep as for display."
     caveat: "Modern-minimal styling is a softer fit for the vintage theme."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B09S7L95XR?tag=orlaloom-20"
   - name: "Cavendish Handcrafted Stoneware Mixing Bowls (Set of 3)"
     image: "https://www.vermontcountrystore.com/ccstore/v1/images/?source=/file/v348379567528641373/products/83782.main.png&height=475&width=475&outputFormat=JPEG"
@@ -186,6 +199,7 @@ products:
     badge: "Best glaze"
     blurb: "Signature graduated glaze, roomy 14 oz, and dishwasher/microwave-safe — a reliable everyday mug in an earthy shade."
     caveat: "Glossy colorways read more modern than rustic, so pick a muted tone for the cottage look."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Creuset-Stoneware-12-Ounce-Cerise-Cherry/dp/B003F24D1M?tag=orlaloom-20"
   - name: "East Fork The Mug"
     image: "https://cdn.shopify.com/s/files/1/2281/6071/products/0bf6ab403584803c9ca31e2fb74984444d506041-2000x2000.jpg?v=1773703028"
@@ -204,6 +218,7 @@ products:
     badge: "Best value set"
     blurb: "Affordable matched sets with reactive-glaze options — the easy way to get a coordinated speckled shelf."
     caveat: "Lines rotate, and some listings are porcelain rather than stoneware, so check the description."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B073WTW5FM?tag=orlaloom-20"
   - name: "Mora Ceramics Stoneware Mug"
     image: "https://m.media-amazon.com/images/I/61vbV+u+89L.jpg"
@@ -213,6 +228,7 @@ products:
     badge: "Oven-safe"
     blurb: "Handcrafted-look matte and speckled finishes that are oven- and microwave-safe for everyday use."
     caveat: "Leans clean-modern, so it's cottagecore-adjacent rather than overtly rustic."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B09H9ZPGXP?tag=orlaloom-20"
   - name: "Handmade Speckled Stoneware Mug"
     image: "https://m.media-amazon.com/images/I/712fewdVEEL._AC_SL1500_.jpg"
@@ -222,6 +238,7 @@ products:
     badge: "Maker-made"
     blurb: "A real handmade beige-speckled mug from an independent maker, with the little irregularities that make it feel special."
     caveat: "Limited stock and slower made-to-order shipping."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Handmade-Stoneware-Ceramic-speckled-breakfast/dp/B089FHW3QH?tag=orlaloom-20"
   - name: "Dreamstall Mushroom Mug with Lid"
     image: "https://m.media-amazon.com/images/I/71GIwGUn2pL._AC_SL1500_.jpg"
@@ -231,6 +248,7 @@ products:
     badge: "Most on-theme"
     blurb: "A sculpted stoneware mushroom mug with a matching lid and gift box — peak cottagecore whimsy that needs no extra styling."
     caveat: "A novelty shape, so it's more of a decorative statement piece than an everyday-stackable mug."
+    added: '2026-07-15'
     url: "https://www.amazon.com/Dreamstall-Stoneware-Decorative-Cottagecore-Aesthetics/dp/B0B62L9Q9B?tag=orlaloom-20"
   - name: "Tabletops Gallery Hobnail Stoneware Nesting Mixing Bowl Set, 4-Piece (Blue Storm)"
     image: "https://m.media-amazon.com/images/I/61iexfuF67L._AC_SL1500_.jpg"
@@ -240,6 +258,7 @@ products:
     badge: "Best budget bowls"
     blurb: "Four nesting bowls with a raised hobnail texture and a soft storm-blue glaze — the cheapest way to get the matched, stacked look in one box."
     caveat: "Thin stoneware chips at the rim if you stack it wet, and glaze consistency varies between sets."
+    added: '2026-08-17'
     url: "https://www.amazon.com/dp/B097QL3ZQP?tag=orlaloom-20"
   - name: "Amazon Basics Organic Cotton Waffle Weave Kitchen Dish Towels"
     image: "https://m.media-amazon.com/images/I/61eXrkleMBL._AC_SL1500_.jpg"
@@ -249,6 +268,7 @@ products:
     badge: "Best budget workhorse"
     blurb: "Organic cotton waffle towels at 15 by 25 inches — the plain, absorbent ones you actually dry dishes with, so the ruffled gingham set stays pretty on the oven rail."
     caveat: "Purely functional; there is no cottage detail here beyond the waffle texture itself."
+    added: '2026-08-08'
     url: "https://www.amazon.com/Amazon-Basics-Organic-Cotton-Waffle/dp/B0DQ5FVHC8?tag=orlaloom-20"
 ---
 

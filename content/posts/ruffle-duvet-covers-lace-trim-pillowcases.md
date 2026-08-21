@@ -13,6 +13,7 @@ products:
     badge: "Top pick"
     blurb: "Rows of soft, layered ruffles across the whole duvet face in breathable washed cotton — this is the shabby-chic waterfall look that anchors the entire romantic-ruffles trend, and it comes with two matching shams."
     caveat: "The multi-layer ruffles are the whole point, so expect a bed that reads sweet and feminine — this is not a minimalist piece."
+    added: '2026-07-15'
     url: "https://www.amazon.com/dp/B0GKNQXZQT?tag=orlaloom-20"
   - name: "RANZNAZ White Lace-Trim Cotton Percale Pillowcases, Set of 2 (20 x 30 in)"
     image: "https://m.media-amazon.com/images/I/81MEg7xe-kL._AC_SL1500_.jpg"
@@ -22,6 +23,7 @@ products:
     badge: "Best value"
     blurb: "Crisp 100% cotton percale cases with a delicate eyelet-lace edge and hidden envelope closure — the cheapest possible way to test-drive the lace-bedding look on a bed you already own."
     caveat: "Percale feels cool and crisp rather than silky; if you like buttery-soft sateen, these will feel starched at first."
+    added: '2026-07-15'
     url: "https://www.amazon.com/dp/B09YJ79GBW?tag=orlaloom-20"
   - name: "Meaning4 Shabby Chic Lace-Ruffle Pillow Shams, 2-Pack (Queen, 20 x 30 in)"
     image: "https://m.media-amazon.com/images/I/61GtbyPiZ-L._AC_SL1500_.jpg"
@@ -31,6 +33,7 @@ products:
     badge: "Most romantic"
     blurb: "A wide double ruffle finished with vintage-style lace makes these the showpiece shams of the list — stack them in front of plain pillowcases and the whole bed instantly looks styled."
     caveat: "The generous ruffle border adds visual width, so on a twin bed one sham is plenty."
+    added: '2026-07-15'
     url: "https://www.amazon.com/dp/B07ZH3LJV3?tag=orlaloom-20"
   - name: "Vlocemon Ruffled Cotton Bed Skirt with Lace Trim, 14 in Drop (Queen)"
     image: "https://m.media-amazon.com/images/I/71EyDKqgxhL._AC_SL1500_.jpg"
@@ -40,6 +43,7 @@ products:
     badge: "Best bed skirt"
     blurb: "A proper gathered dust ruffle in 100% cotton with a lace hem and split corners — it hides the box spring and under-bed storage while adding that old-fashioned, made-with-care finish."
     caveat: "The 14 in drop suits standard frames; measure first if your bed sits unusually high or low."
+    added: '2026-07-15'
     url: "https://www.amazon.com/dp/B0CLP2XKRH?tag=orlaloom-20"
   - name: "Linen Home Gardenia Lace Cotton Percale Sheet Set, 4-Piece (Queen)"
     image: "https://m.media-amazon.com/images/I/61xdyDUbaVL._AC_SL1500_.jpg"
@@ -49,6 +53,7 @@ products:
     badge: "Best sheets"
     blurb: "Crisp white percale sheets with a gardenia lace band along the flat sheet and pillowcase hems — fold the top sheet back over the duvet and the lace edge does the decorating for you."
     caveat: "The lace is on the hems only — the fitted sheet is plain, which is honestly what you want for washing."
+    added: '2026-07-15'
     url: "https://www.amazon.com/dp/B0DZ17NS5H?tag=orlaloom-20"
   - name: "Egyptian Cotton Collection 550-TC Waterfall Ruffle Duvet Cover Set (King)"
     image: "https://m.media-amazon.com/images/I/715aQWnoUFL._AC_SL1500_.jpg"
@@ -58,6 +63,7 @@ products:
     badge: "Splurge"
     blurb: "Cascading side ruffles in smooth 550-thread-count Egyptian cotton with a zipper closure — the grown-up, hotel-weight version of the ruffle duvet for a main bedroom."
     caveat: "It is the priciest piece here by far, and the ruffles fall down the sides rather than across the face — a subtler effect than the Bedorm."
+    added: '2026-07-15'
     url: "https://www.amazon.com/dp/B0F9B726RB?tag=orlaloom-20"
 ---
 

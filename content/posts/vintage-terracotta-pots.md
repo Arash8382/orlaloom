@@ -22,6 +22,7 @@ products:
     caveat: >-
       Heavy, breakable, and unglazed clay wicks moisture away from roots, so
       expect to water noticeably more often than you would a glazed pot.
+    added: '2026-08-15'
     url: 'https://www.amazon.com/dp/B083JRHRW1?tag=orlaloom-20'
   - name: Bloem Terra Pot Resin Planter (8")
     image: 'https://m.media-amazon.com/images/I/51AsUCaMOhL._AC_SL1000_.jpg'
@@ -33,6 +34,7 @@ products:
       A lightweight resin pot with a convincing clay look and built-in drainage
       that won't crack outdoors.
     caveat: 'It''s resin, so it lacks real terracotta''s breathability and weight.'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Bloem-Terra-Pot-Planter-Cotta/dp/B06WWRSLXJ?tag=orlaloom-20
   - name: Whitewashed Terracotta Pots with Saucer (2-Pack)
@@ -45,6 +47,7 @@ products:
       A whitewashed, textured finish that nails the weathered,
       brought-in-from-the-garden look.
     caveat: 'Sellers rotate, so the exact one may sell out.'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0GS9KYYSY?tag=orlaloom-20'
   - name: Esschert Design Aged Terracotta Pots (Set of 3)
     image: 'https://m.media-amazon.com/images/I/51mwmR29Y+L.jpg'
@@ -56,6 +59,7 @@ products:
       Pre-aged ribbed multi-packs for an instant weathered look without waiting
       years.
     caveat: '''Aged'' finishes are often painted and can wear unevenly outdoors.'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B007JHXXRY?tag=orlaloom-20'
   - name: Antique Terracotta Planter
     image: >-
@@ -79,6 +83,7 @@ products:
       Authentic imported Italian and antique terracotta for a true
       heirloom-garden look.
     caveat: 'Specialty retailer with high prices, heavy shipping, and no Prime.'
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0B8HDQYN7?tag=orlaloom-20'
   - name: 'Orceler 4 in Terracotta Pots with Saucers (6 Pack)'
     image: 'https://m.media-amazon.com/images/I/61FkRycJ7WL._AC_SL1500_.jpg'
@@ -97,6 +102,7 @@ products:
       Four inches is genuinely small — anything root-hungry will need moving
       up within a few months, and the shallow saucers hold very little water,
       so they overflow if you water heavily rather than little and often.
+    added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B0B4HVN7DZ?tag=orlaloom-20'
 faqs:
   - q: Will terracotta survive winter outdoors?

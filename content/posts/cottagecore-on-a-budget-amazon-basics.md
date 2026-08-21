@@ -29,6 +29,7 @@ products:
       The enamel coating is more chip-prone than premium brands' — set it
       down gently rather than clanking it into the sink, and hand-wash
       rather than relying on the dishwasher to keep the glaze looking new.
+    added: '2026-08-08'
     url: 'https://www.amazon.com/dp/B07B4ZFC8S?tag=orlaloom-20'
   - name: Amazon Basics Pre-Seasoned Cast Iron Skillet, 15-Inch
     image: 'https://m.media-amazon.com/images/I/71mm5J-vJxL._AC_SX679_.jpg'
@@ -50,6 +51,7 @@ products:
       At 15 inches this will not fit in a standard dishwasher or some smaller
       sinks for cleaning — measure your sink basin before buying if counter
       and storage space are tight.
+    added: '2026-08-08'
     url: 'https://www.amazon.com/dp/B073Q8P6CQ?tag=orlaloom-20'
   - name: >-
       Amazon Basics Mixing Bowls with Lids, Blue and White Floral Melamine,
@@ -72,6 +74,7 @@ products:
       Melamine is not microwave-safe, so anyone expecting to reheat directly
       in these bowls will need to decant first — they are prep-and-store
       bowls, not reheating dishes.
+    added: '2026-08-08'
     url: 'https://www.amazon.com/dp/B089J9CTHD?tag=orlaloom-20'
   - name: >-
       Amazon Basics Organic Cotton Waffle Weave Kitchen Dish Towels, 6-Pack
@@ -94,6 +97,7 @@ products:
       They arrive undyed and neutral rather than a specific cream or sage —
       fine for most cottagecore palettes, but check the product photos
       before buying if you need an exact color match to existing linens.
+    added: '2026-08-08'
     url: 'https://www.amazon.com/dp/B0DQ5FVHC8?tag=orlaloom-20'
   - name: Amazon Basics Reusable Cloth Napkins, White, 12-Pack
     image: 'https://m.media-amazon.com/images/I/81a+mZx9naL._AC_SX679_.jpg'
@@ -115,6 +119,7 @@ products:
       At 17 by 17 inches they run slightly smaller than a traditional dinner
       napkin, which is fine for lunch or casual dinners but tight if you
       like a generous lap-sized fold for formal meals.
+    added: '2026-08-08'
     url: 'https://www.amazon.com/dp/B0DPPQBTJH?tag=orlaloom-20'
   - name: Amazon Basics Glazed Stoneware Dinnerware, 12-Piece Set, Olive
     image: 'https://m.media-amazon.com/images/I/61ELFgEwCGL._AC_SL1500_.jpg'
@@ -136,6 +141,7 @@ products:
       of six means buying two sets and living with the surplus. Glazed
       stoneware also chips at the rim if you stack it wet and hard — slide a
       cloth or felt pad between plates if they live in a tight cupboard.
+    added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B0F4JWD1HQ?tag=orlaloom-20'
 faqs:
   - q: Is Amazon Basics actually good enough for a cottagecore kitchen, or does it look cheap?

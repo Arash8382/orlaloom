@@ -13,6 +13,7 @@ products:
     badge: "Best glaze"
     blurb: "Signature graduated glaze, roomy 14 oz, and dishwasher/microwave-safe — a reliable everyday mug in an earthy shade."
     caveat: "Glossy colorways read more modern than rustic, so pick a muted tone for the cottage look."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Creuset-Stoneware-12-Ounce-Cerise-Cherry/dp/B003F24D1M?tag=orlaloom-20"
   - name: "East Fork The Mug"
     image: "https://cdn.shopify.com/s/files/1/2281/6071/products/0bf6ab403584803c9ca31e2fb74984444d506041-2000x2000.jpg?v=1773703028"
@@ -31,6 +32,7 @@ products:
     badge: "Best value set"
     blurb: "Affordable matched sets with reactive-glaze options — the easy way to get a coordinated speckled shelf."
     caveat: "Lines rotate, and some listings are porcelain rather than stoneware, so check the description."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B073WTW5FM?tag=orlaloom-20"
   - name: "Mora Ceramics Stoneware Mug"
     image: "https://m.media-amazon.com/images/I/61vbV+u+89L.jpg"
@@ -40,6 +42,7 @@ products:
     badge: "Oven-safe"
     blurb: "Handcrafted-look matte and speckled finishes that are oven- and microwave-safe for everyday use."
     caveat: "Leans clean-modern, so it's cottagecore-adjacent rather than overtly rustic."
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B09H9ZPGXP?tag=orlaloom-20"
   - name: "Handmade Speckled Stoneware Mug"
     image: "https://m.media-amazon.com/images/I/712fewdVEEL._AC_SL1500_.jpg"
@@ -49,6 +52,7 @@ products:
     badge: "Maker-made"
     blurb: "A real handmade beige-speckled mug from an independent maker, with the little irregularities that make it feel special."
     caveat: "Limited stock and slower made-to-order shipping."
+    added: '2026-06-29'
     url: "https://www.amazon.com/Handmade-Stoneware-Ceramic-speckled-breakfast/dp/B089FHW3QH?tag=orlaloom-20"
   - name: "Dreamstall Mushroom Mug with Lid"
     image: "https://m.media-amazon.com/images/I/71GIwGUn2pL._AC_SL1500_.jpg"
@@ -58,6 +62,7 @@ products:
     badge: "Most on-theme"
     blurb: "A sculpted stoneware mushroom mug with a matching lid and gift box — peak cottagecore whimsy that needs no extra styling."
     caveat: "A novelty shape, so it's more of a decorative statement piece than an everyday-stackable mug."
+    added: '2026-07-15'
     url: "https://www.amazon.com/Dreamstall-Stoneware-Decorative-Cottagecore-Aesthetics/dp/B0B62L9Q9B?tag=orlaloom-20"
 ---
 

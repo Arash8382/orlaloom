@@ -25,6 +25,7 @@ products:
     caveat: >-
       Like all wooden boards, they're hand-wash only and want an occasional rub
       of mineral oil to keep the grain from drying.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0GHZPX3D7?tag=orlaloom-20'
   - name: 'Maison d''Hermine 100% Cotton Kitchen Tea Towels, Set of 3'
     image: 'https://m.media-amazon.com/images/I/91Tp5aTnzeL._AC_SL1500_.jpg'
@@ -42,6 +43,7 @@ products:
     caveat: >-
       These are the display-and-dry kind, thinner than a terry workhorse towel —
       that's the point, but heavy-mess cooks will still keep their old rags.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B08KHB2TVV?tag=orlaloom-20'
   - name: 'Pure Beeswax Pillar Candles, Unscented, Pack of 6'
     image: 'https://m.media-amazon.com/images/I/71KUPgPsWkL._AC_SL1500_.jpg'
@@ -59,6 +61,7 @@ products:
     caveat: >-
       Unscented by design — if the recipient expects a perfumed jar candle, this
       is a different, quieter kind of luxury.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0DQQ1GP8S?tag=orlaloom-20'
   - name: CypherX Vintage Wooden Recipe Box with 50 Cards & 8 Dividers
     image: 'https://m.media-amazon.com/images/I/71idUrvOthL._AC_SL1500_.jpg'
@@ -76,6 +79,7 @@ products:
     caveat: >-
       It's an analog gift — best for hosts who cook and love a bit of ritual,
       wasted on the strictly-takeout household.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0D7ZYS91T?tag=orlaloom-20'
   - name: 'Romadedi Vintage Brass-Tone Taper Candlestick Holders, Set of 2'
     image: 'https://m.media-amazon.com/images/I/715IJSAc9JL._AC_SL1500_.jpg'
@@ -93,6 +97,7 @@ products:
     caveat: >-
       Brass-tone finish over metal, not solid vintage brass — convincing on the
       table, but it won't patina like the real thing.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0CNLX2V7T?tag=orlaloom-20'
   - name: 'Ceramic Flower Trinket Dish, Hand-Painted Pink'
     image: 'https://m.media-amazon.com/images/I/61Bmop1J1IL._AC_SL1500_.jpg'
@@ -110,6 +115,7 @@ products:
     caveat: >-
       It's genuinely little — check the dimensions so you're not expecting a
       catch-all bowl.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0FX57PZD6?tag=orlaloom-20'
 faqs:
   - q: What's a good budget for a hostess gift?

@@ -24,6 +24,7 @@ products:
     caveat: >-
       They are small — pretty enough to lose in the bottom of a bag, so the set
       of four is the point.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0BT86B5RX?tag=orlaloom-20'
   - name: 'Natural Beeswax Votive Candles with Bee Detail, Set of 6'
     image: 'https://m.media-amazon.com/images/I/71qM33D3jyL._AC_SL1500_.jpg'
@@ -41,6 +42,7 @@ products:
     caveat: >-
       Natural beeswax varies slightly in shade batch to batch, so the six won't
       be a perfectly uniform color.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0DHGSDPTF?tag=orlaloom-20'
   - name: 'Wildflower Seed Packets, Pollinator Mix (Set of 20)'
     image: 'https://m.media-amazon.com/images/I/81Ixj-T9XaL._AC_SL1500_.jpg'
@@ -58,6 +60,7 @@ products:
     caveat: >-
       Sold as a party-favor set of twenty, so you're gifting a packet or two per
       person rather than one giant seed haul.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0CWLSCR94?tag=orlaloom-20'
   - name: 'Floral Cotton Hair Scrunchies, Vintage Print (3 Pack)'
     image: 'https://m.media-amazon.com/images/I/81uz5LlQIcL._SL1500_.jpg'
@@ -75,6 +78,7 @@ products:
     caveat: >-
       Cotton scrunchies hold thick hair well but give a little more than a tight
       elastic — a bonus for most, a downside if you want a gym-grip hold.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0GVRDQPKP?tag=orlaloom-20'
   - name: 'Embroidered Floral Cotton Handkerchiefs with Lace, Set of 6'
     image: 'https://m.media-amazon.com/images/I/6136m2XkjdL._AC_SL1500_.jpg'
@@ -92,6 +96,7 @@ products:
     caveat: >-
       The embroidery is delicate — best washed on a gentle cycle or by hand to
       keep the lace edge intact.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B01EMJHD22?tag=orlaloom-20'
   - name: 'Small Ceramic Bud Vases, Gradient Glaze (Set of 5)'
     image: 'https://m.media-amazon.com/images/I/51kIGoBQH2L._AC_SL1000_.jpg'
@@ -109,6 +114,7 @@ products:
     caveat: >-
       This is the priciest pick and it's a set of five, so it's best thought of
       as one vase per person rather than a single-gift splurge.
+    added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0F9W2QBGR?tag=orlaloom-20'
 faqs:
   - q: What makes a stocking stuffer "cottagecore" rather than just cheap?

@@ -13,6 +13,7 @@ products:
     blurb: "A stoneware rectangular dish with a sculpted toadstool lid — the rare mushroom dish that still fits a standard wrapped stick of butter."
     caveat: "Mass-produced import; glaze and paint quality can vary slightly."
     image: "https://m.media-amazon.com/images/I/71IreemEtDL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Fungi-Fun-Mushroom-Butter-Countertop/dp/B0CPM8Y9LQ?tag=orlaloom-20"
   - name: "Mushroom Butter Crock (Water-Seal)"
     brand: "Fungi Fun"
@@ -22,6 +23,7 @@ products:
     blurb: "A mushroom-shaped French-style crock that keeps butter soft and spreadable on the counter — function and whimsy in one."
     caveat: "It's a crock, so it suits soft or packed butter, not a wrapped stick."
     image: "https://m.media-amazon.com/images/I/71MaJsZ1SNL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Mushroom-Butter-Crock-Countertop-Spreadable/dp/B0DLJNG1C7?tag=orlaloom-20"
   - name: "Red Toadstool Mushroom Butter Dish"
     brand: "Ceramic novelty"
@@ -31,6 +33,7 @@ products:
     blurb: "The classic red-cap, white-spot toadstool — the most storybook look on this list and an easy, cheerful gift."
     caveat: "Generic listing, so stock rotates; confirm it's live before buying."
     image: "https://m.media-amazon.com/images/I/61MpJynV4GL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/Mushroom-Countertop-Ceramic-Butterdish-Container/dp/B0BWDVL76C?tag=orlaloom-20"
   - name: "Handmade Mushroom Stick Butter Dish"
     brand: "Ceramic Boutique"

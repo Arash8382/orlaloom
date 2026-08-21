@@ -25,6 +25,7 @@ products:
       It's a statement size and weight — use proper wall anchors into a stud,
       not just the picture hook, especially on plaster.
     image: 'https://m.media-amazon.com/images/I/716xujyCbRL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Gold-Arched-Bathroom-Vanity-Mirror/dp/B0FL7F7TJJ?tag=orlaloom-20
   - name: 'GaLouRo Blue and White Chinoiserie Ginger Jar, 9.8 in'
@@ -44,6 +45,7 @@ products:
       It's decorative porcelain, not everyday tableware — hand-wash only and
       keep it out of a busy toddler's reach.
     image: 'https://m.media-amazon.com/images/I/71Zml2etbAL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/GaLouRo-Ginger-Chinoiserie-Porcelain-Decoration/dp/B09WLW7NGJ?tag=orlaloom-20
   - name: >-
@@ -65,6 +67,7 @@ products:
       Inserts aren't included — buy 18-inch inserts (or reuse ones you own) so
       the covers sit plump rather than saggy.
     image: 'https://m.media-amazon.com/images/I/81KFRLQh7eL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Grandmillennial-Decorative-Millennial-Cushion-Bedroom/dp/B0G521P28Z?tag=orlaloom-20
   - name: 'SiliFine Blue and White Chinoiserie Wall Plates, Set of 6'
@@ -84,6 +87,7 @@ products:
       Hanging hardware isn't always included or reliable — pick up a pack of
       adhesive or wire plate hangers so they sit flush and secure.
     image: 'https://m.media-amazon.com/images/I/81tePeN+WuL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/SiliFine-Chinoiserie-Sculpture-Multi-Purpose-Decorative/dp/B0GR15CQZY?tag=orlaloom-20
   - name: 'Lush Decor Cottagecore Flower Stripe Reversible Cotton Quilt, 3-Piece Set'
@@ -102,6 +106,7 @@ products:
       It's a lightweight quilt, not a duvet — lovely spring through fall, but
       you'll want a blanket layered underneath in deep winter.
     image: 'https://m.media-amazon.com/images/I/81Q0yjib-uL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Lush-Decor-Cottage-Oversized-Reversible/dp/B0B999RTPV?tag=orlaloom-20
   - name: 'StorageWorks Round Wicker Scalloped Tray with Handles, 13 in'
@@ -121,6 +126,7 @@ products:
       It's a decorative and dry-goods tray, not waterproof — wipe spills quickly
       and don't use it under dripping glasses.
     image: 'https://m.media-amazon.com/images/I/81ZYrgYqaXL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/StorageWorks-Scalloped-Serving-Decoratve-Seagrass/dp/B0CMHHCLNM?tag=orlaloom-20
   - name: 'Aspen Creative 33055 Mushroom Pleated Empire Lamp Shade, White, 13 in'
@@ -141,6 +147,7 @@ products:
       fabric-lined shade; check your harp height first — a 13 in shade wants a
       medium lamp, not a tiny accent one.
     image: 'https://m.media-amazon.com/images/I/712-i0E1zUL._AC_SL1500_.jpg'
+    added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0B5ZJ8Y73?tag=orlaloom-20'
   - name: 'Lineshading Gold Bow Wall Hooks, Set of 4 Brass Coquette Hooks'
     brand: Lineshading
@@ -159,6 +166,7 @@ products:
       Mounting screws are included but the exposed-screw look is part of the
       design — if you want fully hidden fixings, these aren't that.
     image: 'https://m.media-amazon.com/images/I/71-W-7AZHfL._AC_SL1500_.jpg'
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0D3KY5FM5?tag=orlaloom-20'
 faqs:
   - q: Is grandmillennial decor the same as cottagecore?

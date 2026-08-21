@@ -108,6 +108,7 @@ products:
     caveat: >-
       This is a flat door-mat, not a plush rug — buy it for entryways and
       hard-working corners, not for bare feet.
+    added: '2026-07-18'
     url: 'https://www.amazon.com/dp/B0DWJSV234?tag=orlaloom-20'
 faqs:
   - q: Are scalloped rugs going out of style?

@@ -23,6 +23,7 @@ products:
     caveat: >-
       It's small by design — think rings and earrings, not a full jewelry
       collection.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0GV3PVMJW?tag=orlaloom-20'
   - name: 'Pure Beeswax Taper Candles, 12 Pack (8 in)'
     image: 'https://m.media-amazon.com/images/I/71GJFOzLX+L._AC_SL1500_.jpg'
@@ -39,6 +40,7 @@ products:
     caveat: >-
       Natural beeswax varies slightly in shade from batch to batch, so the pair
       won't always match perfectly.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0D5HNFKVC?tag=orlaloom-20'
   - name: 'Romadedi Vintage Brass Taper Candle Holders, Set of 2'
     image: 'https://m.media-amazon.com/images/I/71EjshR7BkL._AC_SL1500_.jpg'
@@ -54,6 +56,7 @@ products:
     caveat: >-
       The lacquered brass keeps its shine — if your recipient loves a tarnished
       antique patina, this will read newer than a true vintage find.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0FQJTRG64?tag=orlaloom-20'
   - name: TZSSP Cottagecore Floral Mug with Lid and Gift Box (17 oz)
     image: 'https://m.media-amazon.com/images/I/81djZiBytkL._AC_SL1500_.jpg'
@@ -70,6 +73,7 @@ products:
     caveat: >-
       The busy botanical print is the whole point, but it's a bold pattern — a
       minimalist might prefer something plainer.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B08CN2QRBK?tag=orlaloom-20'
   - name: 'Maison d''Hermine Floral Cotton Tea Towels, Set of 2'
     image: 'https://m.media-amazon.com/images/I/81N4xXmvYrL._AC_SL1500_.jpg'
@@ -85,6 +89,7 @@ products:
     caveat: >-
       Like most printed cotton, the colors soften a little after the first few
       washes.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0GG2XV44P?tag=orlaloom-20'
   - name: 'ACCENTHOME Cotton-Linen Cloth Napkins, Set of 12'
     image: 'https://m.media-amazon.com/images/I/71F8CKVFylL._AC_SL1500_.jpg'
@@ -100,6 +105,7 @@ products:
     caveat: >-
       The cotton-linen blend arrives with crisp fold lines — plan on a quick
       iron or steam before gifting.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0C4TNTDXF?tag=orlaloom-20'
   - name: CypherX Vintage Wooden Recipe Box with 50 Cards
     image: 'https://m.media-amazon.com/images/I/71idUrvOthL._AC_SL1500_.jpg'
@@ -116,6 +122,7 @@ products:
     caveat: >-
       The cards are blank, so the magic only happens if someone actually writes
       in it — pre-filling a few is what makes this gift land.
+    added: '2026-07-03'
     url: 'https://www.amazon.com/dp/B0D7ZYS91T?tag=orlaloom-20'
 faqs:
   - q: What is a good cottagecore gift under $30?

@@ -28,6 +28,7 @@ products:
       Acrylic, not wool — it looks the part but won't have the dry warmth or
       heirloom feel of the real thing. If you want authentic fabric, spend
       up on the wool pick below.
+    added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B0C74P24SX?tag=orlaloom-20'
   - name: 'Briomhar Tartan Wool Throw Blanket with Fringe, 60x72 in'
     image: 'https://m.media-amazon.com/images/I/61HJStNp6RL._AC_SL1080_.jpg'
@@ -47,6 +48,7 @@ products:
       Wool care is real: spot-clean or gentle hand wash only, and anyone
       sensitive to wool may find it slightly coarse directly on skin. Stock
       runs low, so grab it while it's available.
+    added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B0H3JLGY5F?tag=orlaloom-20'
   - name: 'Tommy Hilfiger Ultra-Soft Plush Throw Blanket, Edinburgh Tartan Blue, 50x70 in'
     image: 'https://m.media-amazon.com/images/I/81sXma1Vd9L._AC_SL1500_.jpg'
@@ -65,6 +67,7 @@ products:
       The plush pile flattens a little with heavy use, and blue tartan
       leans more classic-prep than soft-cottage — check it against your
       palette before committing.
+    added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B0FS9P9KPQ?tag=orlaloom-20'
   - name: 'Eddie Bauer Brushed Fleece & Sherpa Throw Blanket, Pine Tartan Dark Green, 50x60 in'
     image: 'https://m.media-amazon.com/images/I/813NwpAwYXL._AC_SL1500_.jpg'
@@ -83,6 +86,7 @@ products:
       Sherpa backing adds bulk — it folds thick, so it's a blanket-ladder
       blanket, not one that tucks discreetly into a basket. Runs warm for
       summer use.
+    added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B07TZL35QZ?tag=orlaloom-20'
   - name: 'GINAMUSE Green Plaid Throw Blanket with Tassels, 50x60 in'
     image: 'https://m.media-amazon.com/images/I/81BIQ2qowsL._AC_SL1500_.jpg'
@@ -100,6 +104,7 @@ products:
     caveat: >-
       It's decorative-weight: lovely for mild evenings, but you'll want
       something heavier once real cold arrives.
+    added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B0CQ1KTZ9F?tag=orlaloom-20'
   - name: 'BEDELITE Plaid Fleece Throw Blanket, Navy Tartan, 50x60 in'
     image: 'https://m.media-amazon.com/images/I/81DOkpb-2pL._AC_SL1500_.jpg'
@@ -117,6 +122,7 @@ products:
     caveat: >-
       It's a thin fleece — cozy, not substantial. The drape is floppy
       rather than tailored, so it styles best folded rather than draped.
+    added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B0GZNMX1KV?tag=orlaloom-20'
 ---
 

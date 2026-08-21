@@ -25,6 +25,7 @@ products:
       The waterproof finish means it wipes clean beautifully, but iron it on low
       if you machine-wash — the coating holds creases from the packaging at
       first.
+    added: '2026-07-25'
     url: 'https://www.amazon.com/dp/B0GCFFYL9S?tag=orlaloom-20'
   - name: 'Romanstile Sage Checkered Tablecloth with Tassels, 55 x 70 in'
     image: 'https://m.media-amazon.com/images/I/81PnHCWDtAL._AC_SL1500_.jpg'
@@ -43,6 +44,7 @@ products:
     caveat: >-
       Runs smaller than the red version — measure your table first, because on a
       full 6-foot table the drop is shallow.
+    added: '2026-07-25'
     url: 'https://www.amazon.com/dp/B0F8VMY17Y?tag=orlaloom-20'
   - name: 'ZAROCRUS Cream Beaded Melamine Dinnerware Set, Scalloped Edge, 12 Piece'
     image: 'https://m.media-amazon.com/images/I/71o7WNkTd8L._AC_SL1500_.jpg'
@@ -61,6 +63,7 @@ products:
     caveat: >-
       Melamine is not microwave safe — reheat on real plates, then plate up
       outside.
+    added: '2026-07-25'
     url: 'https://www.amazon.com/dp/B0F6CLF2HN?tag=orlaloom-20'
   - name: 'UP Gingham Melamine Dessert Plates, Red, 6 in, Set of 4'
     image: 'https://m.media-amazon.com/images/I/81cbBCqM6eL._AC_SL1500_.jpg'
@@ -78,6 +81,7 @@ products:
     caveat: >-
       Dessert-size only — these are accent plates, not dinner plates, and stock
       runs low in summer.
+    added: '2026-07-25'
     url: 'https://www.amazon.com/dp/B09VXD2PK9?tag=orlaloom-20'
   - name: 'Heirloom Comfort Gingham Cotton Cloth Napkins, 18 x 18 in, Set of 12'
     image: 'https://m.media-amazon.com/images/I/81cRtuvTC0L._AC_SL1500_.jpg'
@@ -96,6 +100,7 @@ products:
     caveat: >-
       The warm neutral palette is lovely but subtle; if you want punchy
       red-check napkins to match the ruffled cloth exactly, look elsewhere.
+    added: '2026-07-25'
     url: 'https://www.amazon.com/dp/B0FBVYXBQN?tag=orlaloom-20'
   - name: 'Realway 17 oz Shatterproof Ribbed Acrylic Tumblers, Set of 8'
     image: 'https://m.media-amazon.com/images/I/718wlUiXHQL._AC_SL1500_.jpg'
@@ -113,6 +118,7 @@ products:
     caveat: >-
       Acrylic scratches over years of scrubbing — use a soft sponge and skip the
       abrasive side to keep them clear.
+    added: '2026-07-25'
     url: 'https://www.amazon.com/dp/B0BF8JFB9P?tag=orlaloom-20'
 faqs:
   - q: Is gingham still in style for 2026?

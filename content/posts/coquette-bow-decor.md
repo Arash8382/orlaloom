@@ -25,6 +25,7 @@ products:
     caveat: >-
       Mounting screws are included but the exposed-screw look is part of the
       design — if you want hidden fixings, these are not that.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0D3KY5FM5?tag=orlaloom-20'
   - name: 'YEMCHI Solid Brass Bow Drawer Knobs, 2 Pack'
     image: 'https://m.media-amazon.com/images/I/511ypaIvTlL._AC_SL1500_.jpg'
@@ -43,6 +44,7 @@ products:
     caveat: >-
       A two-pack only dresses two drawers — measure and count before ordering,
       because most dressers need six or more.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0FCY8NZQX?tag=orlaloom-20'
   - name: 'DJGUS Heavy Cast Iron Dancing Bow Taper Candle Holders, Set of 2'
     image: 'https://m.media-amazon.com/images/I/71hCkK3A5tL._AC_SL1500_.jpg'
@@ -61,6 +63,7 @@ products:
     caveat: >-
       The brass-toned finish is painted cast iron, not solid brass — handle with
       dry hands and it will keep its color.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0GK1RGWYF?tag=orlaloom-20'
   - name: >-
       Hahafelt Pink Bow Embroidered Scalloped Cloth Napkins, Set of 4, 18 x 18
@@ -81,6 +84,7 @@ products:
     caveat: >-
       They arrive with crisp fold lines from packaging — a quick once-over with
       an iron before first use makes them table-ready.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0F53J5C5M?tag=orlaloom-20'
   - name: 'Beeveer Pink Velvet Bow Throw Pillows, Set of 2, 12 x 18 in'
     image: 'https://m.media-amazon.com/images/I/81bEQFqX6ML._AC_SL1500_.jpg'
@@ -100,6 +104,7 @@ products:
       The pink is a true blush and the fabric is unapologetically plush — in a
       very rustic, earthy room they can read more girly than cottagecore, so
       pair them with linen and wood.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0DDXXPL53?tag=orlaloom-20'
   - name: 'Ardax Ceramic Ring Holder Trinket Dish, White with Pink Bow'
     image: 'https://m.media-amazon.com/images/I/51moV3r7dOL._AC_SL1500_.jpg'
@@ -117,6 +122,7 @@ products:
     caveat: >-
       It is genuinely small — a catch-all for jewelry and hairpins, not a place
       to empty your whole pockets.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0DXCZT397?tag=orlaloom-20'
 faqs:
   - q: Is the bow trend going to date quickly?

@@ -18,6 +18,7 @@ products:
       A round gold mirror with a rippled, sunburst-scalloped edge that catches
       the light beautifully.
     caveat: 'The gold leans glam, so it''s less rustic than a wood frame.'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Kate-Laurel-Scalloped-Decorative-Glamorous/dp/B09RSM9W8S?tag=orlaloom-20
   - name: 'Kate and Laurel Gezella Scalloped Arched Mirror, 38x24"'
@@ -30,6 +31,7 @@ products:
       A wide arched antique-gold mirror with soft scalloped edges — a real focal
       point over a console.
     caveat: 'Large, so it needs wall space, and it''s at the pricier end.'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Kate-Laurel-Scalloped-Glamorous-Decorative/dp/B0D3F82SBF?tag=orlaloom-20
   - name: 'Kate and Laurel Carlow Vintage Scalloped Mirror, 24x36"'
@@ -54,6 +56,7 @@ products:
       A baroque-inspired gold arch at an affordable size — lovely above a narrow
       hall table.
     caveat: The ornate frame is busier than a clean arched-window look.
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Kate-Laurel-Arendahl-Traditional-Inspired/dp/B087GCPXBP?tag=orlaloom-20
   - name: 'Gold Arched Window Pane Mirror, 24x36"'
@@ -64,6 +67,7 @@ products:
     badge: Best windowpane
     blurb: 'A gold windowpane mirror with a cottage-window look, at a moderate price.'
     caveat: The thin metal frame feels lighter than a wood-framed piece.
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Gold-Arched-Window-Pane-Mirror/dp/B0FNRLXJ9M?tag=orlaloom-20
   - name: 'Dewfig Arched Windowpane Wall Mirror, 42 x 24 in (Black)'
@@ -80,6 +84,7 @@ products:
     caveat: >-
       Black reads industrial-farmhouse rather than soft cottage, and at 42
       inches tall it is a two-person hang that needs proper wall anchors.
+    added: '2026-08-15'
     url: 'https://www.amazon.com/dp/B0CBB1MK8K?tag=orlaloom-20'
   - name: "EMAISON Scalloped Arch Wall Mirror, 24 x 35 in"
     image: "https://m.media-amazon.com/images/I/61LVXXda2CL._AC_SL1500_.jpg"
@@ -89,6 +94,7 @@ products:
     badge: "Best wood frame"
     blurb: "A scalloped arch in a natural brown wood frame with real glass — the warm, rustic counterpart to the gold scalloped mirrors, and the one that suits a bathroom or entryway rather than a glam vanity."
     caveat: "At 24 by 35 inches it is a genuinely large piece; check the wall and the anchors before ordering."
+    added: '2026-08-21'
     url: "https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20"
 faqs:
   - q: Are these heavy to hang?

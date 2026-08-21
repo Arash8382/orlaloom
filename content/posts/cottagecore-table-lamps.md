@@ -20,6 +20,7 @@ products:
     caveat: >-
       Stained-glass shades are smaller and dimmer than a fabric shade — it's
       mood lighting, not a reading lamp.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0F8BFCQZV?tag=orlaloom-20'
   - name: 'Tiffany Stained-Glass Mushroom Lamp, Blue & Red Tulips (12.5 in)'
     image: 'https://m.media-amazon.com/images/I/71-GO03MqIL.jpg'
@@ -33,6 +34,7 @@ products:
     caveat: >-
       The bold blues and reds are a statement; they won't suit a strictly
       neutral room.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0F66QLXM4?tag=orlaloom-20'
   - name: VCNY Home Ceramic Lamp with Pleated Shade (18 in)
     image: 'https://m.media-amazon.com/images/I/71UiF+Na4SL.jpg'
@@ -45,6 +47,7 @@ products:
       ceramic base pairs one with a soft gourd silhouette for an instant
       grandmillennial look.
     caveat: Ceramic bases are heavier and can chip — handle the move-in carefully.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0GN9CWP8Z?tag=orlaloom-20'
   - name: HDDFL Vintage Brass Lamp with Glass Shade
     image: 'https://m.media-amazon.com/images/I/71I0sCfVdQL.jpg'
@@ -58,6 +61,7 @@ products:
     caveat: >-
       Pricier than the stained-glass options, and brass finishes vary batch to
       batch.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0FRRD3CWP?tag=orlaloom-20'
   - name: Woven Rattan Table Lamp (Set of 2)
     image: 'https://m.media-amazon.com/images/I/616GyWaelTL.jpg'
@@ -69,6 +73,7 @@ products:
       A handmade woven rattan base brings cottage-meets-coastal texture, and you
       get a matching pair — perfect for two nightstands.
     caveat: 'Open weave lets more light through, so it reads casual rather than formal.'
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0GK1L51KH?tag=orlaloom-20'
   - name: Eggshell Pleated Lamp Shade (Upgrade Only)
     image: 'https://m.media-amazon.com/images/I/71YVyPEDBrL.jpg'
@@ -83,6 +88,7 @@ products:
     caveat: >-
       It's a shade only, no base or bulb — check your harp fitting and size
       before buying.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B00ECXDE5E?tag=orlaloom-20'
 faqs:
   - q: Are stained-glass mushroom lamps bright enough to read by?

@@ -26,6 +26,7 @@ products:
       rattan can dry out and get brittle with years of direct sun exposure —
       rotate it out of the hottest window spot occasionally or add a sheer
       curtain to soften the strongest afternoon light.
+    added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B01C4JVV34?tag=orlaloom-20'
   - name: Pitalk Natural Flax Linen Curtains for Sliding Glass & Patio Doors (2 Panels, 84 in)
     image: 'https://m.media-amazon.com/images/I/81uTCXT6nnL._AC_SX679_.jpg'
@@ -43,6 +44,7 @@ products:
       "Semi-sheer" means it softens light rather than blocking it, so it is
       not a fit if you need real privacy after dark or afternoon nap-level
       dimness — pair with a separate blackout liner if either matters to you.
+    added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B09B94W2PN?tag=orlaloom-20'
   - name: Lena Rug Washable Easy Jute-Look Area Rug, 5x7, Natural
     image: 'https://m.media-amazon.com/images/I/91LvTaz+PoL._AC_SX679_.jpg'
@@ -61,6 +63,7 @@ products:
       not have quite the same texture underfoot as a genuine natural-fiber
       rug — a fair trade for the washability if you have pets, kids, or
       plants that drip.
+    added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B0GLQB671P?tag=orlaloom-20'
   - name: Honey-Can-Do 3-Tier Carbonized Wood Plant Stand, Indoor/Outdoor
     image: 'https://m.media-amazon.com/images/I/61tJ4ENY0TL._AC_SX679_.jpg'
@@ -77,6 +80,7 @@ products:
       It ships flat and needs assembly, and while the wood is treated for
       outdoor conditions, standing water from overflow saucers left sitting
       on the shelves over time will still shorten its life — use trays.
+    added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B0H7CN2LS1?tag=orlaloom-20'
   - name: JYXIN 16.5 in Round Rattan Side Table with Wooden Top
     image: 'https://m.media-amazon.com/images/I/61BMleWh8BL._AC_SX679_.jpg'
@@ -93,6 +97,7 @@ products:
       At 16.5 in across it is genuinely a mug-and-book table, not a table
       for a laptop or a full breakfast tray — size up if you need more
       surface area.
+    added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B0DQQ23WX2?tag=orlaloom-20'
   - name: Longhui Bedding Chunky Cable Knit Throw Blanket, 100% Organic Cotton, Beige (51 x 63 in)
     image: 'https://m.media-amazon.com/images/I/81P+LJAS9KL._AC_SX679_.jpg'
@@ -110,6 +115,7 @@ products:
       Chunky knit cotton sheds lint in its first few washes like most cable
       knits do, and it is bulkier to launder than a thin throw — a mesh
       wash bag helps it keep its shape.
+    added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B0B38YC8CK?tag=orlaloom-20'
 ---
 

@@ -24,6 +24,7 @@ products:
     caveat: >-
       The sculpted relief means they stack a little taller than flat plates, so
       allow extra cabinet height.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0G2KJLFB2?tag=orlaloom-20'
   - name: 'Le Jardin Green Cabbage 11 in Dinner Plates, Set of 4'
     image: 'https://m.media-amazon.com/images/I/71hNZyFZT5L._AC_SL1500_.jpg'
@@ -38,6 +39,7 @@ products:
     caveat: >-
       At around $13 a plate they're an investment; start with the salad size if
       you're trend-testing.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0G2KJJLX3?tag=orlaloom-20'
   - name: 'KXZ Green Ceramic Cabbage Plates, 8 in, Set of 4'
     image: 'https://m.media-amazon.com/images/I/61jpI2OoxdL._AC_SL1000_.jpg'
@@ -52,6 +54,7 @@ products:
     caveat: >-
       An inch smaller than the Le Jardin salad plates; better for desserts and
       sides than a full lunch.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0G14M3441?tag=orlaloom-20'
   - name: Le Jardin Cabbage 13 in Round Serving Platter
     image: 'https://m.media-amazon.com/images/I/71rQnFTgwsL._AC_SL1500_.jpg'
@@ -66,6 +69,7 @@ products:
     caveat: >-
       It's a platter, not a bowl — dressed salads with lots of liquid need
       something deeper.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0G2KJXBX6?tag=orlaloom-20'
   - name: 'Now Designs Heirloom Tomatoes Pinch Bowls, Set of 6'
     image: 'https://m.media-amazon.com/images/I/71ce3qEr7nL._AC_SL1500_.jpg'
@@ -80,6 +84,7 @@ products:
     caveat: >-
       Pinch-bowl sized (a few tablespoons each); these are for condiments, not
       cereal.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0DH57PP2L?tag=orlaloom-20'
   - name: Mud Pie Fiesta Tomato Dip Bowl Set with Spoon
     image: 'https://m.media-amazon.com/images/I/71I-fGwSHVL._AC_SL1500_.jpg'
@@ -92,6 +97,7 @@ products:
       marinara or pimento cheese stays covered until the party starts, and it
       doubles as counter decor between gatherings.
     caveat: Hand-wash recommended to keep the painted finish bright.
+    added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0BN4GQ6FB?tag=orlaloom-20'
 faqs:
   - q: Is cabbage ware the same as lettuce ware?

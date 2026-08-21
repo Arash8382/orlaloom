@@ -14,6 +14,7 @@ products:
     blurb: "Ivory stoneware with an on-trend scalloped edge and gold rim — a Pottery Barn look for a fraction of the price."
     caveat: "Hand-wash only and the gold rim isn't microwave-safe; sells out fast online."
     image: "https://m.media-amazon.com/images/I/61MM4tqlXYL._AC_SX679_.jpg"
+    added: '2026-07-23'
     url: "https://www.amazon.com/dp/B0DWKXMFZN?tag=orlaloom-20"
   - name: "Y YHY Scalloped Porcelain Plates (Set of 6)"
     brand: "Y YHY"
@@ -23,6 +24,7 @@ products:
     blurb: "Off-white porcelain with a petal-scalloped edge that's microwave- and dishwasher-safe — the durable workhorse starter set."
     caveat: "Plates only (no bowls or sides), so it's a base rather than a full service."
     image: "https://m.media-amazon.com/images/I/61+5xREuGZL._AC_SL1500_.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/YHY-10-6-inch-Porcelain-Scallop-Platters/dp/B06XSP3ZXD?tag=orlaloom-20"
   - name: "Lenox French Perle Place Setting"
     brand: "Lenox"
@@ -32,6 +34,7 @@ products:
     blurb: "A beaded, embroidery-inspired rim in soft ice-blue or white — durable everyday stoneware that reads pure romantic-cottage."
     caveat: "Per-setting pricing adds up, and the beaded texture catches residue if not soaked."
     image: "https://m.media-amazon.com/images/I/61e9EQLyeQL.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B08W5BLVZ1?tag=orlaloom-20"
   - name: "Villeroy & Boch Manoir 18-Piece Set"
     brand: "Villeroy & Boch"
@@ -41,6 +44,7 @@ products:
     blurb: "Warm-white premium porcelain with embossed detail and softly scalloped edges — the set you pass down."
     caveat: "Premium price, and the embossed relief can stain from coffee or tomato."
     image: "https://m.media-amazon.com/images/I/61RHTCcMizL._AC_SX679_.jpg"
+    added: '2026-07-23'
     url: "https://www.amazon.com/dp/B074DL62KM?tag=orlaloom-20"
   - name: "Lenox French Countryside Place Setting"
     brand: "Lenox"
@@ -50,6 +54,7 @@ products:
     blurb: "Generously sized cream pieces with gently curved, scalloped edges — a perfect neutral to mix with colored accents."
     caveat: "The cream tone won't match cool-white pieces, and bone china needs gentle handling."
     image: "https://m.media-amazon.com/images/I/71JnZWeK7LL.jpg"
+    added: '2026-06-29'
     url: "https://www.amazon.com/dp/B0083VBIJ0?tag=orlaloom-20"
   - name: 'Elama Luna Scallop-Embossed Stoneware Set, 16-Piece'
     image: 'https://m.media-amazon.com/images/I/81Tto7HAb0L._AC_SL1500_.jpg'
@@ -65,6 +70,7 @@ products:
     caveat: >-
       Stoneware is heavier and chips more readily at the rim than porcelain, and
       the set is service for four only.
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B089LSW9KK?tag=orlaloom-20'
   - name: 'Gibson Elite Malibu Shore Scallop Stoneware Set, 16-Piece'
     image: 'https://m.media-amazon.com/images/I/71Uwo1HmYsL._AC_SL1500_.jpg'
@@ -79,6 +85,7 @@ products:
     caveat: >-
       Reactive glazing is unpredictable by design, so the set you receive will
       not match the listing photo exactly.
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0G3S9GM31?tag=orlaloom-20'
   - name: 'Sango Bethany Scalloped White Plates & Bowls, 12-Piece'
     image: 'https://m.media-amazon.com/images/I/61P2JWTMWzL._AC_SL1500_.jpg'
@@ -91,6 +98,7 @@ products:
       you want the shape to do all the work and intend to layer patterned salad
       plates on top.
     caveat: 'Twelve pieces is service for four, and plain white shows scratches sooner.'
+    added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0F458DJDJ?tag=orlaloom-20'
 ---
 

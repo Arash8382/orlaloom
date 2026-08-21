@@ -26,6 +26,7 @@ products:
     caveat: >-
       Bamboo lids need an occasional wipe-down and shouldn't go in the
       dishwasher — hand wash the lid, jar is dishwasher safe on top rack.
+    added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B07WTRZWC3?tag=orlaloom-20'
   - name: Vtopmart 7-Pack Glass Food Storage Jars with Bamboo Lids
     image: 'https://m.media-amazon.com/images/I/810ubTLe8pL._AC_SL1500_.jpg'
@@ -44,6 +45,7 @@ products:
       Seven jars take up real shelf real estate — measure your pantry
       shelf depth before ordering if space is tight, since the tallest
       jar runs close to 9 inches.
+    added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B0B27X7HFZ?tag=orlaloom-20'
   - name: ComSaf Square Glass Pantry Storage Containers, Set of 6
     image: 'https://m.media-amazon.com/images/I/81f8k7csx+L._AC_SL1500_.jpg'
@@ -62,6 +64,7 @@ products:
       It's the priciest set here for six jars, and the square shape
       photographs a little more "modern pantry" than "grandma's
       farmhouse shelf" if soft roundness is what you're after.
+    added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B08NF1HVKF?tag=orlaloom-20'
   - name: 3-Pc Glass Canister Set with 42 Preprinted Kitchen Pantry Labels
     image: 'https://m.media-amazon.com/images/I/71YksTK3IkL._AC_SL1200_.jpg'
@@ -79,6 +82,7 @@ products:
       Three jars is a starter set, not a whole-pantry solution — plan to
       buy a second set or open-stock jars once you see how satisfying it
       is (most people do).
+    added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B0D17DLRBD?tag=orlaloom-20'
   - name: 4-Pc Vintage Embossed Glass Canister Set with Airtight Lids
     image: 'https://m.media-amazon.com/images/I/81KfzOivOCL._AC_SL1500_.jpg'
@@ -96,6 +100,7 @@ products:
       The embossed texture makes it marginally harder to wipe fully clean
       inside the grooves, and four jars is on the smaller side if you're
       decanting more than the core staples.
+    added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B09SKGQ53D?tag=orlaloom-20'
   - name: 200-Pack Reusable Chalkboard Labels with Chalk Marker
     image: 'https://m.media-amazon.com/images/I/81DsCJTgkhL._AC_SL1500_.jpg'
@@ -115,6 +120,7 @@ products:
       before it's fully dry (give it a minute), and it's noticeably less
       "cottagecore" than the preprinted script labels above — more
       farmhouse-industrial than grandmacore.
+    added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B0CF4SFKTL?tag=orlaloom-20'
 ---
 

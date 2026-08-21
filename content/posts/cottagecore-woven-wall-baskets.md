@@ -21,6 +21,7 @@ products:
     caveat: >-
       It's one basket at this price, so it's an investment piece rather than a
       budget filler.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0D7PLDGPD?tag=orlaloom-20'
   - name: 'CHI AN HOME Jute Wall Decor Baskets, Set of 6 (10-23 in)'
     image: 'https://m.media-amazon.com/images/I/81pkptuaYML._AC_SL1500_.jpg'
@@ -35,6 +36,7 @@ products:
     caveat: >-
       Flat woven plates, not deep baskets, so they're for looks rather than
       holding anything.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0CMC94PMB?tag=orlaloom-20'
   - name: 7-Pack Seagrass Rattan Round Wall Decor
     image: 'https://m.media-amazon.com/images/I/81lKKJxrNGL._AC_SL1500_.jpg'
@@ -48,6 +50,7 @@ products:
     caveat: >-
       These are thin and lightweight; lovely massed together but a little plain
       on their own.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0CFDZRM75?tag=orlaloom-20'
   - name: 'CHI AN HOME Extra-Large Water Hyacinth Wall Baskets, Set of 3 (15-22 in)'
     image: 'https://m.media-amazon.com/images/I/91Mm-daFNZL._AC_SL1500_.jpg'
@@ -61,6 +64,7 @@ products:
     caveat: >-
       The white finish is painted; handle gently and expect a natural, slightly
       uneven weave.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0D8FB4R3Q?tag=orlaloom-20'
   - name: Telsist 11-Piece Boho Woven Wall Basket Set
     image: 'https://m.media-amazon.com/images/I/71uWZuK2rjL._AC_SL1024_.jpg'
@@ -74,6 +78,7 @@ products:
     caveat: >-
       Tones lean warm and a touch rustic; check the photos if you want a
       strictly neutral palette.
+    added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0GGDDZ3F2?tag=orlaloom-20'
 faqs:
   - q: How many baskets do I need for a gallery wall?

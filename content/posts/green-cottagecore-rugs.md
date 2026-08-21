@@ -38,6 +38,7 @@ products:
       The pale cream background will show muddy paw prints faster than a darker
       green would — best in a bedroom or low-traffic sitting room.
     image: 'https://m.media-amazon.com/images/I/91ZD1J22EWL._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0F7XMZ17R?tag=orlaloom-20'
   - name: Vibrug Sage Green 8x10 Vintage Medallion Rug
     brand: Vibrug
@@ -53,6 +54,7 @@ products:
       An 8x10 is a lot of rug to launder at home; you'll likely spot-clean it
       and only wash it at a laundromat with a bigger drum.
     image: 'https://m.media-amazon.com/images/I/81hZCLg8g0L._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0G5YYVT1M?tag=orlaloom-20'
   - name: Forest Green Floral Botanical 5x7 Washable Rug
     brand: GarveeHome
@@ -69,6 +71,7 @@ products:
       under warm lamplight — order a small size first if the exact shade
       matters.
     image: 'https://m.media-amazon.com/images/I/91x51iC5cSL._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0GGWXHR4K?tag=orlaloom-20'
   - name: Alma Modern Natural Botanical Floral Green Rug
     brand: Lahome
@@ -102,6 +105,7 @@ products:
       Very low profile means it feels flat underfoot; add a separate rug pad if
       you want any cushion or extra grip.
     image: 'https://m.media-amazon.com/images/I/817EDmGisnL._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0FCRTMSM4?tag=orlaloom-20'
   - name: Moss Green Vintage Floral Runner (2'6" x 10')
     brand: Amazon
@@ -117,6 +121,7 @@ products:
       Runner sizing is unforgiving; measure your hallway width and length before
       ordering so it doesn't crowd a doorway.
     image: 'https://m.media-amazon.com/images/I/81ooqtPYXSL._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0FRFVZH4B?tag=orlaloom-20'
   - name: Washable Persian 2x3 Sage Green Medallion Mat
     brand: Amazon
@@ -132,6 +137,7 @@ products:
       At 2x3 it's an accent, not a room rug; buy it as a doormat or layering
       piece rather than expecting it to fill a space.
     image: 'https://m.media-amazon.com/images/I/917Ke8xJhnL._AC_SX679_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0GV379P7Z?tag=orlaloom-20'
 faqs:
   - q: Do green rugs show dirt?

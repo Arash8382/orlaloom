@@ -21,6 +21,7 @@ products:
       It's enameled steel, so a hard knock can chip the rim down to the metal
       over time.
     image: 'https://m.media-amazon.com/images/I/71pNny0sfmL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Red-Co-Enamelware-Strainer-Colander/dp/B0973KD4ZC?tag=orlaloom-20
   - name: Mikiegy Embossed Ceramic Mixing Bowls (Set of 4)
@@ -37,6 +38,7 @@ products:
       Ceramic is weighty and can crack if dropped — not the set to hand a small
       child.
     image: 'https://m.media-amazon.com/images/I/71U8act8L6L._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/MIKIGEY-Embossment-Stoneware-Microwave-Dishwasher/dp/B0DG1MVQL6?tag=orlaloom-20
   - name: The Pioneer Woman Vintage Floral Stoneware Utensil Crock
@@ -50,6 +52,7 @@ products:
       of the highest-impact cottagecore counter buys.
     caveat: 'Hand-wash only, and the glaze pattern varies slightly piece to piece.'
     image: 'https://m.media-amazon.com/images/I/81SOBM+V8eL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Pioneer-Woman-Vintage-6-75-Inch-Utensil/dp/B075WYKHFG?tag=orlaloom-20
   - name: Drew DeRose Floral Blue Ceramic Canister Set (Set of 3)
@@ -65,6 +68,7 @@ products:
       The lids aren't fully airtight, so these are better for dry goods you use
       quickly than long-term sealed storage.
     image: 'https://m.media-amazon.com/images/I/71Yhkb+84lL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Piece-Ceramic-Antique-Square-Canister/dp/B00L5K5OEQ?tag=orlaloom-20
   - name: 'Ball Regular-Mouth Glass Mason Jars, Pint (Pack of 8)'
@@ -80,6 +84,7 @@ products:
       These are plain canning jars, not decorative ones — the charm comes from
       how you group and fill them.
     image: 'https://m.media-amazon.com/images/I/61y6vj0iEeL._AC_SL1000_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Ball-Regular-Mouth-Glass-Canning/dp/B0D6CHYV33?tag=orlaloom-20
   - name: 'jinchan Vintage Floral Linen Café Curtains (36", 2 Panels)'
@@ -95,6 +100,7 @@ products:
       They filter light rather than block it, so they won't give you full
       privacy after dark.
     image: 'https://m.media-amazon.com/images/I/81IfDbI21rL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/jinchan-Kitchen-Curtains-Farmhouse-Bathroom/dp/B0F32KLH7M?tag=orlaloom-20
   - name: 'Floral Rose Flour Sack Tea Towels (100% Cotton, 4-Pack)'
@@ -110,6 +116,7 @@ products:
       The print sits on one side only, and colors soften a little after the
       first few washes.
     image: 'https://m.media-amazon.com/images/I/81LpP9cR8hL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Towels-4-Pack-Cotton-Printed-Kitchen/dp/B01JU22P2Y?tag=orlaloom-20
   - name: Smeg KLF03 50's Retro Style Electric Kettle (Cream)
@@ -125,6 +132,7 @@ products:
       Premium price for the design; it boils water no faster than kettles a
       third of the cost.
     image: 'https://m.media-amazon.com/images/I/51SpiFBDweL._AC_SL1000_.jpg'
+    added: '2026-07-21'
     url: >-
       https://www.amazon.com/Electric-Automatic-Removable-Indicator-KLF03CRUS/dp/B077PJDCG3?tag=orlaloom-20
 faqs:

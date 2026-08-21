@@ -13,6 +13,7 @@ products:
     badge: "Best overall"
     blurb: "The counter lamp of the moment — a soft pleated fabric shade on a slim brass-gold stem, glowing a candle-warm 2700K. Fast-charges in about 1.5 hours and runs for days on the low setting, so it lives happily beside the coffee maker."
     caveat: "The gold finish is bright and new-looking, not a true aged brass — if you want patina, look at the antique-brass pick below."
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0FGD7V86P?tag=orlaloom-20"
   - name: "Litluzecozy Antique Brass Cordless Lamp, 16 in"
     image: "https://m.media-amazon.com/images/I/61nPBtbe-eL._AC_SL1500_.jpg"
@@ -22,6 +23,7 @@ products:
     badge: "Best budget"
     blurb: "An aged antique-brass finish and a taller 16-inch profile made for the awkward spot between the range and the window. A 6000mAh battery keeps it lit through a week of evening ambiance, and it's under $25."
     caveat: "It's the tallest lamp here — measure your under-cabinet clearance before ordering."
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0FWS2MWKG?tag=orlaloom-20"
   - name: "INTELIVE Ceramic Cordless Lamp with Linen Shade, 10 in"
     image: "https://m.media-amazon.com/images/I/81pWFxCdVhL._AC_SL1500_.jpg"
@@ -31,6 +33,7 @@ products:
     badge: "Best ceramic"
     blurb: "A little ceramic-based lamp with a linen shade that reads far more expensive than it is. Comes with a remote, a timer and a dimmer, so you can set it to click on at dusk like clockwork — proper cottage magic."
     caveat: "It also does RGB colors; skip those and stay on warm white for the cottagecore look."
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0F83N2F97?tag=orlaloom-20"
   - name: "KDG Cordless Lamp with Gathered Fabric Shade, Gold"
     image: "https://m.media-amazon.com/images/I/61TbVETVD5L._AC_SL1500_.jpg"
@@ -40,6 +43,7 @@ products:
     badge: "Prettiest shade"
     blurb: "The gathered fabric shade diffuses light beautifully — no glare, just a soft pool of warmth over the counter. Three-step dimming by tapping the top, and the 4000mAh battery recharges over USB-C."
     caveat: "Fabric shades near the stove collect grease film — give it a spot away from the burners."
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0DMV9V47L?tag=orlaloom-20"
   - name: "O'Bright Seraph Mini Cordless LED Lamp with Dimmer"
     image: "https://m.media-amazon.com/images/I/61q6bKFz-mL._AC_SL1500_.jpg"
@@ -49,6 +53,7 @@ products:
     badge: "Best quality"
     blurb: "The best-reviewed lamp of the bunch (4.6 stars) from a proper lighting brand. Restaurant-grade build, three brightness levels and a genuinely long-lived built-in battery — this is the buy-once option."
     caveat: "The look is more modern-minimal than florals-and-frills; it suits a pared-back cottage kitchen best."
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0D92YB4RH?tag=orlaloom-20"
   - name: "UMEXUS Ceramic-Base Cordless Lamp with Remote, 13 in"
     image: "https://m.media-amazon.com/images/I/81VPhboXa-L._AC_SL1500_.jpg"
@@ -58,6 +63,7 @@ products:
     badge: "Best with timer"
     blurb: "A 13-inch ginger-jar-adjacent silhouette with an upgraded ceramic base, plus a remote with timer and dimmer. Set it to glow from 6 to 10 every evening and your kitchen greets you lit."
     caveat: "The priciest pick here, and like the INTELIVE it has color-changing modes you'll probably never use."
+    added: '2026-07-19'
     url: "https://www.amazon.com/dp/B0FLX6WKSP?tag=orlaloom-20"
   - name: "Two's Company Scalloped Edge Shade LED Cordless Table Lamp, 14 in (Blue)"
     image: "https://m.media-amazon.com/images/I/411cS9vB29L._AC_SL1500_.jpg"
@@ -67,6 +73,7 @@ products:
     badge: "Prettiest shade"
     blurb: "A proper scalloped-edge shade on a rechargeable base, from a real home-decor house rather than a marketplace brand — the one here that looks bought rather than sourced."
     caveat: "The most expensive pick on this page and the review history is still thin, so buy it for the shade rather than for the specs."
+    added: '2026-08-17'
     url: "https://www.amazon.com/dp/B0DK86RRZL?tag=orlaloom-20"
 updated: '2026-08-20'
 ---

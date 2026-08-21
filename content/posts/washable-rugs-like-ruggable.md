@@ -92,6 +92,7 @@ products:
     caveat: >-
       The colours read pastel and sweet in person — lovely in a bedroom, but it
       won't anchor a large living room.
+    added: '2026-07-19'
     url: 'https://www.amazon.com/dp/B0D3KWKWTW?tag=orlaloom-20'
   - name: Dadasgk Pink Floral Scalloped 5x7 Washable Rug
     image: 'https://m.media-amazon.com/images/I/91mDdEvJOYL._AC_SL1500_.jpg'
@@ -107,6 +108,7 @@ products:
     caveat: >-
       Firmly a nursery/kids'-room palette — in a grown-up space the pink can
       feel a touch sugary.
+    added: '2026-07-19'
     url: 'https://www.amazon.com/dp/B0FPC7TWDR?tag=orlaloom-20'
 faqs:
   - q: Is Ruggable worth the price?

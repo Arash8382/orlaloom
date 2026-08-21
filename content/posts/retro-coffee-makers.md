@@ -13,6 +13,7 @@ products:
     blurb: "The original domed silhouette every retro coffee maker imitates — die-cast body, chrome details, auto-start timer, keep-warm plate and two strength settings, in Smeg's unmistakable 1950s cream."
     caveat: "You're paying roughly four times the price of the lookalikes, and it brews no faster than they do."
     image: "https://m.media-amazon.com/images/I/51lSldoZ8gL._AC_SL1300_.jpg"
+    added: '2026-07-18'
     url: "https://www.amazon.com/dp/B07RJTPR4Y?tag=orlaloom-20"
   - name: "Haden 12-Cup Programmable Retro Drip Coffee Maker"
     brand: "Haden"
@@ -22,6 +23,7 @@ products:
     blurb: "Haden's rounded British-heritage styling gets you most of the Smeg look for about a quarter of the money — 12 cups, programmable timer, auto shut-off and a reusable washable filter."
     caveat: "The body is powder-coated steel over plastic, so it feels lighter and less substantial than the Smeg up close."
     image: "https://m.media-amazon.com/images/I/71XjPYpFxoL._AC_SL1500_.jpg"
+    added: '2026-07-18'
     url: "https://www.amazon.com/dp/B0B1382VV6?tag=orlaloom-20"
   - name: "Nostalgia Retro 12-Cup Programmable Coffee Maker"
     brand: "Nostalgia"
@@ -31,6 +33,7 @@ products:
     blurb: "The most coffee maker per dollar in the retro category: 12 cups, LED display, programmable brew, pause-and-serve and keep-warm — wrapped in a curvy pastel shell that photographs beautifully."
     caveat: "The pastel finish is paint over plastic; treat it gently, as chips show more than on enameled rivals."
     image: "https://m.media-amazon.com/images/I/81JX1kWll9L._AC_SL1500_.jpg"
+    added: '2026-07-18'
     url: "https://www.amazon.com/dp/B089ZFN89F?tag=orlaloom-20"
   - name: "Amaste Retro Drip Coffee Maker with 25 oz Glass Pot"
     brand: "Amaste"
@@ -40,6 +43,7 @@ products:
     blurb: "A compact 25 oz brewer for one or two people, with the softest vintage curves of the group, a reusable filter and a footprint small enough for a tiny cottage kitchen or an office shelf."
     caveat: "Two to three mugs per brew, tops — a family of coffee drinkers will outgrow it fast."
     image: "https://m.media-amazon.com/images/I/61a7BOOkDjL._AC_SL1500_.jpg"
+    added: '2026-07-18'
     url: "https://www.amazon.com/dp/B086XCR8L9?tag=orlaloom-20"
   - name: "SUMSATY 20-Bar Retro Espresso Machine with Milk Frother"
     brand: "SUMSATY"
@@ -49,6 +53,7 @@ products:
     blurb: "Real 20-bar pressure, a steam wand for lattes and a chrome-and-pastel body straight out of a 1950s diner — proper espresso without the four-figure Italian machine price."
     caveat: "The steam wand takes practice, and it's louder than any drip machine on this list."
     image: "https://m.media-amazon.com/images/I/81LSY9q5pbL._AC_SL1500_.jpg"
+    added: '2026-07-18'
     url: "https://www.amazon.com/dp/B0FMWLCJG2?tag=orlaloom-20"
   - name: "Presto 12-Cup Stainless Steel Electric Percolator"
     brand: "Presto"
@@ -58,6 +63,7 @@ products:
     blurb: "Not retro-styled — actually retro: percolators are how coffee was made in mid-century kitchens, and this polished stainless Presto brews a hotter, stronger pot that keeps itself at serving temperature."
     caveat: "No timer, no auto-drip conveniences, and percolated coffee is noticeably bolder — an acquired taste if you grew up on drip."
     image: "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg"
+    added: '2026-07-18'
     url: "https://www.amazon.com/dp/B00006IV0Q?tag=orlaloom-20"
 updated: '2026-08-20'
 ---

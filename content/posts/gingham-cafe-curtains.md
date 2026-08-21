@@ -25,6 +25,7 @@ products:
       but read the size chart, because 24 in is short and made for half-window
       café coverage only.
     image: 'https://m.media-amazon.com/images/I/819dUhldTmL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B088FHBJTC?tag=orlaloom-20'
   - name: >-
       VOGOL Yarn-Dyed Gingham Half-Window Café Tier Curtains, Blue & White, 30 x
@@ -42,6 +43,7 @@ products:
       Yarn-dyed cotton-blend can shrink slightly on a hot wash — cold wash and
       hang-dry, and buy the next size up if your window is a snug fit.
     image: 'https://m.media-amazon.com/images/I/71eTKN11dgS._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B08LZGK83L?tag=orlaloom-20'
   - name: 'Haperlare Buffalo Check Tier Curtains, Sage & White, 28 x 45 in, Set of 2'
     brand: Haperlare
@@ -57,6 +59,7 @@ products:
       The 45-in drop is longer than a standard café tier; measure your window
       before ordering so you're not left with fabric pooling on the counter.
     image: 'https://m.media-amazon.com/images/I/71H3F3fkbfL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B081C7ZYHX?tag=orlaloom-20'
   - name: 'Amzdecor Buffalo Check Tier Curtains, Linen & White, 28 x 36 in, Set of 2'
     brand: Amzdecor
@@ -73,6 +76,7 @@ products:
       a steamy kitchen than real linen would, but don't expect the slubby
       texture of the genuine article.
     image: 'https://m.media-amazon.com/images/I/61c91+VAUCL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B09JNX6CNK?tag=orlaloom-20'
   - name: >-
       Barossa Design Buffalo Check Window Tier Curtains, Black & White, 28 x 36
@@ -90,6 +94,7 @@ products:
       Black-and-white reads more 'farmhouse' than 'cottage'; if your scheme is
       all pastels and floral, the sage or blue will feel more at home.
     image: 'https://m.media-amazon.com/images/I/91g+fpmhAwL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B088FG4FSL?tag=orlaloom-20'
   - name: 'lovemyfabric Checkerboard Print Rod-Pocket Valance, 58 x 16 in, 1 Panel'
     brand: lovemyfabric
@@ -106,6 +111,7 @@ products:
       pair it with a plain roller shade or one of the tier pairs above for real
       coverage.
     image: 'https://m.media-amazon.com/images/I/81mGpkhQueL._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B09H9DHVFZ?tag=orlaloom-20'
   - name: 'Classic Gingham Ruffled Rod-Pocket Curtain Tiers, Pair'
     brand: Vermont Country Store
@@ -122,6 +128,7 @@ products:
       Amazon tiers it's a splurge — but the cotton hand and ruffle are genuinely
       a cut above the budget picks.
     image: 'https://m.media-amazon.com/images/I/71-+l5e86vL._AC_SX679_.jpg'
+    added: '2026-07-23'
     url: 'https://www.amazon.com/dp/B0H1QPZY4X?tag=orlaloom-20'
   - name: 'KXLife Spring Tension Curtain Rod, 22-36 in, Set of 2'
     brand: KXLife
@@ -137,6 +144,7 @@ products:
       Tension rods are for lightweight tiers only; the heavier linen-look pairs
       can slowly droop on tension, so use a mounted café rod for those.
     image: 'https://m.media-amazon.com/images/I/51dj-ydcf5L._AC_SL1500_.jpg'
+    added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B08DN2R179?tag=orlaloom-20'
 faqs:
   - q: Are café curtains enough privacy for a kitchen?

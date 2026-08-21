@@ -30,6 +30,7 @@ products:
     caveat: >-
       These are pressed glass, not hand-blown — look closely and you will find
       faint seam lines, which is normal at this price.
+    added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0D82WRJ9V?tag=orlaloom-20'
   - name: 'Consou Hobnail Glassware Set of 6, 15 oz Thick Glass with Heavy Base'
     image: 'https://m.media-amazon.com/images/I/816ZPhJA6IL._AC_SL1500_.jpg'
@@ -48,6 +49,7 @@ products:
     caveat: >-
       The thick walls make them heavier in hand than a true vintage tumbler —
       lovely for stability, less so if you like a light, fine-rimmed glass.
+    added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0C6KDLR99?tag=orlaloom-20'
   - name: >-
       Moretoes Colored Hobnail Drinking Glasses Set of 12, Mixed Highballs and
@@ -68,6 +70,7 @@ products:
     caveat: >-
       You cannot choose which colors arrive, so if you want six of one shade for
       a uniform table, this is not the set for that.
+    added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0FWRF5TK9?tag=orlaloom-20'
   - name: 'INSETLAN 20 oz Hobnail Glass Cups with Lids and Glass Straws, Set of 4'
     image: 'https://m.media-amazon.com/images/I/81dhgKP5CkL._AC_SL1500_.jpg'
@@ -85,6 +88,7 @@ products:
     caveat: >-
       Glass straws and lids mean more parts to wash and keep track of — and the
       straws need a brush to clean properly.
+    added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0GH6RLM61?tag=orlaloom-20'
   - name: >-
       Akutaa Vintage Hobnail Drinking Glasses Set of 6, 16 oz Embossed Clear
@@ -105,6 +109,7 @@ products:
     caveat: >-
       Tall 16-ounce glasses may not fit under some low upper-rack dishwasher
       tines — check your rack height.
+    added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0F9NC189X?tag=orlaloom-20'
   - name: 'Khen Muted Hobnail Coupes, Pastel Colored Glass Goblets, Set of 4'
     image: 'https://m.media-amazon.com/images/I/71iDLhV+EIL._AC_SL1500_.jpg'
@@ -122,6 +127,7 @@ products:
     caveat: >-
       Stemware is inherently more fragile than tumblers and stock runs low on
       these — hand-wash and store them upright.
+    added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0FJMV2BRF?tag=orlaloom-20'
 faqs:
   - q: Is new hobnail glassware dishwasher safe?

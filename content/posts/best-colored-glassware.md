@@ -30,6 +30,7 @@ products:
       Recycled glass shows seeds, bubbles, and size variation (charming, but not
       uniform).
     image: 'https://m.media-amazon.com/images/I/71qUT01riVL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/EMPORION-Hand-Blown-Tumbler-Glasses-Mexico/dp/B08T6PQ98K?tag=orlaloom-20
   - name: 'Estelle Wine Stemware (Set of 6, Amber Smoke)'
@@ -55,6 +56,7 @@ products:
       in Tonalá — fun, grippy, and impossible to be sad around.
     caveat: Busier than solid-color glass; lead-free but with hand-blown variation.
     image: 'https://m.media-amazon.com/images/I/81hRv3zNJ6L._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Mexican-Blown-Drinking-Glasses-Confetti/dp/B00BJ47HNY?tag=orlaloom-20
   - name: Handmade con Amor Blue Confetti Tumblers (Set of 6)
@@ -67,6 +69,7 @@ products:
       signature little bubbles — everyday glasses with soul.
     caveat: Bigger and heavier with slightly uneven walls; hand-wash recommended.
     image: 'https://m.media-amazon.com/images/I/81FSoYqR-NL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Handmade-Amor-Drinking-tumblers-Confetti/dp/B0BWWV68R1?tag=orlaloom-20
   - name: 'Amber Ribbed Glassware Set (Set of 6, 16 oz)'
@@ -81,6 +84,7 @@ products:
       Mass-produced (not hand-blown), and the amber tint is light — more honey
       than deep amber.
     image: 'https://m.media-amazon.com/images/I/81S8PHagdmL._AC_SL1500_.jpg'
+    added: '2026-08-01'
     url: 'https://www.amazon.com/dp/B0F4X933SS?tag=orlaloom-20'
   - name: 'Qipecedm Ribbed Highball Glasses (Set of 6, 16 oz)'
     brand: Qipecedm
@@ -92,6 +96,7 @@ products:
       ribbed look without the color, ready to pair with amber.
     caveat: 'Clear, not amber, so add the amber set if you want the warm tone.'
     image: 'https://m.media-amazon.com/images/I/81jd48e9NTL._AC_SL1500_.jpg'
+    added: '2026-08-01'
     url: 'https://www.amazon.com/dp/B0BVBJJV1W?tag=orlaloom-20'
   - name: Amber Glass Pitcher with Lid (64 oz)
     brand: AEFPOYMXU
@@ -103,6 +108,7 @@ products:
       piece that pulls an amber drink station together.
     caveat: 'Smooth (not fluted) body, and the lid/seal is fairly basic.'
     image: 'https://m.media-amazon.com/images/I/61gWpci+CkL._AC_SL1500_.jpg'
+    added: '2026-06-29'
     url: >-
       https://www.amazon.com/Pitcher-Beverage-Pitchers-Carafe-Lemonade/dp/B09YLRFRSY?tag=orlaloom-20
   - name: Estelle Coupe (Amber Smoke)

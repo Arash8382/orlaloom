@@ -31,6 +31,7 @@ products:
       Sherpa is a lint and pet-hair magnet — keep a fabric shaver nearby if you
       have a cat, and note the ivory shows marks more than a darker fabric
       would.
+    added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B09HND5WF1?tag=orlaloom-20'
   - name: 'Nintiue Arc Floor Lamp with Linen Shade, Dimmable, 1200 Lumens, Brass'
     image: 'https://m.media-amazon.com/images/I/61a+mIdIMdL._AC_SL1500_.jpg'
@@ -52,6 +53,7 @@ products:
       The weighted base is what keeps an arc lamp upright — it is heavy and
       takes up a real footprint on the floor, so measure before you commit to a
       very narrow gap.
+    added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B0DCNMMQZQ?tag=orlaloom-20'
   - name: >-
       Longhui Bedding Chunky Cable Knit Throw Blanket, 100 Percent Organic
@@ -73,6 +75,7 @@ products:
     caveat: >-
       Open cable knit snags on rings, watch clasps and cat claws — beautiful,
       but not the blanket for a house with a determined kitten.
+    added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B0FLYGX1SL?tag=orlaloom-20'
   - name: Powell Tarkin Round Natural Wood Turned Spindle Pedestal Side Table
     image: 'https://m.media-amazon.com/images/I/61kLU90PMVL._AC_SL1500_.jpg'
@@ -92,6 +95,7 @@ products:
     caveat: >-
       Natural wood with no lacquer means rings — use a coaster, or accept that
       it will patina.
+    added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B0C2ZKKL81?tag=orlaloom-20'
   - name: >-
       VASAGLE 6-Tier Narrow Bookcase with Rattan-Look Door, 15.7 in Wide, Oak
@@ -113,6 +117,7 @@ products:
     caveat: >-
       Tall and narrow means it must be anchored to the wall, especially with
       children or pets — the anti-tip hardware is included, so use it.
+    added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B0CMQBXKWQ?tag=orlaloom-20'
   - name: 'BIRDROCK HOME Round Braided Cotton Pouf Ottoman Foot Rest, 18.5 in'
     image: 'https://m.media-amazon.com/images/I/91drbpYQ7iL._AC_SL1500_.jpg'
@@ -133,6 +138,7 @@ products:
       Bean-bag filling compresses over time — expect it to lose an inch of
       height in the first year, and note it is a footrest, not a substitute
       chair for long sitting.
+    added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B07NBWF68J?tag=orlaloom-20'
 faqs:
   - q: How much space does a reading nook actually need?
