@@ -11,10 +11,13 @@
 // In the Chrome tab on the /dp/ASIN page, run this JS and keep the result:
 //
 //   (() => {
-//     const m = document.body.innerHTML.match(/["']colorImages["']\s*:\s*\{\s*["']initial["']\s*:\s*\[/);
+//     // Anchor on colorImages only. Do NOT require the key "initial" - multi-variant
+//     // listings key it by colourway (e.g. {"Olive":[...]}) and an "initial"-only match
+//     // silently returns ZERO images for them (confirmed on 10 ASINs, 2026-08-21).
+//     const idx = document.body.innerHTML.indexOf("colorImages");
 //     let imgs = [];
-//     if (m) {
-//       const s = document.body.innerHTML.indexOf("[", m.index + m[0].length - 1);
+//     if (idx > -1) {
+//       const s = document.body.innerHTML.indexOf("[", idx);
 //       let d = 0, e = s;
 //       for (let i = s; i < document.body.innerHTML.length; i++) {
 //         const c = document.body.innerHTML[i];

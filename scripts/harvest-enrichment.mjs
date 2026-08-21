@@ -69,16 +69,23 @@ async function getPage(asin, attempt = 1) {
   return html;
 }
 
+// Anchor on colorImages, then bracket-walk from the first [ that follows.
+// Do NOT require the key to be "initial": multi-variant listings key colorImages by
+// the colourway (e.g. {"Olive":[...]}) and the old "initial"-only regex silently
+// returned ZERO images for every one of them. Confirmed 2026-08-21 on B0F4JWD1HQ,
+// B0B4HVN7DZ and 8 others - all had 6 hiRes photos the parser never saw.
 function sliceInitial(html) {
-  const m = html.match(/["']colorImages["']\s*:\s*\{\s*["']initial["']\s*:\s*\[/);
-  if (!m) return null;
-  const start = html.indexOf("[", m.index + m[0].length - 1);
+  const i = html.indexOf("colorImages");
+  if (i === -1) return null;
+  const start = html.indexOf("[", i);
+  if (start === -1) return null;
   let depth = 0;
-  for (let i = start; i < html.length; i++) {
-    if (html[i] === "[") depth++;
-    else if (html[i] === "]") {
+  for (let k = start; k < html.length; k++) {
+    const c = html[k];
+    if (c === "[") depth++;
+    else if (c === "]") {
       depth--;
-      if (depth === 0) return html.slice(start, i + 1);
+      if (depth === 0) return html.slice(start, k + 1);
     }
   }
   return null;
