@@ -81,6 +81,15 @@ products:
       Black reads industrial-farmhouse rather than soft cottage, and at 42
       inches tall it is a two-person hang that needs proper wall anchors.
     url: 'https://www.amazon.com/dp/B0CBB1MK8K?tag=orlaloom-20'
+  - name: "EMAISON Scalloped Arch Wall Mirror, 24 x 35 in"
+    image: "https://m.media-amazon.com/images/I/61LVXXda2CL._AC_SL1500_.jpg"
+    brand: "EMAISON"
+    price: "~$60-72"
+    retailer: "Amazon"
+    badge: "Best wood frame"
+    blurb: "A scalloped arch in a natural brown wood frame with real glass — the warm, rustic counterpart to the gold scalloped mirrors, and the one that suits a bathroom or entryway rather than a glam vanity."
+    caveat: "At 24 by 35 inches it is a genuinely large piece; check the wall and the anchors before ordering."
+    url: "https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20"
 faqs:
   - q: Are these heavy to hang?
     a: >-
@@ -91,21 +100,6 @@ faqs:
     a: >-
       An *antique* or brushed gold reads warm and vintage, not flashy — it's the
       bright, shiny golds to avoid.
-  - name: 'EMAISON Scalloped Arch Wall Mirror, 24" x 35"'
-    image: 'https://m.media-amazon.com/images/I/61LVXXda2CL._AC_SL1500_.jpg'
-    brand: EMAISON
-    price: ~$60-72
-    retailer: Amazon
-    badge: Best wood frame
-    blurb: >-
-      A scalloped arch in a natural brown wood frame with real glass — the
-      warm, rustic counterpart to the gold scalloped mirrors, and the one
-      that suits a bathroom or entryway rather than a glam vanity.
-    caveat: >-
-      At 24 by 35 inches it is a genuinely large piece; check the wall and
-      the anchors before ordering.
-    url: >-
-      https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20
 ---
 
 A mirror is the décor multitasker — it adds character *and* bounces light around a small cottage room. An arched or scalloped frame does it with vintage charm. Here are the ones worth hanging.
