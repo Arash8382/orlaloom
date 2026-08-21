@@ -5,6 +5,7 @@ description: >-
   farmhouse styles — to add vintage character to a cottage wall.
 category: home-decor
 date: '2026-07-10'
+updated: '2026-08-21'
 cover: /thumbnails/thumb-vintage-arched-scalloped-mirrors.webp
 products:
   - name: 'Kate and Laurel Viona Scalloped Wall Mirror, 26"'
@@ -90,7 +91,21 @@ faqs:
     a: >-
       An *antique* or brushed gold reads warm and vintage, not flashy — it's the
       bright, shiny golds to avoid.
-updated: '2026-08-02'
+  - name: 'EMAISON Scalloped Arch Wall Mirror, 24" x 35"'
+    image: 'https://m.media-amazon.com/images/I/61LVXXda2CL._AC_SL1500_.jpg'
+    brand: EMAISON
+    price: ~$60-72
+    retailer: Amazon
+    badge: Best wood frame
+    blurb: >-
+      A scalloped arch in a natural brown wood frame with real glass — the
+      warm, rustic counterpart to the gold scalloped mirrors, and the one
+      that suits a bathroom or entryway rather than a glam vanity.
+    caveat: >-
+      At 24 by 35 inches it is a genuinely large piece; check the wall and
+      the anchors before ordering.
+    url: >-
+      https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20
 ---
 
 A mirror is the décor multitasker — it adds character *and* bounces light around a small cottage room. An arched or scalloped frame does it with vintage charm. Here are the ones worth hanging.
@@ -104,6 +119,10 @@ A mirror is the décor multitasker — it adds character *and* bounces light aro
 ## Size it to the wall, not the table
 
 A common mistake is a mirror that's too small. Aim for a mirror roughly two-thirds the width of the console or mantel beneath it, hung so the center sits near eye level.
+
+## What goes with a scalloped mirror
+
+A scalloped edge wants company, not competition. In a bathroom, [scalloped and waffle towels](/blog/scalloped-waffle-towels) repeat the curve at eye level without adding another hard shape. In a bedroom or hallway, [pleated lampshades](/blog/best-pleated-lampshades) and a [woven wall basket](/blog/cottagecore-woven-wall-baskets) or two give the wall some texture so the mirror is not floating alone, and the wider [grandmillennial decor](/blog/grandmillennial-decor) guide covers how scallops, chintz and brass sit together without tipping into fussy.
 
 ## FAQ
 

@@ -3,6 +3,7 @@ title: "The Best Washed Linen Tablecloths for a Cottagecore Table"
 description: "Soft, lived-in washed linen tablecloths — from affordable hemstitch blends to pure French linen — that bring an heirloom feel to everyday cottage dining."
 category: "textiles"
 date: "2026-07-06"
+updated: '2026-08-21'
 cover: "/thumbnails/thumb-washed-linen-tablecloths.webp"
 products:
   - name: "Solino Home Cotton-Linen Hemstitch Tablecloth"
@@ -59,6 +60,15 @@ products:
     blurb: "The pure-linen upgrade from the same trusted brand — pre-washed with a natural slub texture."
     caveat: "Narrower color selection than the blend line."
     url: "https://www.amazon.com/dp/B097PXSXTW?tag=orlaloom-20"
+  - name: "Talasily 100% Linen Tablecloth, Stone Washed (60x120)"
+    image: "https://m.media-amazon.com/images/I/71KeyOuNSzL._AC_SL1500_.jpg"
+    brand: "Talasily"
+    price: "~$68-78"
+    retailer: "Amazon"
+    badge: "Best long-table size"
+    blurb: "Pure stonewashed linen in a genuine 60 by 120 inch cut — the size for a harvest table or two tables pushed together, which most linen listings simply do not offer."
+    caveat: "Long enough that it needs a big machine and a real drying rack; a standard dryer will crease it badly."
+    url: "https://www.amazon.com/Talasily-Linen-Tablecloth-Rectangle-Washed/dp/B0C8LYM7K2?tag=orlaloom-20"
 ---
 
 Nothing softens a table like washed linen — it drapes, it rumples, and it looks like it's been in the family for years (even if it arrived yesterday). Here's how to get the heirloom look at every budget.
@@ -72,6 +82,10 @@ Pure linen has the most beautiful drape and that signature slubby texture, but i
 ## Embrace the wrinkles
 
 Don't fight it: shake it out, lay it on the table slightly damp if you like, and let the creases fall. A perfectly pressed linen cloth actually looks less cottage, not more. For the everyday version of the same washed-textile look, [scalloped waffle towels](/blog/scalloped-waffle-towels) bring the texture into the kitchen and bath.
+
+## Setting the rest of the table
+
+A linen cloth is the base layer, not the whole table. If you're building toward a seasonal setting, the [fall supper club tablescape](/blog/fall-supper-club-tablescape) guide walks through what goes on top, and [pumpkin and harvest dinnerware](/blog/pumpkin-dinnerware-harvest-tableware) is the obvious autumn pairing. For everyday use, [gingham picnic tableware](/blog/gingham-picnic-tableware) is the lighter, more casual alternative, and a row of [glass pantry canisters](/blog/glass-pantry-canisters) or [canning jars](/blog/best-canning-jars-for-jam) on the sideboard keeps the same unfussy, useful-things-on-display feeling going.
 
 ## FAQ
 
