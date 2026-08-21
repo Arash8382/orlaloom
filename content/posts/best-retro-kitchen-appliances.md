@@ -3,7 +3,7 @@ title: "Retro Kitchen Appliances: Best Brands, Sets, Small & Full-Size (2026)"
 description: "The best retro kitchen appliances of 2026 — Smeg kettles, stand mixers, pastel mini fridges and toasters — plus the top vintage and 1950s-style appliance brands, how to build a matching set, and full-size retro fridges and suites."
 category: "retro-appliances"
 date: "2026-07-29"
-updated: '2026-08-08'
+updated: '2026-08-20'
 cover: "/thumbnails/thumb-best-retro-kitchen-appliances.webp"
 faqs:
   - q: "What are the best retro kitchen appliance brands?"
@@ -179,6 +179,8 @@ Pick a single family and hold it. Mint and sage sit cool and go with cream, wood
 Then decide which piece carries the colour. The kettle and the toaster are the two that live permanently on the counter, so they're the ones worth matching. A stand mixer is big enough to be its own statement and can safely be a different shade. Anything you store in a cupboard should just be whatever's cheapest — nobody sees it.
 
 Finally, be realistic about replacement timing. Buying a matching pastel set at once is expensive and slightly sterile; replacing each appliance in your chosen shade as the old one dies gets you the same look, spreads the cost, and keeps the counter from looking staged.
+
+Pastel is not the only way to do this. A deeper, moodier palette — aubergine, plum, damson — reads just as period-correct and is far more forgiving of a dark kitchen, where mint and butter-yellow can look washed out under artificial light. If that is closer to your room, the same logic applied to a richer colour is set out in our guide to [aubergine and plum kitchen accents](/blog/aubergine-plum-kitchen-accents).
 
 ## FAQ
 

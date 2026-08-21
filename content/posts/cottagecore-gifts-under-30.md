@@ -148,7 +148,7 @@ faqs:
       and price spikes, and consumables like candles keep perfectly well in a
       drawer. The recipe box is actually better bought early, since filling in a
       few recipe cards yourself takes time worth having.
-updated: '2026-08-17'
+updated: '2026-08-20'
 ---
 
 Finding a gift that feels thoughtful without spending a fortune is a genuine skill — and the cottagecore aesthetic makes it easier than most, because the whole look is built on small, honest, useful things: candles, linens, little dishes, something handwritten. Every pick in this guide is under $30, in stock, and chosen because it feels like a gift rather than an obligation fulfilled.
@@ -169,7 +169,7 @@ If you're shopping for someone who runs more practical than romantic, lean towar
 
 ## More cottagecore gift ideas, by occasion and budget
 
-This guide covers the under-$30 sweet spot, but if the occasion calls for something different we have dedicated round-ups. Heading to a dinner party? The [cottagecore hostess gifts](/blog/cottagecore-hostess-gifts) guide is built exactly for that. Filling stockings or need lots of tiny gifts? Start with [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers). For the candle lover, the [best cottagecore candles](/blog/best-cottagecore-candles) guide goes deeper than the tapers here, and [grandmacore scents and brass holders](/blog/grandmacore-scents-brass-holders) covers the nostalgic-fragrance angle. If they're a tea person, pair the mug above with something from [speckled stoneware mugs](/blog/speckled-stoneware-mugs) or build them a whole [tea corner](/blog/tea-corner-ideas). And for someone setting up a first apartment, a [cottagecore bud vase](/blog/cottagecore-bud-vases) is the classic can't-miss add-on.
+This guide covers the under-$30 sweet spot, but if the occasion calls for something different we have dedicated round-ups. Heading to a dinner party? The [cottagecore hostess gifts](/blog/cottagecore-hostess-gifts) guide is built exactly for that. Filling stockings or need lots of tiny gifts? Start with [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers). For the candle lover, the [best cottagecore candles](/blog/best-cottagecore-candles) guide goes deeper than the tapers here, and [grandmacore scents and brass holders](/blog/grandmacore-scents-brass-holders) covers the nostalgic-fragrance angle. If they're a tea person, pair the mug above with something from [speckled stoneware mugs](/blog/vintage-kitchen-accessories) or build them a whole [tea corner](/blog/tea-corner-ideas). And for someone setting up a first apartment, a [cottagecore bud vase](/blog/cottagecore-bud-vases) is the classic can't-miss add-on.
 
 ## FAQ
 

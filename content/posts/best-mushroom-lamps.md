@@ -170,7 +170,7 @@ faqs:
       originals keep appreciating at vintage markets, and new versions in wood,
       glass and ceramic now fit everything from coquette bedrooms to minimalist
       living rooms.
-updated: '2026-08-17'
+updated: '2026-08-20'
 ---
 
 The best mushroom lamp for most people is the **Moroommt Wood Mushroom Lamp** — the viral, under-$20, rechargeable little beech-wood dome that drops instant cottage warmth onto any nightstand or shelf, no wiring required. If you want something more grown-up to actually anchor a room, spend up on the **BOHON Ceramic Mushroom Lamp**, a glossy 4.8-star piece on a solid wood base. Either way, a mushroom lamp is that rare bit of decor that works as both a sculpture by day and a soft glow by night.
@@ -197,7 +197,7 @@ If you are furnishing a more grown-up space and want something with real weight,
 
 One mushroom lamp reads intentional; three scattered around a room reads theme park. The trick with a motif this recognizable is restraint — let the lamp be the single whimsical note in an otherwise calm vignette. On a nightstand, that means the lamp plus two quiet companions: a small stack of clothbound books and something organic like a bud vase of dried flowers. Keep the surrounding palette warm and muted — creams, terracottas, sage — so the lamp's glow stays the star.
 
-Height matters more than you would think, because most mushroom lamps stand only 8 to 12 inches tall. Set one on a small riser or a couple of books so the light pools warmly instead of vanishing behind a taller object, and resist centering it — a lamp pushed to the back corner, half-overlapping a frame or mirror, looks collected rather than bought last Tuesday. In a kitchen or entryway, group it with other rounded cottagecore accents; it sits naturally beside curvy ceramics like [mushroom butter dishes](/blog/mushroom-butter-dishes). And a matching pair — two small lamps flanking a bed or console — reads as deliberate where a single small one can look a little lost.
+Height matters more than you would think, because most mushroom lamps stand only 8 to 12 inches tall. Set one on a small riser or a couple of books so the light pools warmly instead of vanishing behind a taller object, and resist centering it — a lamp pushed to the back corner, half-overlapping a frame or mirror, looks collected rather than bought last Tuesday. In a kitchen or entryway, group it with other rounded cottagecore accents; it sits naturally beside curvy ceramics like [mushroom butter dishes](/blog/aesthetic-butter-dishes). And a matching pair — two small lamps flanking a bed or console — reads as deliberate where a single small one can look a little lost.
 
 ## FAQ
 

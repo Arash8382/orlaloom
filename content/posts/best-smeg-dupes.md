@@ -129,7 +129,7 @@ faqs:
       will out-mix any $70 compact mixer on stiff doughs and big batches. If you
       bake seriously, buy capacity and power; if the mixer is mostly decor with
       occasional cookies, the dupe is the smarter money.
-updated: '2026-08-02'
+updated: '2026-08-20'
 ---
 
 The best overall Smeg dupe is the **Hazel Quinn retro electric kettle** — it copies the KLF03's rounded body and front thermometer dial almost exactly for around $55-65, saving you roughly $135 versus a real Smeg kettle. Across the board, good Smeg dupes deliver about 90% of the pastel-50s look for 20-30% of the price, and the best of them are genuinely capable appliances, not just pretty shells.
@@ -164,7 +164,7 @@ For most kitchens, the **Hazel Quinn retro kettle** is the best single Smeg dupe
 
 That said, "best" depends on which shelf you're filling. If you want the biggest visual payoff, the **Frigidaire retro compact fridge** delivers the single most convincing "is that a Smeg kitchen?" moment of anything on this list. If you want the biggest savings, the **Kitchen in the box pastel mixer** copies the SMF03 look for around a tenth of the price. And the **Keenstone toaster** is the easiest win — from a few feet away it reads as the TSF01 at about a fifth of the cost.
 
-If you're duping a whole counter, pick one color family and stay in it — a mint kettle next to a pink mixer next to a blue toaster reads chaotic rather than curated. Cream and pastel blue are the easiest to match across the brands here. Our [pastel small appliances guide](/blog/pastel-small-appliances) has more budget-friendly fillers in the same palette, and the [retro mini fridge roundup](/blog/retro-mini-fridge) goes deeper on the statement piece.
+If you're duping a whole counter, pick one color family and stay in it — a mint kettle next to a pink mixer next to a blue toaster reads chaotic rather than curated. Cream and pastel blue are the easiest to match across the brands here. Our [pastel small appliances guide](/blog/best-retro-kitchen-appliances) has more budget-friendly fillers in the same palette, and the [retro mini fridge roundup](/blog/retro-mini-fridge) goes deeper on the statement piece.
 
 ## Are Smeg dupes worth it, or should you buy the real thing?
 

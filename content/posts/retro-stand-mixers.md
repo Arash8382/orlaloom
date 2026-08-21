@@ -59,6 +59,7 @@ products:
     caveat: "It is a light-duty machine — perfect for cakes, cookies and frosting, but dense bread dough is beyond its pay grade."
     image: "https://m.media-amazon.com/images/I/713lD9y3qsL._AC_SL1500_.jpg"
     url: "https://www.amazon.com/dp/B00PYM7QEW?tag=orlaloom-20"
+updated: '2026-08-20'
 ---
 
 Every retro kitchen has one appliance that anchors the whole look, and it's almost never the toaster — it's the stand mixer. A kettle hides by the stove and a toaster tucks under the cabinets, but a stand mixer is tall, sculptural and permanent. It's the piece guests notice from the doorway, which is exactly why "retro stand mixer" has become one of the most-searched looks in the whole [vintage appliance category](/blog/best-retro-kitchen-appliances). The good news: in 2026 you can get that curvy, pastel, straight-from-a-1950s-kitchen presence at almost any budget, from a $50 Dash to the genuine Smeg article.
@@ -75,13 +76,13 @@ Every retro kitchen has one appliance that anchors the whole look, and it's almo
 
 **Check your cabinet clearance before you fall in love.** Tilt-head mixers need several extra inches above their resting height to open. Most full-size retro mixers stand 12-14 inches tall with heads that swing well above that arc — measure under your uppers first, or resign yourself to dragging the mixer forward every time you lock in the bowl.
 
-**Match the pastel to the kitchen you already have.** Sage and mint greens sit beautifully against cream cabinets and wood counters; aqua and robin's-egg blues want whites and brass; pink is the statement choice that pairs best with checkerboard floors and [gingham accents](/blog/gingham-picnic-tableware). If you're building a full matching set, start with the mixer's color and work outward to the [smaller pastel appliances](/blog/pastel-small-appliances) — it's much easier to color-match a $30 kettle to a $600 mixer than the reverse.
+**Match the pastel to the kitchen you already have.** Sage and mint greens sit beautifully against cream cabinets and wood counters; aqua and robin's-egg blues want whites and brass; pink is the statement choice that pairs best with checkerboard floors and [gingham accents](/blog/gingham-picnic-tableware). If you're building a full matching set, start with the mixer's color and work outward to the [smaller pastel appliances](/blog/best-retro-kitchen-appliances) — it's much easier to color-match a $30 kettle to a $600 mixer than the reverse.
 
 ## Is the Smeg worth it?
 
 The SMF03 is the mixer the whole category imitates, and up close the difference is real: die-cast metal, deep enamel color, and a heft that makes the lookalikes feel like props. It is also, functionally, a mid-range mixer at a flagship price — it doesn't out-bake the Cuisinart at half the cost. The honest framing: you buy the Smeg the way you buy a beautiful [Le Creuset-style Dutch oven](/blog/le-creuset-vs-dutch-oven-dupes) — as a forever object that happens to work. If that logic appeals to you, nothing else on this list will scratch the itch. If it doesn't, the Martha Stewart delivers a startling amount of the same visual for about a fifth of the price, and our [Smeg dupes guide](/blog/best-smeg-dupes) covers the same trade across every appliance type.
 
-Style note for the full cottagecore effect: whichever mixer you choose, station it beside a stack of [vintage farmhouse mixing bowls](/blog/vintage-farmhouse-mixing-bowls) and keep the attachments in one of them. The mixer reads as used and loved rather than showroom-staged — which is the entire point of the aesthetic.
+Style note for the full cottagecore effect: whichever mixer you choose, station it beside a stack of [vintage farmhouse mixing bowls](/blog/vintage-kitchen-accessories) and keep the attachments in one of them. The mixer reads as used and loved rather than showroom-staged — which is the entire point of the aesthetic.
 
 Care is simple but non-negotiable with painted finishes: wipe the body with a damp microfiber cloth only (abrasive sponges dull pastel paint fast), never submerge the head, and hand-wash attachments even when the listing claims dishwasher-safe — aluminum beaters come out of dishwashers gray and chalky.
 

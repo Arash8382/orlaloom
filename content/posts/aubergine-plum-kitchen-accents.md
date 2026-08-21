@@ -175,7 +175,7 @@ faqs:
       and out of "trending" but never actually looks dated the way novelty
       colors do. Buy the pieces you would use anyway — a good Dutch oven, good
       towels — and the color is a bonus, not a bet.
-updated: '2026-08-17'
+updated: '2026-08-20'
 ---
 
 Every year one color quietly takes over Pinterest kitchens, and for 2026 it is aubergine. Searches for "aubergine kitchen" are up nearly 500% year over year — the biggest jump of any kitchen color trend — and the reason is simple: after half a decade of sage green and greige, deep plum reads both moody and warm, which is precisely the combination cottagecore has been circling all along. It is the kitchen cousin of the dark-floral bedding wave, and it flatters the things cottagecore kitchens already have: cream cabinets, warm wood, brass hardware, dried flowers.
@@ -194,7 +194,7 @@ The even better news is that nobody actually paints their kitchen aubergine. The
 
 **Bring in the light.** The color changes character across the day, and that is a feature. Plum cafe curtains are the extravagant version — late light through purple linen is the prettiest thing this trend does — but even towels near a window will shift from near-black in the morning to warm violet at golden hour.
 
-Aubergine plays beautifully with the rest of the cozy-kitchen cluster: it is the natural stovetop companion to a [tea corner](/blog/tea-corner-ideas), sits happily alongside [pastel small appliances](/blog/pastel-small-appliances) if you keep those to cream rather than mint, and continues the same moody-cozy logic as [dark-floral bedding](/blog/moody-dark-floral-bedding) one room over.
+Aubergine plays beautifully with the rest of the cozy-kitchen cluster: it is the natural stovetop companion to a [tea corner](/blog/tea-corner-ideas), sits happily alongside [pastel small appliances](/blog/best-retro-kitchen-appliances) if you keep those to cream rather than mint, and continues the same moody-cozy logic as [dark-floral bedding](/blog/moody-dark-floral-bedding) one room over.
 
 ## FAQ
 

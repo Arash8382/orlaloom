@@ -105,6 +105,15 @@ products:
     blurb: "A hundred natural wheat stems, enough to fill two or three pitchers — the cheapest genuinely seasonal thing you can put on a table, and it lasts years dry."
     caveat: "Stems arrive compressed and need a day to relax, and they shed a little; trim to height rather than bending them."
     url: "https://www.amazon.com/dp/B0D5MKV4MC?tag=orlaloom-20"
+  - name: "Antique Brass Iron Taper Candle Holders (Set of 3)"
+    brand: "SUJUN"
+    price: "~$35-42"
+    retailer: Amazon
+    badge: "Best for the autumn table"
+    image: "https://m.media-amazon.com/images/I/61FW5ipX1dL._AC_SL1500_.jpg"
+    blurb: "Cast iron finished in soft antique brass, in three heights (roughly 7, 9 and 11 inches) so a single set builds the stepped centrepiece that reads instantly autumnal. The molded, slightly irregular shape is the point — it looks salvaged rather than bought, and it carries a plain beeswax taper better than anything polished. Grouped on a wooden board with a few dried stems, it does more for a fall table than any pumpkin."
+    caveat: "They are cast iron, so they are heavy and the bases can mark a bare wood table — use felt pads or a runner. The cups fit standard 0.8 inch tapers only; slim dinner candles wobble without a stub of putty."
+    url: "https://www.amazon.com/dp/B0BV9XJF8Q?tag=orlaloom-20"
 faqs:
   - q: What makes decor "cottagecore" for fall?
     a: >-
@@ -130,7 +139,7 @@ faqs:
       to feel right, early enough to enjoy it through Halloween and into the
       harvest season. Candles and quilts can come out even sooner on the first
       cool evening.
-updated: '2026-08-17'
+updated: '2026-08-20'
 ---
 
 When the light goes golden and the evenings turn cool, cottagecore quietly shifts into its cosiest season. Fall is less about buying a whole new look and more about layering warmth into the one you have — a herbal candle burning by four o'clock, a patchwork quilt over the sofa, terracotta crowded with mums, and a mug that lives permanently by the kettle. These are the warm, gather-in finds worth adding first, each one a piece you'll keep long after the leaves are down.
@@ -147,7 +156,7 @@ When the light goes golden and the evenings turn cool, cottagecore quietly shift
 
 ## Style it together
 
-Build a full autumn corner: set the [enamelware pitcher](/blog/vintage-style-enamelware) with dried branches beside a stack of [ditsy floral quilts](/blog/floral-ditsy-quilts), crowd [aged terracotta pots](/blog/vintage-terracotta-pots) with mums, and hang a [woven wall basket](/blog/cottagecore-woven-wall-baskets) above. Add a [speckled stoneware mug](/blog/speckled-stoneware-mugs) for cider and a [grandmacore brass candle holder](/blog/grandmacore-scents-brass-holders) for the mantel. Planning ahead? Our [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations) guide picks up where autumn leaves off.
+Build a full autumn corner: set the [enamelware pitcher](/blog/vintage-kitchen-accessories) with dried branches beside a stack of [ditsy floral quilts](/blog/floral-ditsy-quilts), crowd [aged terracotta pots](/blog/vintage-terracotta-pots) with mums, and hang a [woven wall basket](/blog/cottagecore-woven-wall-baskets) above. Add a [speckled stoneware mug](/blog/vintage-kitchen-accessories) for cider and a [grandmacore brass candle holder](/blog/grandmacore-scents-brass-holders) for the mantel. Planning ahead? Our [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations) guide picks up where autumn leaves off.
 
 ## FAQ
 

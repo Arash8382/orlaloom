@@ -59,9 +59,10 @@ products:
     caveat: "No timer, no auto-drip conveniences, and percolated coffee is noticeably bolder — an acquired taste if you grew up on drip."
     image: "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg"
     url: "https://www.amazon.com/dp/B00006IV0Q?tag=orlaloom-20"
+updated: '2026-08-20'
 ---
 
-If the toaster is the gateway retro appliance, the coffee maker is the commitment. It sits on your counter permanently, you touch it every single morning, and — if you choose well — it makes the whole kitchen look styled before you've put away a single dish. The good news for 2026: the retro coffee maker category has matured the way [retro toasters](/blog/smeg-vs-haden-toaster) did a few years ago, which means you can get the domed, chrome-trimmed 1950s look at almost any budget, from a $59 small-batch brewer to the genuine Smeg article.
+If the toaster is the gateway retro appliance, the coffee maker is the commitment. It sits on your counter permanently, you touch it every single morning, and — if you choose well — it makes the whole kitchen look styled before you've put away a single dish. The good news for 2026: the retro coffee maker category has matured the way [retro toasters](/blog/retro-toasters) did a few years ago, which means you can get the domed, chrome-trimmed 1950s look at almost any budget, from a $59 small-batch brewer to the genuine Smeg article.
 
 **Quick picks:** The icon — Smeg DCF02 · Best mid-range — Haden 12-cup · Best value — Nostalgia 12-cup · Cutest small-batch — Amaste · Best espresso — SUMSATY 20-bar · True 1950s method — Presto percolator.
 
@@ -71,7 +72,7 @@ If the toaster is the gateway retro appliance, the coffee maker is the commitmen
 
 **Capacity matters more than you think.** The 12-cup Haden and Nostalgia suit families and refill-all-morning drinkers. The Amaste's 25 oz pot is really two generous mugs — perfect for one person, limiting for a household. Smeg's 10-cup carafe splits the difference.
 
-**Decide what the finish is worth.** The Smeg is die-cast metal and feels like it: heavy, cool to the touch, with paint depth the lookalikes can't match. The Haden and Nostalgia get you 90% of the silhouette in lighter materials — on a shelf styled with [other pastel appliances](/blog/pastel-small-appliances), most guests will never spot the difference. If the badge doesn't matter to you, our [Smeg dupes guide](/blog/best-smeg-dupes) is built around exactly that trade.
+**Decide what the finish is worth.** The Smeg is die-cast metal and feels like it: heavy, cool to the touch, with paint depth the lookalikes can't match. The Haden and Nostalgia get you 90% of the silhouette in lighter materials — on a shelf styled with [other pastel appliances](/blog/best-retro-kitchen-appliances), most guests will never spot the difference. If the badge doesn't matter to you, our [Smeg dupes guide](/blog/best-smeg-dupes) is built around exactly that trade.
 
 **Check your counter clearance.** Retro styling adds height — domed lids and arched handles push most of these over 13 inches. Measure under your cabinets before buying, especially for the espresso machine, whose bean-and-water top access needs a few inches more.
 

@@ -68,7 +68,7 @@ products:
     blurb: "A proper scalloped-edge shade on a rechargeable base, from a real home-decor house rather than a marketplace brand — the one here that looks bought rather than sourced."
     caveat: "The most expensive pick on this page and the review history is still thin, so buy it for the shade rather than for the specs."
     url: "https://www.amazon.com/dp/B0DK86RRZL?tag=orlaloom-20"
-updated: '2026-08-17'
+updated: '2026-08-20'
 ---
 
 There is a reason the "little lamp on the kitchen counter" has become *the* look of 2026 kitchens: overhead lights are for cooking, but a small warm lamp is for living. It is the glow you see in every Nancy Meyers film kitchen — a pool of amber light next to the bread bin that makes a plain Tuesday-evening cup of tea feel like a scene. The catch has always been the cord. Kitchen counters rarely have a spare outlet where you actually want the lamp, and a cable snaking behind the kettle is the opposite of cozy.
@@ -89,7 +89,7 @@ That is why this year's wave of **cordless, rechargeable counter lamps** is such
 
 ## Where to put one (or three)
 
-The classic spot is the "dead corner" — that unusable angle where two counter runs meet. A lamp turns wasted space into the warmest point in the room. Other favorites: beside the stand mixer to make an appliance corner feel styled, on the open shelf among the [speckled stoneware mugs](/blog/speckled-stoneware-mugs), or on the windowsill so the glow reads from outside on winter evenings. Because these are cordless, you can also carry one to the table for dinner and return it to the counter after — the two-lamp table scene on our cover image is exactly that trick.
+The classic spot is the "dead corner" — that unusable angle where two counter runs meet. A lamp turns wasted space into the warmest point in the room. Other favorites: beside the stand mixer to make an appliance corner feel styled, on the open shelf among the [speckled stoneware mugs](/blog/vintage-kitchen-accessories), or on the windowsill so the glow reads from outside on winter evenings. Because these are cordless, you can also carry one to the table for dinner and return it to the counter after — the two-lamp table scene on our cover image is exactly that trick.
 
 If you love the look, it pairs beautifully with the rest of the warm-glow toolkit: our guides to [cottagecore table lamps](/blog/cottagecore-table-lamps) (the corded, larger cousins) and [pleated lampshades](/blog/best-pleated-lampshades) cover the living-room end of the house.
 

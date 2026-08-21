@@ -121,7 +121,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-08-17'
+updated: '2026-08-20'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.
@@ -144,7 +144,7 @@ Materials are the other filter worth applying. Pressed amber glass and glazed ce
 
 ## Style it together
 
-Layer the velvet pumpkins along a mantel with the glowing ghost trio between them, and set the Fitz and Floyd jar on the kitchen counter next to a [mushroom butter dish](/blog/mushroom-butter-dishes) for peak storybook energy. The amber candy dish belongs beside your [amber fluted glassware](/blog/amber-fluted-glassware) on a bar cart, with a [cottagecore candle](/blog/best-cottagecore-candles) burning behind it. Hang the wreath over a console styled like our [cozy fall cottagecore decor](/blog/cozy-fall-cottagecore-decor) guide — that guide handles September; this one takes over for October.
+Layer the velvet pumpkins along a mantel with the glowing ghost trio between them, and set the Fitz and Floyd jar on the kitchen counter next to a [mushroom butter dish](/blog/aesthetic-butter-dishes) for peak storybook energy. The amber candy dish belongs beside your [amber fluted glassware](/blog/best-colored-glassware) on a bar cart, with a [cottagecore candle](/blog/best-cottagecore-candles) burning behind it. Hang the wreath over a console styled like our [cozy fall cottagecore decor](/blog/cozy-fall-cottagecore-decor) guide — that guide handles September; this one takes over for October.
 
 ## FAQ
 

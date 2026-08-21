@@ -80,6 +80,24 @@ products:
       heirloom-garden look.
     caveat: 'Specialty retailer with high prices, heavy shipping, and no Prime.'
     url: 'https://www.amazon.com/dp/B0B8HDQYN7?tag=orlaloom-20'
+  - name: 'Orceler 4 in Terracotta Pots with Saucers (6 Pack)'
+    image: 'https://m.media-amazon.com/images/I/61FkRycJ7WL._AC_SL1500_.jpg'
+    brand: Orceler
+    price: ~$16-20 for six
+    retailer: Amazon
+    badge: Best small pots
+    blurb: >-
+      The four-inch size is the one you actually reach for indoors: small
+      enough to line up along a windowsill or a kitchen shelf, big enough for
+      a supermarket herb pot to be repotted into. Six with matching saucers
+      for under twenty dollars means you can commit to the look in one go
+      rather than collecting mismatched pots over a year, and the clay is
+      properly porous so it blooms chalky white within a season outdoors.
+    caveat: >-
+      Four inches is genuinely small — anything root-hungry will need moving
+      up within a few months, and the shallow saucers hold very little water,
+      so they overflow if you water heavily rather than little and often.
+    url: 'https://www.amazon.com/dp/B0B4HVN7DZ?tag=orlaloom-20'
 faqs:
   - q: Will terracotta survive winter outdoors?
     a: >-
@@ -90,12 +108,12 @@ faqs:
     a: >-
       Small real-clay vensovo pots with saucers — the breathable clay keeps roots
       happy, and they look lovely lined up on a sunny sill.
-updated: '2026-08-02'
+updated: '2026-08-20'
 ---
 
 Nothing says cottage garden like aged terracotta — sun-faded, a little mossy, with that perfect warm clay color. You can buy it genuinely old, or fake decades of weathering for a few dollars. Here's the full range.
 
-**Quick picks:** Best classic — vensovo four-pack · Best lightweight — Bloem resin · Best aged look — whitewashed embossed · The real thing — Rejuvenation antique.
+**Quick picks:** Best small pots — Orceler four-inch six-pack · Best classic — vensovo four-pack · Best lightweight — Bloem resin · Best aged look — whitewashed embossed · The real thing — Rejuvenation antique.
 
 ## Age it yourself (it's easy and free)
 
@@ -104,6 +122,16 @@ New terracotta looks orange and raw, but it weathers fast: leave plain unglazed 
 ## Real clay vs. resin
 
 **Real terracotta** breathes (great for herbs and roots) but is heavy, dries quickly, and cracks in a hard freeze. **Resin** look-alikes are light and frost-proof for big outdoor pots — a sensible choice where weight or weather is a problem. Many cottage gardeners use real clay up close and resin for the big statement planters.
+
+## Where terracotta actually earns its keep
+
+A pot on its own is just a pot; grouped, it becomes the room. Three or five in mixed heights along a sill or a shelf is the arrangement that reads cottage rather than garden centre — odd numbers, one clearly taller, and at least one trailing plant to break the line. A glazed saucer under each one lets you keep them indoors on wood without ring marks.
+
+The warmest place for them is a bright, plant-heavy corner: aged clay, cane, and old glass are the whole palette of a [cottagecore sunroom](/blog/cozy-sunroom-decor), and terracotta is the cheapest way into it. Hang a few [woven wall baskets](/blog/cottagecore-woven-wall-baskets) above the pots and the wall stops being empty without costing anything framed. Come autumn, the same pots take dried stems instead of living plants — the trick behind most of a [cozy fall cottagecore setup](/blog/cozy-fall-cottagecore-decor).
+
+## Caring for clay
+
+Soak new pots in water for an hour before their first planting, or the dry clay steals the moisture straight out of the compost. Scrub off the white bloom only if you dislike it — it is harmless mineral salt, and most people are buying pots specifically to get it. Once a year, empty, dry, and brush out old compost to stop pests overwintering in the crust at the bottom.
 
 ## FAQ
 
