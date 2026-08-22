@@ -3,7 +3,7 @@ title: "Tea Corner Ideas: How to Build a Cottagecore Tea Station (2026)"
 description: "Tea corners are the new reading nooks. How to turn one small counter or sideboard into a proper cottagecore tea station — the kettle, floral tea set, tiered tray, tea box and honey pot that do it, with honest pros and cons."
 category: "cottagecore-kitchen"
 date: "2026-07-29"
-updated: '2026-08-15'
+updated: '2026-08-22'
 cover: "/thumbnails/thumb-tea-corner-ideas.webp"
 products:
   - name: "Cosori Gooseneck Electric Kettle with Temperature Control, 0.8L, Matte Black"
@@ -74,7 +74,7 @@ The good news is that a tea corner is one of the cheapest cozy upgrades in the e
 
 ## How to build a tea corner that actually works
 
-**Start with the spot, not the stuff.** The best tea corner is wherever you already stand while the kettle heats — usually a stretch of counter near an outlet. A sideboard in the dining room or a small cart also work beautifully, but resist the temptation to put the station somewhere photogenic that is nowhere near water. A tea corner you have to carry a dripping kettle across the kitchen to fill will quietly stop being used by October.
+**Start with the spot, not the stuff.** The best tea corner is wherever you already stand while the kettle heats — usually a stretch of counter near an outlet. A sideboard in the dining room or a small cart also work beautifully, but resist the temptation to put the station somewhere photogenic that is nowhere near water. A tea corner you have to carry a dripping kettle across the kitchen to fill will quietly stop being used by October. If yours can go somewhere with real daylight, a sunroom is the best home a tea corner can have — see [cozy sunroom decor](/blog/cozy-sunroom-decor) for the chair, table and plant side of it.
 
 **Go vertical early.** The single most common mistake is arranging everything flat on the counter, which reads as clutter by the second week. A two-tier tray gives you instant height, doubles your usable surface, and — this is the real trick — creates a visual boundary. Inside the tray is the tea corner; outside it is just kitchen. That border is what makes the corner feel intentional. A [tartan or plaid throw](/blog/tartan-plaid-throw-blankets) folded over the nearest chair extends that boundary into a proper nook, and if the corner has a window, a pair of [gingham café curtains](/blog/gingham-cafe-curtains) frames it without stealing the light.
 

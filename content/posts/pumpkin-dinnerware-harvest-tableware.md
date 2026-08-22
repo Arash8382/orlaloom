@@ -126,6 +126,22 @@ products:
       baking spray into every crevice, and hand-wash only.
     added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B075HJGHKN?tag=orlaloom-20'
+  - name: 'Certified International Harvest Morning Salad/Dessert Plates, Set of 4'
+    brand: Certified International
+    price: ~$35-45
+    retailer: Amazon
+    badge: Best layering plate
+    blurb: >-
+      The salad plate that matches the Harvest Morning dinner plates and platter
+      already on this list, so you can layer a smaller painted pumpkin over a
+      larger one instead of buying a whole second pattern.
+    caveat: >-
+      Hand-wash recommended and the multicolour print varies slightly plate to
+      plate, which is charming in person but not for anyone wanting uniformity.
+    image: 'https://m.media-amazon.com/images/I/81ePN3KbFiL.jpg'
+    added: '2026-08-22'
+    url: 'https://www.amazon.com/dp/B0B4BF7FMJ?tag=orlaloom-20'
+updated: '2026-08-22'
 ---
 
 There's a reason pumpkin dinnerware sells out earlier every year. Somewhere between the first cool evening and the first pot of chili, the plain white bowls that served you all summer start to feel a little underdressed — and a lidded stoneware pumpkin, carried steaming to the table, is the exact opposite of underdressed. Sellers' data backs up what your feed is already telling you: pumpkin-shaped bakeware and tableware are among this fall's fastest-rising kitchen purchases, and the good pieces are gone by late September. Buying in August isn't eager; it's strategic.

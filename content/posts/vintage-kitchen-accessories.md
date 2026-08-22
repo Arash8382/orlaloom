@@ -3,7 +3,7 @@ title: "Vintage-Style Cottagecore Kitchen Accessories: Enamelware, Bowls & Mugs"
 description: "The small swaps — pastel mixer, ceramic canisters, enamel colander, gingham towels — that turn any kitchen cottagecore."
 category: "cottagecore-kitchen"
 date: "2026-06-29"
-updated: '2026-08-21'
+updated: '2026-08-22'
 cover: "/thumbnails/thumb-vintage-kitchen-accessories.webp"
 faqs:
   - q: "What's the cheapest way to make a kitchen cottagecore?"
@@ -314,7 +314,7 @@ Two practical notes. Stoneware holds heat well but the handle can run hot, so ch
 
 ## Taking it beyond the kitchen
 
-The same instinct — old-looking, useful, softly worn — carries straight into the rest of the house. [Woven wall baskets](/blog/cottagecore-woven-wall-baskets) do for a bare wall what a crock of wooden spoons does for a counter, [terracotta pots](/blog/vintage-terracotta-pots) bring the same unglazed warmth to a windowsill, and the [grandmillennial decor](/blog/grandmillennial-decor) guide is where this look goes when it moves into the living room. A [scalloped arch mirror](/blog/vintage-arched-scalloped-mirrors) in the hallway is the piece that makes the whole thing read as deliberate rather than accumulated.
+The same instinct — old-looking, useful, softly worn — carries straight into the rest of the house. [Woven wall baskets](/blog/cottagecore-woven-wall-baskets) do for a bare wall what a crock of wooden spoons does for a counter, [terracotta pots](/blog/vintage-terracotta-pots) bring the same unglazed warmth to a windowsill, and the [grandmillennial decor](/blog/grandmillennial-decor) guide is where this look goes when it moves into the living room. A [scalloped arch mirror](/blog/vintage-arched-scalloped-mirrors) in the hallway is the piece that makes the whole thing read as deliberate rather than accumulated. The same instinct carries into December, when the enamelware and the wooden boards get swapped for greenery and glass — our [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations) guide picks up exactly there.
 
 ## FAQ
 

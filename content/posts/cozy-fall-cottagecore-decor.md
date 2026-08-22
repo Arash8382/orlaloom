@@ -122,6 +122,21 @@ products:
     caveat: "They are cast iron, so they are heavy and the bases can mark a bare wood table — use felt pads or a runner. The cups fit standard 0.8 inch tapers only; slim dinner candles wobble without a stub of putty."
     added: '2026-08-20'
     url: "https://www.amazon.com/dp/B0BV9XJF8Q?tag=orlaloom-20"
+  - name: 'GenSwin Rechargeable Flameless Taper Candles, Ivory (Charging Base + 2 Remotes)'
+    brand: GenSwin
+    price: ~$28-35
+    retailer: Amazon
+    badge: Best for a lit mantel
+    blurb: >-
+      Real-looking ivory tapers with a moving 3D flame that sit happily in the
+      brass holders above — and because they charge on a base rather than eating
+      button cells, you can actually leave them lit through a long autumn evening.
+    caveat: >-
+      Up close the wax texture reads as plastic, so they are best a few feet
+      away on a mantel or dresser rather than in the middle of a dinner table.
+    image: 'https://m.media-amazon.com/images/I/71-xAQr5rdL.jpg'
+    added: '2026-08-22'
+    url: 'https://www.amazon.com/dp/B0FGD92WN9?tag=orlaloom-20'
 faqs:
   - q: What makes decor "cottagecore" for fall?
     a: >-
@@ -147,7 +162,7 @@ faqs:
       to feel right, early enough to enjoy it through Halloween and into the
       harvest season. Candles and quilts can come out even sooner on the first
       cool evening.
-updated: '2026-08-20'
+updated: '2026-08-22'
 ---
 
 When the light goes golden and the evenings turn cool, cottagecore quietly shifts into its cosiest season. Fall is less about buying a whole new look and more about layering warmth into the one you have — a herbal candle burning by four o'clock, a patchwork quilt over the sofa, terracotta crowded with mums, and a mug that lives permanently by the kettle. These are the warm, gather-in finds worth adding first, each one a piece you'll keep long after the leaves are down.

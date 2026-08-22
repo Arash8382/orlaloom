@@ -76,6 +76,21 @@ products:
     added: '2026-06-29'
     url: >-
       https://www.amazon.com/Candlestick-Centerpiece-Decorative-Candlelight-Reception/dp/B07W7KWNY6?tag=orlaloom-20
+  - name: 'Big Dipper Wax Works 100% Beeswax Taper Candles, 12 in (2 Pack, Ivory)'
+    brand: Big Dipper Wax Works
+    price: ~$14-18
+    retailer: Amazon
+    badge: Best real-flame taper
+    blurb: >-
+      Pure beeswax, cotton wick, made by a small US workshop — it burns with a
+      faint honey smell that is the most grandmotherly scent on this page, and
+      the warm ivory colour sits perfectly in antique brass.
+    caveat: >-
+      Beeswax costs several times what paraffin does and a pair burns down in a
+      few long evenings, so keep them for occasions rather than nightly use.
+    image: 'https://m.media-amazon.com/images/I/41asYFcC-JL.jpg'
+    added: '2026-08-22'
+    url: 'https://www.amazon.com/dp/B003TC8AFI?tag=orlaloom-20'
 faqs:
   - q: What scents feel 'grandmacore'?
     a: >-
@@ -90,7 +105,7 @@ faqs:
       Solid brass slowly darkens, which most people actually want for the
       antique look. If you prefer it bright, a quick polish once or twice a year
       is all it takes.
-updated: '2026-08-02'
+updated: '2026-08-22'
 ---
 
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders to start with.

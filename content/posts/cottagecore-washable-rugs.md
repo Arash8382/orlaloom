@@ -3,7 +3,7 @@ title: "Cottagecore Rugs: 7 Best Cottagecore Area Rugs of 2026 (All Washable)"
 description: "The best cottagecore rugs of 2026 — floral, vintage, scalloped and woodland area rugs from $40. Which cottagecore rug style suits each room, what size to buy, and why every pick here is machine-washable."
 category: "rugs"
 date: "2026-08-11"
-updated: '2026-08-11'
+updated: '2026-08-22'
 cover: "/thumbnails/thumb-cottagecore-washable-rugs.webp"
 faqs:
   - q: "Is it \"cottagecore rug\" or \"cottage core rug\"?"
@@ -166,7 +166,7 @@ Before washing, vacuum the surface to lift loose dirt and hair, then run a **gen
 
 ## The best cottagecore area rug for each room
 
-If you're choosing one cottagecore area rug for a specific room, this is the shortcut. For a **living room**, the Claude vibrant blossom is the safest showpiece — its dark ground takes real traffic and the maximalist floral carries a whole seating area. For a **bedroom**, go paler: the Celeste beige, or anything in our [floral bedroom rugs guide](/blog/floral-bedroom-rugs). For a **kitchen or hallway**, choose a busier print that hides marks between washes — the Flore scalloped brown or the Rava rust. And for a **nursery or snug**, the Dorval woodland scene is the storybook pick people remember.
+If you're choosing one cottagecore area rug for a specific room, this is the shortcut. For a **living room**, the Claude vibrant blossom is the safest showpiece — its dark ground takes real traffic and the maximalist floral carries a whole seating area. For a **bedroom**, go paler: the Celeste beige, or anything in our [floral bedroom rugs guide](/blog/floral-bedroom-rugs). For a **kitchen or hallway**, choose a busier print that hides marks between washes — the Flore scalloped brown or the Rava rust. And for a **nursery or snug**, the Dorval woodland scene is the storybook pick people remember. For a glassed-in porch or plant room, a flatweave that shrugs off soil and sun is the whole trick — we get into that in [cozy sunroom decor](/blog/cozy-sunroom-decor).
 
 ## What size cottagecore area rug do you need?
 

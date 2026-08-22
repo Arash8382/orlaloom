@@ -132,7 +132,7 @@ faqs:
       hasn't burned long enough to form a full melt pool. Let it liquefy edge to
       edge every time — roughly an hour per inch of diameter — and the throw
       improves dramatically.
-updated: '2026-08-20'
+updated: '2026-08-22'
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw, burn time, and which ones are too small for the room you have in mind.
@@ -194,7 +194,7 @@ Worth knowing before you spend $30 on a jar.
 
 ## Where candles fit in the rest of the room
 
-A candle is the cheapest instrument in a room, and it works hardest when it is not working alone. Set one beside the softer, lower light of a [cottagecore table lamp](/blog/cottagecore-table-lamps) rather than under a ceiling fitting, and the two together do what neither manages by itself. On a table, tapers in [antique brass holders](/blog/grandmacore-scents-brass-holders) give you height that a jar candle never will, and a few [hobnail glass](/blog/hobnail-glassware) votives scattered between them catch the flame and multiply it down the length of the table.
+A candle is the cheapest instrument in a room, and it works hardest when it is not working alone. Set one beside the softer, lower light of a [cottagecore table lamp](/blog/cottagecore-table-lamps) rather than under a ceiling fitting, and the two together do what neither manages by itself. On a table, tapers in [antique brass holders](/blog/grandmacore-scents-brass-holders) give you height that a jar candle never will, and a few [hobnail glass](/blog/hobnail-glassware) votives scattered between them catch the flame and multiply it down the length of the table. They matter most in winter, when the light goes early: see how we layer candlelight with garlands and glass ornaments in [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations).
 
 Seasonally, the fruit-and-evergreen scents are the hinge into autumn — light one alongside dried stems and aged clay and you have most of a [cozy fall cottagecore scheme](/blog/cozy-fall-cottagecore-decor) with almost nothing bought. And because a good candle is under $30, it is the reliable answer to both [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) and the last-minute [hostess gift](/blog/cottagecore-hostess-gifts) problem. If you are furnishing a kitchen from scratch on a budget, the same logic applies to everything else in it — see the [Amazon Basics cottagecore edit](/blog/cottagecore-on-a-budget-amazon-basics) and the wider [cottagecore kitchen decor](/blog/cottagecore-kitchen-decor) guide.
 

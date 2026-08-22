@@ -162,7 +162,7 @@ faqs:
       the print itself — a sage green or dusty rose flat sheet that echoes the
       leaves or blooms in the pattern. The combination to avoid is bright optic
       white, which turns the pairing stark and hotel-like instead of cozy.
-updated: '2026-08-02'
+updated: '2026-08-22'
 ---
 
 Every fall forecast for 2026 is telling the same story: the pastel, blown-out-bright bedroom is giving way to something richer. Moody florals — burgundy, plum, oxblood and near-black botanicals, the kind of prints that look like Dutch still-life paintings — are the season's defining bedding look. Pinterest's trend reports have been pointing this direction all year (the same reports that called aubergine kitchens and dark academia dorms), and the search data ramps every August as people start re-feathering their nests for the cold months.
@@ -171,7 +171,7 @@ The appeal is easy to understand once you see it in a real room. Dark floral bed
 
 ## How to choose dark floral bedding
 
-**Decide between duvet cover and comforter first.** Three of our picks are duvet covers (you supply the insert) and two are complete comforter sets. Covers win on washability and let you reuse the insert you already own; comforter sets win on convenience and arrive with matched shams. If this is your first bedding refresh in years, the set is the easier purchase; if you already love your down insert, buy the cover. If gathered texture is what draws you more than the print, the [ruched comforter sets guide](/blog/ruched-comforter-sets) goes deeper on that look, and the [ruffle duvet covers and lace-trim pillowcases](/blog/ruffle-duvet-covers-lace-trim-pillowcases) are the romantic-light counterpart to these moody picks.
+**Decide between duvet cover and comforter first.** Three of our picks are duvet covers (you supply the insert) and two are complete comforter sets. Covers win on washability and let you reuse the insert you already own; comforter sets win on convenience and arrive with matched shams. If this is your first bedding refresh in years, the set is the easier purchase; if you already love your down insert, buy the cover. If gathered texture is what draws you more than the print, the [ruched comforter sets guide](/blog/ruched-comforter-sets) goes deeper on that look, and the [ruffle duvet covers and lace-trim pillowcases](/blog/ruffle-duvet-covers-lace-trim-pillowcases) are the romantic-light counterpart to these moody picks. If the bedroom doubles as a workspace, carry the palette across to the desk with [dark academia desk decor](/blog/dark-academia-desk-decor) rather than letting a bright office corner break the mood.
 
 **Pick your shade of moody.** Near-black is the most dramatic and the most cottagecore-gothic; burgundy is the trend-forward 2026 choice; plum leans romantic; dark brown and tea-stained beige are the gateway shades that coexist with furniture you already own. If you are unsure, go one shade lighter than your instinct — you can always darken the room with an oxblood or [dark tartan throw](/blog/tartan-plaid-throw-blankets), but a bed that reads as a black hole in a small room is harder to walk back.
 

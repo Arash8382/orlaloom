@@ -85,6 +85,21 @@ products:
     added: '2026-07-15'
     url: >-
       https://www.amazon.com/Sullivans-Ceramic-Centerpieces-Kitchen-CM2583/dp/B01AV4YQ3Q?tag=orlaloom-20
+  - name: 'Amber Glass Bud Vases, Set of 20 (Mini)'
+    brand: Amber glass
+    price: ~$35-40
+    retailer: Amazon
+    badge: Best for a whole-table run
+    blurb: >-
+      Twenty little amber bottles for the price of two boutique vases — line them
+      down a table with one stem each and you get that honeyed, apothecary glow
+      cottagecore rooms live on. Beautiful with dried wheat or a single cosmos.
+    caveat: >-
+      They are genuinely small (roughly bud-and-sprig scale), so anything with a
+      thick woody stem will not fit through the neck.
+    image: 'https://m.media-amazon.com/images/I/81cafMS8T6L.jpg'
+    added: '2026-08-22'
+    url: 'https://www.amazon.com/dp/B0BWXQ9WC8?tag=orlaloom-20'
 faqs:
   - q: What flowers suit these best?
     a: >-
@@ -95,7 +110,7 @@ faqs:
     a: >-
       Glazed ceramic and stoneware are; unglazed terracotta-style pieces may
       seep, so use a small glass insert if in doubt.
-updated: '2026-08-02'
+updated: '2026-08-22'
 ---
 
 A bud vase is the cheapest piece of décor that earns its keep daily — one stem of something from the garden, and a windowsill comes alive. Here are the prettiest little vessels for exactly that.
