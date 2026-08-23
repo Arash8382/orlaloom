@@ -9,6 +9,7 @@ description: >-
   occasion, with honest pros and cons for each.
 category: home-decor
 date: '2026-08-03'
+updated: '2026-08-23'
 cover: /thumbnails/thumb-fall-supper-club-tablescape.webp
 products:
   - name: 'Urban Villa Hemstitch Cloth Dinner Napkins, 20x20 in Cotton, Set of 6, Ivory'
@@ -127,6 +128,38 @@ products:
       formal runner, this airy boho style isn't it.
     added: '2026-08-03'
     url: 'https://www.amazon.com/dp/B0D9BBKTPK?tag=orlaloom-20'
+  - name: 'Taganov Amber Wine Glasses, Set of 6 (10 oz Vintage Goblets)'
+    brand: Taganov
+    price: ~$25-32
+    retailer: Amazon
+    badge: Best candlelight glow
+    blurb: >-
+      Amber glass is the single cheapest way to make an autumn table look
+      expensive — under candlelight these throw a warm honey cast across the
+      cloth that clear crystal simply cannot do. At 10 oz they are equally happy
+      with red wine, cider or water, so you are not buying a one-night prop.
+    caveat: >-
+      Hand-wash only in practice; the colour is in the glass and will not fade,
+      but the thin stems do not enjoy a dishwasher rack.
+    image: 'https://m.media-amazon.com/images/I/71lI60T7wiL._AC_SL1500_.jpg'
+    added: '2026-08-23'
+    url: 'https://www.amazon.com/dp/B0CG65ZG3F?tag=orlaloom-20'
+  - name: 'Amazon Basics Stain and Wrinkle Resistant Cloth Napkins, Beige, 12-Pack'
+    brand: Amazon Basics
+    price: ~$12-16
+    retailer: Amazon
+    badge: Best budget napkins
+    blurb: >-
+      Twelve beige 17-inch napkins for the price of two linen ones. The
+      stain-resistant finish is the honest reason to buy them for a supper club —
+      red wine and gravy come out, and they press flat straight from the dryer,
+      so you are not ironing at 5pm.
+    caveat: >-
+      The finish that resists stains also keeps them slightly crisp; they never
+      get the soft rumpled drape that washed linen develops.
+    image: 'https://m.media-amazon.com/images/I/81q0tn6Pq8L._AC_SL1500_.jpg'
+    added: '2026-08-23'
+    url: 'https://www.amazon.com/dp/B0DPPTYPHS?tag=orlaloom-20'
 ---
 
 Something lovely is happening to the way we entertain: the "supper club" is back. Not the velvet-booth restaurant kind — the at-home kind, where six friends crowd around a candlelit table on a Friday night for soup, bread, and three hours of conversation. Search interest in supper-club table settings has climbed more than 1000% heading into fall 2026, and it makes sense. Going out is expensive, hosting is cozy, and a beautifully set table is the cheapest form of hospitality glamour there is.

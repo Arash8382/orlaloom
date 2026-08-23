@@ -119,7 +119,7 @@ faqs:
       quiet enough that it doesn't fight a roommate's setup. The wall collage
       kit helps here too — you can scale it from six prints to seventy depending
       on how much territory is yours.
-updated: '2026-08-02'
+updated: '2026-08-23'
 ---
 
 There is no room in the world less cottagecore than a college dorm: cinder-block walls, a plastic-wrapped twin XL mattress, one buzzing fluorescent tube. Which is exactly why the transformation is so satisfying. With one weekend and a modest budget, the same room can feel like a hedgerow cottage — warm light, soft florals, woven textures — and every piece here survives the two non-negotiables of dorm life: nothing that damages walls, and nothing an RA will confiscate.
@@ -140,7 +140,7 @@ This guide pulls together the six pieces that do the most work, in the order we'
 
 ## What to skip (and what to borrow from home)
 
-A few cottagecore staples don't survive dorm life, and knowing that in July saves returns in September. Wax warmers and candles are out everywhere. Heavy ceramic vases and glass cloches are lovely and doomed — one bumped desk and they're gone; if you want florals, dried lavender or wheat stems in an unbreakable pitcher give the same silhouette. Full-size area rugs are usually wasted money too: most dorm floors are half-covered by furniture you can't move, so a small washable accent rug beside the bed does the job for a third of the price. And before buying anything decorative, raid the linen closet at home — a worn quilt or a grandmother's embroidered pillowcase is more authentically cottagecore than anything sold as such, and it costs nothing.
+A few cottagecore staples don't survive dorm life, and knowing that in July saves returns in September. Wax warmers and candles are out everywhere. Heavy ceramic vases and glass cloches are lovely and doomed — one bumped desk and they're gone; if you want florals, dried lavender or wheat stems in an unbreakable pitcher give the same silhouette. Full-size area rugs are usually wasted money too: most dorm floors are half-covered by furniture you can't move, so a small washable accent rug beside the bed does the job for a third of the price — and it should genuinely be washable, because dorm floors are dorm floors; the [washable rugs like Ruggable](/blog/washable-rugs-like-ruggable) picks are the ones that survive a shared laundry room. And before buying anything decorative, raid the linen closet at home — a worn quilt or a grandmother's embroidered pillowcase is more authentically cottagecore than anything sold as such, and it costs nothing.
 
 The one splurge worth considering beyond this list is a decent mattress topper. It isn't decor, nobody will photograph it, and it will matter more to your daily happiness than everything else combined. Dorm mattresses are thin, plastic-cased, and older than you are; a foam topper under the pretty comforter is the difference between a room that looks cozy and one that actually is.
 

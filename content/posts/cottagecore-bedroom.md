@@ -163,7 +163,7 @@ faqs:
       tension rod, a bedside flower lamp, and a framed botanical propped on a
       shelf will get you 90% of the way there — and it all packs into a couple
       of boxes when you move.
-updated: '2026-08-02'
+updated: '2026-08-23'
 ---
 
 A cottagecore bedroom is really just a room that looks like it grew slowly — florals that don't quite match, a lace curtain gone soft with washing, a jar of dried flowers on the sill, and lamplight the colour of butter. It shouldn't feel designed so much as *tended*. The good news is that you don't need to rip anything out or repaint to get there; the whole look is built from soft, swappable layers, most of them textiles, and most of them under fifty dollars.
@@ -188,7 +188,7 @@ For the walls, resist the urge to fill them and instead hang one gathered-lookin
 
 Cottagecore lighting is warm, low and a little whimsical — never a cold overhead beam. A **flower-shaped bedside lamp** like the WERFOP lily-of-the-valley does the job with charm, and at this price you can buy two for a symmetrical bed. It's a mood light rather than a reading light, so keep expectations gentle; for brighter or more sculptural options, see our [cottagecore table lamps](/blog/cottagecore-table-lamps) and [pleated lampshades](/blog/best-pleated-lampshades) guides. For the wider lighting picture, our [cottagecore table lamps](/blog/cottagecore-table-lamps) roundup covers the full-size options, [best mushroom lamps](/blog/best-mushroom-lamps) covers the sculptural glass ones, and [pleated lampshades](/blog/best-pleated-lampshades) is where to start if you would rather re-shade a lamp you already own. Renters who cannot add a bedside outlet should look at [plug-in wall sconces](/blog/plug-in-wall-sconces-for-renters) instead — they mount either side of the bed and free the nightstand completely.
 
-Underfoot, a **soft floral rug** beside the bed is the last layer — something to land on in the morning that pulls the colours of the quilt down onto the floor. We've covered these in detail in our [floral bedroom rugs](/blog/floral-bedroom-rugs) guide, so rather than repeat it here, pick a washable one in a colour drawn from your bedding: dusty pink, sage, or faded blue.
+Underfoot, a **soft floral rug** beside the bed is the last layer — something to land on in the morning that pulls the colours of the quilt down onto the floor. We've covered these in detail in our [floral bedroom rugs](/blog/floral-bedroom-rugs) guide, so rather than repeat it here, pick a washable one in a colour drawn from your bedding: dusty pink, sage, or faded blue. Measure before you order, though — a bedside rug that is one size too small is the most common mistake in the room, and our [rug size guide](/blog/rug-size-guide) has the numbers for every bed size.
 
 ## How to get the look on a budget
 

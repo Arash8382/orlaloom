@@ -7,7 +7,7 @@ description: >-
   full pantry renovation, with honest pros and cons on each.
 category: cottagecore-kitchen
 date: '2026-08-13'
-updated: '2026-08-15'
+updated: '2026-08-23'
 cover: 'https://m.media-amazon.com/images/I/91GOlt7ygiL._AC_SL1500_.jpg'
 products:
   - name: Set of 5 Glass Kitchen Canisters with Airtight Bamboo Lids
@@ -122,6 +122,24 @@ products:
       farmhouse-industrial than grandmacore.
     added: '2026-08-13'
     url: 'https://www.amazon.com/dp/B0CF4SFKTL?tag=orlaloom-20'
+  - name: 'ComSaf Glass Pantry Storage Containers with Acacia Wood Lids, 6-Pack (1.1qt / 0.5qt)'
+    brand: ComSaf
+    price: ~$26-32
+    retailer: Amazon
+    badge: Warmest lids
+    blurb: >-
+      Acacia rather than the usual pale bamboo, so the lids read warm honey-brown
+      against a cream shelf instead of raw and yellow. Two sizes in the box means
+      you can run tall jars for pasta and flour at the back with the squat 0.5qt
+      ones for sugar and tea in front, which is what makes an open shelf look
+      arranged rather than stacked.
+    caveat: >-
+      The silicone gaskets make these airtight but not vacuum-sealed — fine for
+      flour, coffee and pasta, not the right call for anything you need to keep
+      crisp for months.
+    image: 'https://m.media-amazon.com/images/I/81Ys8rrcNfL._AC_SL1500_.jpg'
+    added: '2026-08-23'
+    url: 'https://www.amazon.com/dp/B0G5LVK824?tag=orlaloom-20'
 ---
 
 "Decanting" — dumping flour, pasta, cereal and rice out of their plastic bags and boxes into matching glass jars — is being called the single biggest kitchen trend of 2026, and it is easy to see why it stuck: it is one of the few home projects that is genuinely both functional and photogenic. Food actually stays fresher in an airtight jar than in a bag with a clip on it, and a shelf of matching glass canisters looks intentional in a way a shelf of half-crumpled cereal boxes never will.

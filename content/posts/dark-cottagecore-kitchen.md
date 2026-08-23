@@ -101,7 +101,7 @@ faqs:
     a: >-
       Forest green, aubergine, oxblood, charcoal, and warm near-black, with
       cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-08-22'
+updated: '2026-08-23'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
@@ -116,7 +116,7 @@ Three things separate it from regular cottagecore:
 
 ## The color palette
 
-You can shift a whole kitchen's mood with paint and textiles alone. Try a moody base (forest-green or aubergine cabinets, or just a painted pantry door if you rent), warm cream walls, and brass or black hardware. Then add one unexpected accent — a chartreuse or persimmon dish towel — to keep it from going flat.
+You can shift a whole kitchen's mood with paint and textiles alone. Try a moody base (forest-green or aubergine cabinets, or just a painted pantry door if you rent), warm cream walls, and brass or black hardware. Then add one unexpected accent — a chartreuse or persimmon dish towel — to keep it from going flat. Underfoot, a dark runner hides far more than a pale one does: the [washable rugs like Ruggable](/blog/washable-rugs-like-ruggable) picks come in deep greens and near-blacks that suit this palette and go straight in the machine when the moody floor meets spilled coffee.
 
 ## The decor that does the heavy lifting (renter-friendly)
 

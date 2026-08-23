@@ -154,7 +154,7 @@ faqs:
       floral focal point to the counter for around $15, and the curtains
       transform the window — together they shift the whole room's mood for under
       $45, and both are impossible to get wrong.
-updated: '2026-08-15'
+updated: '2026-08-23'
 ---
 
 A cottagecore kitchen isn't built in a renovation — it's built in small, collected pieces that look like they've been gathered over years. The whole aesthetic lives in the details you leave out on the counter: enamelware and embossed ceramics, a crock of wooden spoons by the stove, mason jars catching the light, and a floral towel over the oven handle. You don't need to touch the cabinets or the counters underneath. You just need the right layer of stuff on top. Lighting belongs on that list too — a [cordless kitchen counter lamp](/blog/cordless-kitchen-counter-lamps) is the one addition that changes how the whole room reads after dark, with no wiring and no outlet to give up.
@@ -179,7 +179,7 @@ The **Drew DeRose floral canister set** is the showpiece here — three graduate
 
 Textiles are what keep a cottagecore kitchen from feeling like a staged showroom — they add softness, pattern, and a little imperfection. They're also the cheapest and most reversible changes you can make, which makes them perfect for renters.
 
-Swap a bare window for **jinchan floral café curtains** and the whole room warms up in ten minutes with a screwdriver-free tension rod. Then keep a stack of **rose-print flour-sack towels** by the sink — genuinely absorbent cotton that you won't mind draping over the oven handle as everyday color. If you only do one thing from this whole guide, hang the curtains; the return on a $25 spend is hard to beat. If you're leaning classic-checked rather than floral, our [gingham café curtain picks](/blog/gingham-cafe-curtains) round up the best buffalo-check tiers by colour and length — and on the towel side, the [scalloped waffle towels guide](/blog/scalloped-waffle-towels) covers the ones pretty enough to leave on the rail.
+Swap a bare window for **jinchan floral café curtains** and the whole room warms up in ten minutes with a screwdriver-free tension rod. Then keep a stack of **rose-print flour-sack towels** by the sink — genuinely absorbent cotton that you won't mind draping over the oven handle as everyday color. If you only do one thing from this whole guide, hang the curtains; the return on a $25 spend is hard to beat. If you're leaning classic-checked rather than floral, our [gingham café curtain picks](/blog/gingham-cafe-curtains) round up the best buffalo-check tiers by colour and length — and on the towel side, the [scalloped waffle towels guide](/blog/scalloped-waffle-towels) covers the ones pretty enough to leave on the rail. One more textile worth counting: a runner in front of the sink. Sage and fern tones read as kitchen-garden rather than living-room, which is why we keep the [green cottagecore rugs](/blog/green-cottagecore-rugs) picks separate from the rest.
 
 ## Budget vs. splurge
 

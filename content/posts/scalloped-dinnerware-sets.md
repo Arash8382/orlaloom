@@ -3,7 +3,7 @@ title: "The Best Scalloped Dinnerware Sets for 2026"
 description: "Scalloped-edge dinner plates and sets — from budget Target finds to heirloom Villeroy & Boch — for a romantic, cottage-perfect table."
 category: "scalloped-dinnerware"
 date: "2026-06-25"
-updated: '2026-08-16'
+updated: '2026-08-23'
 cover: "/thumbnails/thumb-scalloped-dinnerware-sets.webp"
 products:
   - name: "Threshold Scalloped Dinner Plate (Gold Rim)"
@@ -100,6 +100,23 @@ products:
     caveat: 'Twelve pieces is service for four, and plain white shows scratches sooner.'
     added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0F458DJDJ?tag=orlaloom-20'
+  - name: 'Gibson Elite Malibu Shore 16-Piece Scalloped Edge Stoneware (Service for 4)'
+    brand: Gibson Elite
+    price: ~$85-95
+    retailer: Amazon
+    badge: Best reactive glaze
+    blurb: >-
+      A proper scalloped rim on a matte reactive glaze, so no two plates pool
+      colour identically — it gives a four-person set the collected-over-years
+      look that flat white scallops never quite manage. Stoneware weight, real
+      dinner-plate diameter, and it stacks without chipping the scallops.
+    caveat: >-
+      Reactive glaze means genuine shade variation between pieces; if you want
+      four identical plates this is the wrong set. It is also the heaviest
+      option here.
+    image: 'https://m.media-amazon.com/images/I/61QNm06SOWL._SL1500_.jpg'
+    added: '2026-08-23'
+    url: 'https://www.amazon.com/dp/B0F56MQFNY?tag=orlaloom-20'
 ---
 
 The scalloped plate is the silhouette of the moment — that soft, petal-edged rim instantly makes a table look collected and a little romantic. Whether you want an $8 Target find or an heirloom porcelain service, here are the scalloped dinnerware sets worth setting your table with.
