@@ -132,7 +132,7 @@ faqs:
       hasn't burned long enough to form a full melt pool. Let it liquefy edge to
       edge every time — roughly an hour per inch of diameter — and the throw
       improves dramatically.
-updated: '2026-08-22'
+updated: '2026-08-24'
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw, burn time, and which ones are too small for the room you have in mind.
@@ -144,7 +144,7 @@ The right candle does for a kitchen what nothing else can — it turns "a room w
 - **Herbal & green** (moss, sage, lavender, thyme) reads most "cottage."
 - **Soft floral** (orchid, lily, rose) feels grandmacore and romantic.
 - **Citrus & garden** brightens a kitchen in spring and summer.
-- **Fruit & evergreen** (pomegranate, spruce, fig) carries autumn without tipping into pumpkin-spice.
+- **Fruit & evergreen** (pomegranate, spruce, fig) carries autumn without tipping into pumpkin-spice — the same warm palette that anchors our [cottagecore Halloween decor](/blog/cottagecore-halloween-decor) picks for October.
 
 The mistake most people make is buying by name rather than by note. "Lavender" from one house is a soft herbal and from another is a soap aisle; read the note list, and if the top note is anything ending in "-ine" or "-al," expect it to smell more perfume than plant.
 

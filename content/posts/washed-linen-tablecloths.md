@@ -3,7 +3,7 @@ title: "The Best Washed Linen Tablecloths for a Cottagecore Table"
 description: "Soft, lived-in washed linen tablecloths — from affordable hemstitch blends to pure French linen — that bring an heirloom feel to everyday cottage dining."
 category: "textiles"
 date: "2026-07-06"
-updated: '2026-08-21'
+updated: '2026-08-24'
 cover: "/thumbnails/thumb-washed-linen-tablecloths.webp"
 products:
   - name: "Solino Home Cotton-Linen Hemstitch Tablecloth"
@@ -91,7 +91,7 @@ Don't fight it: shake it out, lay it on the table slightly damp if you like, and
 
 ## Setting the rest of the table
 
-A linen cloth is the base layer, not the whole table. If you're building toward a seasonal setting, the [fall supper club tablescape](/blog/fall-supper-club-tablescape) guide walks through what goes on top, and [pumpkin and harvest dinnerware](/blog/pumpkin-dinnerware-harvest-tableware) is the obvious autumn pairing. For everyday use, [gingham picnic tableware](/blog/gingham-picnic-tableware) is the lighter, more casual alternative, and a row of [glass pantry canisters](/blog/glass-pantry-canisters) or [canning jars](/blog/best-canning-jars-for-jam) on the sideboard keeps the same unfussy, useful-things-on-display feeling going.
+A linen cloth is the base layer, not the whole table. The quickest way to finish it is a few stems in a [cottagecore bud vase](/blog/cottagecore-bud-vases) at the center — small vases sit low enough to talk over, and they suit the unfussy linen mood far better than a formal arrangement. If you're building toward a seasonal setting, the [fall supper club tablescape](/blog/fall-supper-club-tablescape) guide walks through what goes on top, and [pumpkin and harvest dinnerware](/blog/pumpkin-dinnerware-harvest-tableware) is the obvious autumn pairing. For everyday use, [gingham picnic tableware](/blog/gingham-picnic-tableware) is the lighter, more casual alternative, and a row of [glass pantry canisters](/blog/glass-pantry-canisters) or [canning jars](/blog/best-canning-jars-for-jam) on the sideboard keeps the same unfussy, useful-things-on-display feeling going.
 
 ## FAQ
 
