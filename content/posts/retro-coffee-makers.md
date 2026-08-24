@@ -65,7 +65,17 @@ products:
     image: "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg"
     added: '2026-07-18'
     url: "https://www.amazon.com/dp/B00006IV0Q?tag=orlaloom-20"
-updated: '2026-08-20'
+  - name: "Bodum Chambord 51 oz French Press Coffee Maker, Borosilicate Glass and Polished Stainless Steel"
+    brand: "Bodum"
+    price: "~$45-55"
+    retailer: "Amazon"
+    badge: "Best no-electricity method"
+    blurb: "The Chambord is the one silhouette here you have definitely seen before, and it has looked essentially like this since the 1950s design Bodum revived it from: polished steel frame, borosilicate beaker, little domed lid. There is no cord, no paper filter and nothing to program — coarse grounds, water just off the boil, four minutes, press. It makes the richest cup on this list because the coffee oils go into the cup instead of into a filter paper, it is still made in Portugal, and 51 oz pours four generous mugs for a slow weekend morning."
+    caveat: "Everything is manual: you boil the water yourself, and the pot must be decanted promptly or it keeps extracting and turns bitter. The glass beaker is replaceable but breakable, so it is not the machine for a chaotic weekday."
+    image: "https://m.media-amazon.com/images/I/61k-ou2CnqL._AC_SL1500_.jpg"
+    added: '2026-08-24'
+    url: "https://www.amazon.com/dp/B00005LM0T?tag=orlaloom-20"
+updated: '2026-08-24'
 ---
 
 If the toaster is the gateway retro appliance, the coffee maker is the commitment. It sits on your counter permanently, you touch it every single morning, and — if you choose well — it makes the whole kitchen look styled before you've put away a single dish. The good news for 2026: the retro coffee maker category has matured the way [retro toasters](/blog/retro-toasters) did a few years ago, which means you can get the domed, chrome-trimmed 1950s look at almost any budget, from a $59 small-batch brewer to the genuine Smeg article.

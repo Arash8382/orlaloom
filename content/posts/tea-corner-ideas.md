@@ -3,7 +3,7 @@ title: "Tea Corner Ideas: How to Build a Cottagecore Tea Station (2026)"
 description: "Tea corners are the new reading nooks. How to turn one small counter or sideboard into a proper cottagecore tea station — the kettle, floral tea set, tiered tray, tea box and honey pot that do it, with honest pros and cons."
 category: "cottagecore-kitchen"
 date: "2026-07-29"
-updated: '2026-08-22'
+updated: '2026-08-24'
 cover: "/thumbnails/thumb-tea-corner-ideas.webp"
 products:
   - name: "Cosori Gooseneck Electric Kettle with Temperature Control, 0.8L, Matte Black"
@@ -66,6 +66,16 @@ products:
     caveat: "It holds about a cup of honey, so heavy honey users will still keep the big jar in the pantry and decant."
     added: '2026-07-29'
     url: "https://www.amazon.com/dp/B0B55VMV4S?tag=orlaloom-20"
+  - name: "Barnyard Designs Ceramic Canister Set of 3 with Airtight Lids, White (Coffee/Sugar/Tea)"
+    image: "https://m.media-amazon.com/images/I/61X49ia7vtL._AC_SL1500_.jpg"
+    brand: "Barnyard Designs"
+    price: "~$45-55"
+    retailer: "Amazon"
+    badge: "Best for loose-leaf"
+    blurb: "The moment you graduate from tea bags to loose leaf, the foil pouch becomes the ugliest object on the counter — and loose leaf goes flat inside it within weeks. These three white ceramic jars fix both at once: silicone-sealed lids that genuinely keep air out, a matte farmhouse glaze that reads vintage rather than storage-aisle, and enough volume to swallow a full tin of leaf each. They are labelled Coffee, Sugar and Tea and graduate in height, so they stage themselves on a tray without any styling effort from you."
+    caveat: "Ceramic is opaque, so you cannot see what is running low without lifting a lid — and three matching jars is a commitment to a white-ceramic palette rather than a collected mix of tins."
+    added: '2026-08-24'
+    url: "https://www.amazon.com/dp/B093LLYHBH?tag=orlaloom-20"
 ---
 
 Reading nooks had their moment — Pinterest searches for them rose over 400% last year — and the same cozy logic has now migrated to the kitchen. The tea corner is 2026's version: one small, deliberate station in your home devoted entirely to the ritual of making a proper cup of tea. Not a cabinet where tea lives, but a *corner* — kettle, pot, cups, honey, all arranged where you can see them, on the theory that a ritual you can see is a ritual you actually keep.

@@ -80,6 +80,23 @@ products:
       strictly neutral palette.
     added: '2026-06-29'
     url: 'https://www.amazon.com/dp/B0GGDDZ3F2?tag=orlaloom-20'
+  - name: 'Quincry Scalloped Hanging Water-Hyacinth Wall Baskets, Set of 2'
+    image: 'https://m.media-amazon.com/images/I/81N8kW6lwHL._AC_SL1500_.jpg'
+    brand: Quincry
+    price: ~$38-45
+    retailer: Amazon
+    badge: Best scalloped pair
+    blurb: >-
+      Two scalloped water-hyacinth baskets with real depth to them — the answer
+      if you love the BEBE BASK silhouette but want a pair for the price of one,
+      and the only pick here that will genuinely hold a bunch of dried stems or
+      eucalyptus rather than hanging flat. A matched pair either side of a window
+      or above a bed gives you the symmetry a single statement basket cannot.
+    caveat: >-
+      Hand-woven natural fibre, so the two baskets vary slightly in tone and
+      weave — charming in person, but do not expect identical twins.
+    added: '2026-08-24'
+    url: 'https://www.amazon.com/dp/B0GG9LS3JJ?tag=orlaloom-20'
 faqs:
   - q: How many baskets do I need for a gallery wall?
     a: >-
@@ -102,7 +119,7 @@ faqs:
       baskets like the painted-white water-hyacinth trio stand out beautifully.
       Avoid hanging natural-tone baskets on a busy patterned wallpaper, where
       the texture gets lost.
-updated: '2026-08-02'
+updated: '2026-08-24'
 ---
 
 A cluster of woven baskets is one of the warmest, most forgiving ways to fill a bare wall. Framed art needs measuring, matting and a budget; baskets are light, soft-edged, and instantly cottagecore — that handmade, gathered-over-time texture that a flat print just can't give you. They soften echoey rooms, add a natural material against painted walls, and look intentional even when you hang them a little crooked. Here are the styles worth buying and how to choose between a single statement piece and a full gallery cluster.

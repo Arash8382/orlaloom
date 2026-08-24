@@ -129,7 +129,7 @@ faqs:
       and 9x12 for a king. Or skip the big rug and run a pair of small accent
       rugs down each side. *Prices and availability change; check the current
       size and colour options on the product page before buying.*
-updated: '2026-08-02'
+updated: '2026-08-24'
 ---
 
 The best dark cottagecore rug is the **Claude Washable Maximalism Vibrant Blossom Floral Black Rug** — a machine-washable, low-pile floral on a true black ground that hides everyday mess and turns a plain room properly moody without tipping into goth. If black feels too bold, a deep forest green like the Giverny is the most livable way in. Every pick below is washable and vintage-inspired, chosen because dark grounds forgive the crumbs, mud and pet hair that show instantly on an ivory rug.
@@ -164,7 +164,7 @@ The washable base is the other half. When something does spill, most washable ru
 
 ## Where dark cottagecore rugs work best
 
-A moody floral rug earns its keep where light rugs struggle. Entryways and hallways are the obvious win — they take the most mud and foot traffic, and a dark vintage floral hides all of it while making a narrow space feel intentional. In the bedroom, a deep green or black floral under the foot of the bed turns an ordinary frame into a four-poster-worthy moment; our [floral bedroom rugs](/blog/floral-bedroom-rugs) guide covers layering the look around a bed. Dining rooms suit the scalloped and bordered patterns — a round table over a Flore or Giverny looks like an old French farmhouse, and spills wash straight out.
+A moody floral rug earns its keep where light rugs struggle. Entryways and hallways are the obvious win — they take the most mud and foot traffic, and a dark vintage floral hides all of it while making a narrow space feel intentional. In the bedroom, a deep green or black floral under the foot of the bed turns an ordinary frame into a four-poster-worthy moment; our [floral bedroom rugs](/blog/floral-bedroom-rugs) guide covers layering the look around a bed. Dining rooms suit the scalloped and bordered patterns — a round table over a Flore or Giverny looks like an old French farmhouse, and spills wash straight out. Kitchens are the sleeper option: a moody floral runner is the natural floor for a [dark cottagecore kitchen](/blog/dark-cottagecore-kitchen), where deep cabinetry and aged brass want something equally shadowed underfoot.
 
 ## Honest pros and cons
 

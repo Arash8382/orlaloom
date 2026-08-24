@@ -176,7 +176,7 @@ faqs:
       from curling and helps the rug last longer — especially on hardwood, tile
       or vinyl. *Prices and availability change; check the current size and
       colour options on the product page before buying.*
-updated: '2026-08-02'
+updated: '2026-08-24'
 ---
 
 The best all-round **green cottagecore rug** is the Ariele washable vintage floral in soft sage — a faded scalloped-border floral that behaves like a neutral against wood, brass and linen, and washes at home when real life happens. If you'd rather go moodier, a forest-green botanical hides mess even better. Below are eight picks across sage, moss and forest, from a $18 doormat up to a 9x12 living-room rug — every one washable, honestly described, no invented specs.
@@ -213,7 +213,7 @@ Cream, warm white and natural wood are the easy, can't-go-wrong partners — the
 - **Soft blush, taupe or muted blue** for a gentle, garden-fresh scheme.
 - **Walnut or black** furniture for contrast that stops the room feeling washed-out.
 
-The one thing to watch is undertone: keep a warm sage with warm woods and metals, and a cooler sage with grey-toned floors and crisp whites, so the greens don't fight.
+The one thing to watch is undertone: keep a warm sage with warm woods and metals, and a cooler sage with grey-toned floors and crisp whites, so the greens don't fight. And if the wall above the sofa still reads bare, a cluster of [woven wall baskets](/blog/cottagecore-woven-wall-baskets) repeats the rug's natural fibre at eye level and warms a room faster than framed art does.
 
 ## Washable & budget options
 

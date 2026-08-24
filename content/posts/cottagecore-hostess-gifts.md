@@ -117,6 +117,25 @@ products:
       catch-all bowl.
     added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0FX57PZD6?tag=orlaloom-20'
+  - name: 'Sango Siterra Speckled Reactive-Glaze Stoneware Mugs, 17.5 oz, Set of 4'
+    image: 'https://m.media-amazon.com/images/I/71ryaIBDn1L._AC_SL1500_.jpg'
+    brand: Sango
+    price: ~$28-34
+    retailer: Amazon
+    badge: Best for a fall housewarming
+    blurb: >-
+      Four large reactive-glaze mugs with the speckled, slightly uneven finish of
+      studio pottery — the gift that quietly becomes the host's default mug by
+      the second week of October. Seventeen and a half ounces is a proper cup of
+      tea or a latte rather than a polite half-measure, and unlike most handsome
+      pottery these are dishwasher and microwave safe, which is usually what
+      decides whether a mug gets used or admired. A set of four also means the
+      host can hand one to a guest, which no single-mug gift ever manages.
+    caveat: >-
+      Reactive glaze means every mug comes out slightly different — intentional,
+      and lovely, but not the pick for someone who wants four identical mugs.
+    added: '2026-08-24'
+    url: 'https://www.amazon.com/dp/B097NHLL8R?tag=orlaloom-20'
 faqs:
   - q: What's a good budget for a hostess gift?
     a: >-
@@ -147,7 +166,7 @@ faqs:
       the recipe box or the pink flower dish, for people whose shelves you've
       actually seen. And when in genuine doubt, the board wins: nobody in the
       history of dinner parties has resented owning one more nice serving board.
-updated: '2026-08-02'
+updated: '2026-08-24'
 ---
 
 There is an unwritten rule about hostess gifts: the best ones look thoughtful and cost the giver almost no decision-making. Wine works, but wine disappears by ten o'clock and says nothing. Flowers work, but they hand the host a vase-finding errand mid-party. The cottagecore answer is different — give something small, natural, and useful enough that it enters the house's daily rotation, so that every time the host reaches for it, the dinner you attended gets a tiny footnote. That's the standard everything on this list was chosen against: real materials, immediate usefulness, and a little bit of story.

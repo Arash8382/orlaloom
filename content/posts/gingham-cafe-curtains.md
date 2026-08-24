@@ -183,7 +183,7 @@ faqs:
       a bright, fun moment right now but is more of a trend, so it's best used
       in a small, easily-swapped dose like a valance — while a classic gingham
       tier is something you can happily leave up for years.
-updated: '2026-08-02'
+updated: '2026-08-24'
 ---
 
 The best all-round gingham café curtains right now are the **Barossa Design red-and-white buffalo check tiers** — cheap, well-woven and instantly cottage — with the fine-check **VOGOL blue gingham** the pick if you want the softer, more traditional look. Both are for anyone who wants to make a bare kitchen window feel finished for the price of lunch.
@@ -202,7 +202,7 @@ The one splurge here, the ruffled cotton gingham tiers from Vermont Country Stor
 
 ## How high should café curtains hang?
 
-The rule that makes café curtains look deliberate rather than accidental: **mount the rod at the exact midpoint of the window, or just above it.** You want the top of the panel to hit roughly halfway up the glass, so the tier covers the bottom for privacy while the top half stays open and bright. Sitting it too low looks skimpy; too high and you lose the whole point of the open-topped look.
+The rule that makes café curtains look deliberate rather than accidental: **mount the rod at the exact midpoint of the window, or just above it.** You want the top of the panel to hit roughly halfway up the glass, so the tier covers the bottom for privacy while the top half stays open and bright. Sitting it too low looks skimpy; too high and you lose the whole point of the open-topped look. That open top is also prime display space: a row of [vintage terracotta pots](/blog/vintage-terracotta-pots) planted with herbs sits in the bright half of the window and finishes the frame better than a valance ever would.
 
 A few specifics that help:
 
