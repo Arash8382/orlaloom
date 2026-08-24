@@ -1,8 +1,9 @@
 ---
 title: "The Best Retro Mini Fridges for a 1950s Kitchen (2026)"
-description: "The best retro mini fridges of 2026 — Galanz, Frigidaire and DEMULLER compact fridges with curved corners, chrome handles and pastel colors — plus how to pick the right size, and which ones have a real freezer."
+description: "The best retro mini fridges of 2026 — Galanz, Frigidaire and DEMULLER compact fridges with curved corners, chrome handles and pastel colors — plus the best Smeg-style fridge dupes, how to pick the right size, and which ones have a real freezer."
 category: "retro-appliances"
 date: "2026-07-17"
+updated: '2026-08-24'
 cover: "/thumbnails/thumb-retro-mini-fridge.webp"
 products:
   - name: "Frigidaire EFR376 Retro Bar Fridge (3.2 cu ft, Pink/Coral)"
@@ -85,6 +86,10 @@ Of every retro appliance you can buy, the mini fridge delivers the biggest visua
 
 The classic cottagecore move is a drink-station corner: retro fridge, a tray of [colored glassware](/blog/best-colored-glassware) on top, and a [glass pitcher](/blog/glass-pitchers-drink-station) waiting to be filled. It also solves the ugly-appliance problem in offices, dorms and guest rooms — the one appliance category where the "cute" version costs barely more than the beige one. If you're building a whole matching kitchen, start with our [retro kitchen appliances guide](/blog/best-retro-kitchen-appliances) — the fridge anchors the room, then kettle and toaster fill in the counter.
 
+## The Smeg question
+
+If what you actually want is the Smeg FAB5 mini-fridge look — glossy curved shoulders, chrome handle, pastel paint — without the four-figure price, this is the category where the dupe strategy works best. The Galanz retro compact is the closest budget stand-in for the Smeg silhouette; its rounded corners and chrome hardware read Smeg from across the room, especially in the saturated green and blue. The Frigidaire retro line gets you the same 1950s era in softer, more cottage pastels for even less. We keep the full list of convincing lookalikes across kettles, toasters and full-size fridges in our [Smeg dupes guide](/blog/best-smeg-dupes) — the fridges on this page are the ones we would shortlist.
+
 ## FAQ
 
 **Do retro mini fridges have freezers?**
@@ -95,6 +100,9 @@ Yes — Galanz is the best-known name in retro compact fridges and its curved st
 
 **How much does a retro mini fridge cost?**
 Roughly $100-130 for a 1.6 cu ft cube, $150-250 for the sweet-spot 3-3.5 cu ft sizes, and $300+ for the most vintage-faithful Galanz colors. That's only a small premium over plain compact fridges — this is the cheapest category to buy "pretty" in.
+
+**Is there a good Smeg fridge dupe?**
+For the mini-fridge size, yes — the Galanz retro compact is the closest affordable match for Smeg's curved FAB5 silhouette, and the Frigidaire EFR376 delivers the same 1950s look in softer pastels for around $149. Our [Smeg dupes roundup](/blog/best-smeg-dupes) covers lookalikes across the rest of the appliance line-up.
 
 ## Related guides
 
