@@ -9,7 +9,7 @@ description: >-
   occasion, with honest pros and cons for each.
 category: home-decor
 date: '2026-08-03'
-updated: '2026-08-23'
+updated: '2026-08-28'
 cover: /thumbnails/thumb-fall-supper-club-tablescape.webp
 products:
   - name: 'Urban Villa Hemstitch Cloth Dinner Napkins, 20x20 in Cotton, Set of 6, Ivory'
@@ -187,6 +187,11 @@ A few things worth knowing. First, cloth napkins are the highest-impact item on 
 ## Make it a ritual, not a production
 
 The households that keep a supper club going past October all do the same thing: they lower the bar for the food and raise it for the table. One pot of something braised, bread from the good bakery, and a set table beats an ambitious three-course menu that leaves the host exhausted. Keep the tablescape kit in one drawer or basket — napkins, rings, runner, tapers — so setting the table takes ten minutes, not a scavenger hunt. Rotate hosting monthly, let guests bring dessert and wine, and resist the urge to buy more stuff after the first dinner. The kit on this page genuinely covers the whole look; everything after that is candlelight and conversation.
+
+Everything above assumes a base layer, and linen is the one that photographs and
+ages best. [Washed linen tablecloths and runners](/blog/washed-linen-tablecloths)
+give you the rumpled, lived-in surface that makes a supper club table look
+gathered rather than staged.
 
 ## FAQ
 

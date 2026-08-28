@@ -5,7 +5,7 @@ description: >-
   farmhouse styles — to add vintage character to a cottage wall.
 category: home-decor
 date: '2026-07-10'
-updated: '2026-08-21'
+updated: '2026-08-28'
 cover: /thumbnails/thumb-vintage-arched-scalloped-mirrors.webp
 products:
   - name: 'Kate and Laurel Viona Scalloped Wall Mirror, 26"'
@@ -96,6 +96,23 @@ products:
     caveat: "At 24 by 35 inches it is a genuinely large piece; check the wall and the anchors before ordering."
     added: '2026-08-21'
     url: "https://www.amazon.com/EMAISON-Scalloped-Arch-Mirror-Vintage/dp/B0F9L63SKB?tag=orlaloom-20"
+  - name: Tanmicoshomy Wavy Wood Arched Mirror 20 x 30
+    image: >-
+      https://m.media-amazon.com/images/I/71R3F4RAR-L._AC_SL1500_.jpg
+    brand: Tanmicoshomy
+    price: ~$75–85
+    retailer: Amazon
+    badge: Best small arch
+    blurb: >-
+      A scalloped wood arch at a genuinely small scale — it fits above a
+      narrow console or in a powder room where a full-length arch would
+      overwhelm.
+    caveat: >-
+      At 20 by 30 inches it is decorative rather than practical; you will not
+      get a full outfit check out of it.
+    added: '2026-08-28'
+    url: >-
+      https://www.amazon.com/dp/B0G3WFSTM3?tag=orlaloom-20
 faqs:
   - q: Are these heavy to hang?
     a: >-

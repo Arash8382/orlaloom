@@ -165,7 +165,7 @@ faqs:
       off, lean art against the wall on a shelf rather than hanging it, and
       choose a tall narrow bookcase whose single anti-tip anchor is the only
       thing you will need to patch on your way out.
-updated: '2026-08-23'
+updated: '2026-08-28'
 ---
 
 Pinterest searches for a comfy reading chair in a small space are up more than 450 percent this year, which tells you two things. People want a reading nook. And almost nobody has a spare room to put one in.
@@ -197,6 +197,11 @@ If the reading you do is more study than sofa, the same ingredients rearrange in
 ## What to skip
 
 You do not need a matching ottoman — a pouf is cheaper, lighter and more useful. You do not need a dedicated book cart if you have a shelf. And you do not need a second chair. A reading nook is for one person, and the moment it becomes seating for two, it stops being a place people retreat to and becomes a spot where someone waits for you to finish your chapter. The chair earns its softness from what you pile on it — [floral chintz throw pillows](/blog/floral-chintz-throw-pillows) are the cheapest way to get that layered, slightly overstuffed look.
+
+The wall above the chair is the part most people leave blank, and it is doing more
+work than the chair is. A small grouping of
+[vintage botanical wall art](/blog/vintage-botanical-wall-art) gives the nook a
+focal point at eye level and stops the corner from reading as leftover space.
 
 ## FAQ
 

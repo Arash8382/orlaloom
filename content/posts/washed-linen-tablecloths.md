@@ -3,7 +3,7 @@ title: "The Best Washed Linen Tablecloths for a Cottagecore Table"
 description: "Soft, lived-in washed linen tablecloths — from affordable hemstitch blends to pure French linen — that bring an heirloom feel to everyday cottage dining."
 category: "textiles"
 date: "2026-07-06"
-updated: '2026-08-24'
+updated: '2026-08-28'
 cover: "/thumbnails/thumb-washed-linen-tablecloths.webp"
 products:
   - name: "Solino Home Cotton-Linen Hemstitch Tablecloth"
@@ -75,6 +75,38 @@ products:
     caveat: "Long enough that it needs a big machine and a real drying rack; a standard dryer will crease it badly."
     added: '2026-08-21'
     url: "https://www.amazon.com/Talasily-Linen-Tablecloth-Rectangle-Washed/dp/B0C8LYM7K2?tag=orlaloom-20"
+  - name: Solino Home 100% Linen Table Runner, Classic Hemstitch 14 x 72
+    image: >-
+      https://m.media-amazon.com/images/I/71nR+ft-TYL._AC_SL1500_.jpg
+    brand: Solino Home
+    price: ~$36–42
+    retailer: Amazon
+    badge: Best linen runner
+    blurb: >-
+      Pure European flax linen with a hand-hemstitched border and an OEKO-TEX
+      certification — it softens with every wash instead of wearing out.
+    caveat: >-
+      Pure linen creases readily; if you want a table that looks pressed all
+      evening this is the wrong fabric.
+    added: '2026-08-28'
+    url: >-
+      https://www.amazon.com/dp/B097PX6Y9X?tag=orlaloom-20
+  - name: Rhyslinm Linen-Cotton Table Runner 14 x 60
+    image: >-
+      https://m.media-amazon.com/images/I/91Fd05NZFRL._AC_SL1500_.jpg
+    brand: Rhyslinm
+    price: ~$14–18
+    retailer: Amazon
+    badge: Best budget
+    blurb: >-
+      A linen-cotton blend at roughly a third of the price of pure flax, with
+      enough slub texture to avoid looking flat under candlelight.
+    caveat: >-
+      The cotton content means it drapes a little stiffer than pure linen, and
+      the review count is still small.
+    added: '2026-08-28'
+    url: >-
+      https://www.amazon.com/dp/B0H5TYPNFN?tag=orlaloom-20
 ---
 
 Nothing softens a table like washed linen — it drapes, it rumples, and it looks like it's been in the family for years (even if it arrived yesterday). Here's how to get the heirloom look at every budget.

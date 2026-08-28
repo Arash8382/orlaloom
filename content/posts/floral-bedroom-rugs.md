@@ -145,7 +145,7 @@ faqs:
       high heat. Prices and availability shift with size and season, so tap
       through to Lahome for the current price and the sizes in stock for the
       room you're styling.
-updated: '2026-08-02'
+updated: '2026-08-28'
 ---
 
 The bedroom is the room cottagecore was made for. It's where the whole aesthetic began — white linen, pressed flowers, morning light through a window — and it's the one room that's genuinely yours to make as soft as you like. The fastest way to get there isn't new bedding or another shelf of trinkets. It's the floor. A **floral rug** beside the bed changes the first thing your feet touch in the morning and the last thing you see before the light goes off, and it pulls the whole colour scheme of the room together in one move.
@@ -173,6 +173,11 @@ If "romantic" is the exact feeling you're after — more faded roses and candlel
 ## The soft cottagecore favourite
 
 If you want one safe recommendation, the **Coralie** in rose pink is where I'd start. It's the most affordable rug here, it has the scalloped floral border that reads instantly cottagecore, and at bedside-runner size it's a genuinely low-risk way to try the look. If it turns out you love a floral floor, you can always size up to the **Nina** rose garden or the classic **Lorielle** Persian later. And if pink isn't your room, the **Ariele** dusty blue gives you the same gentle, faded charm in a cooler colour.
+
+A floral rug sets the floor, but the bed has to answer it. If the rug is doing the
+pattern, keep the bedding textural rather than printed —
+[ruffle duvet covers and lace-trim pillowcases](/blog/ruffle-duvet-covers-lace-trim-pillowcases)
+add softness at the same volume without a second competing floral.
 
 ## FAQ
 

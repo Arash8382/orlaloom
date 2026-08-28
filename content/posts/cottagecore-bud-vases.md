@@ -100,6 +100,23 @@ products:
     image: 'https://m.media-amazon.com/images/I/81cafMS8T6L.jpg'
     added: '2026-08-22'
     url: 'https://www.amazon.com/dp/B0BWXQ9WC8?tag=orlaloom-20'
+  - name: ooit Vintage Ceramic Bud Vase Set of 3
+    image: >-
+      https://m.media-amazon.com/images/I/81WzSln1YPL._AC_SL1500_.jpg
+    brand: ooit
+    price: ~$28–34
+    retailer: Amazon
+    badge: Best set of three
+    blurb: >-
+      Three small chinoiserie-style ceramic vases in soft green and beige —
+      different silhouettes, so a single stem in each reads as a collection
+      rather than a set.
+    caveat: >-
+      The necks are narrow, which suits one or two stems but will not hold a
+      gathered handful.
+    added: '2026-08-28'
+    url: >-
+      https://www.amazon.com/dp/B0FCFHBG26?tag=orlaloom-20
 faqs:
   - q: What flowers suit these best?
     a: >-
@@ -110,7 +127,7 @@ faqs:
     a: >-
       Glazed ceramic and stoneware are; unglazed terracotta-style pieces may
       seep, so use a small glass insert if in doubt.
-updated: '2026-08-22'
+updated: '2026-08-28'
 ---
 
 A bud vase is the cheapest piece of décor that earns its keep daily — one stem of something from the garden, and a windowsill comes alive. Here are the prettiest little vessels for exactly that.

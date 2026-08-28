@@ -148,7 +148,7 @@ faqs:
       pleats never scorch. A warm-white LED (2700K) at 40-60W equivalent gives
       the cozy, amber-striped glow these shades are made for; anything colder
       than 3000K makes even a lovely pleated shade feel like office lighting.
-updated: '2026-08-02'
+updated: '2026-08-28'
 ---
 
 Somewhere around the end of last year, the flat white drum shade quietly lost its job. In its place: pleats, scallops, gathered edges and mushroom silhouettes — texture you can see from across the room. Designers keep saying the same thing about 2026 lighting: texture is king, and nothing delivers it more affordably than swapping a plain lampshade for a pleated one. It's the rare trend that costs $35, takes two minutes, and changes how a whole corner of your room feels.
@@ -174,6 +174,11 @@ Pleated shades were everywhere from the 1930s through the 1980s, then spent thre
 The lowest-commitment entry is a single replacement shade on a lamp you already love — the Aspen Creative mushroom pleat does exactly this for under $40. The mid-level move is the matching pair: two scalloped bells on bedside lamps make a bedroom look intentionally designed for about $34 total — they pair especially well with the gathered textures in our [ruffle duvet covers guide](/blog/ruffle-duvet-covers-lace-trim-pillowcases), and pleats-above, ruffles-below is the fastest route to a [cottagecore bedroom](/blog/cottagecore-bedroom) that looks styled rather than shopped. And the full send is overhead: six pleated clip-ons transform a dated dining chandelier for less than a takeout dinner, no electrician involved.
 
 One honest note on quality at this price point: sub-$60 shades are mostly hardback paper-and-fabric constructions, not the silk-lined couture shades that run $200+. Lit up in the evening — which is when lampshades earn their keep — the difference all but disappears.
+
+A pleated shade rarely works alone — it wants pattern nearby to argue with. The
+easiest pairing is a chair or sofa layered with
+[floral chintz throw pillows](/blog/floral-chintz-throw-pillows), which pick up the
+same fussy, inherited quality without matching the shade exactly.
 
 ## FAQ
 

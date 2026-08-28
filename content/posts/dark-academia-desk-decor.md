@@ -156,7 +156,7 @@ faqs:
       burn in a dorm anyway. The look holds up because every piece on this list
       works for a living — light, storage, book support, surface protection.
       Decor that does nothing is the first thing you stop dusting.
-updated: '2026-08-02'
+updated: '2026-08-28'
 ---
 
 Dark academia never really left, but this back-to-school season it is having a proper moment — the dorm-decor trend forecasts are calling it the year of the "heritage dorm," all worn leather, brass, and old-library green instead of fairy lights and plastic crates. Which makes sense. A dorm room is the least atmospheric room most people will ever live in, and dark academia is the fastest way to give a room an atmosphere.
@@ -176,6 +176,13 @@ Everything below fits a student budget and a suitcase, and every piece keeps wor
 **Make the books part of the furniture.** Textbooks standing between proper bookends become decor; the same textbooks lying in a heap become clutter. Stack two or three books horizontally under the lamp or the globe to build height. If your actual books are all neon paperbacks, a set of vintage-style book boxes gives you the old spines for the visible stack — and hides your charging cables inside it.
 
 **Contain the small stuff in something beautiful.** The fastest way to ruin a styled desk is a plastic pen cup and a drift of sticky notes. Give the small things drawers — an apothecary cabinet holds the clutter and contributes to the look at the same time, which no acrylic organizer can claim.
+
+If you are working with a smaller room — a dorm desk rather than a study — the
+same palette scales down without losing its seriousness; our
+[cottagecore dorm room decor](/blog/cottagecore-dorm-room-decor) guide covers the
+version that survives a shared space and a move every nine months. And when the
+mood tips darker at night, [moody dark floral bedding](/blog/moody-dark-floral-bedding)
+is the bedroom counterpart to everything on this desk.
 
 ## FAQ
 
