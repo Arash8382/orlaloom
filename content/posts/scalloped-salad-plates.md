@@ -3,7 +3,7 @@ title: "The Best Scalloped Salad & Side Plates for 2026"
 description: "The prettiest scalloped salad and side plates — blue ombre, floral, and designer picks to layer over any dinner plate."
 category: "scalloped-dinnerware"
 date: "2026-06-26"
-updated: '2026-08-16'
+updated: '2026-08-29'
 cover: "/thumbnails/thumb-scalloped-salad-plates.webp"
 products:
   - name: "KeyChefLAB Petal Scalloped Plates (Set of 4, Blue Ombre)"
@@ -114,6 +114,8 @@ It's worth knowing what you're buying. **Porcelain** is the most refined — thi
 ## Why scalloped plates photograph so well
 
 Part of the appeal is practical and part is purely visual. That wavy rim catches light along its ridges, so the plate reads as having texture even in a flat photo — which is exactly why they're everywhere on Pinterest and tablescape posts. If you're styling a table to share, a scalloped salad plate layered over a plain dinner plate gives you that detail without buying a whole patterned set.
+
+The same wavy rim that photographs well on a table photographs well on a wall. A few scalloped plates hung in a loose cluster is the cheapest way to fill an awkward stretch above a sideboard — see [decorative wall plates](/blog/decorative-wall-plates) for how to arrange and hang them without drilling a dozen holes.
 
 ## FAQ
 

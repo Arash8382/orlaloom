@@ -104,6 +104,25 @@ products:
       so they overflow if you water heavily rather than little and often.
     added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B0B4HVN7DZ?tag=orlaloom-20'
+  - name: 'HERDUK Terracotta Pots with Saucers, 6 in (4 Pack)'
+    image: 'https://m.media-amazon.com/images/I/71sgy8Nq8VL._AC_SL1500_.jpg'
+    brand: HERDUK
+    price: ~$18-23 for four
+    retailer: Amazon
+    badge: Best six-inch four-pack
+    blurb: >-
+      Six inches is the size most houseplants actually arrive in, so this is
+      the pack that lets you repot a whole windowsill at once instead of one
+      plant at a time. Real unglazed clay with a drainage hole and a
+      matching saucer, and the walls are thick enough that they do not ring
+      hollow when you set them down.
+    caveat: >-
+      Unglazed clay wicks moisture out fast, so anything thirsty will need
+      watering roughly twice as often as it did in its plastic nursery pot.
+      Saucers are shallow and the clay bases can leave damp rings on wood —
+      put a cork pad under anything sitting on furniture.
+    added: '2026-08-29'
+    url: 'https://www.amazon.com/dp/B0BLYW6P32?tag=orlaloom-20'
 faqs:
   - q: Will terracotta survive winter outdoors?
     a: >-
@@ -114,7 +133,7 @@ faqs:
     a: >-
       Small real-clay vensovo pots with saucers — the breathable clay keeps roots
       happy, and they look lovely lined up on a sunny sill.
-updated: '2026-08-20'
+updated: '2026-08-29'
 ---
 
 Nothing says cottage garden like aged terracotta — sun-faded, a little mossy, with that perfect warm clay color. You can buy it genuinely old, or fake decades of weathering for a few dollars. Here's the full range.

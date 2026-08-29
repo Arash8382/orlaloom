@@ -3,7 +3,7 @@ title: "Tea Corner Ideas: How to Build a Cottagecore Tea Station (2026)"
 description: "Tea corners are the new reading nooks. How to turn one small counter or sideboard into a proper cottagecore tea station — the kettle, floral tea set, tiered tray, tea box and honey pot that do it, with honest pros and cons."
 category: "cottagecore-kitchen"
 date: "2026-07-29"
-updated: '2026-08-24'
+updated: '2026-08-29'
 cover: "/thumbnails/thumb-tea-corner-ideas.webp"
 products:
   - name: "Cosori Gooseneck Electric Kettle with Temperature Control, 0.8L, Matte Black"
@@ -95,6 +95,8 @@ The good news is that a tea corner is one of the cheapest cozy upgrades in the e
 **Store tea like you display it.** Open sleeves of tea bags go stale and look chaotic. A single bamboo chest with visible compartments solves both, and decanting loose-leaf into small canisters keeps it fresher than the foil bag it came in. If your corner has room for only one storage piece, make it one you would happily leave out on the tray.
 
 If you are building the cozy-kitchen cluster more broadly, a tea corner pairs naturally with a [drink station of glass pitchers](/blog/glass-pitchers-drink-station) for the warmer months, and it is the natural next project after a [reading nook](/blog/cozy-reading-nook-essentials) — the two were made for each other, usually about ten feet apart.
+
+A tea corner is also the easiest thing to build for somebody else in pieces. A tin of loose leaf, one good mug and a small tray comes in under thirty dollars, which is where our [cottagecore gifts under $30](/blog/cottagecore-gifts-under-30) round-up starts and stops.
 
 ## FAQ
 

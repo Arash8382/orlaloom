@@ -101,7 +101,7 @@ faqs:
     a: >-
       Forest green, aubergine, oxblood, charcoal, and warm near-black, with
       cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-08-23'
+updated: '2026-08-29'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
@@ -138,6 +138,8 @@ The same moody, candle-lit palette translates beautifully to a desk — [dark ac
 3. Put one vintage object on the counter — the butter dish is the easiest start.
 4. Add candlelight. This is the single biggest "dark" cottagecore upgrade.
 5. Layer linen and one bright accent to finish.
+
+Wall light is the step most people skip, because it looks like a wiring job. It is not: a pair of [plug-in wall sconces](/blog/plug-in-wall-sconces-for-renters) either side of a shelf or a window gives a dark kitchen the same layered glow as hardwired fixtures, and comes down with the picture hooks when you move.
 
 ## FAQ
 

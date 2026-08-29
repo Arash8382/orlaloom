@@ -91,6 +91,45 @@ products:
     image: 'https://m.media-amazon.com/images/I/41asYFcC-JL.jpg'
     added: '2026-08-22'
     url: 'https://www.amazon.com/dp/B003TC8AFI?tag=orlaloom-20'
+  - name: 'Airy Abode Candle Snuffer and Wick Trimmer Set'
+    image: 'https://m.media-amazon.com/images/I/71aInC8rkQL._AC_SL1500_.jpg'
+    brand: Airy Abode
+    price: ~$21-27
+    retailer: Amazon
+    badge: Best care set
+    blurb: >-
+      A bell snuffer and a long-handled wick trimmer in a warm brass finish,
+      which is what actually keeps beeswax tapers from smoking, tunnelling
+      and throwing soot up a wall. Snuffing rather than blowing is the
+      single biggest difference between a candle corner that smells like
+      beeswax and one that smells like a blown-out match.
+    caveat: >-
+      The brass here is a plated finish over stainless, not solid brass, so
+      it stays bright instead of developing the patina your antique
+      candlesticks have — a mismatch if you are chasing a uniformly aged
+      look. The trimmer is sized for jars and pillars and is clumsy on a
+      narrow taper.
+    added: '2026-08-29'
+    url: 'https://www.amazon.com/dp/B0947G7LYT?tag=orlaloom-20'
+  - name: 'Amazon Basics Unscented Taper Candles'
+    image: 'https://m.media-amazon.com/images/I/51ZFBXeAziL._AC_SL1500_.jpg'
+    brand: Amazon Basics
+    price: ~$15-19
+    retailer: Amazon
+    badge: Best budget tapers
+    blurb: >-
+      The everyday taper for a table you actually light on a Tuesday.
+      Unscented matters more than it sounds: brass-holder corners are
+      usually already carrying a room scent from a candle or a diffuser, and
+      a scented taper on top of that turns the whole thing muddy. Cotton
+      wicks, roughly seven and a half hours each.
+    caveat: >-
+      Paraffin-and-palm blend rather than beeswax, so there is none of that
+      faint honey smell and they burn faster and drip more than the Big
+      Dipper tapers above. Reviews are middling on straightness — expect to
+      warm and true a few bases to seat them in narrow holders.
+    added: '2026-08-29'
+    url: 'https://www.amazon.com/dp/B0DL8LVZ1X?tag=orlaloom-20'
 faqs:
   - q: What scents feel 'grandmacore'?
     a: >-
@@ -105,7 +144,7 @@ faqs:
       Solid brass slowly darkens, which most people actually want for the
       antique look. If you prefer it bright, a quick polish once or twice a year
       is all it takes.
-updated: '2026-08-22'
+updated: '2026-08-29'
 ---
 
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders to start with.

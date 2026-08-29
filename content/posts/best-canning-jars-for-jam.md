@@ -152,7 +152,7 @@ faqs:
       keeps its color and set best in small jars because you finish them faster
       once opened — and small jars process a few minutes quicker in the water
       bath too.
-updated: '2026-08-02'
+updated: '2026-08-29'
 ---
 
 There is a moment in July — berries cheap and fragrant at the farmers market, the kitchen smelling of sugar and fruit — when making your own jam stops being a quaint idea and becomes an urgent little mission. Pinterest calls it "grandmacore"; anyone who grew up with a preserving grandmother just calls it summer. Either way, the gear matters more than you might think. The right jars seal reliably, look beautiful lined up on a shelf, and turn a $4 basket of strawberries into a row of gifts. The wrong ones leak, rust, or refuse to seal at all.
@@ -178,6 +178,8 @@ The **Weck 744 tulip jars** are the ones to buy when the jars themselves are par
 ## A note on safety (the two-minute version)
 
 Jam is one of the safest things you can can at home: fruit plus sugar plus lemon juice is high-acid, which means a simple boiling-water bath — no pressure canner — gives you a shelf-stable seal. Use tested recipes for ratios, simmer your lids, leave a quarter-inch of headspace, and process half-pints for about ten minutes. If a lid does not pop down as it cools, that jar just goes in the fridge and becomes this week's toast. The National Center for Home Food Preservation publishes free tested recipes if you are starting from scratch. Once the jam is eaten, the storage question stays — [glass pantry canisters](/blog/glass-pantry-canisters) are the matched, lidded version for flour, sugar and pasta.
+
+Jars travel well, too. A couple of small jars of jam, a loaf and a wedge of cheese is most of a picnic already — pack them into one of the [wicker picnic baskets](/blog/best-wicker-picnic-baskets) with a proper flat base and nothing tips on the walk out.
 
 ## FAQ
 

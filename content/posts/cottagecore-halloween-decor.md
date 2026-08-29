@@ -101,6 +101,44 @@ products:
     image: 'https://m.media-amazon.com/images/I/613seHEsnZL._AC_SL1500_.jpg'
     added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0DXJXCXLV?tag=orlaloom-20'
+  - name: 'Glitzhome Hand-Blown Glass Pumpkin (5.25 in)'
+    image: 'https://m.media-amazon.com/images/I/61koCJ-BRZL._AC_SL1002_.jpg'
+    brand: Glitzhome
+    price: ~$24-30
+    retailer: Amazon
+    badge: Prettiest glass accent
+    blurb: >-
+      Hand-blown glass with a coiled stem and a soft, watery colour that
+      catches lamplight rather than blocking it. It is the piece that lets
+      you decorate for October without a single orange plastic thing in the
+      house — set three on a windowsill and they read as autumn still-life,
+      then stay out happily through Thanksgiving.
+    caveat: >-
+      Hand-blown means real variation: colour depth, stem curl and even
+      height differ piece to piece, so a pair bought together will not
+      match. It is also solid glass and heavier than it looks, which makes
+      it a poor choice for a shelf a cat patrols.
+    added: '2026-08-29'
+    url: 'https://www.amazon.com/dp/B07KK6VNP1?tag=orlaloom-20'
+  - name: 'Fitz and Floyd Harvest Halloween Side Pumpkin Figurine (5.5 in)'
+    image: 'https://m.media-amazon.com/images/I/61BF-PiLInL._AC_SL1500_.jpg'
+    brand: Fitz and Floyd
+    price: ~$36-44
+    retailer: Amazon
+    badge: Best hand-painted piece
+    blurb: >-
+      Fitz and Floyd paint the way an old storybook illustrator would —
+      muted ochres and greens, a little gold, nothing garish. At five and a
+      half inches it is a mantel or side-table piece rather than a
+      centrepiece, and it sits comfortably next to the harvest cookie jar
+      from the same line if you already own it.
+    caveat: >-
+      It is hand-painted earthenware, so it chips at the stem if it tips,
+      and the palette is more harvest than Halloween — if you want anything
+      actually spooky this is not it. Decorative only; do not put food on
+      it.
+    added: '2026-08-29'
+    url: 'https://www.amazon.com/dp/B0DGHXWS16?tag=orlaloom-20'
 faqs:
   - q: What is cottagecore Halloween decor?
     a: >-
@@ -127,7 +165,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-08-20'
+updated: '2026-08-29'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.
