@@ -7,6 +7,7 @@ description: >-
   you can toss on every chair, here are six tartan and plaid throw blankets
   worth buying, with honest pros and cons for each.
 category: textiles
+updated: '2026-08-30'
 date: '2026-08-04'
 cover: /thumbnails/thumb-tartan-plaid-throw-blankets.webp
 products:
@@ -124,8 +125,48 @@ products:
       rather than tailored, so it styles best folded rather than draped.
     added: '2026-08-04'
     url: 'https://www.amazon.com/dp/B0GZNMX1KV?tag=orlaloom-20'
+  - name: 'Pendleton Yakima Throw, Wool-Cotton, Lake Plaid, 54x66 in'
+    image: 'https://m.media-amazon.com/images/I/91CrvU+92wL._AC_SL1500_.jpg'
+    brand: Pendleton
+    price: ~$175-198
+    retailer: Amazon
+    badge: Heirloom pick
+    blurb: >-
+      If you only ever buy one plaid throw, this is the one that
+      outlives the trend. Pendleton has been weaving in Oregon since
+      1863, and the Yakima is 86% virgin wool with a cotton warp, which
+      is why it hangs with real weight instead of floating like acrylic.
+      The Lake colourway reads soft blue-and-cream rather than shouty
+      holiday tartan, so it stays out all year. Whipstitched edges
+      rather than fringe means nothing unravels.
+    caveat: >-
+      It is by far the most expensive throw here, and wool is warm
+      enough that it can be too much for a heated room. Spot clean or
+      dry clean only — this is not a blanket you toss in the wash after
+      a movie night.
+    added: '2026-08-30'
+    url: 'https://www.amazon.com/dp/B00WH2VI9G?tag=orlaloom-20'
+  - name: 'BRAW CLANS TARTANS Wool Tartan Throw, Buchanan Ancient, 74x62 in'
+    image: 'https://m.media-amazon.com/images/I/8122rt+l55L._AC_SL1500_.jpg'
+    brand: BRAW CLANS TARTANS
+    price: ~$70-82
+    retailer: Amazon
+    badge: Best true clan tartan
+    blurb: >-
+      Most "tartan" throws on Amazon are printed plaids. This one is an
+      actual woven clan sett — Buchanan Ancient, in the muted
+      vegetable-dye palette rather than the bright modern version, so
+      the yellows and greens sit softly against cream walls. At 74 by 62
+      inches it covers a two-seater properly, and the fringed edges are
+      hand-finished. It is the piece that makes the rest of a room look
+      considered.
+    caveat: >-
+      Wool is slightly scratchy straight out of the packaging and needs
+      a wash and air-dry to soften. The sett is bold, so it fights with
+      other patterns — give it a plain sofa.
+    added: '2026-08-30'
+    url: 'https://www.amazon.com/dp/B0H8D76T7Q?tag=orlaloom-20'
 ---
-
 Cottagecore is getting a tailored update this fall, and the fashion press has already named it: "vintage prep." Think heritage patterns, cranberry and ochre, brass lamps, stacked books — and above all, tartan. The tartan throw blanket is the single easiest way to bring the look home: no repainting, no new furniture, just one piece of woven pattern draped over what you already own. Here's how to choose one, and the six we'd actually buy.
 
 ## Why tartan, and why now

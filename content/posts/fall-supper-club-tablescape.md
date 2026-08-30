@@ -9,7 +9,7 @@ description: >-
   occasion, with honest pros and cons for each.
 category: home-decor
 date: '2026-08-03'
-updated: '2026-08-28'
+updated: '2026-08-30'
 cover: /thumbnails/thumb-fall-supper-club-tablescape.webp
 products:
   - name: 'Urban Villa Hemstitch Cloth Dinner Napkins, 20x20 in Cotton, Set of 6, Ivory'
@@ -160,8 +160,28 @@ products:
     image: 'https://m.media-amazon.com/images/I/81q0tn6Pq8L._AC_SL1500_.jpg'
     added: '2026-08-23'
     url: 'https://www.amazon.com/dp/B0DPPTYPHS?tag=orlaloom-20'
+  - name: 'Woodard & Charles Acacia Wood Oval Serving Tray, 10 x 15 in'
+    image: 'https://m.media-amazon.com/images/I/712YoubDllL._AC_SL1500_.jpg'
+    brand: Woodard & Charles
+    price: ~$17-23
+    retailer: Amazon
+    badge: Best serving board
+    blurb: >-
+      Every supper club table needs one warm wooden thing to break up
+      all the ceramic and glass, and this is the cheapest way to get it.
+      Solid acacia with the grain running long down a 15-inch oval,
+      finished smooth rather than glossy, so it works as a cheese board
+      at the start of the night and a bread board once the mains land.
+      At under twenty dollars it is the least precious piece on this
+      list, which is exactly why it gets used.
+    caveat: >-
+      Real wood, so it is hand-wash and occasional-oiling only — a
+      dishwasher cycle will split it. The natural colour also varies
+      board to board, which matters if you are buying two to sit side by
+      side.
+    added: '2026-08-30'
+    url: 'https://www.amazon.com/dp/B003XRNYM8?tag=orlaloom-20'
 ---
-
 Something lovely is happening to the way we entertain: the "supper club" is back. Not the velvet-booth restaurant kind — the at-home kind, where six friends crowd around a candlelit table on a Friday night for soup, bread, and three hours of conversation. Search interest in supper-club table settings has climbed more than 1000% heading into fall 2026, and it makes sense. Going out is expensive, hosting is cozy, and a beautifully set table is the cheapest form of hospitality glamour there is.
 
 The good news is that a proper supper-club tablescape needs surprisingly few things. This guide covers the six essentials — linens, napkin rings, goblets, candlesticks, tapers, and a runner — that layer together into a table that feels like an occasion, all for less than the cost of one dinner out for four.
@@ -186,7 +206,7 @@ A few things worth knowing. First, cloth napkins are the highest-impact item on 
 
 ## Make it a ritual, not a production
 
-The households that keep a supper club going past October all do the same thing: they lower the bar for the food and raise it for the table. One pot of something braised, bread from the good bakery, and a set table beats an ambitious three-course menu that leaves the host exhausted. Keep the tablescape kit in one drawer or basket — napkins, rings, runner, tapers — so setting the table takes ten minutes, not a scavenger hunt. Rotate hosting monthly, let guests bring dessert and wine, and resist the urge to buy more stuff after the first dinner. The kit on this page genuinely covers the whole look; everything after that is candlelight and conversation.
+The households that keep a supper club going past October all do the same thing: they lower the bar for the food and raise it for the table. One pot of something braised, bread from the good bakery, and a set table beats an ambitious three-course menu that leaves the host exhausted. Keep the tablescape kit in one drawer or basket — napkins, rings, runner, tapers — so setting the table takes ten minutes, not a scavenger hunt. It is worth putting a [washable kitchen runner rug](/blog/washable-kitchen-runner-rugs) down the galley side too, because supper club nights mean hours on your feet and at least one spilled glass. If guests stay over, a stack of [ditsy floral quilts](/blog/floral-ditsy-quilts) by the sofa is the least fussy way to be ready for it. Rotate hosting monthly, let guests bring dessert and wine, and resist the urge to buy more stuff after the first dinner. The kit on this page genuinely covers the whole look; everything after that is candlelight and conversation.
 
 Everything above assumes a base layer, and linen is the one that photographs and
 ages best. [Washed linen tablecloths and runners](/blog/washed-linen-tablecloths)

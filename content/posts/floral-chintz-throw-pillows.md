@@ -91,6 +91,25 @@ products:
     caveat: Velvet shows seat-crush and pet hair more readily than woven cotton.
     added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DDSTT7LN?tag=orlaloom-20'
+  - name: 'DKwizme Vintage Floral Throw Pillow Covers, Olive Green, 18x18 in, Set of 2'
+    image: 'https://m.media-amazon.com/images/I/91Luxrn+XOL._AC_SL1500_.jpg'
+    brand: DKwizme
+    price: ~$18-24
+    retailer: Amazon
+    badge: Best pair under $25
+    blurb: >-
+      Chintz usually means pink, and this is the antidote: a small
+      vintage floral printed on a soft olive ground, which is why it
+      works on a green or cream sofa where a rose print would look
+      fussy. Two covers for twenty dollars, 90% cotton with a hidden zip
+      and clean edges rather than piping. With over a thousand reviews
+      it is also the most road-tested option on this list.
+    caveat: >-
+      Covers only — you supply the inserts, and an 18-inch cover wants a
+      20-inch insert to look full. The print is smaller in person than
+      the listing photos suggest.
+    added: '2026-08-30'
+    url: 'https://www.amazon.com/dp/B0FFS9SM5D?tag=orlaloom-20'
 faqs:
   - q: 'What exactly is chintz, and are these real chintz?'
     a: >-
@@ -111,9 +130,8 @@ faqs:
       zippers, so any standard 18 in or 20 in insert works. If your inserts look
       deflated, choose new ones 2 inches larger than the cover for that plump,
       overstuffed grandmillennial silhouette — feather-blend inserts drape best.
-updated: '2026-08-02'
+updated: '2026-08-30'
 ---
-
 Chintz is back, and this time it is not your grandmother's guest room — it is the centerpiece of the grandmillennial look that has taken over 2026's design pages. Bold, oversized rose bouquets, glazed-cotton florals, ruffled edges, and that slightly-too-much layering of pattern on pattern: what used to read as fussy now reads as warm, personal, and collected. And the cheapest, lowest-commitment way to bring it home is a handful of floral chintz throw pillow covers.
 
 Pillow covers (rather than complete pillows) are the smart buy here. They cost a fraction of a finished pillow, store flat when you rotate seasonally, and let you reuse the same feather or poly inserts underneath. Every pick in this guide is a cover, so budget for inserts if you do not already have a drawer of them.
@@ -134,7 +152,7 @@ Pillow covers (rather than complete pillows) are the smart buy here. They cost a
 
 The grandmillennial trick is contrast. Chintz pillows on a skirted floral sofa is a period drama; chintz pillows on a clean-lined linen or leather sofa is 2026. Keep the surrounding palette calm — cream, sage, oatmeal — and let the bouquets be the loudest thing in the room. A ruffle-edged pillow softens the front row, and the velvet pick above is exactly the kind of quiet texture that keeps the arrangement from looking like a showroom set.
 
-If you already own our favorite [ditsy floral quilts](/blog/floral-ditsy-quilts), the blue YugTex bouquet is the easiest cross-match — the dusty blues and roses sit in the same palette family.
+If you already own our favorite [ditsy floral quilts](/blog/floral-ditsy-quilts), the blue YugTex bouquet is the easiest cross-match — the dusty blues and roses sit in the same palette family. On the floor, a [scalloped floral rug](/blog/scalloped-floral-rugs) repeats the bouquet at a much larger scale, which is what stops a chintz arrangement reading like a single stranded cushion. And because covers are light, cheap and post easily, a pair of these is one of the few genuinely good soft-furnishing buys for [cottagecore dorm room decor](/blog/cottagecore-dorm-room-decor) — no landlord permission required.
 
 ## Caring for printed and velvet covers
 
