@@ -166,7 +166,7 @@ faqs:
       the recipe box or the pink flower dish, for people whose shelves you've
       actually seen. And when in genuine doubt, the board wins: nobody in the
       history of dinner parties has resented owning one more nice serving board.
-updated: '2026-08-24'
+updated: '2026-08-31'
 ---
 
 There is an unwritten rule about hostess gifts: the best ones look thoughtful and cost the giver almost no decision-making. Wine works, but wine disappears by ten o'clock and says nothing. Flowers work, but they hand the host a vase-finding errand mid-party. The cottagecore answer is different — give something small, natural, and useful enough that it enters the house's daily rotation, so that every time the host reaches for it, the dinner you attended gets a tiny footnote. That's the standard everything on this list was chosen against: real materials, immediate usefulness, and a little bit of story.
@@ -181,7 +181,7 @@ Second, favor things that skip the vase problem: gifts that are complete on arri
 
 Third, lean on natural materials, because they do the aesthetic work for you. Acacia, cotton, beeswax, brass, and ceramic all read as considered even at modest prices; the same money spent on plastic or scented synthetics reads as filler. This is the quiet trick of cottagecore gifting — the material vocabulary is inherently giftable, so a twelve-dollar candlestick can outperform a forty-dollar gadget.
 
-Finally, add one minute of presentation. Twine around the candles, a sprig of dried lavender under the ribbon on the towels, a handwritten recipe card inside the box. With gifts like these, the styling isn't decoration — it's the difference between "I ordered this" and "I put this together for you."
+Finally, add one minute of presentation. Twine around the candles, a sprig of dried lavender under the ribbon on the towels, a handwritten recipe card inside the box — or a jar of homemade jam tied to the serving board; our [canning jars for jam](/blog/best-canning-jars-for-jam) guide covers the pretty jars that turn a batch of preserves into a five-minute gift. With gifts like these, the styling isn't decoration — it's the difference between "I ordered this" and "I put this together for you."
 
 ## The picks
 

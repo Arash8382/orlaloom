@@ -116,7 +116,7 @@ faqs:
       splash of peach nectar, topped with sparkling water at serving time. For
       an alcohol-free station, cucumber-mint water or hibiscus iced tea both
       look stunning in clear textured glass, which is half the point.
-updated: '2026-08-29'
+updated: '2026-08-31'
 ---
 
 There is a reason the self-serve drink station has become the signature of summer 2026 hosting: it solves the host's oldest problem. Instead of playing bartender all afternoon, you set out one beautiful pitcher or dispenser, a tray of glasses, and a bowl of sliced fruit — and your guests happily pour for themselves while you actually sit down at your own party.
@@ -135,7 +135,7 @@ The look matters as much as the logic. A big-batch drink in a ribbed or embossed
 
 ## Setting up the drink station
 
-Give the station its own surface — a sideboard, a garden cart, or the end of the table — so drink traffic stays away from the food. Work in three layers: the vessel (pitcher or dispenser) at the back, glasses clustered on a tray at the front, and the garnish bowl — sliced peaches, cucumber ribbons, mint, extra ice — in between. A folded linen tea towel and a small hand-written sign ("peach sangria — help yourself") finish it.
+Give the station its own surface — a sideboard, a garden cart, or the end of the table — so drink traffic stays away from the food. Work in three layers: the vessel (pitcher or dispenser) at the back, glasses clustered on a tray at the front, and the garnish bowl — sliced peaches, cucumber ribbons, mint, extra ice — in between. A folded linen tea towel and a small hand-written sign ("peach sangria — help yourself") finish it. If the station lives near the pantry, a row of matching [glass pantry canisters](/blog/glass-pantry-canisters) for sugar cubes, loose tea and garnish extras keeps the whole corner reading as one set.
 
 One honest tip from experience: make the batch drink slightly weaker than you would a single serving. Guests pour bigger glasses than you would pour them, and the ice melts as the afternoon goes on.
 

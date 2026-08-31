@@ -178,7 +178,7 @@ faqs:
       to feel right, early enough to enjoy it through Halloween and into the
       harvest season. Candles and quilts can come out even sooner on the first
       cool evening.
-updated: '2026-08-28'
+updated: '2026-08-31'
 ---
 
 When the light goes golden and the evenings turn cool, cottagecore quietly shifts into its cosiest season. Fall is less about buying a whole new look and more about layering warmth into the one you have — a herbal candle burning by four o'clock, a patchwork quilt over the sofa, terracotta crowded with mums, and a mug that lives permanently by the kettle. These are the warm, gather-in finds worth adding first, each one a piece you'll keep long after the leaves are down.
@@ -202,7 +202,9 @@ same treatment. Layer a [tartan or plaid throw](/blog/tartan-plaid-throw-blanket
 over an armchair, swap the everyday plates for
 [pumpkin and harvest dinnerware](/blog/pumpkin-dinnerware-harvest-tableware) when
 you actually sit down to eat, and put a
-[washable runner](/blog/washable-kitchen-runner-rugs) where the traffic is worst.
+[washable runner](/blog/washable-kitchen-runner-rugs) where the traffic is worst —
+and in the living room, a full-size [cottagecore washable rug](/blog/cottagecore-washable-rugs)
+grounds the autumn palette and shrugs off muddy-boot season.
 If you are building a whole autumn table rather than decorating a room, the
 [fall supper club tablescape](/blog/fall-supper-club-tablescape) walks through it
 end to end. For scent beyond the one candle above, the
