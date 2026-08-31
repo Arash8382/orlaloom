@@ -155,7 +155,14 @@ faqs:
       and price spikes, and consumables like candles keep perfectly well in a
       drawer. The recipe box is actually better bought early, since filling in a
       few recipe cards yourself takes time worth having.
-updated: '2026-08-20'
+  - q: What are the best cottagecore gifts for her?
+    a: >-
+      The picks that land most reliably for her are the scalloped trinket dish,
+      the gift-boxed botanical mug, and the beeswax tapers paired with brass
+      candlesticks as a set — small, romantic, and safe without knowing her
+      exact decor. If she already owns the basics, a recipe box with a few
+      handwritten family recipes inside is the one that gets kept for decades.
+updated: '2026-08-31'
 ---
 
 Finding a gift that feels thoughtful without spending a fortune is a genuine skill — and the cottagecore aesthetic makes it easier than most, because the whole look is built on small, honest, useful things: candles, linens, little dishes, something handwritten. Every pick in this guide is under $30, in stock, and chosen because it feels like a gift rather than an obligation fulfilled.
@@ -195,3 +202,7 @@ Think small, useful and vintage-feeling: candles and candlesticks, pretty linens
 **Is it too early to buy holiday gifts in the summer?**
 
 Not at all — none of these picks are seasonal, so nothing here will feel dated by December. Buying ahead means you skip the holiday shipping crunch and price spikes, and consumables like candles keep perfectly well in a drawer. The recipe box is actually better bought early, since filling in a few recipe cards yourself takes time worth having.
+
+**What are the best cottagecore gifts for her?**
+
+The picks that land most reliably for her are the scalloped trinket dish, the gift-boxed botanical mug, and the beeswax tapers paired with the brass candlesticks as a set — small, romantic, and safe without knowing her exact decor. If she already owns the basics, a recipe box with a few handwritten family recipes tucked inside is the one that gets kept for decades.
