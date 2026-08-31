@@ -1,1 +1,204 @@
-{"checkedAt":"2026-08-24T15:16:49.480Z","checked":101,"issues":[{"guide":"aesthetic-butter-dishes","product":"Old Havana Butter Dish","type":"link-dead","action":"flagged"},{"guide":"cottagecore-bud-vases","product":"Fluted Flair White Ceramic Pitcher Vase","type":"link-dead","action":"flagged"},{"guide":"vintage-kitchen-accessories","product":"Mason Cash Cane 3-Piece Mixing Bowl Set","type":"link-dead","action":"flagged"}]}
+{
+ "checkedAt": "2026-08-31T15:25:43.671962Z",
+ "checked": 514,
+ "issues": [
+  {
+   "guide": "aesthetic-butter-dishes",
+   "product": "Old Havana Butter Dish",
+   "type": "link-dead",
+   "action": "flagged"
+  },
+  {
+   "guide": "cottagecore-bud-vases",
+   "product": "Fluted Flair White Ceramic Pitcher Vase",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "aesthetic-butter-dishes",
+   "product": "Emile Henry French Butter Pot",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "cottagecore-bedroom",
+   "product": "Tache Cotton Patchwork Ditsy Floral Coverlet",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "cottagecore-bedroom",
+   "product": "Modway Halcyon Cane Woven Rattan Queen Headboard",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "cottagecore-bud-vases",
+   "product": "Sullivans Ceramic Bud Vase Set (Set of 3)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "cottagecore-kitchen-decor",
+   "product": "The Pioneer Woman Vintage Floral Stoneware Utensil Crock",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "cottagecore-kitchen-decor",
+   "product": "Floral Rose Flour Sack Tea Towels (100% Cotton, 4-Pack)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "cozy-fall-cottagecore-decor",
+   "product": "Golden Rabbit Enamelware Pitcher, 1 qt (Swirl)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "decorative-wall-plates",
+   "product": "Ayennur Turkish Hand-Painted Ceramic Plates, Set of 3 (7 in)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "floral-ditsy-quilts",
+   "product": "Levtex Home Margaux Quilt Set",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "gingham-cafe-curtains",
+   "product": "Barossa Design Buffalo Check Window Tier Curtains, Red & White, 28 x 24 in, Set of 2",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "gingham-cafe-curtains",
+   "product": "Haperlare Buffalo Check Tier Curtains, Sage & White, 28 x 45 in, Set of 2",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "gingham-cafe-curtains",
+   "product": "Barossa Design Buffalo Check Window Tier Curtains, Black & White, 28 x 36 in, Set of 2",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "gingham-cafe-curtains",
+   "product": "Classic Gingham Ruffled Rod-Pocket Curtain Tiers, Pair",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "glass-pantry-canisters",
+   "product": "Vtopmart 7-Pack Glass Food Storage Jars with Bamboo Lids",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "glass-pantry-canisters",
+   "product": "ComSaf Square Glass Pantry Storage Containers, Set of 6",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "glass-pantry-canisters",
+   "product": "3-Pc Glass Canister Set with 42 Preprinted Kitchen Pantry Labels",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "glass-pantry-canisters",
+   "product": "200-Pack Reusable Chalkboard Labels with Chalk Marker",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "grandmillennial-decor",
+   "product": "Gold Arched Scalloped Wall Mirror, 24 x 36 in",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "plug-in-wall-sconces-for-renters",
+   "product": "Fredericks Brass Swing-Arm Wall Lamp with Ivory Pleated Shade",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "plug-in-wall-sconces-for-renters",
+   "product": "Weaboopre Hand-Woven Rattan Plug-In Wall Sconces, Set of 2",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "plug-in-wall-sconces-for-renters",
+   "product": "SAMTEEN Gold Swing-Arm Wall Sconces with Linen Shade, Set of Two",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "plug-in-wall-sconces-for-renters",
+   "product": "Battery-Operated Wireless Wall Sconce, Set of 2 (12,000mAh)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "plug-in-wall-sconces-for-renters",
+   "product": "Paintable White Cord Cover Raceway Kit, 315 in",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "retro-mini-fridge",
+   "product": "Frigidaire EFR376 Retro Bar Fridge (3.2 cu ft, Pink/Coral)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "retro-mini-fridge",
+   "product": "Frigidaire EFR840 Retro Mini Fridge with Freezer (3.1 cu ft, Cream)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "scalloped-waffle-towels",
+   "product": "Smyrna Turkish Cotton Bath Towels",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "scalloped-waffle-towels",
+   "product": "Turkish Waffle Terry Towel Set (14-Piece)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "speckled-stoneware-mugs",
+   "product": "Handmade Speckled Stoneware Mug",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "vintage-botanical-wall-art",
+   "product": "Vintage Wildflowers Hanging Poster Set (2-Pc, 15.8x23.6)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "vintage-kitchen-accessories",
+   "product": "Ruffled Gingham Dish Towels (Set of 4)",
+   "type": "out-of-stock",
+   "action": "flagged"
+  },
+  {
+   "guide": "vintage-kitchen-accessories",
+   "product": "Falcon Enamelware Pitcher / Jug",
+   "type": "out-of-stock",
+   "action": "flagged"
+  }
+ ]
+}
