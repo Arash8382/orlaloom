@@ -183,7 +183,7 @@ faqs:
       a bright, fun moment right now but is more of a trend, so it's best used
       in a small, easily-swapped dose like a valance — while a classic gingham
       tier is something you can happily leave up for years.
-updated: '2026-08-24'
+updated: '2026-09-01'
 ---
 
 The best all-round gingham café curtains right now are the **Barossa Design red-and-white buffalo check tiers** — cheap, well-woven and instantly cottage — with the fine-check **VOGOL blue gingham** the pick if you want the softer, more traditional look. Both are for anyone who wants to make a bare kitchen window feel finished for the price of lunch.
@@ -210,6 +210,8 @@ A few specifics that help:
 - **Add a second rod at the very top** if you want the classic tiered effect — a valance or a second short panel up high, tiers down low. That's where a checkerboard valance over a plain gingham tier works beautifully.
 - **Let the hem land at or just below the sill,** not pooling on the counter. Café tiers are meant to be short and tidy — this is not the place for puddled floor-length drapes.
 - **Measure width for gather.** For soft folds rather than a flat, stretched panel, you want total curtain width around 1.5 to 2 times your window width.
+
+Whatever height you land on, the wall on either side of the window usually ends up bare. A pair of [woven wall baskets](/blog/cottagecore-woven-wall-baskets) hung at roughly rod height fills it with texture rather than with more pattern, which is what keeps a checked window from taking over the whole room.
 
 ## Gingham vs. checkerboard vs. buffalo check
 

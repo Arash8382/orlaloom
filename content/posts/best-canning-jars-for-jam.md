@@ -131,6 +131,24 @@ products:
       dedicated canner like the one above if you preserve in volume.
     added: '2026-07-24'
     url: 'https://www.amazon.com/dp/B0B54GH26T?tag=orlaloom-20'
+  - name: 'Le Parfait Familia Wiss 24 oz Wide-Mouth Canning Jars, 4-Pack'
+    image: 'https://m.media-amazon.com/images/I/71yW7l14KoL._AC_SL1200_.jpg'
+    brand: Le Parfait
+    price: ~$52-60
+    retailer: Amazon
+    badge: Best French classic
+    blurb: >-
+      The Familia Wiss is the jar French home cooks actually use. The
+      mouth is 110 mm wide, so whole apricot halves go in without
+      bruising, the lid is a two-piece plate and rubber seal rather than a
+      hinged bail, and the straight shoulder makes filling and emptying
+      much easier than a tapered jar.
+    caveat: >-
+      The rubber seals and lid plates are Le Parfait sizes only, so Ball
+      and Weck parts will not fit. Buy a set of spare rubbers with your
+      first order.
+    added: '2026-09-01'
+    url: 'https://www.amazon.com/dp/B0BCXVGXNT?tag=orlaloom-20'
 faqs:
   - q: Can I reuse canning jars and lids?
     a: >-
@@ -152,7 +170,7 @@ faqs:
       keeps its color and set best in small jars because you finish them faster
       once opened — and small jars process a few minutes quicker in the water
       bath too.
-updated: '2026-08-29'
+updated: '2026-09-01'
 ---
 
 There is a moment in July — berries cheap and fragrant at the farmers market, the kitchen smelling of sugar and fruit — when making your own jam stops being a quaint idea and becomes an urgent little mission. Pinterest calls it "grandmacore"; anyone who grew up with a preserving grandmother just calls it summer. Either way, the gear matters more than you might think. The right jars seal reliably, look beautiful lined up on a shelf, and turn a $4 basket of strawberries into a row of gifts. The wrong ones leak, rust, or refuse to seal at all.
@@ -174,6 +192,8 @@ This guide covers the canning jars we would actually buy for jam in 2026 — the
 ## Our picks, in short
 
 The **Weck 744 tulip jars** are the ones to buy when the jars themselves are part of the pleasure — pantry-shelf beautiful, plastic-free, endlessly reusable. Their **mini jelly-jar siblings** are the gifting size. For volume and value, the **Ball half-pint 24-pack** is unbeatable and works with every canning recipe ever printed in America. On the cooking side, the **McSunley maslin pan** makes noticeably better jam than a stockpot for about $65, the **Supa Ant canner kit** is the one-box beginner setup, and the **$26 stainless tool kit** covers you if you already own a big pot.
+
+Jam-making also lands at the exact point in the year when the rest of the house starts changing over, and a row of filled jars on an open shelf is genuinely part of that — our [cozy fall cottagecore decor](/blog/cozy-fall-cottagecore-decor) guide covers the layers that go around them.
 
 ## A note on safety (the two-minute version)
 

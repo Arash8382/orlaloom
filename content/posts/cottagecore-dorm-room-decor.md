@@ -98,6 +98,24 @@ products:
       the large one is roomier than dorm cubbies expect.
     added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DWJLPNJN?tag=orlaloom-20'
+  - name: 'Lahome Olive Green Botanical Rug, 3 x 5 ft, Washable'
+    image: 'https://m.media-amazon.com/images/I/81sZFjKtMvL._AC_SL1500_.jpg'
+    brand: Lahome
+    price: ~$35-45
+    retailer: Amazon
+    badge: Softest floor fix
+    blurb: >-
+      Dorm carpet is the one surface you are not allowed to change, and a
+      3 x 5 rug covers the worst of it. This one is a low-pile olive
+      botanical print with a non-slip backing, and the whole rug goes in a
+      standard washing machine, which matters far more in a shared hall
+      than it ever does at home.
+    caveat: >-
+      Low pile means low cushioning. Over bare tile or vinyl you will want
+      a thin rug pad underneath, and the non-slip backing is not a
+      substitute for one.
+    added: '2026-09-01'
+    url: 'https://www.amazon.com/dp/B0DRHSY9B3?tag=orlaloom-20'
 faqs:
   - q: Is cottagecore decor allowed in dorms?
     a: >-
@@ -119,7 +137,7 @@ faqs:
       quiet enough that it doesn't fight a roommate's setup. The wall collage
       kit helps here too — you can scale it from six prints to seventy depending
       on how much territory is yours.
-updated: '2026-08-23'
+updated: '2026-09-01'
 ---
 
 There is no room in the world less cottagecore than a college dorm: cinder-block walls, a plastic-wrapped twin XL mattress, one buzzing fluorescent tube. Which is exactly why the transformation is so satisfying. With one weekend and a modest budget, the same room can feel like a hedgerow cottage — warm light, soft florals, woven textures — and every piece here survives the two non-negotiables of dorm life: nothing that damages walls, and nothing an RA will confiscate.

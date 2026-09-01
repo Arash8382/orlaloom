@@ -143,7 +143,7 @@ faqs:
       heavier waterproof-coated cloth like the ones above — the coating adds
       just enough weight that light breezes leave it alone. In real wind, clip
       the corners and let the ruffle do the rest.
-updated: '2026-08-02'
+updated: '2026-09-01'
 ---
 
 There is a reason gingham is everywhere this summer: design editors have officially crowned it the successor to stripes for outdoor entertaining, and one look at a checked tablecloth fluttering under a fruit tree explains why. Gingham is nostalgic without being fussy. It says picnic the way a wicker basket says picnic — instantly, universally, and in any language. If you have been collecting cottagecore pieces for your kitchen all year, a garden party is where they finally get to perform together.
@@ -165,6 +165,8 @@ This guide pulls together a complete gingham picnic table — cloth, plates, nap
 ## Styling the table once it's set
 
 Resist the urge to over-decorate — gingham does most of the work. A single jug of whatever is blooming (or a bunch of supermarket daisies), a wooden board of cheese and stone fruit, and jam jars pressed into service as vases are all it takes. Height matters more than quantity outdoors: one tall element like a lemonade dispenser or a bottle of cordial keeps the table from looking flat in photos. And put the dessert plates in a stack rather than at each setting — the reveal when the shortcake comes out is half the charm of a garden party.
+
+If you want one element that breaks the check without fighting it, [cabbage plates and tomato bowls](/blog/cabbage-plates-tomato-bowls) are the natural partner. The sculpted leaf edge reads as garden rather than as pattern, so a stack of them on a gingham cloth adds shape instead of a second print.
 
 ## What a full setup costs
 

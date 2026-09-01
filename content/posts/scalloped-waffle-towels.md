@@ -3,7 +3,7 @@ title: "Scalloped & Waffle-Weave Towels for a Cottagecore Bathroom"
 description: "Vintage-look scalloped-edge and quick-drying waffle towels to soften a cottage bathroom — from budget sets to handloomed Turkish cotton."
 category: "textiles"
 date: "2026-07-08"
-updated: '2026-08-21'
+updated: '2026-09-01'
 cover: "/thumbnails/thumb-scalloped-waffle-towels.webp"
 products:
   - name: "Hahafelt Scalloped Hand Towels (2-Pack)"
@@ -134,6 +134,8 @@ Skip fabric softener entirely — it deposits a waxy film that is exactly what m
 ## Building the rest of the bathroom
 
 Towels are one layer. A [scalloped arch mirror](/blog/vintage-arched-scalloped-mirrors) picks up the same curved edge above the sink and does more for the room than any towel can. A [pleated lampshade](/blog/best-pleated-lampshades) or a [cordless counter lamp](/blog/cordless-kitchen-counter-lamps) softens the hard overhead light most bathrooms are stuck with. If you're pulling a whole soft-furnishing scheme together, the [cottagecore bedroom guide](/blog/cottagecore-bedroom) covers how these textures work together across rooms, and [washable runner rugs](/blog/washable-kitchen-runner-rugs) are the practical answer for the strip of floor a bath mat doesn't cover.
+
+If the bathroom in question is a shared hall bathroom rather than your own, the maths changes: buy one set in a colour nobody else on the floor has, keep them in a caddy, and let the room stay institutional. The rest of that setup is covered in our [cottagecore dorm room decor](/blog/cottagecore-dorm-room-decor) guide.
 
 ## FAQ
 

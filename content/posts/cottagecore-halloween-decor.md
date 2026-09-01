@@ -139,6 +139,24 @@ products:
       it.
     added: '2026-08-29'
     url: 'https://www.amazon.com/dp/B0DGHXWS16?tag=orlaloom-20'
+  - name: 'Sihuida Light-Mocha Taper and Spiral Candle Set, 10 in, 12 Pack'
+    image: 'https://m.media-amazon.com/images/I/61dENDlu6zL._AC_SL1200_.jpg'
+    brand: Sihuida
+    price: ~$15-20
+    retailer: Amazon
+    badge: Best candlelight
+    blurb: >-
+      Six straight tapers and six twisted spirals in a soft mocha, which
+      reads far more old farmhouse than a stark black candle does.
+      Alternated down the middle of a table the two shapes look collected
+      rather than bought in one go, and at twelve candles you can afford
+      to let them burn all the way down.
+    caveat: >-
+      Dripless only out of a draught. Near an open window or a door they
+      will run, so use holders with a wide bobeche and keep them off
+      anything you care about.
+    added: '2026-09-01'
+    url: 'https://www.amazon.com/dp/B0DPFQY7D8?tag=orlaloom-20'
 faqs:
   - q: What is cottagecore Halloween decor?
     a: >-
@@ -165,7 +183,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-08-29'
+updated: '2026-09-01'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.
@@ -189,6 +207,8 @@ Materials are the other filter worth applying. Pressed amber glass and glazed ce
 ## Style it together
 
 Layer the velvet pumpkins along a mantel with the glowing ghost trio between them, and set the Fitz and Floyd jar on the kitchen counter next to a [mushroom butter dish](/blog/aesthetic-butter-dishes) for peak storybook energy. The amber candy dish belongs beside your [amber fluted glassware](/blog/best-colored-glassware) on a bar cart, with a [cottagecore candle](/blog/best-cottagecore-candles) burning behind it. Hang the wreath over a console styled like our [cozy fall cottagecore decor](/blog/cozy-fall-cottagecore-decor) guide — that guide handles September; this one takes over for October.
+
+Outdoors, the thing that makes a porch look occupied rather than decorated is something to sit under. A [tartan plaid throw](/blog/tartan-plaid-throw-blankets) folded over the bench does more for the scene on a cold night than another pumpkin would.
 
 ## FAQ
 

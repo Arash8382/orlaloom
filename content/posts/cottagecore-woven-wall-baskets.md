@@ -97,6 +97,23 @@ products:
       weave — charming in person, but do not expect identical twins.
     added: '2026-08-24'
     url: 'https://www.amazon.com/dp/B0GG9LS3JJ?tag=orlaloom-20'
+  - name: 'AceList Hand-Woven Hanging Wall Baskets, Set of 2'
+    image: 'https://m.media-amazon.com/images/I/81JTQ6sx-GL._AC_SL1500_.jpg'
+    brand: AceList
+    price: ~$26-32
+    retailer: Amazon
+    badge: Best one that holds things
+    blurb: >-
+      Every other basket on this list is decoration. These are pockets.
+      Hung by a back door they take post, seed packets and secateurs, and
+      because the weave is the same natural rush as the flat baskets, the
+      wall still reads as decor rather than as storage.
+    caveat: >-
+      The weave is open enough that anything smaller than a pencil works
+      its way through. A scrap of linen cut to the base solves it for a
+      couple of pounds.
+    added: '2026-09-01'
+    url: 'https://www.amazon.com/dp/B0CXSXMBFF?tag=orlaloom-20'
 faqs:
   - q: How many baskets do I need for a gallery wall?
     a: >-
@@ -119,7 +136,7 @@ faqs:
       baskets like the painted-white water-hyacinth trio stand out beautifully.
       Avoid hanging natural-tone baskets on a busy patterned wallpaper, where
       the texture gets lost.
-updated: '2026-08-24'
+updated: '2026-09-01'
 ---
 
 A cluster of woven baskets is one of the warmest, most forgiving ways to fill a bare wall. Framed art needs measuring, matting and a budget; baskets are light, soft-edged, and instantly cottagecore — that handmade, gathered-over-time texture that a flat print just can't give you. They soften echoey rooms, add a natural material against painted walls, and look intentional even when you hang them a little crooked. Here are the styles worth buying and how to choose between a single statement piece and a full gallery cluster.

@@ -99,6 +99,24 @@ products:
     caveat: Hand-wash recommended to keep the painted finish bright.
     added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0BN4GQ6FB?tag=orlaloom-20'
+  - name: 'Le Jardin Green Cabbage 3D Cereal and Soup Bowls, 7 in, Set of 4'
+    image: 'https://m.media-amazon.com/images/I/71Dfmf0-FdL._AC_SL1500_.jpg'
+    brand: Le Jardin
+    price: ~$34-40
+    retailer: Amazon
+    badge: Best cabbage bowls
+    blurb: >-
+      The cabbage plates finally have bowls to match. These are seven-inch
+      sculpted stoneware, deep enough for soup or cereal rather than a
+      shallow dessert dish, and the leaf relief sits on the outside so the
+      inside stays smooth and easy to spoon out.
+    caveat: >-
+      Newer to the line and still under thirty reviews, so there is far
+      less long-term data here than on the dinner plates. The sculpted rim
+      also traps water, so let them drain upside down rather than stacking
+      wet.
+    added: '2026-09-01'
+    url: 'https://www.amazon.com/dp/B0G2KMM6KY?tag=orlaloom-20'
 faqs:
   - q: Is cabbage ware the same as lettuce ware?
     a: >-
@@ -119,7 +137,7 @@ faqs:
       soy sauce with dumplings, jam at breakfast, ketchup for fries. The lidded
       dip-bowl style is the entertaining hero: anything you'd serve with chips
       or crudités, kept covered until guests arrive.
-updated: '2026-08-02'
+updated: '2026-09-01'
 ---
 
 If one trend owns the summer 2026 table, it's produce-shaped ceramics. Cabbage-leaf plates, heirloom-tomato bowls and lettuce-ware serving pieces have gone from flea-market curiosities to the centerpiece of every hosting reel — and it makes sense. Veggie ware is nostalgic (your grandmother's lettuce ware, Dodie Thayer's famous cabbage plates), it's whimsical without being childish, and it turns an ordinary lunch into something that looks gathered from the garden. This guide rounds up the sculpted cabbage plates and tomato bowls actually worth buying, plus how to mix them into the dishes you already own.

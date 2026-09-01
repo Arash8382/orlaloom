@@ -156,7 +156,7 @@ faqs:
       dishwasher. Our advice: buy new for the glasses you drink from daily, and
       save the vintage budget for display pieces like a Fenton vase or candy
       dish where age and provenance actually show.
-updated: '2026-08-24'
+updated: '2026-09-01'
 ---
 
 There is a reason hobnail glass keeps showing up in every cottagecore kitchen tour and vintage tablescape on your feed: those little raised bumps do something magical with light. Where smooth glass simply lets sunshine pass through, a hobnail tumbler scatters it, throwing dozens of tiny sparkles across the table like water. The pattern dates back to Victorian pressed glass and hit its stride in the 1940s and 50s, when Fenton's milk-glass hobnail pieces became the wedding gift in America. Original pieces now command serious money at estate sales — but the good news is that the look has been faithfully revived, and you can set an entire table with new, dishwasher-friendly hobnail glassware for less than the price of one collectible Fenton vase.
@@ -178,6 +178,8 @@ This guide covers the best hobnail drinking glasses you can buy right now, from 
 ## Styling hobnail glass in a cottagecore kitchen
 
 Hobnail rewards being displayed rather than hidden. A row of clear tumblers on an open shelf in front of a window becomes a light feature in its own right. Colored pieces look best clustered loosely by tone — three ambers with a green, rather than a strict rainbow. On the table, hobnail pairs naturally with the textures it grew up with: washed linen, scalloped ceramic, unpolished wood and a jug of garden flowers. If you already collect amber or fluted glass, hobnail mixes in seamlessly; the shared vintage language does the work — pressed glass is one of the easiest entry points into a full [grandmillennial decor](/blog/grandmillennial-decor) scheme, where pattern, brass and inherited-looking china are supposed to pile up. And a lidded hobnail cup with a glass straw quietly replaces the plastic smoothie tumbler on your counter with something you will actually enjoy looking at.
+
+Single votives and the smallest hobnail tumblers are also the cheapest way into the look, which makes them one of the more reliable [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) — under fifteen dollars, hard to get wrong, and useful in a room you have not seen.
 
 ## FAQ
 
