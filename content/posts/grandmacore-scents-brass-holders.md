@@ -144,7 +144,7 @@ faqs:
       Solid brass slowly darkens, which most people actually want for the
       antique look. If you prefer it bright, a quick polish once or twice a year
       is all it takes.
-updated: '2026-08-29'
+updated: '2026-09-02'
 ---
 
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders to start with.
@@ -158,6 +158,8 @@ Genuine solid brass develops a patina and can be polished forever; brass-*finish
 ## Style it
 
 Cluster three tapers of different heights, add one nostalgic candle off to the side, and let the brass catch the light. Instant grandmacore.
+
+Brass also wants something to sit against. A shelf of candlesticks reads as a still life rather than clutter when the wall behind it carries a little of the same age — a pair or a grid of [vintage botanical wall art](/blog/vintage-botanical-wall-art) does that cheaply, and warm metal against paper-toned prints is most of the grandmacore look in a single move.
 
 ## How to clean and keep antique brass
 

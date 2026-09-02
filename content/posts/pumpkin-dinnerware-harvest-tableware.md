@@ -160,7 +160,17 @@ products:
       far more obviously than a patterned glaze.
     added: '2026-08-30'
     url: 'https://www.amazon.com/dp/B0BP8XJMKH?tag=orlaloom-20'
-updated: '2026-08-30'
+  - name: "Certified International Harvest Gatherings Ceramic Mugs, 14 oz, Set of 4"
+    image: "https://m.media-amazon.com/images/I/81y-NhwRPSL._AC_SX679_.jpg"
+    brand: "Certified International"
+    price: "~$34-42"
+    retailer: "Amazon"
+    badge: "Best mugs for the table"
+    blurb: "The one thing this table was missing. Blue-and-white pumpkins with foliage, acorns and mushrooms on a cream ground, with a teal handle and rim — 14 oz, so big enough for cider or cocoa without tipping into soup-bowl scale. Microwave and dishwasher safe, which most decorated seasonal china is not."
+    caveat: "Harvest Gatherings is a companion pattern to the Harvest Morning plates above, not the same one — the blues coordinate rather than match, so do not buy expecting an exact set."
+    added: '2026-09-02'
+    url: "https://www.amazon.com/dp/B08C3YZJBM?tag=orlaloom-20"
+updated: '2026-09-02'
 ---
 There's a reason pumpkin dinnerware sells out earlier every year. Somewhere between the first cool evening and the first pot of chili, the plain white bowls that served you all summer start to feel a little underdressed — and a lidded stoneware pumpkin, carried steaming to the table, is the exact opposite of underdressed. Sellers' data backs up what your feed is already telling you: pumpkin-shaped bakeware and tableware are among this fall's fastest-rising kitchen purchases, and the good pieces are gone by late September. Buying in August isn't eager; it's strategic.
 
@@ -186,6 +196,8 @@ Harvest plates are the loudest version of painted dinnerware, but they are not t
 only one. If you like the hand-painted look and want something you can leave out
 all year, [cabbage plates and tomato bowls](/blog/cabbage-plates-tomato-bowls) do
 the same job in a register that does not read as seasonal.
+
+One thing worth sorting before the table is set: the floor under it. Harvest meals mean gravy, cider and crumbs in the walkway between oven and table, which is the argument for a [washable kitchen runner rug](/blog/washable-kitchen-runner-rugs) rather than something that has to go out to be cleaned in December.
 
 ## FAQ
 

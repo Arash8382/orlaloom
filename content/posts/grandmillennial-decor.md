@@ -194,7 +194,7 @@ faqs:
       instantly signal the style. Swapping a plain lampshade for a pleated one
       is the next-cheapest change with an outsized payoff — both cost less than
       a throw blanket and can be added to a room you already have.
-updated: '2026-08-02'
+updated: '2026-09-02'
 ---
 
 Grandmillennial decor — affectionately called "granny chic" — is the look that takes everything your grandmother loved and makes it feel fresh again. Think chintz florals, scalloped edges, blue-and-white porcelain, pleated lampshades, needlepoint and ruffles, all layered with a wink rather than a sigh. It's the antidote to a decade of cold minimalism: warm, personal, pattern-happy and unafraid of a little maximalist clutter, as long as everything in the room clearly earns its place.
@@ -224,6 +224,8 @@ A few motifs do most of the work, and you can mix and match freely:
 Start with one anchor and one repeatable accent. A scalloped arched mirror or a floral quilt gives a room its grandmillennial "thesis statement" in a single purchase, and then blue-and-white — ginger jars and a small set of hung plates — is the cheapest, most flexible way to layer the theme across shelves and walls.
 
 After that, chase the easy swaps. Trading a plain drum lampshade for a pleated one, adding chintz pillow covers to a solid sofa, or setting a scalloped tray on the coffee table each cost less than dinner out and change a room disproportionately. Buy covers rather than whole pillows, choose reversible bedding, and haunt thrift stores for real vintage porcelain and brass — imperfection and a bit of patina are features here, not flaws.
+
+The one place grandmillennial goes wrong is colour fatigue: enough blue-and-white and chintz and a room starts to look like a swatch book. A deeper accent breaks it — [aubergine and plum kitchen accents](/blog/aubergine-plum-kitchen-accents) do that in a room that already has pattern, because a saturated near-neutral reads as depth rather than one more print.
 
 ## FAQ
 

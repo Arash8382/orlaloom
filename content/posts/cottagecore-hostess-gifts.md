@@ -166,7 +166,7 @@ faqs:
       the recipe box or the pink flower dish, for people whose shelves you've
       actually seen. And when in genuine doubt, the board wins: nobody in the
       history of dinner parties has resented owning one more nice serving board.
-updated: '2026-08-31'
+updated: '2026-09-02'
 ---
 
 There is an unwritten rule about hostess gifts: the best ones look thoughtful and cost the giver almost no decision-making. Wine works, but wine disappears by ten o'clock and says nothing. Flowers work, but they hand the host a vase-finding errand mid-party. The cottagecore answer is different — give something small, natural, and useful enough that it enters the house's daily rotation, so that every time the host reaches for it, the dinner you attended gets a tiny footnote. That's the standard everything on this list was chosen against: real materials, immediate usefulness, and a little bit of story.
@@ -186,6 +186,8 @@ Finally, add one minute of presentation. Twine around the candles, a sprig of dr
 ## The picks
 
 The **scalloped acacia board set** is the default answer — if you're only bookmarking one item for the whole year of dinner invitations, make it that. The **Maison d'Hermine tea towels** are the most classically French-market pick and the easiest to wrap beautifully. The **beeswax pillars** are the consumable insurance policy that suits any host, and the **brass candlesticks** are the best value on the list — pair the two and you've made a gift that looks curated. The **recipe box** is the one to bring to a housewarming when you actually like the people, and the **flower trinket dish** covers every small occasion for under ten dollars. Keep two of these on a shelf at home and you'll never do the pre-party panic shop again.
+
+If the guest list is long and the budget is not, the same instinct scales down. A few [cottagecore basics on a budget](/blog/cottagecore-on-a-budget-amazon-basics) — plain linen, glass storage, an unfussy enamel piece — make a perfectly good small gift, and nobody has ever been disappointed to be handed a jar.
 
 ## FAQ
 

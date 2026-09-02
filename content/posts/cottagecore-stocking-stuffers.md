@@ -116,6 +116,16 @@ products:
       as one vase per person rather than a single-gift splurge.
     added: '2026-07-06'
     url: 'https://www.amazon.com/dp/B0F9W2QBGR?tag=orlaloom-20'
+  - name: "Genuine Fred Nesting Mushroom Measuring Cups, Set of 6"
+    image: "https://m.media-amazon.com/images/I/61ogXqJIsZL._AC_SX679_.jpg"
+    brand: "Fred & Friends"
+    price: "~$7-12"
+    retailer: "Amazon"
+    badge: "Best under $10"
+    blurb: "Six dry measuring cups — 1/4 cup through a full cup — shaped as toadstools that nest into a single mushroom in the drawer. It is the rare stocking filler that gets used every week rather than admired once and shelved, and it arrives in its own gift box."
+    caveat: "They are heavy-duty plastic, not ceramic, so they read cheerful rather than heirloom. Dry measures only — there is no liquid cup in the set."
+    added: '2026-09-02'
+    url: "https://www.amazon.com/dp/B0BT87J2JH?tag=orlaloom-20"
 faqs:
   - q: What makes a stocking stuffer "cottagecore" rather than just cheap?
     a: >-
@@ -139,7 +149,7 @@ faqs:
       votives somewhere cool so they don't soften in summer heat. *Prices are
       approximate and shift with sales and stock. As an Amazon Associate, Orla
       Loom may earn from qualifying purchases — at no extra cost to you.*
-updated: '2026-08-02'
+updated: '2026-09-02'
 ---
 
 There's a specific challenge to cottagecore at Christmas, and it lives in the stocking. The tree is easy — dried oranges, straw stars, a knit garland and you're done. But a stocking has to be filled with small things, and small things are exactly where the season goes plastic: novelty keychains, foil-wrapped nothing, a phone charger that fell in by accident. The cottagecore answer is to treat the stocking like a tiny still life. Every item should look like it could have come from a village market or a grandmother's sewing box, be small enough to fit in a toe, and — ideally — be something the person will actually reach for in January.

@@ -159,7 +159,7 @@ faqs:
       because included sets are serviceable rather than special. A popular
       middle path: buy the equipped set now, then upgrade one component each
       season as anniversaries and birthdays roll around.
-updated: '2026-08-02'
+updated: '2026-09-02'
 ---
 
 Few objects carry as much instant summer shorthand as a wicker picnic basket. Before a single sandwich is unwrapped, the basket has already promised the whole afternoon: a blanket in long grass, lemonade sweating in the shade, someone reading aloud while the strawberries disappear. In a year when gingham, grandma chic and garden parties dominate every 2026 trend report, the wicker basket is not an accessory to the aesthetic — it is the anchor of it.
@@ -181,6 +181,8 @@ The trouble is that "wicker picnic basket" on Amazon returns everything from hei
 ## Between picnics: the year-round case
 
 The secret to justifying a good basket is that it never really goes in the attic. A lidded willow basket is genuinely useful storage — throws and blankets by the sofa, yarn projects, kids' toys, kitchen linens — and it looks better doing that job than almost any plastic bin. Set on top of a cabinet or open shelf, it adds exactly the warm, collected texture cottagecore kitchens are built on. Come December, the same basket lined with a tea towel becomes the best-looking gift hamper on the block.
+
+A basket that has stopped travelling usually ends up on the floor holding blankets beside a chair — and once it is on the floor, what it sits on starts to matter. [Cottagecore washable rugs](/blog/cottagecore-washable-rugs) are the practical pairing here, because a basket that comes in from the garden brings grit in with it.
 
 ## FAQ
 

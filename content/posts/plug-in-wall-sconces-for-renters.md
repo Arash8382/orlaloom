@@ -55,6 +55,17 @@ products:
     caveat: "The adhesive can pull paint or leave residue on textured, older, or freshly painted walls when removed — test a small hidden spot first, especially if your deposit is on the line."
     added: '2026-08-13'
     url: "https://www.amazon.com/dp/B0BPCWH4G3?tag=orlaloom-20"
+  - name: "LINSEEDS Tulip Milk-Glass Plug-In Wall Sconces, Set of 2"
+    image: "https://m.media-amazon.com/images/I/51tG6RI30eL._AC_SX679_.jpg"
+    brand: "LINSEEDS"
+    price: "~$62-72 for the pair"
+    retailer: "Amazon"
+    badge: "Best pair under $70"
+    blurb: "A tulip-shaped milk-white glass shade on a brass-finish arm — the softest light on this list, because opal glass diffuses the bulb instead of pointing it at you. Sold as a pair, with a switch on the cord so you are not reaching behind a headboard in the dark."
+    caveat: "The cord is visible unless you run it through a cover, and at this price the brass is a finish rather than solid metal, so clean around it gently."
+    added: '2026-09-02'
+    url: "https://www.amazon.com/dp/B0F66MPVZ4?tag=orlaloom-20"
+updated: '2026-09-02'
 ---
 
 Every 2026 lighting forecast is saying the same thing: the "cozy lighting" moment has moved off the nightstand and onto the wall. Decorative sconces with fabric, pleated and woven shades are everywhere in inspiration photos — but the ones getting pinned and saved are almost always plug-in, not hardwired. That's good news if you rent. A plug-in wall sconce gives you the warm, layered glow of a hardwired fixture — the kind that makes a reading corner or a stretch of hallway feel finished — without an electrician, a junction box, or a single hole that isn't already there for a screw or two.
@@ -70,6 +81,8 @@ Think about whether you want a matched pair or a single statement fixture. Sets 
 Shade material changes the quality of light as much as the look. Pleated fabric and linen shades pass more light through and work reasonably well for low-key reading; woven rattan and wicker shades block more light and read as pure mood lighting — beautiful, but not what you want if you're trying to actually read a book by it.
 
 Finally, check the switch. A basic on/off rotary switch is fine for ambient lighting you flip on once and forget. If you want to dim the light to match the evening, look for a built-in dimmer on the cord (or plan to add a smart bulb, which works with any of the corded picks here).
+
+The same no-wiring logic works past the bedroom. A rented kitchen almost never has a spare outlet where the light is actually wanted, which is why [cordless kitchen counter lamps](/blog/cordless-kitchen-counter-lamps) have quietly taken over that job, and one low, warm lamp is most of what turns a [tea corner](/blog/tea-corner-ideas) into a room rather than a stretch of countertop.
 
 ## FAQ
 

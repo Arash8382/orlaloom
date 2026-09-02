@@ -138,6 +138,16 @@ products:
     image: >-
       https://5.imimg.com/data5/SELLER/Default/2025/3/497980110/NX/BG/PM/129168516/06d7fb44bc2d8ff31264e81b99d4a43a-500x500.jpg
     url: 'https://www.thecastlecrafts.com/tumbler.html'
+  - name: "Red Co. Vintage Botanist Floral-Embossed Green Glasses, 12 oz, Set of 4"
+    image: "https://m.media-amazon.com/images/I/81UwHsac-+L._AC_SX679_.jpg"
+    brand: "Red Co."
+    price: "~$20-26"
+    retailer: "Amazon"
+    badge: "Best green"
+    blurb: "The green this list was missing. The botanical pattern is pressed into the glass rather than printed onto it, so it catches light from the side and cannot wear off in a dishwasher. At 12 oz and four inches tall these are water glasses, not highballs — they suit a laid table better than a bar cart."
+    caveat: "A set of four rather than six, so a table of eight needs two sets, and short runs like this are hard to match a year later. The heavy pressed base also makes them slow to dry upside down."
+    added: '2026-09-02'
+    url: "https://www.amazon.com/dp/B07DFQQZDK?tag=orlaloom-20"
 faqs:
   - q: Is colored glass food-safe?
     a: >-
@@ -160,20 +170,56 @@ faqs:
     a: >-
       The ribs can trap residue, so a bottle brush helps — but most modern
       fluted sets are dishwasher-safe.
-updated: '2026-08-08'
+updated: '2026-09-02'
 ---
 
 Nothing transforms a table faster than colored glass. One set of jewel-tone goblets or confetti tumblers and even a Tuesday dinner looks intentional. Here's the range — from the hand-blown icon to the budget dupes that genuinely hold up.
 
-**Quick picks:** The icon — Estelle Regal Goblet · Best dupe — EMPORION cobalt-rim · Most cheerful — MexHandcraft confetti · Best big pour — Handmade con Amor.
+**Quick picks:** The icon — Estelle Regal Goblet · Best dupe — EMPORION cobalt-rim · Most cheerful — MexHandcraft confetti · Best big pour — Handmade con Amor · Best green — Red Co. Vintage Botanist.
+
+## What to look for before you buy
+
+Colored glass is one of the few categories where the cheap version can genuinely pass for the expensive one — but only if you check the right five things first.
+
+**1. Through-body colour or a surface coating.** This is the single decision that determines how long the set lasts. Glass coloured in the melt keeps its colour permanently and survives a dishwasher; sprayed or "lustre" coatings sit on the surface, and heat plus alkaline detergent will eventually cloud or strip them. Look at the foot and the rim: through-body colour is the same depth everywhere, and a chipped coated glass shows clear glass underneath.
+
+**2. Wall thickness at the rim.** Thin rims feel expensive and drink better; thick pressed rims feel sturdy and chip less. Neither is wrong, but they suit different rooms — thin for a laid table, thick for a kitchen used by children.
+
+**3. Whether it is hand-blown or pressed.** Hand-blown glass has slight asymmetry, a visible pontil area on the base and no seam. Pressed glass has a faint mould seam running up the side. The seam is not a defect; it is just how the price gets to twenty dollars.
+
+**4. Capacity, honestly read.** "Tumbler" covers everything from a 10 oz water glass to a 16 oz highball. Check the ounces rather than the photo — a set that looks generous in a styled shot is often four inches tall and holds less than a mug.
+
+**5. Set size and how it stacks.** Sets of four and sets of six do not combine gracefully on a table of eight. Recycled hand-made glass also varies by a few millimetres within one set, so it will not nest in a cupboard the way machine-made glass does.
+
+**6. Whether you can get more later.** Almost every colourway here is a short run. If a set matters to you, buy one more glass than you need on the first order.
 
 ## Estelle vs. the dupes
 
 Estelle is hand-blown heirloom glass at an heirloom price. The Mexican recycled-glass sets capture the same colored-glass joy for a fraction — they're less uniform, but that hand-made character is part of the charm.
 
+## How the eleven compare
+
+| Set | Colour | Type | Price | Best for |
+| --- | --- | --- | --- | --- |
+| Estelle Regal Goblet (6) | Cobalt | Hand-blown goblet | ~$195/set | The icon |
+| Estelle Wine Stemware (6) | Amber smoke | Hand-blown stem | ~$195/set | Warmest tone |
+| Estelle Coupe | Amber smoke | Hand-blown coupe | $165–195/set | Splurge |
+| EMPORION Mexican Tumblers (6) | Clear, cobalt rim | Recycled tumbler | $35–45 | Best Estelle dupe |
+| MexHandcraft Confetti Rocks (6) | Multicolour confetti | Recycled rocks glass | $40–50 | Most cheerful |
+| Handmade con Amor Confetti (6) | Blue confetti | Recycled tumbler | $45–55 | Biggest pour |
+| Amber Ribbed Glassware (6, 16 oz) | Amber | Ribbed tumbler | $32–38 | Best overall |
+| Qipecedm Ribbed Highball (6, 16 oz) | Amber | Ribbed highball | $18–24 | Best value |
+| Amber Glass Pitcher (64 oz) | Amber | Lidded pitcher | $28–38 | Centrepiece |
+| Amber & Black Tortoiseshell (6) | Amber and black | Tumbler | $40–60 | Most dramatic |
+| Red Co. Vintage Botanist (4, 12 oz) | Green | Embossed tumbler | ~$20–26 | Best green |
+
+Read the price column per set, not per glass — the two Estelle lines are six-piece sets, and the gap between them and the recycled Mexican glass narrows considerably once you do that.
+
 ## Style it
 
-Mix two colorways rather than matching perfectly, and let the glass do the decorating — colored stems plus plain plates always looks designed.
+Mix two colorways rather than matching perfectly, and let the glass do the decorating — colored stems plus plain plates always looks designed. The rule of thumb is that the glass should be the only patterned thing at eye level: set it against plain [scalloped dinnerware](/blog/scalloped-dinnerware-sets) and the shape of the plate reads instead of competing.
+
+Coloured glass also earns its keep away from the table. A few amber tumblers and a pitcher turn a sideboard into a [drinks station](/blog/glass-pitchers-drink-station) without any furniture changing, and the same instinct — one warm colour, repeated — is what makes [hobnail glassware](/blog/hobnail-glassware) work on an open shelf. For an outdoor table, keep the good glass indoors and use the sturdier recycled sets with [gingham picnic tableware](/blog/gingham-picnic-tableware), which is forgiving of a garden table that is never quite level.
 
 ## Are colored glasses dishwasher-safe?
 
@@ -191,13 +237,48 @@ Fluting amplifies it. The vertical ribs refract light along their length, so a f
 
 Practical notes before you buy a set. Check whether the colour is through-body or a surface coating — coated glass fades and can go patchy in a dishwasher, while through-body colour is permanent. Look at the base thickness too: pressed vintage-style glass is usually heavier at the bottom, which makes it more stable but also means it takes longer to dry upside down. And buy one more than you need. These are almost always short production runs, and matching a set two years later is close to impossible.
 
+## Where colored glassware disappoints
+
+Five honest problems, none of which show up in a styled photograph.
+
+**It makes drinks look wrong.** Deep cobalt and amber hide the colour of what is in them. White wine looks the same as apple juice, and a cloudy drink reads as murky rather than cloudy. If you care about how a drink looks, keep the colour to water glasses and tumblers.
+
+**Coated finishes do not survive a real kitchen.** The iridescent and lustre glasses that photograph best are the ones that go patchy soonest. Hand-washing works, but it takes a household that actually hand-washes.
+
+**Recycled glass has bubbles, and some people hate them.** The bubbles and the slightly uneven rims are the charm and they are also, unavoidably, irregularities. Anyone who wants six identical glasses should buy machine-made.
+
+**Colours are discontinued constantly.** A broken glass from a two-year-old set is usually unreplaceable, which turns a set of six into a set of five permanently.
+
+**Heavy pressed bases hold water.** The thick foot that makes vintage-style glass stable also traps a ring of water when it dries upside down, so these need draining at an angle or a tea towel.
+
+## Care and storage
+
+Hand-wash anything coated, iridescent or hand-blown, and use the dishwasher freely for through-body pressed glass on a normal cycle rather than a hot pot setting. Skip the heated dry — thermal shock is what crazes glass, not the water.
+
+Store colour out of long direct sun if it is a coating; through-body colour is stable, but sprayed finishes can fade on a sunny windowsill over a few summers. Do not stack tumblers inside each other, especially hand-made ones with variable diameters, because that is how two glasses become one wedged unit and then two broken ones. And keep a soft cloth for the bases: hard water leaves a white ring on coloured glass that looks like damage long before it is.
+
 ## FAQ
 
 **Is colored glass food-safe?**
-Reputable brands use lead-free glass; always confirm on the listing, especially for vintage pieces.
+Reputable brands use lead-free glass; always confirm on the listing, and be more careful with genuinely vintage pieces, where older glazes and decorations were not made to modern standards.
 
 **Can colored glassware go in the dishwasher?**
-Mass-produced sets often can; hand-blown glass (like Estelle) should be hand-washed to protect the finish.
+Through-body coloured pressed glass usually can, on a normal cycle. Hand-blown glass like Estelle, and anything with an iridescent or sprayed finish, should be hand-washed to protect the surface.
 
 **Do colored glasses change the taste of a drink?**
-No — the color is in or on the glass, not in the part your drink touches, so it's purely decorative. Just hand-wash any coated or iridescent finishes to keep them vivid.
+No. The colour is in or on the glass, not in anything your drink touches, so it is purely visual. It does change how the drink looks, which is a real consideration for wine.
+
+**How can I tell through-body colour from a surface coating?**
+Look at the rim and the underside of the foot. Through-body colour is the same depth everywhere, including on the raw edge of the base. A coating is often thinner at the rim, and a chip in coated glass shows clear glass underneath.
+
+**Is hand-blown glass worth several times the price of a recycled set?**
+Only if you want the object rather than the effect. Hand-blown pieces have thinner walls, more even colour and a weight in the hand that the cheap sets do not have. Recycled Mexican glass gives you most of the visual result on a laid table, with bubbles and slight size variation as the trade.
+
+**How many colours can I mix on one table?**
+Two or three that share a temperature — warm ambers with pinks, or cool greens with cobalt. Anchor the mix with a few clear or amber pieces so the eye has somewhere to rest.
+
+**Do recycled-glass sets arrive all the same size?**
+Not exactly. Hand-made glass varies by a few millimetres in height and rim diameter within a single set. That is normal and is the point, but it also means the glasses will not nest or stack neatly in a cupboard.
+
+**What happens if I break one?**
+Usually nothing good — colourways run in short batches and are discontinued constantly, so a set bought two years ago is rarely matchable. Buying one extra glass at the outset costs a few dollars and saves replacing all six later.

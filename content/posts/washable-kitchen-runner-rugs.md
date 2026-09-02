@@ -107,6 +107,16 @@ products:
       earns its keep because it washes easily.
     added: '2026-07-17'
     url: 'https://www.amazon.com/dp/B0F9L5X4XT?tag=orlaloom-20'
+  - name: "BYYVOO Scalloped Floral Washable Runner Rug, 2 x 8 ft"
+    image: "https://m.media-amazon.com/images/I/81ZKNBH4l3L._AC_SX679_.jpg"
+    brand: "BYYVOO"
+    price: "~$25-32"
+    retailer: "Amazon"
+    badge: "Best long galley runner"
+    blurb: "Most washable runners stop at six feet, which leaves an awkward gap at the end of a galley kitchen. This one is a full eight, with a scalloped floral border in beige and soft brown that reads vintage rather than novelty. Low pile, non-slip backing, and it goes in a domestic machine."
+    caveat: "Eight feet of low-pile rug arrives folded, and the creases take a few days underfoot to settle. It is also genuinely thin — that is what keeps it washable and door-clearing, but there is no cushioning."
+    added: '2026-09-02'
+    url: "https://www.amazon.com/dp/B0FMXSTQCV?tag=orlaloom-20"
 faqs:
   - q: 'Can I really machine-wash these, or will they fall apart?'
     a: >-
@@ -130,7 +140,7 @@ faqs:
       at the edges, and don't let the rug sit under the arc of the oven door or
       the fridge's feet — you want to be able to lift it out for washing without
       moving furniture.
-updated: '2026-08-02'
+updated: '2026-09-02'
 ---
 
 If there's one floor in the house that earns a washable rug, it's the kitchen. It catches splashes from the sink, drips from the stove, crumbs from everywhere — and it's also the floor you stand on the longest, usually barefoot or in socks at 7am. A **washable kitchen runner rug** solves both problems at once: it makes the hardest-working strip of floor in your home softer and warmer, and when it inevitably takes a hit from the pasta pot, you peel it up and put it in the machine.
