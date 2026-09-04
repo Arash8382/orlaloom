@@ -133,7 +133,7 @@ faqs:
       out before December. Buying in summer means better selection and spreading
       the holiday spend across the year; everything in this guide stores flat in
       one box until you need it.
-updated: '2026-08-02'
+updated: '2026-09-04'
 ---
 
 There is a particular kind of Christmas that cottagecore people are chasing: the one from the storybooks. A tree trimmed with dried oranges and straw stars instead of plastic glitter, hand-knit stockings sagging off the mantel, gingham bows on the stair rail, and the whole house smelling faintly of cinnamon. The good news is that this look is one of the cheapest Christmas styles to pull off — its entire vocabulary is humble materials. Oranges, straw, wool, glass, cotton ribbon. No pre-lit twelve-piece village required.
@@ -155,6 +155,8 @@ This guide rounds up six pieces that build that old-fashioned Christmas from scr
 ## How these six pieces work together
 
 If you're starting from zero, the 31-piece dried orange and cinnamon set plus the straw ornaments will dress a six-foot tree almost completely — hang the vintage glass baubles deeper in the branches where the lights catch them, and finish with gingham bows on the tips. The orange garland goes over the mantel with the six knit stockings hung beneath it, and whatever ribbon is left ties your brown-paper packages. That's the whole storybook look for well under a hundred dollars.
+
+The table is the other half of the room, and it does not need Christmas-specific pieces to hold up. [Hobnail glassware](/blog/hobnail-glassware) catches candlelight the way cut crystal does and earns its shelf space long after the greenery comes down.
 
 ## What to skip
 

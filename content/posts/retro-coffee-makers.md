@@ -75,7 +75,7 @@ products:
     image: "https://m.media-amazon.com/images/I/61k-ou2CnqL._AC_SL1500_.jpg"
     added: '2026-08-24'
     url: "https://www.amazon.com/dp/B00005LM0T?tag=orlaloom-20"
-updated: '2026-08-31'
+updated: '2026-09-04'
 ---
 
 If the toaster is the gateway retro appliance, the coffee maker is the commitment. It sits on your counter permanently, you touch it every single morning, and — if you choose well — it makes the whole kitchen look styled before you've put away a single dish. The good news for 2026: the retro coffee maker category has matured the way [retro toasters](/blog/retro-toasters) did a few years ago, which means you can get the domed, chrome-trimmed 1950s look at almost any budget, from a $59 small-batch brewer to the genuine Smeg article.
@@ -101,6 +101,8 @@ The soft-cream Smeg and the pastel Nostalgia blend most naturally into a warm, c
 Whichever you choose, buy the color you actually love rather than the one that's trending. A coffee maker earns its counter space every day for years — cream, sage and soft pink have outlasted every appliance color fad since the actual 1950s.
 
 One care note that applies to every machine here: painted retro finishes hate abrasive sponges. Wipe the body with a damp microfiber cloth only, descale with a vinegar cycle monthly if you have hard water, and hand-wash the reusable filters — the Haden's and Nostalgia's mesh baskets warp in the bottom rack of a dishwasher. Treated that way, even the budget picks keep their showroom shine for years.
+
+If the machine is going to live on the counter anyway, give it a proper corner. A tray, a tin of beans and a [glass pitcher for the drink station](/blog/glass-pitchers-drink-station) turn an appliance into a set piece rather than clutter.
 
 ## Smeg coffee maker dupes: the two worth buying
 

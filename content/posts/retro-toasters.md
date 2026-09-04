@@ -162,7 +162,7 @@ products:
     caveat: "Lighter-weight build than either Smeg or Haden; expect it to be a 3-to-5-year appliance rather than a decade one."
     added: '2026-07-07'
     url: "https://www.amazon.com/dp/B0H2725ZLR?tag=orlaloom-20"
-updated: '2026-08-08'
+updated: '2026-09-04'
 ---
 
 The best retro toaster overall is the **Smeg 2-Slice (TSF01)** — the genuine 50s-style icon, for anyone who wants a heirloom-quality centerpiece and doesn't mind the price. If you want that same pastel, curvy retro toaster look for a fraction of the cost, the **Haden Heritage** is the value pick almost everyone actually ends up buying. Below are eight real options across every shade — mint, turquoise, blush pink, seafoam, pistachio and pastel blue — so you can match your counter and your budget.
@@ -182,6 +182,8 @@ Your shade will narrow it down fast: turquoise and seafoam lean playful mid-cent
 A **2-slice** retro toaster is the right call for most people. It's cheaper, takes up far less counter space, and the classic TSF01-style silhouette only exists in two-slot form anyway — so if the pure retro shape is what you're after, two slices is the look. Nearly every pick on this list, including both budget picks, is a two-slicer.
 
 Go **4-slice** if you regularly feed two or more people breakfast at the same time, or you toast bagels and thick sourdough in batches. The **Haden Heritage 4-Slice in English Rose** is the standout here: it keeps the retro styling, adds 1500W of power, and uses dual controls so you can run just one pair of slots when it's only you. The trade-off is a noticeably bigger footprint — measure your counter before committing, because a four-slice retro toaster is a chunky statement piece, not a tuck-away tool.
+
+Colour matters as much as slot count here, because the toaster is usually the loudest object on the counter. If you are drawn to the deeper end of the range, the same logic runs through a whole scheme of [aubergine and plum kitchen accents](/blog/aubergine-plum-kitchen-accents).
 
 ## Smeg vs. Haden: the comparison most people are actually making
 

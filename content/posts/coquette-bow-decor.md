@@ -146,7 +146,7 @@ faqs:
       without flexing. The rule of thumb: if a bow hook is described as "resin"
       or feels light, treat it as jewelry-and-hats only; solid metal takes real
       daily weight.
-updated: '2026-08-02'
+updated: '2026-09-04'
 ---
 
 Bows have quietly become the defining decorative motif of 2026. What started as a fashion micro-trend — the so-called coquette aesthetic of ribbons, blush tones and deliberate sweetness — has crossed fully into the home, showing up on tablescapes, kitchen cabinets and entryway walls. And it turns out bows and cottagecore are natural companions: both trade on nostalgia, handmade charm and the sense that someone cared enough to tie a ribbon on ordinary life.
@@ -168,6 +168,8 @@ The line between "charming French-girl apartment" and "child's bedroom" is real,
 The entryway is the natural starting point, because hooks are the rare decor purchase that earns its keep daily. Bow hooks holding straw hats, canvas bags and linen aprons are practically a cottagecore still life. The dining table is second: bow-embroidered napkins and ribbon candlesticks turn an ordinary supper into something that looks planned, and both store flat in a drawer between occasions. In the bedroom, a pair of velvet bow pillows or bow knobs on a dresser adds the note without renovation. And the smallest option — a bow trinket dish by the sink — is the one people end up buying three of, because it solves the lost-ring problem while it decorates.
 
 If you're already deep in the cottagecore look, bows layer beautifully over what you own: they belong next to scalloped dinnerware, washed linen tablecloths and vintage brass the way sprinkles belong on a fairy cake.
+
+The same restraint applies to the bed. One ruffled edge does more than five, which is why [ruffle duvet covers and lace-trim pillowcases](/blog/ruffle-duvet-covers-lace-trim-pillowcases) work best when the bow motif stops at the pillow and lets the texture carry the rest.
 
 ## FAQ
 

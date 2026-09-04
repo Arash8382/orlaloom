@@ -7,7 +7,7 @@ description: >-
   you can toss on every chair, here are six tartan and plaid throw blankets
   worth buying, with honest pros and cons for each.
 category: textiles
-updated: '2026-08-30'
+updated: '2026-09-04'
 date: '2026-08-04'
 cover: /thumbnails/thumb-tartan-plaid-throw-blankets.webp
 products:
@@ -166,6 +166,22 @@ products:
       other patterns — give it a plain sofa.
     added: '2026-08-30'
     url: 'https://www.amazon.com/dp/B0H8D76T7Q?tag=orlaloom-20'
+  - name: 'Creative Co-Op Plaid Black & Tan Fringed Woven Cotton Blend Throw'
+    image: 'https://m.media-amazon.com/images/I/91fuTIKjcML._AC_SL1500_.jpg'
+    brand: Creative Co-Op
+    price: ~$35-42
+    retailer: Amazon
+    badge: Best year-round cotton
+    blurb: >-
+      The one throw here you can leave out in early September without
+      overheating — a cotton-blend weave in black and tan with a
+      hand-knotted fringe, so it reads tartan without the wool weight.
+    caveat: >-
+      Cotton blend drapes rather than insulates. If you want a blanket
+      that actually warms you on a cold night, the wool picks above do
+      that job better.
+    added: '2026-09-04'
+    url: 'https://www.amazon.com/dp/B08CY71NTV?tag=orlaloom-20'
 ---
 Cottagecore is getting a tailored update this fall, and the fashion press has already named it: "vintage prep." Think heritage patterns, cranberry and ochre, brass lamps, stacked books — and above all, tartan. The tartan throw blanket is the single easiest way to bring the look home: no repainting, no new furniture, just one piece of woven pattern draped over what you already own. Here's how to choose one, and the six we'd actually buy.
 

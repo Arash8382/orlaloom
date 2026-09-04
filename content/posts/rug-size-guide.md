@@ -126,7 +126,7 @@ faqs:
       Yes — several of the picks here go to 9x12 and the Giverny to 10x14 — but
       remember that anything over about 6x9 will not fit a home washing machine
       and needs a laundromat front-loader on wash day.
-updated: '2026-08-02'
+updated: '2026-09-04'
 ---
 
 **The short answer: in a living room, choose a rug big enough that at least the front legs of every sofa and chair sit on it — usually an 8x10. In a bedroom, a 5x7 beside or partly under the bed does the job. Kitchens and hallways want a 2x6 to 2.5x10 runner, and reading corners and small round tables love a 4 to 6 ft round.** Nearly every rug that looks "off" in a room is simply too small, so when you are torn between two sizes, take the bigger one.
@@ -170,6 +170,8 @@ Rounds are the most under-used size in the house. A **4 ft round** transforms le
 **Buying to the furniture you have pushed against the walls.** Pull seating toward the centre first, then measure — most rooms want furniture off the walls anyway, and the rug size follows from the arrangement, not the skirting boards.
 
 **Skipping the pad.** Thin washable rugs are wonderful and they are also thin. A felt-and-rubber pad one size down from the rug stops the skating, adds the cushion, and makes a fifty-dollar rug feel like a two-hundred-dollar one. It is the cheapest upgrade in this guide.
+
+One last note about the room rather than the rug: once the rug is the right size it sets the palette for every soft thing above it, so choose [floral chintz throw pillows](/blog/floral-chintz-throw-pillows) after the rug is down, not before.
 
 ## Related guides
 

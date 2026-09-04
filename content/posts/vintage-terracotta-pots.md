@@ -133,7 +133,7 @@ faqs:
     a: >-
       Small real-clay vensovo pots with saucers — the breathable clay keeps roots
       happy, and they look lovely lined up on a sunny sill.
-updated: '2026-08-29'
+updated: '2026-09-04'
 ---
 
 Nothing says cottage garden like aged terracotta — sun-faded, a little mossy, with that perfect warm clay color. You can buy it genuinely old, or fake decades of weathering for a few dollars. Here's the full range.
@@ -153,6 +153,8 @@ New terracotta looks orange and raw, but it weathers fast: leave plain unglazed 
 A pot on its own is just a pot; grouped, it becomes the room. Three or five in mixed heights along a sill or a shelf is the arrangement that reads cottage rather than garden centre — odd numbers, one clearly taller, and at least one trailing plant to break the line. A glazed saucer under each one lets you keep them indoors on wood without ring marks.
 
 The warmest place for them is a bright, plant-heavy corner: aged clay, cane, and old glass are the whole palette of a [cottagecore sunroom](/blog/cozy-sunroom-decor), and terracotta is the cheapest way into it. Hang a few [woven wall baskets](/blog/cottagecore-woven-wall-baskets) above the pots and the wall stops being empty without costing anything framed. Come autumn, the same pots take dried stems instead of living plants — the trick behind most of a [cozy fall cottagecore setup](/blog/cozy-fall-cottagecore-decor).
+
+Clay is not the only honest, utilitarian vessel worth leaving on an open shelf — a row of [glass canning jars](/blog/best-canning-jars-for-jam) does the same job for dry goods, and the two materials look better standing together than either does alone.
 
 ## Caring for clay
 

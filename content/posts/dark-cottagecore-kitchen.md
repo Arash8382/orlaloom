@@ -101,7 +101,23 @@ faqs:
     a: >-
       Forest green, aubergine, oxblood, charcoal, and warm near-black, with
       cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-08-29'
+updated: '2026-09-04'
+  - name: Pfaltzgraff Midnight Blooms 12-Piece Stoneware Dinnerware Set, Service for 4
+    image: 'https://m.media-amazon.com/images/I/9119VYG9WbL._AC_SL1500_.jpg'
+    brand: Pfaltzgraff
+    price: ~$58-68
+    retailer: Amazon
+    badge: Best dark dinnerware
+    blurb: >-
+      Dark florals on black stoneware — the single piece that does the
+      most work in a dark cottagecore kitchen, because it makes the mood
+      read as intentional rather than simply not-white.
+    caveat: >-
+      Stock on this pattern runs shallow and moves in and out. If it shows
+      as low, take the service for four rather than waiting to build a
+      larger set.
+    added: '2026-09-04'
+    url: 'https://www.amazon.com/dp/B0FMZHMXQN?tag=orlaloom-20'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
@@ -140,6 +156,8 @@ The same moody, candle-lit palette translates beautifully to a desk — [dark ac
 5. Layer linen and one bright accent to finish.
 
 Wall light is the step most people skip, because it looks like a wiring job. It is not: a pair of [plug-in wall sconces](/blog/plug-in-wall-sconces-for-renters) either side of a shelf or a window gives a dark kitchen the same layered glow as hardwired fixtures, and comes down with the picture hooks when you move.
+
+If the palette works in here it usually wants to continue. [Moody dark floral bedding](/blog/moody-dark-floral-bedding) is the easiest way to carry it into the next room without repainting anything.
 
 ## FAQ
 

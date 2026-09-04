@@ -135,7 +135,7 @@ faqs:
       will out-mix any $70 compact mixer on stiff doughs and big batches. If you
       bake seriously, buy capacity and power; if the mixer is mostly decor with
       occasional cookies, the dupe is the smarter money.
-updated: '2026-08-20'
+updated: '2026-09-04'
 ---
 
 The best overall Smeg dupe is the **Hazel Quinn retro electric kettle** — it copies the KLF03's rounded body and front thermometer dial almost exactly for around $55-65, saving you roughly $135 versus a real Smeg kettle. Across the board, good Smeg dupes deliver about 90% of the pastel-50s look for 20-30% of the price, and the best of them are genuinely capable appliances, not just pretty shells.
@@ -177,6 +177,8 @@ If you're duping a whole counter, pick one color family and stay in it — a min
 For most people, dupes are absolutely worth it — you get the retro look for 70-80% less, and the savings often stretch far enough to buy two matched pieces for less than one original would cost. A color-matched kettle and toaster sitting together by the outlet does more for a room than any single appliance could.
 
 Buy the real Smeg when an appliance is both the visual anchor of the room *and* something you use hard every day. Up close, Smeg's enameled steel, heft and finish are genuinely nicer, and the warranty is longer. The clearest case is the stand mixer: a real Smeg (or a KitchenAid) will out-mix any $70 compact model on stiff dough and big batches. A popular middle path is to splurge on one genuine icon — usually the kettle — and surround it with color-matched dupes. From a few feet away, the whole counter reads designer.
+
+The same question comes up one shelf over, and it has the same shape of answer — see how the [Le Creuset dupes compare against the original](/blog/le-creuset-vs-dutch-oven-dupes) before you pay any brand premium.
 
 ## FAQ
 

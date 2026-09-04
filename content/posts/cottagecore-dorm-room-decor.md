@@ -137,7 +137,23 @@ faqs:
       quiet enough that it doesn't fight a roommate's setup. The wall collage
       kit helps here too — you can scale it from six prints to seventy depending
       on how much territory is yours.
-updated: '2026-09-01'
+updated: '2026-09-04'
+  - name: Amazon Basics Collapsible Fabric Storage Cubes, Beige, 6-Pack
+    image: 'https://m.media-amazon.com/images/I/916dIt3AmOL._AC_SL1500_.jpg'
+    brand: Amazon Basics
+    price: ~$17-22
+    retailer: Amazon
+    badge: Budget pick
+    blurb: >-
+      Dorm storage that does not fight the rest of the room — plain beige
+      fabric cubes that disappear into a cube shelf or slide under a
+      lofted bed, at under twenty dollars for six.
+    caveat: >-
+      They are plain rather than pretty: the beige is flat and the handles
+      are utilitarian, so use them where they will be half-hidden instead
+      of as display baskets.
+    added: '2026-09-04'
+    url: 'https://www.amazon.com/dp/B0711RQMNF?tag=orlaloom-20'
 ---
 
 There is no room in the world less cottagecore than a college dorm: cinder-block walls, a plastic-wrapped twin XL mattress, one buzzing fluorescent tube. Which is exactly why the transformation is so satisfying. With one weekend and a modest budget, the same room can feel like a hedgerow cottage — warm light, soft florals, woven textures — and every piece here survives the two non-negotiables of dorm life: nothing that damages walls, and nothing an RA will confiscate.
