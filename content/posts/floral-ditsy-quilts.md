@@ -104,6 +104,21 @@ products:
       hand that cotton earns with washing.
     added: '2026-08-24'
     url: 'https://www.amazon.com/dp/B0CRPT3D1D?tag=orlaloom-20'
+  - name: Sanracie 100% Cotton Ditsy Floral Quilt Set, Queen, Scalloped Edge (3-Piece)
+    image: 'https://m.media-amazon.com/images/I/81nBzuHt-sL._AC_SL1500_.jpg'
+    brand: Sanracie
+    price: ~$95-110
+    retailer: Amazon
+    badge: Best scalloped edge
+    blurb: >-
+      The only pick here with a true scalloped edge, on a neutral base
+      that keeps a small floral from reading as juvenile — all cotton, so
+      it softens with every wash.
+    caveat: >-
+      It is the most expensive quilt on this list and stock has been thin.
+      The queen is the size that stays available most reliably.
+    added: '2026-09-04'
+    url: 'https://www.amazon.com/dp/B0H9WZJYZR?tag=orlaloom-20'
 faqs:
   - q: Are floral quilts warm enough on their own?
     a: >-
@@ -161,21 +176,6 @@ faqs:
       everything else be solid. Matched bed-in-a-bag sets are what make a
       cottage bedroom read as a showroom rather than a collected room.
 updated: '2026-09-04'
-  - name: Sanracie 100% Cotton Ditsy Floral Quilt Set, Queen, Scalloped Edge (3-Piece)
-    image: 'https://m.media-amazon.com/images/I/81nBzuHt-sL._AC_SL1500_.jpg'
-    brand: Sanracie
-    price: ~$95-110
-    retailer: Amazon
-    badge: Best scalloped edge
-    blurb: >-
-      The only pick here with a true scalloped edge, on a neutral base
-      that keeps a small floral from reading as juvenile — all cotton, so
-      it softens with every wash.
-    caveat: >-
-      It is the most expensive quilt on this list and stock has been thin.
-      The queen is the size that stays available most reliably.
-    added: '2026-09-04'
-    url: 'https://www.amazon.com/dp/B0H9WZJYZR?tag=orlaloom-20'
 ---
 
 A floral quilt is the fastest way to give a bedroom that soft, grandmother's-cottage feeling — layered, faded and warm. It is also one of the few pieces of bedding that works as decoration and as bedding at the same time: thin enough to leave on through summer, pretty enough that the bed looks made even when you have only pulled it flat. These ditsy and patchwork picks do the heavy lifting on their own, and below them you will find the comparison table, the buying criteria that actually matter, and the drawbacks nobody prints on the packaging.

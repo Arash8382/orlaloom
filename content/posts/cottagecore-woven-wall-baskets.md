@@ -114,6 +114,22 @@ products:
       couple of pounds.
     added: '2026-09-01'
     url: 'https://www.amazon.com/dp/B0CXSXMBFF?tag=orlaloom-20'
+  - name: Coeusy Scalloped Wicker Wall Basket, Water Hyacinth
+    image: 'https://m.media-amazon.com/images/I/81h64cJJoPL._AC_SL1500_.jpg'
+    brand: Coeusy
+    price: ~$28-34
+    retailer: Amazon
+    badge: Best budget scalloped
+    blurb: >-
+      The same scalloped silhouette as the BEBE BASK statement piece for
+      under thirty dollars — hand-woven water hyacinth with a pocket deep
+      enough to hold dried stems or a trailing pothos.
+    caveat: >-
+      It is noticeably smaller and lighter than the premium scalloped
+      baskets, so it works better in a cluster or on a narrow wall than as
+      a solo piece over a bed.
+    added: '2026-09-04'
+    url: 'https://www.amazon.com/dp/B0FG7XYM5Q?tag=orlaloom-20'
 faqs:
   - q: How many baskets do I need for a gallery wall?
     a: >-
@@ -137,22 +153,6 @@ faqs:
       Avoid hanging natural-tone baskets on a busy patterned wallpaper, where
       the texture gets lost.
 updated: '2026-09-04'
-  - name: Coeusy Scalloped Wicker Wall Basket, Water Hyacinth
-    image: 'https://m.media-amazon.com/images/I/81h64cJJoPL._AC_SL1500_.jpg'
-    brand: Coeusy
-    price: ~$28-34
-    retailer: Amazon
-    badge: Best budget scalloped
-    blurb: >-
-      The same scalloped silhouette as the BEBE BASK statement piece for
-      under thirty dollars — hand-woven water hyacinth with a pocket deep
-      enough to hold dried stems or a trailing pothos.
-    caveat: >-
-      It is noticeably smaller and lighter than the premium scalloped
-      baskets, so it works better in a cluster or on a narrow wall than as
-      a solo piece over a bed.
-    added: '2026-09-04'
-    url: 'https://www.amazon.com/dp/B0FG7XYM5Q?tag=orlaloom-20'
 ---
 
 A cluster of woven baskets is one of the warmest, most forgiving ways to fill a bare wall. Framed art needs measuring, matting and a budget; baskets are light, soft-edged, and instantly cottagecore — that handmade, gathered-over-time texture that a flat print just can't give you. They soften echoey rooms, add a natural material against painted walls, and look intentional even when you hang them a little crooked. Here are the styles worth buying and how to choose between a single statement piece and a full gallery cluster.

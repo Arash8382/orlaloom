@@ -87,21 +87,6 @@ products:
       https://cdn.shopify.com/s/files/1/0331/1763/4698/products/224.jpg?v=1645835503
     url: >-
       https://heirloomedcollection.com/collections/vintage-transferware/products/floral-transferware-dinner-plate
-faqs:
-  - q: What's the difference between cottagecore and dark cottagecore?
-    a: >-
-      Cottagecore is bright and pastoral; dark cottagecore keeps the vintage
-      cottage charm but goes moody — deeper colors, candlelight, a slightly
-      gothic, nighttime feel.
-  - q: Can I do dark cottagecore in a rental?
-    a: >-
-      Yes. The look is mostly textiles, ceramics, candles, and small decor — no
-      renovation needed.
-  - q: What colors are dark cottagecore?
-    a: >-
-      Forest green, aubergine, oxblood, charcoal, and warm near-black, with
-      cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-09-04'
   - name: Pfaltzgraff Midnight Blooms 12-Piece Stoneware Dinnerware Set, Service for 4
     image: 'https://m.media-amazon.com/images/I/9119VYG9WbL._AC_SL1500_.jpg'
     brand: Pfaltzgraff
@@ -118,6 +103,21 @@ updated: '2026-09-04'
       larger set.
     added: '2026-09-04'
     url: 'https://www.amazon.com/dp/B0FMZHMXQN?tag=orlaloom-20'
+faqs:
+  - q: What's the difference between cottagecore and dark cottagecore?
+    a: >-
+      Cottagecore is bright and pastoral; dark cottagecore keeps the vintage
+      cottage charm but goes moody — deeper colors, candlelight, a slightly
+      gothic, nighttime feel.
+  - q: Can I do dark cottagecore in a rental?
+    a: >-
+      Yes. The look is mostly textiles, ceramics, candles, and small decor — no
+      renovation needed.
+  - q: What colors are dark cottagecore?
+    a: >-
+      Forest green, aubergine, oxblood, charcoal, and warm near-black, with
+      cream and aged brass, plus an occasional chartreuse or persimmon accent.
+updated: '2026-09-04'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
