@@ -144,7 +144,7 @@ faqs:
       Solid brass slowly darkens, which most people actually want for the
       antique look. If you prefer it bright, a quick polish once or twice a year
       is all it takes.
-updated: '2026-09-02'
+updated: '2026-09-05'
 ---
 
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders to start with.
@@ -164,6 +164,8 @@ Brass also wants something to sit against. A shelf of candlesticks reads as a st
 ## How to clean and keep antique brass
 
 Real brass develops a patina over time, and whether you polish it is a style choice — plenty of cottagecore decorators leave the warm, darkened tone exactly as it is. If you want shine back, a gentle brass polish (or a homemade paste of lemon and baking soda) does it; buff with a soft cloth and skip abrasive pads. **Lacquered** brass shouldn't be polished at all — just dusted, or you'll cut through the coating. Keep holders out of direct candle drip, and let spilled wax cool and harden so you can peel it off rather than scraping the finish.
+
+A brass holder and one scented taper does more for a reading corner than another lamp will. The rest of what that corner wants is in our [cozy reading nook essentials](/blog/cozy-reading-nook-essentials) guide.
 
 ## FAQ
 

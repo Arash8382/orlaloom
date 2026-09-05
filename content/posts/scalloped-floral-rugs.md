@@ -110,6 +110,23 @@ products:
       hard-working corners, not for bare feet.
     added: '2026-07-18'
     url: 'https://www.amazon.com/dp/B0DWJSV234?tag=orlaloom-20'
+  - name: 'HY Hao Yun Lai Washable Scalloped Floral Rug, 9x12, Black'
+    image: 'https://m.media-amazon.com/images/I/91d-Do1czuL._AC_SL1500_.jpg'
+    brand: HY Hao Yun Lai
+    price: ~$115-135
+    retailer: Amazon
+    badge: Best large size
+    blurb: >-
+      Everything else on this page tops out around 8x10. This is the scalloped
+      floral rug for a real living room, or for a dining table where the chairs
+      need to stay on the rug when they push back. Low pile, non-slip backing,
+      machine washable.
+    caveat: >-
+      Stock was showing only fourteen left at the time of writing, and the dark
+      floral ground reads considerably moodier in a room than it does in the
+      listing photographs.
+    added: '2026-09-05'
+    url: 'https://www.amazon.com/dp/B0H1GWWXRN?tag=orlaloom-20'
 faqs:
   - q: Are scalloped rugs going out of style?
     a: >-
@@ -133,7 +150,7 @@ faqs:
       runner along the open side, with the scalloped border kept clear of the
       bed frame so the curve stays visible. If you're between sizes, size up — a
       scalloped rug that's too small reads like a bath mat that wandered.
-updated: '2026-08-02'
+updated: '2026-09-05'
 ---
 
 Of all the details cottagecore has borrowed from grandma's house — ruffles, gingham, chintz — the **scalloped rug** might be the most transformative per dollar. A straight-edged rectangle of floral fabric on the floor is just a rug; give the same rug a soft, wavy scalloped border and suddenly it looks like something out of a storybook, a doily grown up into furniture. Scalloped edges are everywhere in cottage bedrooms and kitchens this year, and the good news is that the prettiest versions are washable and start around thirty dollars.

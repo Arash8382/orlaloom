@@ -136,6 +136,22 @@ products:
       small, so do not plan your geography homework around it.
     added: '2026-07-28'
     url: 'https://www.amazon.com/dp/B08W9RM9G7?tag=orlaloom-20'
+  - name: 'Bulova Tristan I Brass Desk Clock, Model B8818'
+    image: 'https://m.media-amazon.com/images/I/61ZsJn9-nlL._AC_SL1500_.jpg'
+    brand: Bulova
+    price: ~$70-85
+    retailer: Amazon
+    badge: Best desk clock
+    blurb: >-
+      A floating Roman-numeral dial on a polished brass frame with a spinning
+      pendulum underneath — the single object that makes a desk read as a study
+      rather than a workstation. Bulova has sold it long enough for the review
+      history to mean something.
+    caveat: >-
+      Polished brass rather than antiqued, so it is brighter than the aged
+      finishes elsewhere on this list, and it shows fingerprints.
+    added: '2026-09-05'
+    url: 'https://www.amazon.com/dp/B003A2ZEZG?tag=orlaloom-20'
 faqs:
   - q: Isn't dark academia too dark for a small dorm room?
     a: >-
@@ -156,7 +172,7 @@ faqs:
       burn in a dorm anyway. The look holds up because every piece on this list
       works for a living — light, storage, book support, surface protection.
       Decor that does nothing is the first thing you stop dusting.
-updated: '2026-08-28'
+updated: '2026-09-05'
 ---
 
 Dark academia never really left, but this back-to-school season it is having a proper moment — the dorm-decor trend forecasts are calling it the year of the "heritage dorm," all worn leather, brass, and old-library green instead of fairy lights and plastic crates. Which makes sense. A dorm room is the least atmospheric room most people will ever live in, and dark academia is the fastest way to give a room an atmosphere.
@@ -183,6 +199,8 @@ same palette scales down without losing its seriousness; our
 version that survives a shared space and a move every nine months. And when the
 mood tips darker at night, [moody dark floral bedding](/blog/moody-dark-floral-bedding)
 is the bedroom counterpart to everything on this desk.
+
+If the desk doubles as a study corner in a bedroom or a dorm, a [retro mini fridge](/blog/retro-mini-fridge) in a deep colour is the one appliance that will not break the mood.
 
 ## FAQ
 

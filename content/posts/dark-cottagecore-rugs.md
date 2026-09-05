@@ -90,6 +90,22 @@ products:
       too-much.
     url: >-
       https://app.partnerboost.com/track/480f1vtUO_bOVf_aNVzZastd8d7fsOehOTBjJvp5Mw72l6ykdxNHOf8uQko5zIVX5yR5FrMVF5tLDGrJYj5AZfgxU_b?url=https%3A%2F%2Flahomedecor.com%2Fproducts%2Fclaude-maximalism-vibrant-blossom-floral-dark-green-area-rug
+  - name: 'Macgace Black Floral Washable Rug, 5x7'
+    image: 'https://m.media-amazon.com/images/I/811H1oyfWCL._AC_SL1500_.jpg'
+    brand: Macgace
+    price: ~$35-45
+    retailer: Amazon
+    badge: Best budget
+    blurb: >-
+      The cheapest genuinely dark floral rug on this page, and the only one with
+      more than two thousand ratings behind it. Ultra-thin low pile, rubberised
+      backing that grips wood and tile, and it goes in a domestic washing machine.
+    caveat: >-
+      Thin enough that it reads as a printed textile rather than as a rug
+      underfoot. Good over carpet or under a table; less good as the only
+      softness in a room.
+    added: '2026-09-05'
+    url: 'https://www.amazon.com/dp/B0DJXSJWCV?tag=orlaloom-20'
 faqs:
   - q: What is the best dark cottagecore rug?
     a: >-
@@ -129,7 +145,7 @@ faqs:
       and 9x12 for a king. Or skip the big rug and run a pair of small accent
       rugs down each side. *Prices and availability change; check the current
       size and colour options on the product page before buying.*
-updated: '2026-08-24'
+updated: '2026-09-05'
 ---
 
 The best dark cottagecore rug is the **Claude Washable Maximalism Vibrant Blossom Floral Black Rug** — a machine-washable, low-pile floral on a true black ground that hides everyday mess and turns a plain room properly moody without tipping into goth. If black feels too bold, a deep forest green like the Giverny is the most livable way in. Every pick below is washable and vintage-inspired, chosen because dark grounds forgive the crumbs, mud and pet hair that show instantly on an ivory rug.
@@ -169,6 +185,8 @@ A moody floral rug earns its keep where light rugs struggle. Entryways and hallw
 ## Honest pros and cons
 
 The big win is practicality: beautiful vintage-looking florals you can actually clean, in colours that disguise daily mess. They ship rolled, flatten within a day or two, and the non-slip base means no bunching. The trade-off is that low-pile washable rugs aren't cushy — barefoot they feel like a firm flatweave, so a rug pad is a near-essential add-on for comfort. Printed patterns can also look slightly flatter in person than in a styled photo, though the dark colourways photograph close to real life.
+
+Dark rugs are far less forgiving of the wrong size than pale ones — undersized, a dark rug reads as a stain on the floor rather than as a rug — so check your dimensions against our [rug size guide](/blog/rug-size-guide) before ordering.
 
 ## FAQ
 

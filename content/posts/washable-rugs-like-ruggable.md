@@ -166,7 +166,7 @@ faqs:
       swappable-cover system and some of its cushion. At roughly half the
       price or less, most people come out ahead with Lahome unless seasonal
       cover-swapping is the specific feature they want.
-updated: '2026-08-04'
+updated: '2026-09-05'
 ---
 
 The best washable rug like Ruggable for most people is a one-piece machine-washable rug — the Lahome Aurielle Vintage Floral Scalloped is our top pick — because it delivers the same cottagecore look and throw-it-in-the-wash convenience for around $90 in a 5 x 7, versus roughly $230–$280 once you add Ruggable's required pad. That is about 60% less for the same job.
@@ -224,6 +224,8 @@ One practical tip if you go the Lahome route: check our [Lahome discount code pa
 Take a real example at the popular 5 x 7 size. Ruggable's floral covers generally run $199–$279, and the required cushioned pad adds $30–$80 if it isn't bundled — call it roughly $230–$280 all-in before any sale. The Aurielle above is about $90. The Eveloir is $90. The Orliane is $90 in the same size, the Elise is $73, and the two Amazon picks are around $40. Even if you add a $20 generic rug pad to one of the thin picks, you are still spending a third of the Ruggable total — or you could cover a living room, hallway and nursery with three washable rugs for the price of one two-piece system. Prices move around with sales on every side, so treat these as the shape of the gap rather than gospel, but the gap itself has been stable all year.
 
 If you want more washable options beyond the Ruggable-alternative angle, our [cottagecore washable rugs guide](/blog/cottagecore-washable-rugs) is the full pillar, and there are dedicated round-ups for [floral bedroom rugs](/blog/floral-bedroom-rugs), [scalloped rugs](/blog/scalloped-floral-rugs) and [washable kitchen runners](/blog/washable-kitchen-runner-rugs).
+
+A washable rug earns its keep fastest in the room that collects the most tracked-in dirt, which for most houses is the porch or the sunroom — our [cozy sunroom decor](/blog/cozy-sunroom-decor) guide covers the rest of that room.
 
 ## FAQ
 

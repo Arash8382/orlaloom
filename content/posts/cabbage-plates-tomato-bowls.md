@@ -117,6 +117,23 @@ products:
       wet.
     added: '2026-09-01'
     url: 'https://www.amazon.com/dp/B0G2KMM6KY?tag=orlaloom-20'
+  - name: 'Le Jardin Green Cabbage 3D Deep Serving Bowl, 12.75 in'
+    image: 'https://m.media-amazon.com/images/I/614OmUNXVdL._AC_SL1500_.jpg'
+    brand: Le Jardin
+    price: ~$35-45
+    retailer: Amazon
+    badge: Best big serving bowl
+    blurb: >-
+      The 13 in platter handles anything flat; this is what you need for anything
+      that pools. Nearly thirteen inches across and five deep, in the same sculpted
+      green stoneware as the plates — dressed salad for six, a bowl of pasta, or
+      fruit left out on the counter between meals.
+    caveat: >-
+      A very new listing with only about ten ratings so far, so treat the score as
+      provisional. It is the same Certified International body as the rest of the
+      Le Jardin line, which is why it earns a place here.
+    added: '2026-09-05'
+    url: 'https://www.amazon.com/dp/B0G2KLV2NH?tag=orlaloom-20'
 faqs:
   - q: Is cabbage ware the same as lettuce ware?
     a: >-
@@ -137,12 +154,12 @@ faqs:
       soy sauce with dumplings, jam at breakfast, ketchup for fries. The lidded
       dip-bowl style is the entertaining hero: anything you'd serve with chips
       or crudités, kept covered until guests arrive.
-updated: '2026-09-01'
+updated: '2026-09-05'
 ---
 
 If one trend owns the summer 2026 table, it's produce-shaped ceramics. Cabbage-leaf plates, heirloom-tomato bowls and lettuce-ware serving pieces have gone from flea-market curiosities to the centerpiece of every hosting reel — and it makes sense. Veggie ware is nostalgic (your grandmother's lettuce ware, Dodie Thayer's famous cabbage plates), it's whimsical without being childish, and it turns an ordinary lunch into something that looks gathered from the garden. This guide rounds up the sculpted cabbage plates and tomato bowls actually worth buying, plus how to mix them into the dishes you already own.
 
-**Quick picks:** Best overall — Le Jardin 9 in cabbage salad plates · Best dinner plates — Le Jardin 11 in set · Budget pick — KXZ 8 in cabbage plates · Best serving piece — Le Jardin 13 in platter · Best tomato bowls — Now Designs heirloom pinch bowls · Best under $25 — Mud Pie tomato dip set.
+**Quick picks:** Best overall — Le Jardin 9 in cabbage salad plates · Best dinner plates — Le Jardin 11 in set · Budget pick — KXZ 8 in cabbage plates · Best serving piece — Le Jardin 13 in platter · Best big serving bowl — Le Jardin 12.75 in deep bowl · Best tomato bowls — Now Designs heirloom pinch bowls · Best under $25 — Mud Pie tomato dip set.
 
 ## Why veggie ceramics are everywhere right now
 
@@ -150,19 +167,56 @@ Cabbage ware has a real pedigree: sculpted lettuce and cabbage ceramics have bee
 
 It also plays perfectly with the scalloped dinnerware most cottagecore kitchens already own. A cabbage leaf is essentially nature's scalloped edge — the ruffled rim reads as a cousin to your scalloped salad plates, not a clash.
 
-## How to choose cabbage plates
+## What to look for before you buy
 
-**Sculpted relief vs. printed pattern.** The pieces worth buying have real dimensional veining you can feel — that's what makes the table look like heirloom lettuce ware. Flat plates with a printed cabbage graphic photograph poorly and read as novelty. Everything in this guide is sculpted stoneware or ceramic.
+**Sculpted relief, not a printed pattern.** The pieces worth owning have dimensional veining you can feel with a thumb — that is what makes a table read as heirloom lettuce ware rather than novelty. Flat plates with a cabbage graphic printed on them photograph badly and look cheap in person. Everything on this page is sculpted stoneware or ceramic.
 
-**Pick your size by how you actually eat.** The 9 in salad/dessert size is the workhorse: big enough for lunch, right for cake, and it layers beautifully on top of a plain dinner plate at a place setting. Go 11 in only if you want the full veggie-ware table. The 8 in budget size is happiest as a dessert or side plate.
+**Choose the size by how you actually eat, not by what looks best in a photo.** The 9 in salad and dessert size is the workhorse: big enough for lunch, correct for cake, and it layers beautifully on a plain dinner plate at a place setting. Go to 11 in only if you genuinely want the whole table in veggie ware. The 8 in size is happiest as a side or dessert plate.
 
-**Check the care labels.** Most modern cabbage ware is dishwasher and microwave safe (the KXZ set advertises both), but deeply glazed, hand-painted pieces — especially anything with a painted red finish like the Mud Pie tomato — last longer hand-washed. Glossy green glazes can show utensil marks over time; a gentle scrub with baking soda takes them off.
+**Green is not one green.** Cabbage ware runs from a pale, almost celadon lettuce green through to a deep leafy emerald, and the two do not sit well together. Buy your plates and your serving pieces from the same line if you can — the Le Jardin pieces here are all the same body and glaze, which is the main reason to stay within a line rather than mix brands for the sake of a few dollars.
 
-**One statement piece goes far.** If you're not ready to commit to a set, the 13 in cabbage platter under $35 gives you the whole trend in one piece: pile it with burrata and tomatoes and the table is done.
+**Depth is where most sets quietly fail.** Sculpted plates look deep and are usually not: the relief eats into the flat surface, so a 9 in cabbage plate holds noticeably less than a 9 in plain plate. If you want to serve anything with sauce or dressing, buy an actual bowl or a deep serving piece rather than hoping a plate will cope.
+
+**Check whether you are buying a set or a single.** Plates in this category are almost always sets of four; platters and large serving bowls are almost always singles. It is an easy way to misread a price — a $38 single serving bowl and a $38 set of four plates are both reasonable, but they are not comparable.
+
+**Read the care label before the red glazes tempt you.** Most modern cabbage ware is dishwasher and microwave safe, and the KXZ set advertises both. Deeply glazed hand-painted pieces — anything with a painted red finish, like the Mud Pie tomato — last considerably longer hand-washed. Glossy green glazes also show utensil marks over time, which is worth knowing before you use them as everyday dinner plates.
+
+## How the eight compare
+
+| Piece | Type | Size | Pieces | Price | Best for |
+| --- | --- | --- | --- | --- | --- |
+| Le Jardin cabbage salad plates | Sculpted plate | 9 in | Set of 4 | ~$35-45 | The set to buy first |
+| Le Jardin cabbage dinner plates | Sculpted plate | 11 in | Set of 4 | ~$50-60 | Committing to a full veggie-ware table |
+| KXZ green cabbage plates | Sculpted plate | 8 in | Set of 4 | ~$35-45 | Dessert and side plates on a budget |
+| Le Jardin round platter | Serving platter | 13 in | Single | ~$25-35 | Anything flat: cheese, tarts, crudités |
+| Le Jardin deep serving bowl | Serving bowl | 12.75 x 5 in | Single | ~$35-45 | Anything that pools: pasta, dressed salad |
+| Le Jardin cereal and soup bowls | Bowl | 7 in | Set of 4 | ~$34-40 | Everyday soup, cereal and ice cream |
+| Now Designs heirloom pinch bowls | Pinch bowl | ~2-3 in | Set of 6 | ~$28-35 | Salt, chilli crisp and olives down the table |
+| Mud Pie Fiesta tomato dip bowl | Lidded dip bowl | ~5 in | Single, with spoon | ~$22-28 | Dip kept covered until guests arrive |
+
+## Where cabbage and tomato ware disappoints
+
+**They stack badly.** This is the complaint that comes up most often and the one nobody mentions before you buy. Sculpted relief means the plates nest at an angle and a stack of four sits noticeably taller than four plain plates. Measure your shelf height before you buy the 11 in set.
+
+**The glaze pools, so no two pieces match exactly.** Hand-glazing over a relief means the colour gathers in the veins and thins on the high points. Across a set of four you will see real variation, and across two orders placed months apart you will see more. If you want a matched table, buy everything in one order.
+
+**Sculpted plates are harder to clean than they look.** Dried egg, cheese or tomato sauce sits in the veining and a dishwasher does not always shift it. A soft brush lives next to our sink for exactly this reason.
+
+**The tomato pieces date faster than the cabbage ones.** Green cabbage ware has been in and out of fashion since the 1930s and reads as classic. Bright red heirloom-tomato pieces are much more of a 2020s moment. Buy the tomato bowls small and cheap — pinch bowls and dip bowls — rather than committing to tomato dinner plates.
+
+**Almost none of it is oven safe.** Dishwasher and microwave safe are common; oven safe is rare and is usually not stated at all. Treat every piece here as serveware, not bakeware, unless the listing explicitly says otherwise.
+
+## Care and cleaning
+
+Rinse sculpted pieces before the food dries rather than stacking them in the sink — the veining is the problem, and it is a two-minute problem if you catch it early and a scrubbing job if you do not. A soft washing-up brush gets into the relief where a cloth simply skates over it. Anything hand-painted, and particularly the red tomato glazes, goes in by hand with warm water and no scouring pad; the painted finish is the layer that wears, not the ceramic underneath.
+
+Store plates with a felt or paper separator between them if you have the space. Glazed relief against glazed relief is what produces the fine grey scratches that show up on green ware after a year of use. And keep the large serving pieces out where you can see them — a 13 in cabbage platter propped on a dresser earns its shelf space in a way it never does face-down in a cupboard, which is the same argument for [decorative wall plates](/blog/decorative-wall-plates).
 
 ## Styling: the tomato-and-cabbage table
 
-The trick to keeping veggie ware charming rather than theme-party is to anchor it with neutrals. Start with a linen tablecloth or runner in cream or flax, lay plain dinner plates down first, then let the cabbage salad plates and tomato bowls be the color. Scatter the heirloom pinch bowls down the middle of the table with salt, chili crisp and olives — the mixed red, gold and green shades do the decorating for you. A wood board, a couple of amber glasses and some actual market tomatoes finish it. (If you already own scalloped dinnerware, mix it in — ruffled edges all speak the same language.)
+The trick to keeping veggie ware charming rather than theme-party is to anchor it with neutrals. Start with a linen tablecloth or runner in cream or flax, lay plain dinner plates down first, then let the cabbage salad plates and tomato bowls be the color. Scatter the heirloom pinch bowls down the middle of the table with salt, chili crisp and olives — the mixed red, gold and green shades do the decorating for you. A wood board, a couple of amber glasses and some actual market tomatoes finish it. If you already own [scalloped salad plates](/blog/scalloped-salad-plates), mix them in — ruffled edges and sculpted leaves speak the same language, and alternating the two down a table stops the green from getting heavy. For an autumn version of the same table, swap the tomatoes for squash and pears and follow the [fall supper club tablescape](/blog/fall-supper-club-tablescape).
+
+A single cabbage platter is also one of the easiest [cottagecore hostess gifts](/blog/cottagecore-hostess-gifts) to give — it is inexpensive, it does not assume anything about the recipient's taste in colour, and it is useful the week it arrives. If you are building the rest of the kitchen around it, the enamel, stoneware and glass pieces in our [vintage kitchen accessories](/blog/vintage-kitchen-accessories) guide sit alongside veggie ware without competing with it, and the wider [cottagecore kitchen decor](/blog/cottagecore-kitchen-decor) guide covers the surfaces and storage underneath.
 
 ## FAQ
 
@@ -177,3 +231,23 @@ Yes, with one caveat: the dimensional rim means slightly less flat surface than 
 **Do tomato bowls actually get used, or are they just cute?**
 
 The pinch-bowl size earns its keep fast — salt and pepper by the stove, soy sauce with dumplings, jam at breakfast, ketchup for fries. The lidded dip-bowl style is the entertaining hero: anything you'd serve with chips or crudités, kept covered until guests arrive.
+
+**Are cabbage plates dishwasher safe?**
+
+Most modern sculpted cabbage ware is, including the Le Jardin line and the KXZ set, and both also state microwave safe. The exceptions are hand-painted pieces and anything with a red glaze — the Mud Pie tomato dip bowl in particular is better washed by hand, because it is the painted finish rather than the ceramic that wears.
+
+**How many cabbage plates do I actually need?**
+
+A set of four 9 in plates is enough to change how a table looks, because they sit on top of plates you already own. Buy a second set only if you regularly seat eight. Most people get more out of spending the money on one large serving piece than on a second set of four.
+
+**Will cabbage plates and tomato bowls look right together?**
+
+Yes, and better than either does alone — the green reads as leaf and the red as fruit, so the pairing looks like a garden rather than like Christmas. Keep the tomato pieces small: pinch bowls and a dip bowl scattered among green plates, not the other way round.
+
+**Is any of this oven safe?**
+
+Assume not. Dishwasher and microwave safe are commonly stated on these listings; oven safe almost never is. Treat sculpted cabbage and tomato ware as serveware, and move food into it after cooking.
+
+**Does the green vary between orders?**
+
+It does. Hand-glazing over a sculpted surface means the colour pools in the veining and thins on the raised leaf edges, so pieces vary within a set and vary more between orders placed months apart. If you want a matched table, buy the plates, the bowls and the serving pieces in a single order from the same line.

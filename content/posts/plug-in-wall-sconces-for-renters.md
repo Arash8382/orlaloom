@@ -65,7 +65,23 @@ products:
     caveat: "The cord is visible unless you run it through a cover, and at this price the brass is a finish rather than solid metal, so clean around it gently."
     added: '2026-09-02'
     url: "https://www.amazon.com/dp/B0F66MPVZ4?tag=orlaloom-20"
-updated: '2026-09-02'
+  - name: 'GOODATE Dimmable Plug-In Wall Sconces, Antique Brass, Set of 2'
+    image: 'https://m.media-amazon.com/images/I/61OUbM-l1-L._AC_SL1500_.jpg'
+    brand: GOODATE
+    price: ~$60-75
+    retailer: Amazon
+    badge: Best dimmable pair
+    blurb: >-
+      The only pair here with a proper stepless rotary dimmer built into the
+      fixture, so they go from reading light down to a candle glow without a
+      smart bulb or an app. Antique brass arm, white fabric shade, and two warm
+      2700K LED bulbs in the box.
+    caveat: >-
+      The dimmer sits on the sconce body rather than on the cord, so you reach up
+      to the fixture to adjust it. Fine beside a bed, awkward high on a wall.
+    added: '2026-09-05'
+    url: 'https://www.amazon.com/dp/B09NVN4R6F?tag=orlaloom-20'
+updated: '2026-09-05'
 ---
 
 Every 2026 lighting forecast is saying the same thing: the "cozy lighting" moment has moved off the nightstand and onto the wall. Decorative sconces with fabric, pleated and woven shades are everywhere in inspiration photos — but the ones getting pinned and saved are almost always plug-in, not hardwired. That's good news if you rent. A plug-in wall sconce gives you the warm, layered glow of a hardwired fixture — the kind that makes a reading corner or a stretch of hallway feel finished — without an electrician, a junction box, or a single hole that isn't already there for a screw or two.

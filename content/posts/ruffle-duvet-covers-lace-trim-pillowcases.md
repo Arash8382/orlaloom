@@ -3,7 +3,7 @@ title: "Ruffle Duvet Covers & Lace-Trim Pillowcases: Romantic Ruffles for 2026"
 description: "The best white ruffle duvet covers, lace-trim pillowcases, and ruffled bed skirts to get 2026's romantic-ruffles bedding look without the boutique price tag."
 category: "textiles"
 date: "2026-07-15"
-updated: '2026-08-24'
+updated: '2026-09-05'
 cover: "https://m.media-amazon.com/images/I/71+hv+GfizL._AC_SL1500_.jpg"
 products:
   - name: "Bedorm 100% Cotton Multi-Layer Ruffle Duvet Cover Set, 3-Piece (Queen)"
@@ -87,6 +87,8 @@ This guide covers the three building blocks of the ruffled bed — the duvet cov
 Layering is what separates a romantic bed from a plain one. Start with the lace-hem sheets, fold the flat sheet back a generous 12 inches over the duvet so the gardenia band shows, then stack pillows in two rows: plain sleeping pillows behind, the Meaning4 lace-ruffle shams in front. The Vlocemon bed skirt finishes the bottom edge and hides whatever lives under the bed. On top, either ruffle duvet works — the Bedorm if you want the bed to be the room's centerpiece, the Egyptian Cotton Collection waterfall set if you prefer a smoother face with movement at the sides. If the room still wants one more romantic note, a ribbon or two from our [coquette bow decor](/blog/coquette-bow-decor) guide on a headboard corner or lampshade finishes it without another textile.
 
 One honest note: ruffled bedding asks slightly more of you on laundry day. Pull ruffled pieces out of the dryer promptly and give the ruffles a shake and a smooth by hand — ironing is never necessary, but a wrinkled ruffle left crumpled in the machine takes a rewash to recover.
+
+Ruffles want a curve opposite them on the wall rather than another rectangle. A leaning [vintage arched or scalloped mirror](/blog/vintage-arched-scalloped-mirrors) is the cheapest way to give a ruffled bed the answering shape it needs.
 
 ## FAQ
 
