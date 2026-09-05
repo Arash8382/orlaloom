@@ -210,7 +210,7 @@ It also plays perfectly with the scalloped dinnerware most cottagecore kitchens 
 
 Rinse sculpted pieces before the food dries rather than stacking them in the sink — the veining is the problem, and it is a two-minute problem if you catch it early and a scrubbing job if you do not. A soft washing-up brush gets into the relief where a cloth simply skates over it. Anything hand-painted, and particularly the red tomato glazes, goes in by hand with warm water and no scouring pad; the painted finish is the layer that wears, not the ceramic underneath.
 
-Store plates with a felt or paper separator between them if you have the space. Glazed relief against glazed relief is what produces the fine grey scratches that show up on green ware after a year of use. And keep the large serving pieces out where you can see them — a 13 in cabbage platter propped on a dresser earns its shelf space in a way it never does face-down in a cupboard, which is the same argument for [decorative wall plates](/blog/decorative-wall-plates).
+Deep serving pieces are the exception to all of this: a large sculpted bowl holds water in its veining after washing, so drain it upside down on a rack rather than stacking it away damp. Store plates with a felt or paper separator between them if you have the space. Glazed relief against glazed relief is what produces the fine grey scratches that show up on green ware after a year of use. And keep the large serving pieces out where you can see them — a 13 in cabbage platter propped on a dresser earns its shelf space in a way it never does face-down in a cupboard, which is the same argument for [decorative wall plates](/blog/decorative-wall-plates).
 
 ## Styling: the tomato-and-cabbage table
 
