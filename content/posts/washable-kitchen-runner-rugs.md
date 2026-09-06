@@ -117,6 +117,16 @@ products:
     caveat: "Eight feet of low-pile rug arrives folded, and the creases take a few days underfoot to settle. It is also genuinely thin — that is what keeps it washable and door-clearing, but there is no cushioning."
     added: '2026-09-02'
     url: "https://www.amazon.com/dp/B0FMXSTQCV?tag=orlaloom-20"
+  - name: "Yamaziot 2 x 6 ft Washable Floral Runner Rug, Sage Green"
+    image: "https://m.media-amazon.com/images/I/81NQS5YshHL._AC_SX679_.jpg"
+    brand: "Yamaziot"
+    price: "~$16-22"
+    retailer: Amazon
+    badge: "Best budget colour"
+    blurb: "Every other runner on this page is cream, beige or scalloped white — this is the one that brings actual colour to a kitchen with pale cabinets. The distressed sage floral is low-pile with a rubber backing, so it lies flat under a cabinet door swing instead of bunching, and at under twenty dollars it is the runner to buy if you want to test the look before committing to a better one."
+    caveat: "Low-pile and inexpensive also means thin — there is no cushioning underfoot, so treat it as a decorative runner rather than a standing mat for the sink. Wash cold and air dry; the rubber backing will not survive a hot dryer."
+    added: '2026-09-06'
+    url: "https://www.amazon.com/dp/B0DQL18DSN?tag=orlaloom-20"
 faqs:
   - q: 'Can I really machine-wash these, or will they fall apart?'
     a: >-
@@ -140,7 +150,7 @@ faqs:
       at the edges, and don't let the rug sit under the arc of the oven door or
       the fridge's feet — you want to be able to lift it out for washing without
       moving furniture.
-updated: '2026-09-02'
+updated: '2026-09-06'
 ---
 
 If there's one floor in the house that earns a washable rug, it's the kitchen. It catches splashes from the sink, drips from the stove, crumbs from everywhere — and it's also the floor you stand on the longest, usually barefoot or in socks at 7am. A **washable kitchen runner rug** solves both problems at once: it makes the hardest-working strip of floor in your home softer and warmer, and when it inevitably takes a hit from the pasta pot, you peel it up and put it in the machine.
@@ -162,6 +172,8 @@ This guide rounds up six floral runners that actually fit kitchens — long, nar
 ## Are floral runners "too much" for a small kitchen?
 
 The opposite, usually. Small kitchens are mostly hard surfaces — cabinet fronts, tile, appliances — and one soft, patterned runner is often the only textile in the room, so it carries the entire cozy budget on its own. The trick is to pick one runner and let it be the moment: skip the matching stove mat, keep tea towels simple, and let the floral do the work. In a small space, a scalloped border like the Flore's also does something clever — the curved edge breaks up the hard parallel lines of cabinets and counters, which is exactly why scalloped everything is having its cottagecore moment.
+
+One addition for anyone whose cabinets are already cream: almost every washable runner sold as cottagecore is itself cream, which leaves the floor doing nothing. The [Yamaziot sage floral runner](https://www.amazon.com/dp/B0DQL18DSN?tag=orlaloom-20) is the cheapest way to test whether a bit of colour underfoot fixes that, and if it does, the heavier picks higher up this page are worth the upgrade.
 
 ## FAQ
 

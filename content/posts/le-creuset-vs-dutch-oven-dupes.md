@@ -123,6 +123,16 @@ products:
       pot, not a 50-year one.
     added: '2026-07-07'
     url: 'https://www.amazon.com/dp/B07Y6TRH27?tag=orlaloom-20'
+  - name: "Tramontina Bestow Enameled Cast Iron 5.5-Qt Round Dutch Oven, Matte White"
+    image: "https://m.media-amazon.com/images/I/71zokJlKNoL._AC_SX679_.jpg"
+    brand: "Tramontina"
+    price: "~$75-90"
+    retailer: Amazon
+    badge: "Closest matte-white dupe"
+    blurb: "Le Creuset's best-selling size is 5.5 quarts, and this is the dupe that matches it exactly instead of rounding up to 6 or 7. The matte white exterior is what sells it: glossy budget enamel reads as budget enamel under kitchen light, while matte reads closer to the real thing and hides the small scuffs a hard-used pot collects. Cast iron body, cream enamel interior, self-basting lid, and oven-safe to the temperatures no-knead bread needs."
+    caveat: "Stock runs thin on this colourway — the listing showed only 16 units the day we checked, and it goes in and out. Matte enamel also shows oil splashes more readily than gloss, so it wants wiping rather than soaking, and the warranty is nothing like Le Creuset's lifetime cover."
+    added: '2026-09-06'
+    url: "https://www.amazon.com/dp/B077BD419C?tag=orlaloom-20"
 faqs:
   - q: Are Dutch oven dupes safe to cook in?
     a: >-
@@ -143,7 +153,7 @@ faqs:
       standard braise, one loaf of bread. Go 7+ quarts for big families or batch
       cooking, and expect the weight to climb accordingly. Smaller than 5 quarts
       starts limiting recipes.
-updated: '2026-08-15'
+updated: '2026-09-06'
 ---
 
 Every cottagecore kitchen eventually arrives at the same question: is the Le Creuset actually worth it, or is a $60 dupe just as good? Having put the original next to the four most-recommended budget enameled Dutch ovens, here is the honest answer: **the dupes cook 90-95% as well, and the remaining 5-10% is exactly what you're deciding whether to pay for.**
@@ -169,6 +179,8 @@ None of these are cooking problems. They're ownership problems — the differenc
 Ask two questions. How often will you actually braise, stew or bake bread? Weekly or more, the Le Creuset's lighter weight and tougher enamel genuinely earn their keep — amortized over decades it's cheap. Monthly, buy the Lodge and never think about it again. And second: will the pot live on display? If yes, weight matters less and looks matter more — which is the Crock-Pot Artisan's whole argument. If it lives in a cabinet, buy purely on cooking terms: Lodge for most people, Cuisinart if five quarts fits your household better.
 
 One sizing note: 5.5-6 quarts is the sweet spot for households of two to four; go 7+ only if you regularly cook for a crowd, because the big pots are noticeably heavier and slower to heat.
+
+If you are buying cast iron this autumn rather than in the abstract, the 5.5-quart [Tramontina Bestow in matte white](https://www.amazon.com/dp/B077BD419C?tag=orlaloom-20) is the one we would put next to a real Le Creuset and expect most people not to pick out — same size, same silhouette, roughly a fifth of the price. It is also the pot that pairs with the rest of a bread-and-braise autumn: if you are building that kitchen out, our [retro stand mixers](/blog/retro-stand-mixers) guide covers the other half of the counter.
 
 ## FAQ
 

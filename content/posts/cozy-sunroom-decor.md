@@ -117,7 +117,17 @@ products:
       wash bag helps it keep its shape.
     added: '2026-08-11'
     url: 'https://www.amazon.com/dp/B0B38YC8CK?tag=orlaloom-20'
-updated: '2026-09-02'
+  - name: "Seaside Village Rattan Arc Floor Lamp with Hanging Fabric Shade, 63 in"
+    image: "https://m.media-amazon.com/images/I/71S1Z2lro6L._AC_SX679_.jpg"
+    brand: "Seaside Village"
+    price: "~$65-80"
+    retailer: Amazon
+    badge: "Best evening light"
+    blurb: "A sunroom is designed around daylight, which is exactly why it goes dead at dusk unless you plan for it. This arc lamp reaches out over a chair without needing a side table underneath, and the woven rattan drum with an inner fabric shade throws warm light downward rather than glare across the glass. The head rotates 350 degrees horizontally and 180 vertically, so one lamp can serve both the reading chair and the plant corner."
+    caveat: "The pole and weighted base are matte black metal rather than a natural finish. In a room where everything else is pale rattan and linen, that base will be the darkest thing in the room — worth knowing before you order."
+    added: '2026-09-06'
+    url: "https://www.amazon.com/dp/B0D2R8G4BF?tag=orlaloom-20"
+updated: '2026-09-06'
 ---
 
 "Cozy sunroom" searches on Pinterest are up more than 900% this year, and it is not hard to see why — a sunroom is the one room in most houses that is already doing half the design work for you before you buy a single thing. The light is free. The problem most people run into is furnishing one on an actual budget without it turning into a patio-furniture showroom, and without every fabric surface fading out within a year of full sun exposure.
@@ -133,6 +143,8 @@ From there, work outward in three layers. The window layer comes first, because 
 One more practical note: if your sunroom gets full sun for more than a few hours a day, budget for fading. Natural rattan, jute-look rugs and cotton throws all hold their color better than dyed synthetic fabrics, but nothing is fade-proof under glass in direct sun for years on end — rotating cushions and throws seasonally, or adding the sheer curtain layer, is the realistic fix rather than chasing a "UV-proof" product that does not really exist at this price point. One thing worth adding before you buy more furniture: a mirror. [Vintage arched and scalloped mirrors](/blog/vintage-arched-scalloped-mirrors) bounce the light back into the room and make a narrow sunroom read twice as wide.
 
 Sunrooms are the hardest room in the house on a rug — sun bleaching one side, wet boots and plant runoff on the other. That is a strong case for one of the [washable rugs like Ruggable](/blog/washable-rugs-like-ruggable), where the top layer comes off and goes in the machine instead of being professionally cleaned every spring.
+
+The one thing almost every sunroom guide forgets is what the room is like after sunset. Sun-facing glass gives you nothing back in the evening, and an overhead fixture flattens the whole room — so a [rattan arc floor lamp](https://www.amazon.com/dp/B0D2R8G4BF?tag=orlaloom-20) that reaches over the chair earns its place faster than another cushion. Two more pieces worth borrowing from elsewhere on the site: a [green cottagecore rug](/blog/green-cottagecore-rugs) if you want the floor to read as garden rather than porch, and if your sunroom doubles as a guest room, the [ruched comforter sets](/blog/ruched-comforter-sets) we like hold their texture on a daybed better than a flat quilt does.
 
 ## FAQ
 

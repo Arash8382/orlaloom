@@ -3,7 +3,7 @@ title: "Ruffle Duvet Covers & Lace-Trim Pillowcases: Romantic Ruffles for 2026"
 description: "The best white ruffle duvet covers, lace-trim pillowcases, and ruffled bed skirts to get 2026's romantic-ruffles bedding look without the boutique price tag."
 category: "textiles"
 date: "2026-07-15"
-updated: '2026-09-05'
+updated: '2026-09-06'
 cover: "https://m.media-amazon.com/images/I/71+hv+GfizL._AC_SL1500_.jpg"
 products:
   - name: "Bedorm 100% Cotton Multi-Layer Ruffle Duvet Cover Set, 3-Piece (Queen)"
@@ -66,6 +66,16 @@ products:
     caveat: "It is the priciest piece here by far, and the ruffles fall down the sides rather than across the face — a subtler effect than the Bedorm."
     added: '2026-07-15'
     url: "https://www.amazon.com/dp/B0F9B726RB?tag=orlaloom-20"
+  - name: "Brandream White Matelasse Ruffle Coverlet Set, Queen, 3-Piece"
+    image: "https://m.media-amazon.com/images/I/81IXvg7-VdL._AC_SX679_.jpg"
+    brand: "Brandream"
+    price: "~$125-145"
+    retailer: Amazon
+    badge: "Best coverlet layer"
+    blurb: "A ruffled duvet gets you the shape; a matelasse coverlet gets you the weight. This 100% cotton three-piece has raised texture woven in rather than printed on, with ruffle detail at the edges, and it works two ways — as a light cover on its own through the warm months, then folded across the foot of a heavier duvet once it turns. It is machine washable and softens rather than flattens with each wash."
+    caveat: "It is the most expensive layer on this page, and white matelasse shows everything: coffee, makeup, a dog. Cotton this heavy also arrives creased, so it needs a wash and a warm tumble before it drapes the way the photographs suggest."
+    added: '2026-09-06'
+    url: "https://www.amazon.com/dp/B0C1YB9DNB?tag=orlaloom-20"
 ---
 
 If 2026 has one bedding story, it is ruffles. Design editors have been calling romantic ruffles the biggest home trend of the year, and you can see why: after a decade of flat, hotel-plain white beds, a duvet edged in soft gathered cotton or a pillowcase finished with a strip of eyelet lace makes a bedroom feel dressed rather than just made. The good news for anyone chasing the look is that it is fundamentally a white-cotton trend — which means you can build it piece by piece on Amazon for far less than the boutique linen brands charge.
@@ -89,6 +99,8 @@ Layering is what separates a romantic bed from a plain one. Start with the lace-
 One honest note: ruffled bedding asks slightly more of you on laundry day. Pull ruffled pieces out of the dryer promptly and give the ruffles a shake and a smooth by hand — ironing is never necessary, but a wrinkled ruffle left crumpled in the machine takes a rewash to recover.
 
 Ruffles want a curve opposite them on the wall rather than another rectangle. A leaning [vintage arched or scalloped mirror](/blog/vintage-arched-scalloped-mirrors) is the cheapest way to give a ruffled bed the answering shape it needs.
+
+If you already own a ruffled duvet and the bed still looks flat in photographs, the missing layer is usually texture rather than more ruffle — which is what the [Brandream matelasse coverlet](https://www.amazon.com/dp/B0C1YB9DNB?tag=orlaloom-20) adds. Ruffles, matelasse and scallops are also the exact vocabulary of [grandmillennial decor](/blog/grandmillennial-decor), so if this bedroom is heading in that direction, that guide covers the rest of the room.
 
 ## FAQ
 

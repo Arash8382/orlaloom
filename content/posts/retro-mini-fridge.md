@@ -3,7 +3,7 @@ title: "The Best Retro Mini Fridges for a 1950s Kitchen (2026)"
 description: "The best retro mini fridges of 2026 — Galanz, Frigidaire and DEMULLER compact fridges with curved corners, chrome handles and pastel colors — plus the best Smeg-style fridge dupes, how to pick the right size, and which ones have a real freezer."
 category: "retro-appliances"
 date: "2026-07-17"
-updated: '2026-08-24'
+updated: '2026-09-06'
 cover: "/thumbnails/thumb-retro-mini-fridge.webp"
 products:
   - name: "Frigidaire EFR376 Retro Bar Fridge (3.2 cu ft, Pink/Coral)"
@@ -66,6 +66,16 @@ products:
     image: "https://m.media-amazon.com/images/I/61L-nkQqw9L._AC_SL1500_.jpg"
     added: '2026-07-17'
     url: "https://www.amazon.com/dp/B019MQT6T8?tag=orlaloom-20"
+  - name: "Frigidaire Retro Compact Refrigerator with Chiller, 3.2 cu ft, White"
+    image: "https://m.media-amazon.com/images/I/51L1WjnqYgL._AC_SX679_.jpg"
+    brand: "Frigidaire"
+    price: "~$165-190"
+    retailer: Amazon
+    badge: "Best plain white"
+    blurb: "The pastel retro fridges photograph beautifully and then dominate whatever room they land in. This is the same rounded Frigidaire shape — chrome handle, script badge, flush back so it sits against a wall — in plain white, which is the version that settles into a pantry, a study nook or a dorm corner rather than announcing itself. 3.2 cubic feet, a chiller compartment, and a built-in bottle opener on the side."
+    caveat: "The chiller is a cold shelf, not a real freezer: it will hold ice cubes and very little else, so if you need frozen food, one of the two-door models above is the buy. It is also audible in a quiet room, which matters more beside a desk than in a kitchen."
+    added: '2026-09-06'
+    url: "https://www.amazon.com/dp/B07PMG241V?tag=orlaloom-20"
 ---
 
 Of every retro appliance you can buy, the mini fridge delivers the biggest visual payoff per dollar. A kettle is an accent; a curved-corner, chrome-handled fridge in pastel pink or sage green is a *piece of furniture* — the thing guests comment on. And because compact fridges are a mature category, you can get the full 1950s look from about $118. Here are the retro mini fridges actually worth buying in 2026, with honest notes on sizes, freezers and finish quality.
@@ -89,6 +99,8 @@ The classic cottagecore move is a drink-station corner: retro fridge, a tray of 
 ## The Smeg question
 
 If what you actually want is the Smeg FAB5 mini-fridge look — glossy curved shoulders, chrome handle, pastel paint — without the four-figure price, this is the category where the dupe strategy works best. The Galanz retro compact is the closest budget stand-in for the Smeg silhouette; its rounded corners and chrome hardware read Smeg from across the room, especially in the saturated green and blue. The Frigidaire retro line gets you the same 1950s era in softer, more cottage pastels for even less. We keep the full list of convincing lookalikes across kettles, toasters and full-size fridges in our [Smeg dupes guide](/blog/best-smeg-dupes) — the fridges on this page are the ones we would shortlist.
+
+A note for the back-to-school stretch, since that is when most of these get bought: the pastel models are the ones people picture, but in a small room the [plain white Frigidaire](https://www.amazon.com/dp/B07PMG241V?tag=orlaloom-20) is usually the better decision, because it stops competing with everything else you have put on the walls. If the fridge is going next to a desk rather than in a kitchen, our [dark academia desk decor](/blog/dark-academia-desk-decor) guide covers what to put around it.
 
 ## FAQ
 
