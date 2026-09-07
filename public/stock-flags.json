@@ -1,203 +1,117 @@
 {
- "checkedAt": "2026-08-31T15:25:43.671962Z",
- "checked": 514,
+ "checkedAt": "2026-09-07T15:40:05Z",
+ "checked": 559,
+ "amazonDeepChecked": 105,
  "issues": [
-  {
-   "guide": "aesthetic-butter-dishes",
-   "product": "Old Havana Butter Dish",
-   "type": "link-dead",
-   "action": "flagged"
-  },
-  {
-   "guide": "cottagecore-bud-vases",
-   "product": "Fluted Flair White Ceramic Pitcher Vase",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
   {
    "guide": "aesthetic-butter-dishes",
    "product": "Emile Henry French Butter Pot",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B00WRIIAGE"
+  },
+  {
+   "guide": "best-pleated-lampshades",
+   "product": "Threshold Mini Rattan & Pleated Shade Table Lamp, Brown",
+   "type": "out-of-stock",
+   "action": "flagged",
+   "asin": "B0H23B1M4R"
+  },
+  {
+   "guide": "best-retro-kitchen-appliances",
+   "product": "Haden Heritage 2-Slice Toaster",
+   "type": "out-of-stock",
+   "action": "flagged",
+   "asin": "B096T892FS"
+  },
+  {
+   "guide": "coquette-bow-decor",
+   "product": "DJGUS Heavy Cast Iron Dancing Bow Taper Candle Holders, Set of 2",
+   "type": "out-of-stock",
+   "action": "flagged",
+   "asin": "B0GK1RGWYF"
   },
   {
    "guide": "cottagecore-bedroom",
    "product": "Tache Cotton Patchwork Ditsy Floral Coverlet",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B01MSEIVCT"
   },
   {
    "guide": "cottagecore-bedroom",
    "product": "Modway Halcyon Cane Woven Rattan Queen Headboard",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B08T9XLKGX"
   },
   {
    "guide": "cottagecore-bud-vases",
    "product": "Sullivans Ceramic Bud Vase Set (Set of 3)",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B01AV4YQ3Q"
+  },
+  {
+   "guide": "cottagecore-dorm-room-decor",
+   "product": "BECCOBEAT Vintage Glass Mushroom Lamp, Red Cap",
+   "type": "out-of-stock",
+   "action": "flagged",
+   "asin": "B0C56ZNZK1"
   },
   {
    "guide": "cottagecore-kitchen-decor",
    "product": "The Pioneer Woman Vintage Floral Stoneware Utensil Crock",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B075WYKHFG"
   },
   {
    "guide": "cottagecore-kitchen-decor",
    "product": "Floral Rose Flour Sack Tea Towels (100% Cotton, 4-Pack)",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B01JU22P2Y"
   },
   {
    "guide": "cozy-fall-cottagecore-decor",
    "product": "Golden Rabbit Enamelware Pitcher, 1 qt (Swirl)",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B085TQHDY6"
   },
   {
    "guide": "decorative-wall-plates",
    "product": "Ayennur Turkish Hand-Painted Ceramic Plates, Set of 3 (7 in)",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B08971YZF3"
   },
   {
-   "guide": "floral-ditsy-quilts",
-   "product": "Levtex Home Margaux Quilt Set",
+   "guide": "retro-appliance-owner-report",
+   "product": "Haden Heritage 2-Slice Toaster",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B096T892FS"
   },
   {
-   "guide": "gingham-cafe-curtains",
-   "product": "Barossa Design Buffalo Check Window Tier Curtains, Red & White, 28 x 24 in, Set of 2",
+   "guide": "retro-toasters",
+   "product": "Haden Heritage 2-Slice Toaster, Turquoise",
    "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "gingham-cafe-curtains",
-   "product": "Haperlare Buffalo Check Tier Curtains, Sage & White, 28 x 45 in, Set of 2",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "gingham-cafe-curtains",
-   "product": "Barossa Design Buffalo Check Window Tier Curtains, Black & White, 28 x 36 in, Set of 2",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "gingham-cafe-curtains",
-   "product": "Classic Gingham Ruffled Rod-Pocket Curtain Tiers, Pair",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "glass-pantry-canisters",
-   "product": "Vtopmart 7-Pack Glass Food Storage Jars with Bamboo Lids",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "glass-pantry-canisters",
-   "product": "ComSaf Square Glass Pantry Storage Containers, Set of 6",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "glass-pantry-canisters",
-   "product": "3-Pc Glass Canister Set with 42 Preprinted Kitchen Pantry Labels",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "glass-pantry-canisters",
-   "product": "200-Pack Reusable Chalkboard Labels with Chalk Marker",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "grandmillennial-decor",
-   "product": "Gold Arched Scalloped Wall Mirror, 24 x 36 in",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "plug-in-wall-sconces-for-renters",
-   "product": "Fredericks Brass Swing-Arm Wall Lamp with Ivory Pleated Shade",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "plug-in-wall-sconces-for-renters",
-   "product": "Weaboopre Hand-Woven Rattan Plug-In Wall Sconces, Set of 2",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "plug-in-wall-sconces-for-renters",
-   "product": "SAMTEEN Gold Swing-Arm Wall Sconces with Linen Shade, Set of Two",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "plug-in-wall-sconces-for-renters",
-   "product": "Battery-Operated Wireless Wall Sconce, Set of 2 (12,000mAh)",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "plug-in-wall-sconces-for-renters",
-   "product": "Paintable White Cord Cover Raceway Kit, 315 in",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "retro-mini-fridge",
-   "product": "Frigidaire EFR376 Retro Bar Fridge (3.2 cu ft, Pink/Coral)",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "retro-mini-fridge",
-   "product": "Frigidaire EFR840 Retro Mini Fridge with Freezer (3.1 cu ft, Cream)",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "scalloped-waffle-towels",
-   "product": "Smyrna Turkish Cotton Bath Towels",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "scalloped-waffle-towels",
-   "product": "Turkish Waffle Terry Towel Set (14-Piece)",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "speckled-stoneware-mugs",
-   "product": "Handmade Speckled Stoneware Mug",
-   "type": "out-of-stock",
-   "action": "flagged"
-  },
-  {
-   "guide": "vintage-botanical-wall-art",
-   "product": "Vintage Wildflowers Hanging Poster Set (2-Pc, 15.8x23.6)",
-   "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B096T892FS"
   },
   {
    "guide": "vintage-kitchen-accessories",
-   "product": "Ruffled Gingham Dish Towels (Set of 4)",
+   "product": "Golden Rabbit Enamelware Pitcher, 1 qt (Swirl)",
    "type": "out-of-stock",
-   "action": "flagged"
+   "action": "flagged",
+   "asin": "B085TQHDY6"
   },
   {
    "guide": "vintage-kitchen-accessories",
-   "product": "Falcon Enamelware Pitcher / Jug",
-   "type": "out-of-stock",
+   "product": "Cavendish Handcrafted Stoneware Mixing Bowls (Set of 3)",
+   "type": "link-dead",
    "action": "flagged"
   }
  ]
