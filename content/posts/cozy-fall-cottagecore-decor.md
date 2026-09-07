@@ -153,6 +153,16 @@ products:
     added: '2026-08-28'
     url: >-
       https://www.amazon.com/dp/B0CFYTVGS8?tag=orlaloom-20
+  - name: "Pearhead Ceramic Pumpkin with Gold Stem, White"
+    image: "https://m.media-amazon.com/images/I/51JbOjYOviL._AC_SL1500_.jpg"
+    brand: "Pearhead"
+    price: "~$14-18"
+    retailer: Amazon
+    badge: "Best small tabletop pumpkin"
+    blurb: "Cottagecore autumn goes wrong the moment the decor turns orange and novelty. A glossy white ceramic pumpkin with a slim gold stem does the seasonal job without the Halloween costume - it sits happily beside dried wheat, a brass candlestick or a stack of books, and it does not have to come down the day after Thanksgiving. Ceramic also means it will not shed, fade or crush in storage the way a fabric pumpkin does."
+    caveat: "In-stock counts have been running low on this one, so grab it early in the season if you want it. It is a single small pumpkin rather than a set - buy two or three in different spots, or pair it with a taller stem arrangement, or it reads as an afterthought on a big table."
+    added: '2026-09-07'
+    url: 'https://www.amazon.com/dp/B0B99NR7M2?tag=orlaloom-20'
 faqs:
   - q: What makes decor "cottagecore" for fall?
     a: >-
@@ -178,7 +188,7 @@ faqs:
       to feel right, early enough to enjoy it through Halloween and into the
       harvest season. Candles and quilts can come out even sooner on the first
       cool evening.
-updated: '2026-08-31'
+updated: '2026-09-07'
 ---
 
 When the light goes golden and the evenings turn cool, cottagecore quietly shifts into its cosiest season. Fall is less about buying a whole new look and more about layering warmth into the one you have — a herbal candle burning by four o'clock, a patchwork quilt over the sofa, terracotta crowded with mums, and a mug that lives permanently by the kettle. These are the warm, gather-in finds worth adding first, each one a piece you'll keep long after the leaves are down.

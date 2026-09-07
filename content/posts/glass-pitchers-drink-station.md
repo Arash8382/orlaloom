@@ -98,6 +98,16 @@ products:
       dishwasher.
     added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0GY9688HF?tag=orlaloom-20'
+  - name: "Kook Glass Carafes with Lids, Set of 3, 34 oz"
+    image: "https://m.media-amazon.com/images/I/71QYAhWJAEL._AC_SL1500_.jpg"
+    brand: "Kook"
+    price: "~$25-30"
+    retailer: Amazon
+    badge: "Best set for a drink station"
+    blurb: "A drink station stops looking like a jumble the moment everything on it matches. Three identical hourglass carafes let you pour still water, something citrusy and something for the adults into the same silhouette, line them up, and be done. The narrow neck and broad rim make them easy to hold in one hand, the glass is thick enough not to feel disposable, and they are dishwasher safe."
+    caveat: "The lids are plastic rather than glass or cork, which is the compromise at this price. The hourglass waist means they do not stack or nest in a cupboard, so budget shelf space for three."
+    added: '2026-09-07'
+    url: 'https://www.amazon.com/dp/B081NY6L36?tag=orlaloom-20'
 faqs:
   - q: How many drinks does a 1.6-gallon dispenser actually serve?
     a: >-
@@ -116,7 +126,7 @@ faqs:
       splash of peach nectar, topped with sparkling water at serving time. For
       an alcohol-free station, cucumber-mint water or hibiscus iced tea both
       look stunning in clear textured glass, which is half the point.
-updated: '2026-08-31'
+updated: '2026-09-07'
 ---
 
 There is a reason the self-serve drink station has become the signature of summer 2026 hosting: it solves the host's oldest problem. Instead of playing bartender all afternoon, you set out one beautiful pitcher or dispenser, a tray of glasses, and a bowl of sliced fruit — and your guests happily pour for themselves while you actually sit down at your own party.

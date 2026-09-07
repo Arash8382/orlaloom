@@ -127,6 +127,16 @@ products:
       above is the safer buy.
     added: '2026-07-08'
     url: 'https://www.amazon.com/dp/B0H1CYG2Q3?tag=orlaloom-20'
+  - name: "Springcrest Mavin Large White Linen Knife-Pleated Lamp Shade, 9 x 17 x 12.25 in (Spider)"
+    image: "https://m.media-amazon.com/images/I/71kwDHKiRlL._AC_SL1500_.jpg"
+    brand: "Springcrest"
+    price: "~$55-70"
+    retailer: Amazon
+    badge: "Best large shade"
+    blurb: "Almost every pleated shade sold online is small - 8 to 13 inches across the bottom, sized for a bedside lamp. This one is 17 inches at the base and 12.25 on the slant, which is what a console lamp or a tall ceramic base actually needs to look in proportion. The knife pleats are pressed into real linen rather than printed onto a hardback wrap, so the ridges catch lamplight in fine vertical lines instead of reading as flat texture."
+    caveat: "It is unlined, so a clear filament bulb shows through the linen - use a frosted or opal bulb. The spider fitter needs a harp rather than a clip, and the Brussels white tone reads cooler and cleaner than an ivory or cream shade, so it can look stark next to warm brass."
+    added: '2026-09-07'
+    url: 'https://www.amazon.com/dp/B0BWTLN76X?tag=orlaloom-20'
 faqs:
   - q: Will a pleated shade fit my existing lamp?
     a: >-
@@ -148,7 +158,7 @@ faqs:
       pleats never scorch. A warm-white LED (2700K) at 40-60W equivalent gives
       the cozy, amber-striped glow these shades are made for; anything colder
       than 3000K makes even a lovely pleated shade feel like office lighting.
-updated: '2026-08-28'
+updated: '2026-09-07'
 ---
 
 Somewhere around the end of last year, the flat white drum shade quietly lost its job. In its place: pleats, scallops, gathered edges and mushroom silhouettes — texture you can see from across the room. Designers keep saying the same thing about 2026 lighting: texture is king, and nothing delivers it more affordably than swapping a plain lampshade for a pleated one. It's the rare trend that costs $35, takes two minutes, and changes how a whole corner of your room feels.

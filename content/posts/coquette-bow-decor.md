@@ -124,6 +124,16 @@ products:
       to empty your whole pockets.
     added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0DXCZT397?tag=orlaloom-20'
+  - name: "Relexome Fully Glazed White Ceramic Bow Vase, 9.6 in"
+    image: "https://m.media-amazon.com/images/I/81v5KKYOQWL._AC_SL1500_.jpg"
+    brand: "Relexome"
+    price: "~$20-25"
+    retailer: Amazon
+    badge: "Best bow vase"
+    blurb: "The bow here is the vase, not a decal stuck on the front - the whole body is thrown as a ribbon tied at the waist, then glazed a single fully-covered white. That is what keeps it on the elegant side of the trend: no pink, no glitter, no lettering, just a shape you read as a bow from across the room. At 9.6 inches it is tall enough to hold dried stems or a few garden roses without a frog or filler."
+    caveat: "The neck is narrow, so it takes a handful of stems rather than a full supermarket bouquet, and the high-gloss glaze shows dust and fingerprints in direct light. It is ceramic and unweighted - top-heavy arrangements will tip it."
+    added: '2026-09-07'
+    url: 'https://www.amazon.com/dp/B0F7L4KPG3?tag=orlaloom-20'
 faqs:
   - q: Is the bow trend going to date quickly?
     a: >-
@@ -146,7 +156,7 @@ faqs:
       without flexing. The rule of thumb: if a bow hook is described as "resin"
       or feels light, treat it as jewelry-and-hats only; solid metal takes real
       daily weight.
-updated: '2026-09-04'
+updated: '2026-09-07'
 ---
 
 Bows have quietly become the defining decorative motif of 2026. What started as a fashion micro-trend — the so-called coquette aesthetic of ribbons, blush tones and deliberate sweetness — has crossed fully into the home, showing up on tablescapes, kitchen cabinets and entryway walls. And it turns out bows and cottagecore are natural companions: both trade on nostalgia, handmade charm and the sense that someone cared enough to tie a ribbon on ordinary life.

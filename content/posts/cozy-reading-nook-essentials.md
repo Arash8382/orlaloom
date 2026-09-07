@@ -140,6 +140,16 @@ products:
       chair for long sitting.
     added: '2026-07-27'
     url: 'https://www.amazon.com/dp/B07NBWF68J?tag=orlaloom-20'
+  - name: "Vekkia 3000K Warm LED Rechargeable Clip-On Book Light, White"
+    image: "https://m.media-amazon.com/images/I/514u1Ifrj6L._AC_SL1500_.jpg"
+    brand: "Vekkia"
+    price: "~$10-13"
+    retailer: Amazon
+    badge: "Best small upgrade"
+    blurb: "The one piece of a reading nook nobody plans for. A floor lamp lights the room; this lights the page, which is what lets you read late without the overhead glare that wakes everyone else up. It is fixed at 3000K, so the light is genuinely warm rather than the blue-white most clip lights throw, and at two ounces it stays on a paperback cover without dragging it shut. A charge lasts weeks of ordinary evenings."
+    caveat: "The clip is sized for books, not for a thick hardback spine or a chair arm, and there is no cool-white mode if you want daylight for detailed work. The finish is glossy plastic - fine in a nook, less lovely on a styled shelf."
+    added: '2026-09-07'
+    url: 'https://www.amazon.com/dp/B077D8QXST?tag=orlaloom-20'
 faqs:
   - q: How much space does a reading nook actually need?
     a: >-
@@ -165,7 +175,7 @@ faqs:
       off, lean art against the wall on a shelf rather than hanging it, and
       choose a tall narrow bookcase whose single anti-tip anchor is the only
       thing you will need to patch on your way out.
-updated: '2026-08-31'
+updated: '2026-09-07'
 ---
 
 Pinterest searches for a comfy reading chair in a small space are up more than 450 percent this year, which tells you two things. People want a reading nook. And almost nobody has a spare room to put one in.
