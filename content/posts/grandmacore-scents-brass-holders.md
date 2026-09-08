@@ -130,6 +130,16 @@ products:
       warm and true a few bases to seat them in narrow holders.
     added: '2026-08-29'
     url: 'https://www.amazon.com/dp/B0DL8LVZ1X?tag=orlaloom-20'
+  - name: "NIKKY HOME Vintage Gold Taper Candle Holders, Set of 2"
+    image: "https://m.media-amazon.com/images/I/71rwM2gApOL._AC_SL1500_.jpg"
+    brand: "NIKKY HOME"
+    price: "~$25-30"
+    retailer: "Amazon"
+    badge: "Best chamberstick pair"
+    blurb: "Low chambersticks with a finger loop and a wide drip tray — the shape that reads bedside candle in an old house rather than dinner party."
+    caveat: "A gold-tone finish over metal rather than solid brass, so it will not develop a real patina."
+    added: '2026-09-08'
+    url: "https://www.amazon.com/dp/B0DYCVC5K8?tag=orlaloom-20"
 faqs:
   - q: What scents feel 'grandmacore'?
     a: >-
@@ -144,7 +154,7 @@ faqs:
       Solid brass slowly darkens, which most people actually want for the
       antique look. If you prefer it bright, a quick polish once or twice a year
       is all it takes.
-updated: '2026-09-05'
+updated: '2026-09-08'
 ---
 
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders to start with.

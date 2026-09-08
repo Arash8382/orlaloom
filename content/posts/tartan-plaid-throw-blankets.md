@@ -7,7 +7,7 @@ description: >-
   you can toss on every chair, here are six tartan and plaid throw blankets
   worth buying, with honest pros and cons for each.
 category: textiles
-updated: '2026-09-04'
+updated: '2026-09-08'
 date: '2026-08-04'
 cover: /thumbnails/thumb-tartan-plaid-throw-blankets.webp
 products:
@@ -182,6 +182,16 @@ products:
       that job better.
     added: '2026-09-04'
     url: 'https://www.amazon.com/dp/B08CY71NTV?tag=orlaloom-20'
+  - name: "BATTILO HOME Rust Fall Plaid Throw Blanket, 50 x 60 in"
+    image: "https://m.media-amazon.com/images/I/81nut6AV-DL._AC_SL1500_.jpg"
+    brand: "BATTILO HOME"
+    price: "~$28-35"
+    retailer: "Amazon"
+    badge: "Best rust plaid"
+    blurb: "The autumn colourway this list was missing — burnt rust and cream in a chunky knit that suits a sofa arm from September onward."
+    caveat: "A knit throw rather than woven wool tartan, so it is decorative warmth more than the real thing."
+    added: '2026-09-08'
+    url: "https://www.amazon.com/dp/B0F6632115?tag=orlaloom-20"
 ---
 Cottagecore is getting a tailored update this fall, and the fashion press has already named it: "vintage prep." Think heritage patterns, cranberry and ochre, brass lamps, stacked books — and above all, tartan. The tartan throw blanket is the single easiest way to bring the look home: no repainting, no new furniture, just one piece of woven pattern draped over what you already own. Here's how to choose one, and the six we'd actually buy.
 

@@ -117,6 +117,16 @@ products:
     image: 'https://m.media-amazon.com/images/I/71064WH3ySL._AC_SL1500_.jpg'
     added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B00C0SX9F8?tag=orlaloom-20'
+  - name: "P.F. Candle Co. Teakwood & Tobacco, 7.2 oz"
+    image: "https://m.media-amazon.com/images/I/61XHIMDh9yL._AC_SL1500_.jpg"
+    brand: "P.F. Candle Co."
+    price: "~$20-25"
+    retailer: "Amazon"
+    badge: "Best autumn scent"
+    blurb: "Leather, oak and cedar in the same amber apothecary jar as the Amber & Moss — the one to light once the evenings draw in."
+    caveat: "Smokier and more masculine than the florals here, and 40-50 hours is a shorter burn than the large jars."
+    added: '2026-09-08'
+    url: "https://www.amazon.com/dp/B01GVTEGDU?tag=orlaloom-20"
 faqs:
   - q: What's the most 'cottagecore' candle scent?
     a: >-
@@ -132,7 +142,7 @@ faqs:
       hasn't burned long enough to form a full melt pool. Let it liquefy edge to
       edge every time — roughly an hour per inch of diameter — and the throw
       improves dramatically.
-updated: '2026-08-24'
+updated: '2026-09-08'
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw, burn time, and which ones are too small for the room you have in mind.

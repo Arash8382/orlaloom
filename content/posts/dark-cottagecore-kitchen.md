@@ -103,6 +103,16 @@ products:
       larger set.
     added: '2026-09-04'
     url: 'https://www.amazon.com/dp/B0FMZHMXQN?tag=orlaloom-20'
+  - name: "Dark Moody Botanical Kitchen Towels, Set of 2 (16 x 24)"
+    image: "https://m.media-amazon.com/images/I/81Dyd17iP2L._AC_SL1500_.jpg"
+    brand: "Sviojuce"
+    price: "~$14-18"
+    retailer: "Amazon"
+    badge: "Best budget accent"
+    blurb: "Old-master florals on a near-black ground — the cheapest way to test the dark-kitchen look before committing to plates or paint."
+    caveat: "Printed cotton, so the pattern sits on the surface and softens with washing; the review count is still modest."
+    added: '2026-09-08'
+    url: "https://www.amazon.com/dp/B0FHDFZRYG?tag=orlaloom-20"
 faqs:
   - q: What's the difference between cottagecore and dark cottagecore?
     a: >-
@@ -117,7 +127,7 @@ faqs:
     a: >-
       Forest green, aubergine, oxblood, charcoal, and warm near-black, with
       cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-09-04'
+updated: '2026-09-08'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
