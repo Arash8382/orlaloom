@@ -163,6 +163,16 @@ products:
     caveat: "In-stock counts have been running low on this one, so grab it early in the season if you want it. It is a single small pumpkin rather than a set - buy two or three in different spots, or pair it with a taller stem arrangement, or it reads as an afterthought on a big table."
     added: '2026-09-07'
     url: 'https://www.amazon.com/dp/B0B99NR7M2?tag=orlaloom-20'
+  - name: "MIULEE Linen-Blend Plaid Pillow Covers, 18 x 18 in, Set of 2 (Brown)"
+    image: "https://m.media-amazon.com/images/I/817Pc8i321L._AC_SL1500_.jpg"
+    brand: "MIULEE"
+    price: "~$18-24"
+    retailer: "Amazon"
+    badge: "Best fall swap"
+    blurb: "A soft brown check in a linen, viscose and cotton weave — the cheapest change that makes a whole sofa read as autumn, and the covers store flat for the other nine months."
+    caveat: "Covers only, inserts not included, and the linen-look face is a blend rather than pure linen."
+    added: '2026-09-09'
+    url: "https://www.amazon.com/dp/B0FPFDV1LZ?tag=orlaloom-20"
 faqs:
   - q: What makes decor "cottagecore" for fall?
     a: >-
@@ -188,7 +198,7 @@ faqs:
       to feel right, early enough to enjoy it through Halloween and into the
       harvest season. Candles and quilts can come out even sooner on the first
       cool evening.
-updated: '2026-09-07'
+updated: '2026-09-09'
 ---
 
 When the light goes golden and the evenings turn cool, cottagecore quietly shifts into its cosiest season. Fall is less about buying a whole new look and more about layering warmth into the one you have — a herbal candle burning by four o'clock, a patchwork quilt over the sofa, terracotta crowded with mums, and a mug that lives permanently by the kettle. These are the warm, gather-in finds worth adding first, each one a piece you'll keep long after the leaves are down.
@@ -309,6 +319,8 @@ unsealed clay expands and cracks the wall from the inside.
 
 **Stoneware mugs:** dishwasher-safe as a rule, but skip the heated dry cycle on
 reactive glazes — it is what crazes the surface into fine lines.
+
+The first genuinely cold morning is usually when the coffee setup starts to matter more than the throw blanket; our picks for that are in the [retro coffee makers](/blog/retro-coffee-makers) guide.
 
 ## FAQ
 

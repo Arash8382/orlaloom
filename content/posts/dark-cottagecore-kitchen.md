@@ -113,6 +113,16 @@ products:
     caveat: "Printed cotton, so the pattern sits on the surface and softens with washing; the review count is still modest."
     added: '2026-09-08'
     url: "https://www.amazon.com/dp/B0FHDFZRYG?tag=orlaloom-20"
+  - name: "Barnyard Designs Ceramic Utensil Crock, 6.75 in (Black)"
+    image: "https://m.media-amazon.com/images/I/71UT4BxZbGL._AC_SL1500_.jpg"
+    brand: "Barnyard Designs"
+    price: "~$22-28"
+    retailer: "Amazon"
+    badge: "Best everyday piece"
+    blurb: "Matte black glazed stoneware that holds a fistful of wooden spoons and reads as intentional rather than clutter — the cheapest single change that makes a countertop look moody."
+    caveat: "At 6.75 inches it is snug for long ladles or a full set of tongs, so size up if your utensils run oversized."
+    added: '2026-09-09'
+    url: "https://www.amazon.com/dp/B0CXYQHBX3?tag=orlaloom-20"
 faqs:
   - q: What's the difference between cottagecore and dark cottagecore?
     a: >-
@@ -127,7 +137,7 @@ faqs:
     a: >-
       Forest green, aubergine, oxblood, charcoal, and warm near-black, with
       cream and aged brass, plus an occasional chartreuse or persimmon accent.
-updated: '2026-09-08'
+updated: '2026-09-09'
 ---
 
 Dark cottagecore is what happens when cozy cottage charm grows up and moves into the evening. Instead of bright whites and pastels, think deep greens and aubergines, aged brass, candlelight, vintage ceramics, and a slightly witchy, lived-in warmth. It's one of the fastest-rising kitchen aesthetics of 2026 — searches for it climbed over 900% on Pinterest — and the best part is you don't need to renovate to get it. Most of the look comes from color and small finds. Here's how to build it.
@@ -168,6 +178,8 @@ The same moody, candle-lit palette translates beautifully to a desk — [dark ac
 Wall light is the step most people skip, because it looks like a wiring job. It is not: a pair of [plug-in wall sconces](/blog/plug-in-wall-sconces-for-renters) either side of a shelf or a window gives a dark kitchen the same layered glow as hardwired fixtures, and comes down with the picture hooks when you move.
 
 If the palette works in here it usually wants to continue. [Moody dark floral bedding](/blog/moody-dark-floral-bedding) is the easiest way to carry it into the next room without repainting anything.
+
+A dark kitchen is also the easiest room in the house to decorate in October — the palette is already there, so [cottagecore Halloween decor](/blog/cottagecore-halloween-decor) reads as seasonal rather than costume.
 
 ## FAQ
 

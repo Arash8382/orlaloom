@@ -157,6 +157,16 @@ products:
       anything you care about.
     added: '2026-09-01'
     url: 'https://www.amazon.com/dp/B0DPFQY7D8?tag=orlaloom-20'
+  - name: "Beistle Vintage Halloween Ceramic Black Cat Mug, 12 oz"
+    image: "https://m.media-amazon.com/images/I/61aWozD4fNL._AC_SL1500_.jpg"
+    brand: "Beistle"
+    price: "~$18-22"
+    retailer: "Amazon"
+    badge: "Best budget piece"
+    blurb: "Beistle has been printing paper Halloween decorations since 1900, and this mug borrows that same flat retro cat face — orange ceramic, dishwasher and microwave safe, and useful well past October."
+    caveat: "Only a handful of reviews so far, and the orange is brighter in person than the muted vintage palette elsewhere on this list."
+    added: '2026-09-09'
+    url: "https://www.amazon.com/dp/B0FQCWKH7V?tag=orlaloom-20"
 faqs:
   - q: What is cottagecore Halloween decor?
     a: >-
@@ -183,7 +193,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-09-07'
+updated: '2026-09-09'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.
@@ -223,6 +233,8 @@ Outdoors, the thing that makes a porch look occupied rather than decorated is so
 ## Halloween cottagecore vs spooky cottagecore: pick a lane
 
 Searches for **halloween cottagecore** split into two moods, and mixing them is why some rooms look busy. *Harvest cottagecore* (this guide) is warm and storybook: velvet, ceramic, amber, dried flowers, friendly ghosts. *Spooky* or *dark cottagecore* leans into deep plums, black lace, aged brass and moody florals — closer to a Victorian parlour than a farmhouse. Both are beautiful; just choose one per room. If the darker mood is calling, our [dark cottagecore kitchen](/blog/dark-cottagecore-kitchen) and [moody dark floral bedding](/blog/moody-dark-floral-bedding) guides are the starting point, and the black-cat jar from this list is the one piece that works in either.
+
+Once the pumpkins come down, the same shelf wants something that carries through winter — a row of [vintage terracotta pots](/blog/vintage-terracotta-pots) planted with paperwhites or forced bulbs does it without a second trip to the shops.
 
 ## FAQ
 
