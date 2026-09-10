@@ -129,6 +129,21 @@ products:
       these — hand-wash and store them upright.
     added: '2026-07-26'
     url: 'https://www.amazon.com/dp/B0FJMV2BRF?tag=orlaloom-20'
+  - name: 'FULGNU Green Hobnail Wine Goblets, 12 oz (Set of 4)'
+    image: 'https://m.media-amazon.com/images/I/71qxaLkgNvL._AC_SL1500_.jpg'
+    brand: FULGNU
+    price: ~$18-24
+    retailer: Amazon
+    badge: Best stemmed wine glass
+    blurb: >-
+      A proper stemmed goblet rather than a coupe, in a bottle green that reads
+      like a flea-market find — the shape that makes a weeknight glass of wine
+      look like an occasion, at under six dollars a stem.
+    caveat: >-
+      Twelve ounces is generous for a wine glass, so a normal pour looks small
+      in it.
+    added: '2026-09-10'
+    url: 'https://www.amazon.com/dp/B0GD6BVMTV?tag=orlaloom-20'
 faqs:
   - q: Is new hobnail glassware dishwasher safe?
     a: >-
@@ -156,7 +171,7 @@ faqs:
       dishwasher. Our advice: buy new for the glasses you drink from daily, and
       save the vintage budget for display pieces like a Fenton vase or candy
       dish where age and provenance actually show.
-updated: '2026-09-01'
+updated: '2026-09-10'
 ---
 
 There is a reason hobnail glass keeps showing up in every cottagecore kitchen tour and vintage tablescape on your feed: those little raised bumps do something magical with light. Where smooth glass simply lets sunshine pass through, a hobnail tumbler scatters it, throwing dozens of tiny sparkles across the table like water. The pattern dates back to Victorian pressed glass and hit its stride in the 1940s and 50s, when Fenton's milk-glass hobnail pieces became the wedding gift in America. Original pieces now command serious money at estate sales — but the good news is that the look has been faithfully revived, and you can set an entire table with new, dishwasher-friendly hobnail glassware for less than the price of one collectible Fenton vase.
@@ -180,6 +195,8 @@ This guide covers the best hobnail drinking glasses you can buy right now, from 
 Hobnail rewards being displayed rather than hidden. A row of clear tumblers on an open shelf in front of a window becomes a light feature in its own right. Colored pieces look best clustered loosely by tone — three ambers with a green, rather than a strict rainbow. On the table, hobnail pairs naturally with the textures it grew up with: washed linen, scalloped ceramic, unpolished wood and a jug of garden flowers. If you already collect amber or fluted glass, hobnail mixes in seamlessly; the shared vintage language does the work — pressed glass is one of the easiest entry points into a full [grandmillennial decor](/blog/grandmillennial-decor) scheme, where pattern, brass and inherited-looking china are supposed to pile up. And a lidded hobnail cup with a glass straw quietly replaces the plastic smoothie tumbler on your counter with something you will actually enjoy looking at.
 
 Single votives and the smallest hobnail tumblers are also the cheapest way into the look, which makes them one of the more reliable [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) — under fifteen dollars, hard to get wrong, and useful in a room you have not seen.
+
+Hobnail earns its keep hardest in December, when the table is crowded and every surface is doing something. Pressed glass catches candlelight from every facet, so a few tumblers scattered down a runner read as part of the [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations) rather than as the drinks that happen to be standing on them. The rest of the year, a spare tumbler is the best bud vase you already own — a few stems cut short and set on a windowsill next to the [vintage terracotta pots](/blog/vintage-terracotta-pots) is a two-minute arrangement that looks like it took thought.
 
 ## FAQ
 

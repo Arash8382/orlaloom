@@ -119,6 +119,21 @@ products:
       The queen is the size that stays available most reliably.
     added: '2026-09-04'
     url: 'https://www.amazon.com/dp/B0H9WZJYZR?tag=orlaloom-20'
+  - name: 'Soul & Lane English Garden Floral Cotton Quilt Set, King with 2 Shams'
+    image: 'https://m.media-amazon.com/images/I/91hgm35htCL._AC_SL1500_.jpg'
+    brand: Soul & Lane
+    price: ~$118-130
+    retailer: Amazon
+    badge: Best king size
+    blurb: >-
+      Every other pick here tops out at queen, and a queen quilt on a king bed
+      looks like a tablecloth. This is a true king in all-cotton with two
+      matching shams, in a small-scale English garden floral.
+    caveat: >-
+      Only a couple of dozen reviews so far, so the long-term wash record is
+      still unproven — and king quilts are a jump in price.
+    added: '2026-09-10'
+    url: 'https://www.amazon.com/dp/B0GQP6FXM2?tag=orlaloom-20'
 faqs:
   - q: Are floral quilts warm enough on their own?
     a: >-
@@ -175,7 +190,7 @@ faqs:
       ticking-stripe pillow, a plaid throw folded at the foot — and let
       everything else be solid. Matched bed-in-a-bag sets are what make a
       cottage bedroom read as a showroom rather than a collected room.
-updated: '2026-09-04'
+updated: '2026-09-10'
 ---
 
 A floral quilt is the fastest way to give a bedroom that soft, grandmother's-cottage feeling — layered, faded and warm. It is also one of the few pieces of bedding that works as decoration and as bedding at the same time: thin enough to leave on through summer, pretty enough that the bed looks made even when you have only pulled it flat. These ditsy and patchwork picks do the heavy lifting on their own, and below them you will find the comparison table, the buying criteria that actually matter, and the drawbacks nobody prints on the packaging.
@@ -248,6 +263,8 @@ The cottage look is collected, not coordinated. A floral quilt over plain white 
 From there, build outward rather than upward. A [tartan or plaid throw](/blog/tartan-plaid-throw-blankets) folded across the foot of the bed adds the weight a quilt lacks and carries the room into autumn. [Ruffled duvet covers and lace-trim pillowcases](/blog/ruffle-duvet-covers-lace-trim-pillowcases) are the natural companions if you want more romance in the layering, and a [floral bedroom rug](/blog/floral-bedroom-rugs) underneath ties the print down to the floor so the quilt does not float. For the full room — headboard, lighting, nightstand and all — our [cottagecore bedroom guide](/blog/cottagecore-bedroom) is the pillar this one sits under.
 
 One last note on palette. If your instinct runs darker than prairie pinks, the same rules apply in reverse: swap the pale ditsy for [moody dark floral bedding](/blog/moody-dark-floral-bedding) and keep everything around it light, so the bed still reads as the soft thing in the room rather than a hole in it.
+
+Two practical notes on living with one. A quilt is thin enough to double as the thing you throw over grass, so an older ditsy quilt earns a second life folded into a [wicker picnic basket](/blog/best-wicker-picnic-baskets) long before it is worn out. And on the floor beneath it, a print-on-print bedroom needs a rug that can be dealt with rather than admired — our [washable rug owner report](/blog/washable-rug-owner-report) is the long-term verdict on how those actually hold up after repeated washes.
 
 ## FAQ
 

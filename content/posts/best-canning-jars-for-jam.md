@@ -149,6 +149,22 @@ products:
       first order.
     added: '2026-09-01'
     url: 'https://www.amazon.com/dp/B0BCXVGXNT?tag=orlaloom-20'
+  - name: 'Ball Quilted Crystal Half-Pint Mason Jars with Lids and Bands, 8 oz (6-Pack)'
+    image: 'https://m.media-amazon.com/images/I/716phpodrfL._AC_SL1500_.jpg'
+    brand: Ball
+    price: ~$19-24
+    retailer: Amazon
+    badge: Prettiest Ball jar
+    blurb: >-
+      The diamond-embossed Quilted Crystal is the jar most people picture when
+      they picture homemade jam, and it catches light on a shelf in a way the
+      plain Ball jar does not. Six is the right count for a single small batch
+      rather than a case of twenty-four.
+    caveat: >-
+      The embossing traps a little more residue than smooth glass, so it wants a
+      brush rather than a rinse.
+    added: '2026-09-10'
+    url: 'https://www.amazon.com/dp/B0FR59K61G?tag=orlaloom-20'
 faqs:
   - q: Can I reuse canning jars and lids?
     a: >-
@@ -170,7 +186,7 @@ faqs:
       keeps its color and set best in small jars because you finish them faster
       once opened — and small jars process a few minutes quicker in the water
       bath too.
-updated: '2026-09-01'
+updated: '2026-09-10'
 ---
 
 There is a moment in July — berries cheap and fragrant at the farmers market, the kitchen smelling of sugar and fruit — when making your own jam stops being a quaint idea and becomes an urgent little mission. Pinterest calls it "grandmacore"; anyone who grew up with a preserving grandmother just calls it summer. Either way, the gear matters more than you might think. The right jars seal reliably, look beautiful lined up on a shelf, and turn a $4 basket of strawberries into a row of gifts. The wrong ones leak, rust, or refuse to seal at all.
@@ -200,6 +216,8 @@ Jam-making also lands at the exact point in the year when the rest of the house 
 Jam is one of the safest things you can can at home: fruit plus sugar plus lemon juice is high-acid, which means a simple boiling-water bath — no pressure canner — gives you a shelf-stable seal. Use tested recipes for ratios, simmer your lids, leave a quarter-inch of headspace, and process half-pints for about ten minutes. If a lid does not pop down as it cools, that jar just goes in the fridge and becomes this week's toast. The National Center for Home Food Preservation publishes free tested recipes if you are starting from scratch. Once the jam is eaten, the storage question stays — [glass pantry canisters](/blog/glass-pantry-canisters) are the matched, lidded version for flour, sugar and pasta.
 
 Jars travel well, too. A couple of small jars of jam, a loaf and a wedge of cheese is most of a picnic already — pack them into one of the [wicker picnic baskets](/blog/best-wicker-picnic-baskets) with a proper flat base and nothing tips on the walk out.
+
+Late-summer jam is really December's problem solved early. A row of labelled half-pints keeps for a year, and a jar tied with twine is the gift that fits every household — it sits comfortably alongside the rest of the [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations) when the shelf becomes the decoration.
 
 ## FAQ
 
