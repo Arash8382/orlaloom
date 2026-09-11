@@ -152,6 +152,23 @@ products:
       finishes elsewhere on this list, and it shows fingerprints.
     added: '2026-09-05'
     url: 'https://www.amazon.com/dp/B003A2ZEZG?tag=orlaloom-20'
+  - name: 'moonster Refillable Leather Journal, A5, Full-Grain Buffalo, Dark Brown'
+    brand: moonster
+    price: "~$28-35"
+    retailer: Amazon
+    badge: Best journal
+    blurb: >-
+      Everything else on this desk is scenery; this is the one object you use.
+      Full-grain buffalo hide that scuffs into a patina instead of peeling,
+      320 lined pages on 70gsm paper, and a cover you refill rather than
+      replace - so it gets better over the years the look is pretending to be.
+    caveat: >-
+      Genuine leather smells strongly of tannin for the first week or two, and
+      70gsm paper will ghost under a wet fountain-pen nib. A5 is notebook
+      size, not a desk-blotter statement piece.
+    image: 'https://m.media-amazon.com/images/I/71oQbARz1wL._AC_SL1057_.jpg'
+    added: '2026-09-11'
+    url: 'https://www.amazon.com/dp/B09KY36WGM?tag=orlaloom-20'
 faqs:
   - q: Isn't dark academia too dark for a small dorm room?
     a: >-
@@ -172,7 +189,7 @@ faqs:
       burn in a dorm anyway. The look holds up because every piece on this list
       works for a living — light, storage, book support, surface protection.
       Decor that does nothing is the first thing you stop dusting.
-updated: '2026-09-05'
+updated: '2026-09-11'
 ---
 
 Dark academia never really left, but this back-to-school season it is having a proper moment — the dorm-decor trend forecasts are calling it the year of the "heritage dorm," all worn leather, brass, and old-library green instead of fairy lights and plastic crates. Which makes sense. A dorm room is the least atmospheric room most people will ever live in, and dark academia is the fastest way to give a room an atmosphere.

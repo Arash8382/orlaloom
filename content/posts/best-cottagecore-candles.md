@@ -137,6 +137,23 @@ products:
     caveat: "The most expensive candle on this list and deliberately unscented, so it will do nothing for a room you actually want to smell of something."
     added: '2026-09-09'
     url: "https://www.amazon.com/dp/B00A8IDNBC?tag=orlaloom-20"
+  - name: 'BOLSIUS Ivory Taper Candles, 10 in, 10-Pack Unscented'
+    brand: BOLSIUS
+    price: "~$15-20"
+    retailer: Amazon
+    badge: Best dinner tapers
+    blurb: >-
+      Every other pick here is a jar or a pillar; this is the candle you
+      actually eat dinner by. Dutch-made, properly dripless, 8 hours a stick,
+      and ten of them cost less than one scented jar - so you can light four
+      at a time without flinching.
+    caveat: >-
+      Unscented by design, so it does no work on the smell of a room. Standard
+      7/8-in base needs a true taper holder; it will wobble in a wide-cup
+      candlestick without a little putty.
+    image: 'https://m.media-amazon.com/images/I/81PrZpm1BnL._AC_SL1500_.jpg'
+    added: '2026-09-11'
+    url: 'https://www.amazon.com/dp/B011ABWSDE?tag=orlaloom-20'
 faqs:
   - q: What's the most 'cottagecore' candle scent?
     a: >-
@@ -152,7 +169,7 @@ faqs:
       hasn't burned long enough to form a full melt pool. Let it liquefy edge to
       edge every time — roughly an hour per inch of diameter — and the throw
       improves dramatically.
-updated: '2026-09-09'
+updated: '2026-09-11'
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw, burn time, and which ones are too small for the room you have in mind.
@@ -214,7 +231,7 @@ Worth knowing before you spend $30 on a jar.
 
 ## Where candles fit in the rest of the room
 
-A candle is the cheapest instrument in a room, and it works hardest when it is not working alone. Set one beside the softer, lower light of a [cottagecore table lamp](/blog/cottagecore-table-lamps) rather than under a ceiling fitting, and the two together do what neither manages by itself. On a table, tapers in [antique brass holders](/blog/grandmacore-scents-brass-holders) give you height that a jar candle never will, and a few [hobnail glass](/blog/hobnail-glassware) votives scattered between them catch the flame and multiply it down the length of the table. They matter most in winter, when the light goes early: see how we layer candlelight with garlands and glass ornaments in [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations).
+A candle is the cheapest instrument in a room, and it works hardest when it is not working alone. Set one beside the softer, lower light of a [cottagecore table lamp](/blog/cottagecore-table-lamps) rather than under a ceiling fitting, and the two together do what neither manages by itself. On a table, tapers in [antique brass holders](/blog/grandmacore-scents-brass-holders) give you height that a jar candle never will, and a few [hobnail glass](/blog/hobnail-glassware) votives scattered between them catch the flame and multiply it down the length of the table. They matter most in winter, when the light goes early: see how we layer candlelight with garlands and glass ornaments in [cottagecore Christmas decorations](/blog/cottagecore-christmas-decorations). The other room that lives or dies by low light is the one you read in — the lamp, blanket and side-table picks in our [cozy reading nook essentials](/blog/cozy-reading-nook-essentials) guide are chosen to sit at the same height and warmth as a candle rather than fight it.
 
 Seasonally, the fruit-and-evergreen scents are the hinge into autumn — light one alongside dried stems and aged clay and you have most of a [cozy fall cottagecore scheme](/blog/cozy-fall-cottagecore-decor) with almost nothing bought. And because a good candle is under $30, it is the reliable answer to both [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) and the last-minute [hostess gift](/blog/cottagecore-hostess-gifts) problem. If you are furnishing a kitchen from scratch on a budget, the same logic applies to everything else in it — see the [Amazon Basics cottagecore edit](/blog/cottagecore-on-a-budget-amazon-basics) and the wider [cottagecore kitchen decor](/blog/cottagecore-kitchen-decor) guide.
 

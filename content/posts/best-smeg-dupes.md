@@ -96,6 +96,23 @@ products:
     image: 'https://m.media-amazon.com/images/I/716jvsihyoL._AC_SL1500_.jpg'
     added: '2026-07-16'
     url: 'https://www.amazon.com/dp/B0DQRFTX7K?tag=orlaloom-20'
+  - name: "COMFEE' Retro Microwave Oven, 0.7 Cu. Ft., 700W, Cream"
+    brand: COMFEE'
+    price: "~$90-110"
+    retailer: Amazon
+    badge: Best microwave dupe
+    blurb: >-
+      Smeg's retro microwave is the one dupe nobody makes well - except this
+      one. Cream body, chrome-look trim, a real mechanical-feel dial and 9
+      preset menus, at roughly a seventh of the Smeg's price. Small enough
+      (0.7 cu ft) to sit on a shelf without dominating the counter.
+    caveat: >-
+      700W is genuinely slow - budget about 40% longer than a 1,100W machine.
+      The trim is chromed plastic, not metal, and the door thunks rather than
+      clicks.
+    image: 'https://m.media-amazon.com/images/I/718R-hA2YsL._AC_SL1500_.jpg'
+    added: '2026-09-11'
+    url: 'https://www.amazon.com/dp/B07R7TQ6Q5?tag=orlaloom-20'
 faqs:
   - q: What is the best Smeg dupe overall?
     a: >-
@@ -135,7 +152,7 @@ faqs:
       will out-mix any $70 compact mixer on stiff doughs and big batches. If you
       bake seriously, buy capacity and power; if the mixer is mostly decor with
       occasional cookies, the dupe is the smarter money.
-updated: '2026-09-04'
+updated: '2026-09-11'
 ---
 
 The best overall Smeg dupe is the **Hazel Quinn retro electric kettle** — it copies the KLF03's rounded body and front thermometer dial almost exactly for around $55-65, saving you roughly $135 versus a real Smeg kettle. Across the board, good Smeg dupes deliver about 90% of the pastel-50s look for 20-30% of the price, and the best of them are genuinely capable appliances, not just pretty shells.
@@ -170,7 +187,7 @@ For most kitchens, the **Hazel Quinn retro kettle** is the best single Smeg dupe
 
 That said, "best" depends on which shelf you're filling. If you want the biggest visual payoff, the **Frigidaire retro compact fridge** delivers the single most convincing "is that a Smeg kitchen?" moment of anything on this list. If you want the biggest savings, the **Kitchen in the box pastel mixer** copies the SMF03 look for around a tenth of the price. And the **Keenstone toaster** is the easiest win — from a few feet away it reads as the TSF01 at about a fifth of the cost.
 
-If you're duping a whole counter, pick one color family and stay in it — a mint kettle next to a pink mixer next to a blue toaster reads chaotic rather than curated. Cream and pastel blue are the easiest to match across the brands here. Our [pastel small appliances guide](/blog/best-retro-kitchen-appliances) has more budget-friendly fillers in the same palette, and the [retro mini fridge roundup](/blog/retro-mini-fridge) goes deeper on the statement piece.
+If you're duping a whole counter, pick one color family and stay in it — a mint kettle next to a pink mixer next to a blue toaster reads chaotic rather than curated. Cream and pastel blue are the easiest to match across the brands here. Our [pastel small appliances guide](/blog/best-retro-kitchen-appliances) has more budget-friendly fillers in the same palette, and the [retro mini fridge roundup](/blog/retro-mini-fridge) goes deeper on the statement piece. Dupes also solve the hardest version of this problem — a small rented room where the appliances *are* the decor — which is why a pastel kettle and a compact fridge turn up in most of our [cottagecore dorm room decor](/blog/cottagecore-dorm-room-decor) picks.
 
 ## Are Smeg dupes worth it, or should you buy the real thing?
 

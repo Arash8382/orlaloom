@@ -143,6 +143,23 @@ products:
       cloth or felt pad between plates if they live in a tight cupboard.
     added: '2026-08-20'
     url: 'https://www.amazon.com/dp/B0F4JWD1HQ?tag=orlaloom-20'
+  - name: 'Amazon Basics Glazed Stoneware Coffee Mugs, 16 oz, Set of 4, Ivory'
+    brand: Amazon Basics
+    price: "~$17-22"
+    retailer: Amazon
+    badge: Best budget mugs
+    blurb: >-
+      The mug that matches the olive stoneware dinner set above - same glazed
+      stoneware body, same slightly uneven hand-glazed finish, in a warm ivory
+      that reads farmhouse rather than office. 16 oz is a real breakfast mug,
+      not a token 10 oz.
+    caveat: >-
+      Stoneware this weight is heavy when full, and the handle is on the snug
+      side for large hands. Reactive glaze means small colour and speckle
+      differences between the four.
+    image: 'https://m.media-amazon.com/images/I/517IUvVwWjL._AC_SL1500_.jpg'
+    added: '2026-09-11'
+    url: 'https://www.amazon.com/dp/B0F4314KP1?tag=orlaloom-20'
 faqs:
   - q: Is Amazon Basics actually good enough for a cottagecore kitchen, or does it look cheap?
     a: >-
@@ -158,9 +175,9 @@ faqs:
       personality.
   - q: How much can you furnish a full cottagecore kitchen for on an Amazon Basics budget?
     a: >-
-      The five pieces in this guide total under $150 combined and cover
-      cookware, mixing and prep, and table textiles — the three categories
-      that touch a kitchen every single day. That is a genuinely functional
+      The seven pieces in this guide come to roughly $215 combined and cover
+      cookware, mixing and prep, table textiles, dinnerware and mugs — the
+      categories that touch a kitchen every single day. That is a genuinely functional
       starter kitchen, not just accents. Layer in a handful of patterned or
       vintage-style pieces from a guide like our retro appliance picks for
       the counter and you have a kitchen that looks curated for a fraction
@@ -173,10 +190,10 @@ faqs:
       towels and napkins are consumables in any brand and will show wear
       over a few years of washing regardless of price point, so they are a
       reasonable place to save money rather than splurge.
-updated: '2026-08-20'
+updated: '2026-09-11'
 ---
 
-Cottagecore has a reputation for being an expensive aesthetic — scalloped china, hand-thrown pottery, linen that costs more than the meal you're eating on it. But the look is really built on a handful of unglamorous fundamentals: solid-color cookware, plain textiles, and a warm neutral palette. Those fundamentals are exactly what Amazon's own house brand does well, and does cheaply. This guide rounds up five Amazon Basics pieces that do real, everyday work in a cottagecore kitchen without the boutique price tag attached to the aesthetic.
+Cottagecore has a reputation for being an expensive aesthetic — scalloped china, hand-thrown pottery, linen that costs more than the meal you're eating on it. But the look is really built on a handful of unglamorous fundamentals: solid-color cookware, plain textiles, and a warm neutral palette. Those fundamentals are exactly what Amazon's own house brand does well, and does cheaply. This guide rounds up seven Amazon Basics pieces that do real, everyday work in a cottagecore kitchen without the boutique price tag attached to the aesthetic.
 
 The honest pitch here is not "these are secretly luxury goods." A $30 enameled Dutch oven is not identical to a $150 one — the enamel is thinner and more chip-prone, the color range is narrower, and you will not find the runway-trend shades that premium brands chase every season. What you do get is the same basic idea executed competently: solid, food-safe materials in a shape and color that reads as cottagecore rather than as a college dorm starter set. For the categories where the *material* is doing the aesthetic work — cast iron, plain melamine, cotton textiles — budget and boutique are closer than the price tags suggest.
 
@@ -200,7 +217,7 @@ It depends entirely on which category you buy in. Solid-color enameled cookware 
 
 **How much can you furnish a full cottagecore kitchen for on an Amazon Basics budget?**
 
-The five pieces in this guide total under $150 combined and cover cookware, mixing and prep, and table textiles — the three categories that touch a kitchen every single day. That is a genuinely functional starter kitchen, not just accents. Layer in a handful of patterned or vintage-style pieces from a guide like our retro appliance picks for the counter and you have a kitchen that looks curated for a fraction of an all-boutique cost.
+The seven pieces in this guide come to roughly $215 combined and cover cookware, mixing and prep, table textiles, dinnerware and mugs — the categories that touch a kitchen every single day. That is a genuinely functional starter kitchen, not just accents. Layer in a handful of patterned or vintage-style pieces from a guide like our retro appliance picks for the counter and you have a kitchen that looks curated for a fraction of an all-boutique cost.
 
 **Do Amazon Basics products actually hold up, or are they disposable?**
 
@@ -208,7 +225,7 @@ Cast iron and enameled cookware genuinely last for years with basic care (hand-w
 
 ## Stretching the budget further
 
-The same instinct — buy the shape and the colour, skip the maker's name — is what makes a good cheap present work. Nearly everything on this page has a smaller sibling worth wrapping, and the picks in our [cottagecore gifts under $30](/blog/cottagecore-gifts-under-30) guide are chosen on exactly that basis: things that look considered rather than cheap, at a price that survives buying six of them.
+The same instinct — buy the shape and the colour, skip the maker's name — is what makes a good cheap present work. Nearly everything on this page has a smaller sibling worth wrapping, and the picks in our [cottagecore gifts under $30](/blog/cottagecore-gifts-under-30) guide are chosen on exactly that basis: things that look considered rather than cheap, at a price that survives buying six of them. The same trick works on the walls: a few [woven wall baskets](/blog/cottagecore-woven-wall-baskets) cost less than one framed print and do more for a plain rented kitchen than anything you could hang in a frame.
 
 ## Related guides
 
