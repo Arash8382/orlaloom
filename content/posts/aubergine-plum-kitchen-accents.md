@@ -153,6 +153,16 @@ products:
       overstuffed look, so size up on the fills.
     added: '2026-08-02'
     url: 'https://www.amazon.com/dp/B0C1MNWYJP?tag=orlaloom-20'
+  - name: "Bedding Craft Hemstitched Cotton Dinner Napkins, Plum, Set of 12 (18 x 18 in)"
+    image: "https://m.media-amazon.com/images/I/81ex8AT6MEL._AC_SL1500_.jpg"
+    brand: "Bedding Craft"
+    price: "~$18-24"
+    retailer: "Amazon"
+    badge: "Best value set"
+    blurb: "Twelve real cotton napkins in a deep, true aubergine for around twenty dollars — the cheapest honest way to get this palette onto a table, and the piece that makes the scheme look intentional rather than accidental. The hemstitched border is the detail that matters: it is a drawn-thread finish, the same one you find on old linen, and it is what separates these from the flat polyester party napkins that dominate the colour at this price. Twelve is enough for a table of six with a set in the wash."
+    caveat: "Cotton at this weight creases, so they want a shake and a press if you care about crisp folds. Dye lots on deep purples also drift, so buy the full set in one order rather than topping it up in six months."
+    added: '2026-09-12'
+    url: "https://www.amazon.com/dp/B0DBJ3SYZX?tag=orlaloom-20"
 faqs:
   - q: Is aubergine too dark for a small kitchen?
     a: >-
@@ -182,7 +192,7 @@ faqs:
       and out of "trending" but never actually looks dated the way novelty
       colors do. Buy the pieces you would use anyway — a good Dutch oven, good
       towels — and the color is a bonus, not a bet.
-updated: '2026-08-20'
+updated: '2026-09-12'
 ---
 
 Every year one color quietly takes over Pinterest kitchens, and for 2026 it is aubergine. Searches for "aubergine kitchen" are up nearly 500% year over year — the biggest jump of any kitchen color trend — and the reason is simple: after half a decade of sage green and greige, deep plum reads both moody and warm, which is precisely the combination cottagecore has been circling all along. It is the kitchen cousin of the dark-floral bedding wave, and it flatters the things cottagecore kitchens already have: cream cabinets, warm wood, brass hardware, dried flowers.
@@ -201,7 +211,7 @@ The even better news is that nobody actually paints their kitchen aubergine. The
 
 **Bring in the light.** The color changes character across the day, and that is a feature. Plum cafe curtains are the extravagant version — late light through purple linen is the prettiest thing this trend does — but even towels near a window will shift from near-black in the morning to warm violet at golden hour.
 
-Aubergine plays beautifully with the rest of the cozy-kitchen cluster: it is the natural stovetop companion to a [tea corner](/blog/tea-corner-ideas), sits happily alongside [pastel small appliances](/blog/best-retro-kitchen-appliances) if you keep those to cream rather than mint, and continues the same moody-cozy logic as [dark-floral bedding](/blog/moody-dark-floral-bedding) one room over.
+Aubergine plays beautifully with the rest of the cozy-kitchen cluster: it is the natural stovetop companion to a [tea corner](/blog/tea-corner-ideas), sits happily alongside [pastel small appliances](/blog/best-retro-kitchen-appliances) if you keep those to cream rather than mint, and continues the same moody-cozy logic as [dark-floral bedding](/blog/moody-dark-floral-bedding) one room over. If you want the plum to carry past the kitchen door without repainting anything, [floral chintz throw pillows](/blog/floral-chintz-throw-pillows) are the cheapest bridge into the next room.
 
 ## FAQ
 

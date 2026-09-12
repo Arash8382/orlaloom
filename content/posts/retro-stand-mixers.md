@@ -65,7 +65,17 @@ products:
     image: "https://m.media-amazon.com/images/I/713lD9y3qsL._AC_SL1500_.jpg"
     added: '2026-07-21'
     url: "https://www.amazon.com/dp/B00PYM7QEW?tag=orlaloom-20"
-updated: '2026-08-20'
+  - name: "KitchenAid Artisan 5-Qt Tilt-Head Stand Mixer, KSM150PS (Matcha)"
+    image: "https://m.media-amazon.com/images/I/71PBpZ-1-AL._AC_SL1500_.jpg"
+    brand: "KitchenAid"
+    price: "~$380-420"
+    retailer: "Amazon"
+    badge: "Best heirloom buy"
+    blurb: "The machine every other mixer on this list is quoting. The Artisan silhouette has barely changed since the 1930s, which is exactly why it reads retro without trying, and the Matcha colourway puts it in cottagecore's green family rather than the usual chrome. Practically: a 5-quart bowl with a handle, 59 bowl touchpoints so the beater actually reaches the sides, 10 speeds, and a front hub that takes pasta rollers, grain mills and ice-cream bowls — the reason people keep these for twenty years instead of replacing them."
+    caveat: "It is roughly four hundred dollars and about 26 pounds, so it lives on the counter permanently rather than in a cabinet. The Matcha green is also a vivid, glossy green rather than a soft sage — lovely against cream cabinets, loud against a busy backsplash."
+    added: '2026-09-12'
+    url: "https://www.amazon.com/dp/B094BJHFDF?tag=orlaloom-20"
+updated: '2026-09-12'
 ---
 
 Every retro kitchen has one appliance that anchors the whole look, and it's almost never the toaster — it's the stand mixer. A kettle hides by the stove and a toaster tucks under the cabinets, but a stand mixer is tall, sculptural and permanent. It's the piece guests notice from the doorway, which is exactly why "retro stand mixer" has become one of the most-searched looks in the whole [vintage appliance category](/blog/best-retro-kitchen-appliances). The good news: in 2026 you can get that curvy, pastel, straight-from-a-1950s-kitchen presence at almost any budget, from a $50 Dash to the genuine Smeg article.
@@ -88,7 +98,7 @@ Every retro kitchen has one appliance that anchors the whole look, and it's almo
 
 The SMF03 is the mixer the whole category imitates, and up close the difference is real: die-cast metal, deep enamel color, and a heft that makes the lookalikes feel like props. It is also, functionally, a mid-range mixer at a flagship price — it doesn't out-bake the Cuisinart at half the cost. The honest framing: you buy the Smeg the way you buy a beautiful [Le Creuset-style Dutch oven](/blog/le-creuset-vs-dutch-oven-dupes) — as a forever object that happens to work. If that logic appeals to you, nothing else on this list will scratch the itch. If it doesn't, the Martha Stewart delivers a startling amount of the same visual for about a fifth of the price, and our [Smeg dupes guide](/blog/best-smeg-dupes) covers the same trade across every appliance type.
 
-Style note for the full cottagecore effect: whichever mixer you choose, station it beside a stack of [vintage farmhouse mixing bowls](/blog/vintage-kitchen-accessories) and keep the attachments in one of them. The mixer reads as used and loved rather than showroom-staged — which is the entire point of the aesthetic.
+Style note for the full cottagecore effect: whichever mixer you choose, station it beside a stack of [vintage farmhouse mixing bowls](/blog/vintage-kitchen-accessories) and keep the attachments in one of them. The mixer reads as used and loved rather than showroom-staged — which is the entire point of the aesthetic. And once the mixer lives on the counter, the season it unlocks is preserving — the [canning jars worth buying](/blog/best-canning-jars-for-jam) are where a stand-mixer afternoon of jam actually ends up.
 
 Care is simple but non-negotiable with painted finishes: wipe the body with a damp microfiber cloth only (abrasive sponges dull pastel paint fast), never submerge the head, and hand-wash attachments even when the listing claims dishwasher-safe — aluminum beaters come out of dishwashers gray and chalky.
 

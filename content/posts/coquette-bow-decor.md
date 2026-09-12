@@ -134,6 +134,16 @@ products:
     caveat: "The neck is narrow, so it takes a handful of stems rather than a full supermarket bouquet, and the high-gloss glaze shows dust and fingerprints in direct light. It is ceramic and unweighted - top-heavy arrangements will tip it."
     added: '2026-09-07'
     url: 'https://www.amazon.com/dp/B0F7L4KPG3?tag=orlaloom-20'
+  - name: "Gold Bow Arched Wall Mirror, 13 x 17 in"
+    image: "https://m.media-amazon.com/images/I/81t570p9U0L._AC_SL1500_.jpg"
+    brand: "Generic"
+    price: "~$42-50"
+    retailer: "Amazon"
+    badge: "Best for the wall"
+    blurb: "The first proper wall piece on this list — everything else here sits on a surface or holds a coat. A sculpted ribbon bow crowns an arched frame in an antiqued gold finish, and at 13 by 17 inches it fits the awkward spots a full-size mirror cannot: above a dresser, over a narrow console, or in a powder room where a bare wall needs one thing. The aged finish keeps it on the Baroque side of the trend rather than the shiny-craft-store side."
+    caveat: "Thirteen by seventeen inches is genuinely small — this is a decorative accent, not a mirror you would get ready in. The frame is finished metal rather than solid brass, so dust it with a dry cloth and skip metal polish, which will strip the antiquing."
+    added: '2026-09-12'
+    url: "https://www.amazon.com/dp/B0GFDQV4BV?tag=orlaloom-20"
 faqs:
   - q: Is the bow trend going to date quickly?
     a: >-
@@ -156,7 +166,7 @@ faqs:
       without flexing. The rule of thumb: if a bow hook is described as "resin"
       or feels light, treat it as jewelry-and-hats only; solid metal takes real
       daily weight.
-updated: '2026-09-07'
+updated: '2026-09-12'
 ---
 
 Bows have quietly become the defining decorative motif of 2026. What started as a fashion micro-trend — the so-called coquette aesthetic of ribbons, blush tones and deliberate sweetness — has crossed fully into the home, showing up on tablescapes, kitchen cabinets and entryway walls. And it turns out bows and cottagecore are natural companions: both trade on nostalgia, handmade charm and the sense that someone cared enough to tie a ribbon on ordinary life.
@@ -175,7 +185,7 @@ The line between "charming French-girl apartment" and "child's bedroom" is real,
 
 ## Where bows work hardest
 
-The entryway is the natural starting point, because hooks are the rare decor purchase that earns its keep daily. Bow hooks holding straw hats, canvas bags and linen aprons are practically a cottagecore still life. The dining table is second: bow-embroidered napkins and ribbon candlesticks turn an ordinary supper into something that looks planned, and both store flat in a drawer between occasions. In the bedroom, a pair of velvet bow pillows or bow knobs on a dresser adds the note without renovation. And the smallest option — a bow trinket dish by the sink — is the one people end up buying three of, because it solves the lost-ring problem while it decorates.
+The entryway is the natural starting point, because hooks are the rare decor purchase that earns its keep daily. Bow hooks holding straw hats, canvas bags and linen aprons are practically a cottagecore still life. The dining table is second: bow-embroidered napkins and ribbon candlesticks turn an ordinary supper into something that looks planned, and both store flat in a drawer between occasions. Bows also sit better against painted majolica than you would expect: a ribbon candlestick between a pair of [cabbage plates](/blog/cabbage-plates-tomato-bowls) is most of a grandmillennial table in two objects. In the bedroom, a pair of velvet bow pillows or bow knobs on a dresser adds the note without renovation. And the smallest option — a bow trinket dish by the sink — is the one people end up buying three of, because it solves the lost-ring problem while it decorates.
 
 If you're already deep in the cottagecore look, bows layer beautifully over what you own: they belong next to scalloped dinnerware, washed linen tablecloths and vintage brass the way sprinkles belong on a fairy cake.
 
