@@ -7,7 +7,7 @@ description: >-
   full pantry renovation, with honest pros and cons on each.
 category: cottagecore-kitchen
 date: '2026-08-13'
-updated: '2026-08-23'
+updated: '2026-09-13'
 cover: 'https://m.media-amazon.com/images/I/91GOlt7ygiL._AC_SL1500_.jpg'
 products:
   - name: Set of 5 Glass Kitchen Canisters with Airtight Bamboo Lids
@@ -140,6 +140,16 @@ products:
     image: 'https://m.media-amazon.com/images/I/81Ys8rrcNfL._AC_SL1500_.jpg'
     added: '2026-08-23'
     url: 'https://www.amazon.com/dp/B0G5LVK824?tag=orlaloom-20'
+  - name: "Anchor Hocking Montana Glass Jars with Fresh-Seal Lids, 64 oz (Set of 2)"
+    image: "https://m.media-amazon.com/images/I/41tyKCGguAL._AC_SL1500_.jpg"
+    brand: "Anchor Hocking"
+    price: "~$33-40"
+    retailer: "Amazon"
+    badge: "Best classic jar"
+    blurb: "Everything else on this page is a modern set with a bamboo lid; this is the jar your grandmother had. Anchor Hocking has been pressing the Montana shape for decades - a wide, slightly bellied body with a brushed metal lid and a rubber fresh-seal gasket - and it is the one canister here that looks right on an open shelf rather than only inside a cupboard. Half a gallon each holds a 5 lb bag of flour or a full box of pasta, the mouth is wide enough to get a measuring cup in without funnelling, and the glass is thick enough to survive being knocked against a tap."
+    caveat: "The lid is a friction seal with a gasket, not a clamp or a screw thread, so it keeps things fresh on a counter but is not airtight enough for long-term storage of anything you would freeze or vacuum-seal. Glass at this weight is heavy when full - about 5 lb - so it wants a low shelf, not a top one. Hand-wash the lid; the dishwasher will dull the brushed finish."
+    added: '2026-09-13'
+    url: "https://www.amazon.com/dp/B00FJT56C4?tag=orlaloom-20"
 ---
 
 "Decanting" — dumping flour, pasta, cereal and rice out of their plastic bags and boxes into matching glass jars — is being called the single biggest kitchen trend of 2026, and it is easy to see why it stuck: it is one of the few home projects that is genuinely both functional and photogenic. Food actually stays fresher in an airtight jar than in a bag with a clip on it, and a shelf of matching glass canisters looks intentional in a way a shelf of half-crumpled cereal boxes never will.
@@ -161,6 +171,8 @@ One thing worth saying plainly: airtight glass does keep dry goods fresher for l
 Decanting only reads as intentional when the jars are grouped, not scattered. Cluster by size rather than by contents — three graduated jars in a row read as a set even if one holds flour and the next holds oats, where the same three jars spread across a shelf read as clutter. If your shelves are open rather than behind cabinet doors, put the least-used staple (sugar, baking soda) on the top or back row and the everyday jar (coffee, pasta for weeknight dinners) at arm's height, so the arrangement is functional as well as pretty.
 
 Label placement matters as much as label style. Centered, front-facing labels at eye level are what make a shelf photograph well; labels wrapped around the side or angled toward the back wall get lost the moment you're not standing directly in front of the shelf. If you're using the reusable chalkboard labels, write in a slightly smaller, neater hand than feels natural — oversized chalk lettering is the fastest way to tip a jar from "cottagecore pantry" into "chalkboard menu board," which is a different look entirely.
+
+One last thing worth saying out loud in September: a decanted pantry is a seasonal habit as much as a decorative one. The jars earn their shelf space in the months when you are actually baking and braising — flour and sugar moving fast enough that a gasket matters, a jar of dried beans next to the pot. If that is the autumn you are stocking for, the same shelf usually wants a [cast-iron Dutch oven](/blog/le-creuset-vs-dutch-oven-dupes) within reach of it, and the overflow from a good jam summer belongs in proper [canning jars](/blog/best-canning-jars-for-jam) rather than in a decanting jar with a friction lid. And if you are building the whole look on a budget, a surprising amount of the plain glass and white ceramic groundwork can come from our [Amazon Basics cottagecore](/blog/cottagecore-on-a-budget-amazon-basics) picks, leaving the money for the one classic jar that sits out on show.
 
 ## FAQ
 

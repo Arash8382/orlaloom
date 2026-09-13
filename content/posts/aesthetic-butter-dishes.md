@@ -223,7 +223,7 @@ products:
     caveat: 'Rectangular and plain; there is nothing whimsical about it.'
     added: '2026-08-16'
     url: 'https://www.amazon.com/dp/B0FBCMT3NV?tag=orlaloom-20'
-updated: '2026-08-16'
+updated: '2026-09-13'
 ---
 
 If your kitchen counter could use one small, slightly impractical thing that makes breakfast feel like a moment — it's a butter dish. They've quietly become the tabletop obsession of 2026 (one UK retailer reported searches jumped over 100% last year), and the prettiest ones sell out fast. This guide rounds up the aesthetic butter dishes actually worth buying.
@@ -274,6 +274,14 @@ Salted butter is generally fine at cool room temperature for several days, espec
 
 **What's the most popular style right now?**
 Scalloped ceramic and mushroom or figural dishes are the breakout styles of 2026.
+
+**Where can I find mushroom butter dishes?**
+
+Small ceramic studios, independent makers, and a growing number of homeware brands now carry them.
+
+**Are they functional?**
+
+Yes — they're real covered butter dishes, just shaped like a toadstool. Check the listed capacity for your butter type.
 
 ## Related guides
 

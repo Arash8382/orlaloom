@@ -3,7 +3,7 @@ title: "Scalloped & Waffle-Weave Towels for a Cottagecore Bathroom"
 description: "Vintage-look scalloped-edge and quick-drying waffle towels to soften a cottage bathroom — from budget sets to handloomed Turkish cotton."
 category: "textiles"
 date: "2026-07-08"
-updated: '2026-09-01'
+updated: '2026-09-13'
 cover: "/thumbnails/thumb-scalloped-waffle-towels.webp"
 products:
   - name: "Hahafelt Scalloped Hand Towels (2-Pack)"
@@ -86,6 +86,16 @@ products:
     added: '2026-08-21'
     url: "https://www.amazon.com/Peri-Home-Scalloped-Bath-Rug/dp/B0D3VMFGM2?tag=orlaloom-20"
 
+  - name: "Great Bay Home Diamond Waffle 6-Piece Towel Set, Ivory"
+    image: "https://m.media-amazon.com/images/I/718XpgmtBDL._AC_SL1500_.jpg"
+    brand: "Great Bay Home"
+    price: "~$36-42"
+    retailer: "Amazon"
+    badge: "Best full set"
+    blurb: "Most of this page is hand towels and decorative pairs; this is the set that actually kits out a bathroom - two bath, two hand, two wash - in one order and one dye lot, which is the only reliable way to get whites that match. The diamond waffle is a tighter, flatter weave than the Turkish picks here, so it reads as texture rather than as a statement, and it dries far faster than terry because there is less pile holding water. Ivory rather than optical white, which is the shade that sits properly against brass, old tile and unbleached linen."
+    caveat: "Waffle is thinner than plush terry by design - if you want a towel you can sink into after a bath, this is not it. The cotton is 100% but not long-staple Turkish, so it is a five-year towel rather than a ten-year one, and the first two washes shed a little lint."
+    added: '2026-09-13'
+    url: "https://www.amazon.com/dp/B07X42VYVQ?tag=orlaloom-20"
 ---
 
 Towels are the easiest soft-furnishing to swap, and the right ones quietly do a lot — a scalloped edge or a waffle weave instantly nudges a plain bathroom toward cottage. The catch is that a lot of "cottagecore" towels are styled for the photo and disappointing in the hand. Below is what actually matters when you're choosing, an honest comparison of the eight sets here, and how to keep them looking good past month three.
@@ -133,7 +143,7 @@ Skip fabric softener entirely — it deposits a waxy film that is exactly what m
 
 ## Building the rest of the bathroom
 
-Towels are one layer. A [scalloped arch mirror](/blog/vintage-arched-scalloped-mirrors) picks up the same curved edge above the sink and does more for the room than any towel can. A [pleated lampshade](/blog/best-pleated-lampshades) or a [cordless counter lamp](/blog/cordless-kitchen-counter-lamps) softens the hard overhead light most bathrooms are stuck with. If you're pulling a whole soft-furnishing scheme together, the [cottagecore bedroom guide](/blog/cottagecore-bedroom) covers how these textures work together across rooms, and [washable runner rugs](/blog/washable-kitchen-runner-rugs) are the practical answer for the strip of floor a bath mat doesn't cover.
+Towels are one layer. A [scalloped arch mirror](/blog/vintage-arched-scalloped-mirrors) picks up the same curved edge above the sink and does more for the room than any towel can. A [pleated lampshade](/blog/best-pleated-lampshades) or a [cordless counter lamp](/blog/cordless-kitchen-counter-lamps) softens the hard overhead light most bathrooms are stuck with. If you're pulling a whole soft-furnishing scheme together, the [cottagecore bedroom guide](/blog/cottagecore-bedroom) covers how these textures work together across rooms, and [washable runner rugs](/blog/washable-kitchen-runner-rugs) are the practical answer for the strip of floor a bath mat doesn't cover. The scalloped edge is also the softest possible entry point into the wider ribbon-and-ruffle end of the look — if a scalloped hand towel is what made you stop and look, the [coquette bow decor](/blog/coquette-bow-decor) guide is where that same curve turns up on mirrors, hooks and candlesticks.
 
 If the bathroom in question is a shared hall bathroom rather than your own, the maths changes: buy one set in a colour nobody else on the floor has, keep them in a caddy, and let the room stay institutional. The rest of that setup is covered in our [cottagecore dorm room decor](/blog/cottagecore-dorm-room-decor) guide.
 

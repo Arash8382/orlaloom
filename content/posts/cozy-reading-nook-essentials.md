@@ -150,6 +150,16 @@ products:
     caveat: "The clip is sized for books, not for a thick hardback spine or a chair arm, and there is no cool-white mode if you want daylight for detailed work. The finish is glossy plastic - fine in a nook, less lovely on a styled shelf."
     added: '2026-09-07'
     url: 'https://www.amazon.com/dp/B077D8QXST?tag=orlaloom-20'
+  - name: "Salt Earth GOTS Organic Cotton Waffle Throw, Parchment (55 x 60 in)"
+    image: "https://m.media-amazon.com/images/I/81RoRrJFdOL._AC_SL1500_.jpg"
+    brand: "Salt Earth"
+    price: "~$35-40"
+    retailer: "Amazon"
+    badge: "Best throw"
+    blurb: "The nook had a chair, a lamp, a table and a footstool, and nothing to put over your knees - which is the thing you actually reach for once the evenings turn. Waffle-weave cotton is the right answer for an indoor chair: it traps enough air to be warm without the dead weight of a wool blanket, and unlike fleece it gets softer every wash instead of pilling. This one is GOTS-certified organic cotton with mitered corners and properly sewn ends, so the edges do not curl after a month. Parchment is a true off-white rather than a cold optical white, which is what lets it sit next to cream linen and old wood without looking new."
+    caveat: "Cotton waffle is a three-season blanket, not a midwinter one - if you want to fall asleep under it in a cold room you will want a wool layer on top. It creases where it is folded, and at 55 x 60 in it covers one adult comfortably and two only if nobody moves."
+    added: '2026-09-13'
+    url: "https://www.amazon.com/dp/B09MSQJ61S?tag=orlaloom-20"
 faqs:
   - q: How much space does a reading nook actually need?
     a: >-
@@ -175,7 +185,7 @@ faqs:
       off, lean art against the wall on a shelf rather than hanging it, and
       choose a tall narrow bookcase whose single anti-tip anchor is the only
       thing you will need to patch on your way out.
-updated: '2026-09-07'
+updated: '2026-09-13'
 ---
 
 Pinterest searches for a comfy reading chair in a small space are up more than 450 percent this year, which tells you two things. People want a reading nook. And almost nobody has a spare room to put one in.

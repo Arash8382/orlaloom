@@ -139,6 +139,16 @@ products:
     image: 'https://m.media-amazon.com/images/I/917Ke8xJhnL._AC_SX679_.jpg'
     added: '2026-07-21'
     url: 'https://www.amazon.com/dp/B0GV379P7Z?tag=orlaloom-20'
+  - name: "GarveeHome Moss Green Checkered Rug (5 x 7 ft)"
+    image: "https://m.media-amazon.com/images/I/91vDKTHKfiL._AC_SL1500_.jpg"
+    brand: "GarveeHome"
+    price: "~$50-60"
+    retailer: "Amazon"
+    badge: "Best non-floral green"
+    blurb: "Every other green rug on this page is a floral, and florals fight with patterned curtains, patterned wallpaper and a patterned sofa. This is the one that does not: a soft moss-and-cream checkerboard, large enough in scale to read as a texture from standing height rather than as a graphic. It is the rug to buy if the rest of the room is already busy, or if you want green underfoot in a kitchen or hallway where a rose print would look fussy. Low pile, machine washable, and light enough at under 10 lb to get into a domestic machine without a fight."
+    caveat: "It is a faux-wool pile, not wool - it looks the part but does not have the springiness or the 20-year life of the real thing. The checker is also a commitment: gingham and check-on-check will clash with it, so it wants plain or floral textiles around it, not more squares. Currently sold in 5x7 only, so it will not scale up to a big living room."
+    added: '2026-09-13'
+    url: "https://www.amazon.com/dp/B0GR4ZBLN7?tag=orlaloom-20"
 faqs:
   - q: Do green rugs show dirt?
     a: >-
@@ -176,7 +186,7 @@ faqs:
       from curling and helps the rug last longer — especially on hardwood, tile
       or vinyl. *Prices and availability change; check the current size and
       colour options on the product page before buying.*
-updated: '2026-08-24'
+updated: '2026-09-13'
 ---
 
 The best all-round **green cottagecore rug** is the Ariele washable vintage floral in soft sage — a faded scalloped-border floral that behaves like a neutral against wood, brass and linen, and washes at home when real life happens. If you'd rather go moodier, a forest-green botanical hides mess even better. Below are eight picks across sage, moss and forest, from a $18 doormat up to a 9x12 living-room rug — every one washable, honestly described, no invented specs.
