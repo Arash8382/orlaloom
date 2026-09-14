@@ -9,7 +9,7 @@ description: >-
   occasion, with honest pros and cons for each.
 category: home-decor
 date: '2026-08-03'
-updated: '2026-08-30'
+updated: '2026-09-14'
 cover: /thumbnails/thumb-fall-supper-club-tablescape.webp
 products:
   - name: 'Urban Villa Hemstitch Cloth Dinner Napkins, 20x20 in Cotton, Set of 6, Ivory'
@@ -203,6 +203,8 @@ If your dining room already leans sage or green, swap the terracotta runner for 
 ## Honest advice before you buy
 
 A few things worth knowing. First, cloth napkins are the highest-impact item on this list — if you buy only one thing, buy those. Second, candle math: a set of six candlestick holders needs six tapers, and taper packs usually come in twos and threes, so put enough packs in the cart the first time. Third, pressed and embossed glassware almost always prefers hand-washing; if you're strictly a dishwasher household, buy one set to try before committing to twelve. And finally, gauze runners are an aesthetic — beautifully undone rather than starched and formal. Know which camp your table belongs to.
+
+One more thing worth putting on the table before the guests arrive: butter. A proper covered dish with soft, salted butter beside the bread board does more for a supper-club table than another candle, because it is the one object that gets passed around and handled all evening. Our [aesthetic butter dishes](/blog/aesthetic-butter-dishes) guide covers the ceramic and stoneware versions that suit this palette, and the honest trade-off between a classic lidded dish and a French butter crock in a warm dining room.
 
 ## Make it a ritual, not a production
 

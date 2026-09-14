@@ -167,6 +167,16 @@ products:
     caveat: "Only a handful of reviews so far, and the orange is brighter in person than the muted vintage palette elsewhere on this list."
     added: '2026-09-09'
     url: "https://www.amazon.com/dp/B0FQCWKH7V?tag=orlaloom-20"
+  - name: "Lulu Home Handwoven Rope Pumpkins, Set of 3"
+    image: "https://m.media-amazon.com/images/I/81ruMrWqwKL._AC_SL1500_.jpg"
+    brand: "Lulu Home"
+    price: "~$14-18"
+    retailer: "Amazon"
+    badge: "Best no-face pumpkins"
+    blurb: "The hardest thing to find in October is a pumpkin with no face on it. These are three coiled-rope pumpkins - one cream, one cocoa-and-natural, one orange-and-cream - wound in thick twisted cord with a knotted stem, and they are the piece that lets this look run from early September to the end of November without ever committing to Halloween. Grouped on a mantel or a kitchen shelf they give you the seasonal shape and the natural texture that a painted ceramic pumpkin cannot, and they store flat-ish in a box without chipping, which is more than can be said for most of the category. Rated 4.8 stars when we checked in September 2026."
+    caveat: "Review volume is still low - around 14 ratings - so this is a newer listing than most of what we recommend, and it is worth checking the rating has held before you buy. They are small decorative objects, roughly 4 to 5 inches, so a set of three reads as a vignette rather than a centrepiece; buy two sets if you want a full mantel. The orange in the set is a real orange, not a muted terracotta, so if you want an entirely neutral shelf you will be using two of the three."
+    added: '2026-09-14'
+    url: "https://www.amazon.com/dp/B0GVYN3FD5?tag=orlaloom-20"
 faqs:
   - q: What is cottagecore Halloween decor?
     a: >-
@@ -193,7 +203,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-09-09'
+updated: '2026-09-14'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.

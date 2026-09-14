@@ -3,7 +3,7 @@ title: "Ruffle Duvet Covers & Lace-Trim Pillowcases: Romantic Ruffles for 2026"
 description: "The best white ruffle duvet covers, lace-trim pillowcases, and ruffled bed skirts to get 2026's romantic-ruffles bedding look without the boutique price tag."
 category: "textiles"
 date: "2026-07-15"
-updated: '2026-09-06'
+updated: '2026-09-14'
 cover: "https://m.media-amazon.com/images/I/71+hv+GfizL._AC_SL1500_.jpg"
 products:
   - name: "Bedorm 100% Cotton Multi-Layer Ruffle Duvet Cover Set, 3-Piece (Queen)"
@@ -76,6 +76,16 @@ products:
     caveat: "It is the most expensive layer on this page, and white matelasse shows everything: coffee, makeup, a dog. Cotton this heavy also arrives creased, so it needs a wash and a warm tumble before it drapes the way the photographs suggest."
     added: '2026-09-06'
     url: "https://www.amazon.com/dp/B0C1YB9DNB?tag=orlaloom-20"
+  - name: "HighBuy French Ruffle Duvet Cover Set, 100% Cotton Botanical Floral, Queen (3 Piece)"
+    image: "https://m.media-amazon.com/images/I/81maEfeYH6L._AC_SL1500_.jpg"
+    brand: "HighBuy"
+    price: "~$62-70"
+    retailer: "Amazon"
+    badge: "Best floral-and-ruffle combination"
+    blurb: "Most ruffled bedding makes you choose: a plain cover with a pretty edge, or a floral with a flat hem. This does both without the result looking busy, because the botanical print is drawn small and pale - sage and soft lilac stems on cream - while the ruffle is worked in a solid sage that picks up the leaves rather than repeating the flowers. It is 100% cotton rather than a microfibre blend, which is what makes the ruffle hang in soft waves instead of standing up stiffly after the first wash, and the set includes the cover plus two shams with corner ties and a full-length zip. With roughly 2,800 ratings at 4.5 stars when we checked in September 2026, it is by some distance the most-reviewed genuinely floral ruffle set on Amazon."
+    caveat: "Cotton this light wrinkles, and the ruffle wrinkles most - it wants a low-heat tumble and a shake-out straight from the dryer, or ten minutes with a steamer. The print is pale enough that it reads as near-white from across a room, so if you want the floral to be visible from the doorway this is not it. Comforter or insert is not included, and stock on the queen size runs down periodically - check the size and colourway you want is actually in stock before you plan a room around it."
+    added: '2026-09-14'
+    url: "https://www.amazon.com/dp/B0GVHB4C8L?tag=orlaloom-20"
 ---
 
 If 2026 has one bedding story, it is ruffles. Design editors have been calling romantic ruffles the biggest home trend of the year, and you can see why: after a decade of flat, hotel-plain white beds, a duvet edged in soft gathered cotton or a pillowcase finished with a strip of eyelet lace makes a bedroom feel dressed rather than just made. The good news for anyone chasing the look is that it is fundamentally a white-cotton trend — which means you can build it piece by piece on Amazon for far less than the boutique linen brands charge.
