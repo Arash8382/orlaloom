@@ -163,6 +163,16 @@ products:
     caveat: "Cotton at this weight creases, so they want a shake and a press if you care about crisp folds. Dye lots on deep purples also drift, so buy the full set in one order rather than topping it up in six months."
     added: '2026-09-12'
     url: "https://www.amazon.com/dp/B0DBJ3SYZX?tag=orlaloom-20"
+  - name: "FULGNU Purple Hobnail Goblet Glasses, 12 oz, Set of 4"
+    image: "https://m.media-amazon.com/images/I/71Bo3lCpzrL._AC_SL1500_.jpg"
+    brand: "FULGNU"
+    price: "~$18-24"
+    retailer: "Amazon"
+    badge: "Best glassware"
+    blurb: "Everything else on this list is textile or ceramic, which is why the palette can start to feel flat - purple absorbs light, and a kitchen done entirely in it goes heavy fast. Glass is the fix. These are short embossed hobnail goblets in a translucent plum, so they throw the colour instead of soaking it up, and a set of four on an open shelf does more for the scheme in daylight than another set of towels would. At around five dollars a glass they are also the cheapest thing here that guests actually pick up."
+    caveat: "The tone reads considerably lighter than true aubergine - closer to a blush plum in daylight, deeper only when they are full - so do not buy these expecting them to match the eggplant towels. They are pressed glass rather than hand-blown, which means a visible mould seam on most pieces, and hand-washing keeps the hobnail texture from clouding."
+    added: '2026-09-15'
+    url: "https://www.amazon.com/dp/B0GD5SJZNS?tag=orlaloom-20"
 faqs:
   - q: Is aubergine too dark for a small kitchen?
     a: >-
@@ -192,7 +202,7 @@ faqs:
       and out of "trending" but never actually looks dated the way novelty
       colors do. Buy the pieces you would use anyway — a good Dutch oven, good
       towels — and the color is a bonus, not a bet.
-updated: '2026-09-12'
+updated: '2026-09-15'
 ---
 
 Every year one color quietly takes over Pinterest kitchens, and for 2026 it is aubergine. Searches for "aubergine kitchen" are up nearly 500% year over year — the biggest jump of any kitchen color trend — and the reason is simple: after half a decade of sage green and greige, deep plum reads both moody and warm, which is precisely the combination cottagecore has been circling all along. It is the kitchen cousin of the dark-floral bedding wave, and it flatters the things cottagecore kitchens already have: cream cabinets, warm wood, brass hardware, dried flowers.
@@ -205,7 +215,7 @@ The even better news is that nobody actually paints their kitchen aubergine. The
 
 **Keep the undertone consistent.** Aubergine, plum, eggplant and lavender are neighbors, not synonyms. The shades that read as 2026's version are the deep, slightly red-leaning purples — think the skin of an actual eggplant — rather than cool pastel lilac. Everything in this guide sits in that deeper range. If you add pieces from elsewhere, hold them mentally against a real aubergine; if they look Easter-ish beside it, they belong to a different trend.
 
-**Let texture do half the work.** Deep purple in a flat, shiny finish can go corporate fast. What keeps it cottagecore is texture: waffle-weave cotton, reactive mottled glaze, slubby linen, chenille pile. Each piece here was chosen as much for surface as for shade — the light plays across texture, and that play is what makes a moody color feel cozy instead of heavy.
+**Let texture do half the work.** Deep purple in a flat, shiny finish can go corporate fast. What keeps it cottagecore is texture: waffle-weave cotton, reactive mottled glaze, slubby linen, chenille pile. Each piece here was chosen as much for surface as for shade — the light plays across texture, and that play is what makes a moody color feel cozy instead of heavy. It is also why the goblets above are hobnail rather than plain: raised dots break the colour into dozens of little highlights instead of one flat purple wall, which is the whole trick behind [hobnail glassware](/blog/hobnail-glassware) and the reason it carries a strong shade better than smooth glass does.
 
 **Pair it with cream and wood, not white and steel.** Aubergine against clinical bright white turns stark; against warm cream, oak and butcher block it glows. If your kitchen leans stainless and gloss-white, bridge the gap with wood — a cutting board leaned behind the crock, wooden spoons in it — before adding more purple.
 

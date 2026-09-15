@@ -170,7 +170,17 @@ products:
     caveat: "Harvest Gatherings is a companion pattern to the Harvest Morning plates above, not the same one — the blues coordinate rather than match, so do not buy expecting an exact set."
     added: '2026-09-02'
     url: "https://www.amazon.com/dp/B08C3YZJBM?tag=orlaloom-20"
-updated: '2026-09-02'
+  - name: "MORA Ceramic Fluted Pie Dish, 9 in, Deep, Speckled White with Terracotta Base"
+    image: "https://m.media-amazon.com/images/I/61nupUZn+GL._AC_SL1500_.jpg"
+    brand: "MORA"
+    price: "~$26-32"
+    retailer: "Amazon"
+    badge: "Best baking-to-table piece"
+    blurb: "Harvest tableware has a gap in it: the plates are seasonal but the pie arrives in a supermarket foil tin. This closes it. Deep fluted porcelain with a scalloped rim and a raw terracotta foot, which is the detail that ties it to the pumpkin and amber pieces on the rest of the table rather than fighting them. It is oven, microwave, freezer and dishwasher safe, so the same dish holds the apple pie in October and a gratin in January, and nothing has to be decanted before it goes down in front of anyone."
+    caveat: "Nine inches deep takes noticeably longer to bake through than a shallow metal tin - expect to add ten to fifteen minutes and to shield the fluted rim if it browns early. It is heavy when full, and the unglazed foot will mark a bare wood table, so it wants a trivet."
+    added: '2026-09-15'
+    url: "https://www.amazon.com/dp/B094WYSWV5?tag=orlaloom-20"
+updated: '2026-09-15'
 ---
 There's a reason pumpkin dinnerware sells out earlier every year. Somewhere between the first cool evening and the first pot of chili, the plain white bowls that served you all summer start to feel a little underdressed — and a lidded stoneware pumpkin, carried steaming to the table, is the exact opposite of underdressed. Sellers' data backs up what your feed is already telling you: pumpkin-shaped bakeware and tableware are among this fall's fastest-rising kitchen purchases, and the good pieces are gone by late September. Buying in August isn't eager; it's strategic.
 
@@ -196,6 +206,8 @@ Harvest plates are the loudest version of painted dinnerware, but they are not t
 only one. If you like the hand-painted look and want something you can leave out
 all year, [cabbage plates and tomato bowls](/blog/cabbage-plates-tomato-bowls) do
 the same job in a register that does not read as seasonal.
+
+Two small objects do a disproportionate amount of work on a harvest table and neither of them is a plate. The first is a lidded butter dish — it is the one thing that gets passed hand to hand all evening, so it is worth it being something people want to look at; the [aesthetic butter dishes](/blog/aesthetic-butter-dishes) picks cover the scalloped and stoneware versions that sit right beside pumpkin glaze. The second is a jug, because autumn drinks are the ones you want on the table rather than in the kitchen: mulled cider, spiced tea, cold-weather punch. A [glass pitcher and drink station](/blog/glass-pitchers-drink-station) setup at the end of the table means nobody gets up mid-course.
 
 One thing worth sorting before the table is set: the floor under it. Harvest meals mean gravy, cider and crumbs in the walkway between oven and table, which is the argument for a [washable kitchen runner rug](/blog/washable-kitchen-runner-rugs) rather than something that has to go out to be cleaned in December.
 
