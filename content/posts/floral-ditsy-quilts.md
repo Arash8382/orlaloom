@@ -134,6 +134,16 @@ products:
       still unproven — and king quilts are a jump in price.
     added: '2026-09-10'
     url: 'https://www.amazon.com/dp/B0GQP6FXM2?tag=orlaloom-20'
+  - name: "Sanracie 100 Percent Cotton Ditsy Rose Quilt Set, Queen 90 x 98 in, 3-Piece"
+    image: "https://m.media-amazon.com/images/I/81MFFIyFrrL._AC_SL1500_.jpg"
+    brand: "Sanracie"
+    price: "~$95-105"
+    retailer: "Amazon"
+    badge: "Best true-ditsy cotton quilt"
+    blurb: "Most quilts sold as ditsy are not - the roses are an inch and a half across and the thing reads as a medium floral from the doorway. This one is the real scale: small scattered pink roses with sage leaves on a cream ground, fine enough that from standing height the bed reads as a soft warm texture and only resolves into flowers when you sit down on it. It is 100 percent cotton in both the shell and the fill, which is what this guide argues for throughout - cotton batting drapes flat and tailored, and that flatness is exactly what keeps a small print from going busy. Queen is a generous 90 by 98 in, so it hangs properly over the sides of a standard queen instead of stopping at the mattress edge, and it comes with two matching shams."
+    caveat: "At around a hundred dollars it is the top of the range in this guide. Cotton fill is the honest trade for that money: it wrinkles out of the dryer and needs a proper long tumble or a line, and it is a three-season weight rather than a winter one. Stock was down to eighteen units when we checked, so it is not a listing to sit on."
+    added: '2026-09-16'
+    url: "https://www.amazon.com/dp/B0H9WYG46Y?tag=orlaloom-20"
 faqs:
   - q: Are floral quilts warm enough on their own?
     a: >-
@@ -190,7 +200,7 @@ faqs:
       ticking-stripe pillow, a plaid throw folded at the foot — and let
       everything else be solid. Matched bed-in-a-bag sets are what make a
       cottage bedroom read as a showroom rather than a collected room.
-updated: '2026-09-10'
+updated: '2026-09-16'
 ---
 
 A floral quilt is the fastest way to give a bedroom that soft, grandmother's-cottage feeling — layered, faded and warm. It is also one of the few pieces of bedding that works as decoration and as bedding at the same time: thin enough to leave on through summer, pretty enough that the bed looks made even when you have only pulled it flat. These ditsy and patchwork picks do the heavy lifting on their own, and below them you will find the comparison table, the buying criteria that actually matter, and the drawbacks nobody prints on the packaging.
@@ -213,6 +223,8 @@ The choice is really about what else is going on. Pick patchwork if the bed is m
 
 **Buy for the bed you have, not the size on the label.** Quilt sizing is much less standardised than sheet sizing. Two quilts both labelled "Queen" can differ by ten inches. Measure your mattress including its depth, add the drop you want on each side, and size up when the numbers are close — a quilt that only just covers the mattress looks skimpy the second someone sits down.
 
+**Match the bathroom before you match the bedroom.** A ditsy quilt sets a scalloped, small-detail register for the whole floor of the house, and the thing that most often breaks it is a stack of flat hotel towels in the next room — swapping in [scalloped waffle towels](/blog/scalloped-waffle-towels) costs less than changing anything else and carries the same soft-edged language through the door.
+
 **Treat reversibility as a second quilt.** Most of the picks here reverse to a coordinating print or a plain side. That is genuinely useful: floral in spring, quiet side in winter under a heavier blanket, and a way to dial the room down when you have added other pattern.
 
 **Be honest about how often it will be washed.** A quilt on a bed with a dog, a toddler or a habit of eating breakfast in it needs to survive weekly machine washing. That is an argument for microfiber or a sturdy cotton blend, not for a delicate ruffled edge.
@@ -228,6 +240,7 @@ The choice is really about what else is going on. Pick patchwork if the bed is m
 | Levtex Home Margaux | Large medallion | Cotton | Yes | Twin–King | ~$80–140 | A more grown-up French room |
 | Laura Ashley floral | Small to medium | Cotton | Yes | Twin–King | ~$70–160 | Buying the original name |
 | Wake In Cloud coquette rose | Very small ditsy | Brushed microfiber | Yes (plain reverse) | Twin–King | ~$25–32 | Testing the look cheaply |
+| Sanracie ditsy rose | True ditsy, pink on cream | 100% cotton shell and fill | Yes | Queen–King | ~$95–105 | The most accurate ditsy scale |
 
 ## Cotton vs. microfiber: which to buy
 

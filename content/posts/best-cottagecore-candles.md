@@ -154,6 +154,16 @@ products:
     image: 'https://m.media-amazon.com/images/I/81PrZpm1BnL._AC_SL1500_.jpg'
     added: '2026-09-11'
     url: 'https://www.amazon.com/dp/B011ABWSDE?tag=orlaloom-20'
+  - name: "Paddywax Eco Soy Wax Candle, Pomegranate and Currant, 8 oz Recycled Glass"
+    image: "https://m.media-amazon.com/images/I/61qKnFs0FSL._AC_SL1500_.jpg"
+    brand: "Paddywax"
+    price: "~$24-28"
+    retailer: "Amazon"
+    badge: "Best autumn scent"
+    blurb: "The scent map further up this page argues that pomegranate and currant is how you get autumn into a room without tipping into the pumpkin-spice register, and this is the candle that was missing from the picks underneath it. The vessel is a cut-down recycled wine bottle in green glass with a turned wooden lid, which does something useful as well as looking good: the bottle glass is thick, so the jar stays cool enough to move while lit, and the wooden lid actually seals between burns so the top note is still there in week three. Soy wax, single wick, hand-poured in the USA, and the bottle is a genuinely nice stem vase once the wax is gone."
+    caveat: "Eight ounces with one wick in a roughly 2.75 in jar is a small-room scenter - a bedroom, a bathroom, a reading corner - and it will disappear in an open-plan kitchen. Recycled glass comes with visible bubbles, seams and slight colour variation between bottles; that is the material, not a defect, but if you want a flawless vessel look elsewhere on this page."
+    added: '2026-09-16'
+    url: "https://www.amazon.com/dp/B004MSA3NA?tag=orlaloom-20"
 faqs:
   - q: What's the most 'cottagecore' candle scent?
     a: >-
@@ -169,7 +179,7 @@ faqs:
       hasn't burned long enough to form a full melt pool. Let it liquefy edge to
       edge every time — roughly an hour per inch of diameter — and the throw
       improves dramatically.
-updated: '2026-09-11'
+updated: '2026-09-16'
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw, burn time, and which ones are too small for the room you have in mind.

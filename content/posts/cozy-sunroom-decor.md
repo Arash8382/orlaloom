@@ -137,7 +137,17 @@ products:
     caveat: "It is sized for a 10-inch pot - measure yours, because a 12-inch nursery pot will not seat properly. There is no waterproof liner: use a cache-pot or a saucer inside the basket, since jute wicks moisture and will stain and eventually rot if you water straight into it. Bamboo legs are light, so a tall top-heavy plant on a windy porch day is a tipping risk."
     added: '2026-09-14'
     url: "https://www.amazon.com/dp/B0FCFQHH3S?tag=orlaloom-20"
-updated: '2026-09-14'
+  - name: "Marsrut Handwoven Rattan Plant Stand with Wooden Legs, Small"
+    image: "https://m.media-amazon.com/images/I/815hwGDPulL._AC_SL1500_.jpg"
+    brand: "Marsrut"
+    price: "~$22-28"
+    retailer: "Amazon"
+    badge: "Best small plant stand"
+    blurb: "A sunroom fills with plants and they all end up on the floor, which is the one place in the room the light does not reach. Lifting a pot even 12 in changes two things at once: the plant gets the glass rather than the skirting board, and the floor reads open instead of cluttered. This is a handwoven rattan basket - open looped cane, not solid wicker, so it keeps the airy look the room is built on - sitting on three splayed pale wooden legs. It suits a 6 to 8 in nursery pot, and because the weave is open you still see the pot rather than hiding it in a bucket. At this price it is the cheapest way to add height to a corner without buying furniture."
+    caveat: "4.2 stars across only 35 reviews, and the recurring complaint is fair: the legs are soft pale wood that scuffs and marks easily. There is no liner or drip tray, so stand a saucer inside the basket or water it at the sink. Rattan in direct sun will dry, lighten and eventually go brittle - keep it near the glass rather than pressed against it."
+    added: '2026-09-16'
+    url: "https://www.amazon.com/dp/B0DK948WFL?tag=orlaloom-20"
+updated: '2026-09-16'
 ---
 
 "Cozy sunroom" searches on Pinterest are up more than 900% this year, and it is not hard to see why — a sunroom is the one room in most houses that is already doing half the design work for you before you buy a single thing. The light is free. The problem most people run into is furnishing one on an actual budget without it turning into a patio-furniture showroom, and without every fabric surface fading out within a year of full sun exposure.
@@ -154,7 +164,7 @@ One more practical note: if your sunroom gets full sun for more than a few hours
 
 Sunrooms are the hardest room in the house on a rug — sun bleaching one side, wet boots and plant runoff on the other. That is a strong case for one of the [washable rugs like Ruggable](/blog/washable-rugs-like-ruggable), where the top layer comes off and goes in the machine instead of being professionally cleaned every spring. Before you commit to one, the complaints worth knowing about are collected in our [washable rug owner report](/blog/washable-rug-owner-report) — we read the critical reviews rather than the marketing, and the pattern that matters for a sunroom is that the thin cover layer shows every ripple of an uneven floor unless you use the grip pad it is designed for.
 
-The one thing almost every sunroom guide forgets is what the room is like after sunset. Sun-facing glass gives you nothing back in the evening, and an overhead fixture flattens the whole room — so a [rattan arc floor lamp](https://www.amazon.com/dp/B0D2R8G4BF?tag=orlaloom-20) that reaches over the chair earns its place faster than another cushion. Two more pieces worth borrowing from elsewhere on the site: a [green cottagecore rug](/blog/green-cottagecore-rugs) if you want the floor to read as garden rather than porch, and if your sunroom doubles as a guest room, the [ruched comforter sets](/blog/ruched-comforter-sets) we like hold their texture on a daybed better than a flat quilt does.
+The one thing almost every sunroom guide forgets is what the room is like after sunset. Sun-facing glass gives you nothing back in the evening, and an overhead fixture flattens the whole room — so a [rattan arc floor lamp](https://www.amazon.com/dp/B0D2R8G4BF?tag=orlaloom-20) that reaches over the chair earns its place faster than another cushion. Two more pieces worth borrowing from elsewhere on the site: a [green cottagecore rug](/blog/green-cottagecore-rugs) if you want the floor to read as garden rather than porch, and if your sunroom doubles as a guest room, the [ruched comforter sets](/blog/ruched-comforter-sets) we like hold their texture on a daybed better than a flat quilt does. And if the room ends up being where you actually eat in summer, the enamel and melamine picks in our [gingham picnic tableware](/blog/gingham-picnic-tableware) guide are the sane choice for a glass room — nothing in them minds being carried outside, dropped on a tiled floor or left in the sun.
 
 ## FAQ
 

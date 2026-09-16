@@ -160,6 +160,16 @@ products:
     caveat: "Cotton waffle is a three-season blanket, not a midwinter one - if you want to fall asleep under it in a cold room you will want a wool layer on top. It creases where it is folded, and at 55 x 60 in it covers one adult comfortably and two only if nobody moves."
     added: '2026-09-13'
     url: "https://www.amazon.com/dp/B09MSQJ61S?tag=orlaloom-20"
+  - name: "3HQ Acacia Wood Folding Book Stand with Mug, Glasses and Pen Recesses"
+    image: "https://m.media-amazon.com/images/I/71jBAhNmkaL._AC_SL1500_.jpg"
+    brand: "3HQ"
+    price: "~$20-25"
+    retailer: "Amazon"
+    badge: "Best fix for a too-small side table"
+    blurb: "This guide already tells you to leave one surface empty, and the reason that rule is hard to keep is that a nook side table has to hold a mug, your glasses and whatever you are reading all at once, and there is never room. This is the piece that solves it rather than restating it. Folded it is a flat acacia tray, 11 in by 8.7 in, with a shallow ring for a mug, a long recess for glasses and a groove for a pen. Unfolded, a hinged panel props up at reading angle and holds the book open at the page you are on, which means you can eat, knit or drink without losing your place or cracking a spine flat. It is solid acacia rather than veneered MDF, so the grain runs dark honey to near-chocolate and no two are identical."
+    caveat: "The tray is 8.7 in deep, so a large mug and glasses together is a genuinely tight fit - a standard 350 ml mug is about the limit. The easel panel is sized for paperbacks and normal hardbacks; a heavy art book will overhang and can tip it. Acacia is a hardwood but the hinge is the weak point, so fold it rather than snapping it shut."
+    added: '2026-09-16'
+    url: "https://www.amazon.com/dp/B0CRNPF56H?tag=orlaloom-20"
 faqs:
   - q: How much space does a reading nook actually need?
     a: >-
@@ -185,7 +195,7 @@ faqs:
       off, lean art against the wall on a shelf rather than hanging it, and
       choose a tall narrow bookcase whose single anti-tip anchor is the only
       thing you will need to patch on your way out.
-updated: '2026-09-13'
+updated: '2026-09-16'
 ---
 
 Pinterest searches for a comfy reading chair in a small space are up more than 450 percent this year, which tells you two things. People want a reading nook. And almost nobody has a spare room to put one in.
