@@ -152,6 +152,24 @@ products:
       willing to buy.
     added: '2026-09-10'
     url: 'https://www.amazon.com/dp/B0HFVXSCDY?tag=orlaloom-20'
+  - name: MUXHOMO Reversible Black Botanical Duvet Cover Set, Queen (3 pc)
+    brand: MUXHOMO
+    price: ~$32-38
+    retailer: Amazon
+    badge: Best budget pick
+    blurb: >-
+      White line-drawn wildflowers on black, reversing to plain black for the
+      weeks you want the room quieter - and it has the two details budget duvet
+      covers usually skip, a hidden zipper and interior corner ties. Over 2,500
+      ratings at 4.5 makes it the most-reviewed dark floral in this guide by an
+      order of magnitude.
+    caveat: >-
+      Brushed microfiber, not cotton or linen: it sleeps warm, and it picks up
+      static in dry winter air. The drawing is printed rather than woven, so it
+      will soften with washing rather than sharpen. Comforter is not included.
+    image: 'https://m.media-amazon.com/images/I/817rE1m7GPL._AC_SL1500_.jpg'
+    added: '2026-09-17'
+    url: 'https://www.amazon.com/dp/B0CL9XDRDZ?tag=orlaloom-20'
 faqs:
   - q: Is dark floral bedding just a fall and winter look?
     a: >-
@@ -178,7 +196,7 @@ faqs:
       the print itself — a sage green or dusty rose flat sheet that echoes the
       leaves or blooms in the pattern. The combination to avoid is bright optic
       white, which turns the pairing stark and hotel-like instead of cozy.
-updated: '2026-09-10'
+updated: '2026-09-17'
 ---
 
 Every fall forecast for 2026 is telling the same story: the pastel, blown-out-bright bedroom is giving way to something richer. Moody florals — burgundy, plum, oxblood and near-black botanicals, the kind of prints that look like Dutch still-life paintings — are the season's defining bedding look. Pinterest's trend reports have been pointing this direction all year (the same reports that called aubergine kitchens and dark academia dorms), and the search data ramps every August as people start re-feathering their nests for the cold months.

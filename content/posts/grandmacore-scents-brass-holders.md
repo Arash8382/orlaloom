@@ -150,6 +150,24 @@ products:
     caveat: "Brass-toned metal rather than solid brass, and the domes are the fragile part — hand wash them and give them a shelf where a sleeve will not catch."
     added: '2026-09-09'
     url: "https://www.amazon.com/dp/B0CP82JRKW?tag=orlaloom-20"
+  - name: Romadedi Vintage Brass Taper Candlestick Holders, Set of 6
+    brand: Romadedi
+    price: ~$28-32
+    retailer: Amazon
+    badge: Best set of six
+    blurb: >-
+      Six squat Victorian tulip-cup holders in a brushed brass finish, which is
+      the cheapest honest route to the repeated-candlestick look down a long
+      table - six matching thrifted brass sticks is a year of hunting, and this
+      is a Tuesday. At 2.5 inches they sit below eye level, so nobody has to
+      talk around a candle.
+    caveat: >-
+      Brass-finished metal rather than solid brass, so it will never develop a
+      real patina and a scratch shows the base metal. They are accents, not
+      statement pieces - pair them with one tall holder if you want height.
+    image: 'https://m.media-amazon.com/images/I/713sztaudpL._AC_SL1500_.jpg'
+    added: '2026-09-17'
+    url: 'https://www.amazon.com/dp/B0CNLYFKPT?tag=orlaloom-20'
 faqs:
   - q: What scents feel 'grandmacore'?
     a: >-
@@ -179,7 +197,7 @@ faqs:
       Buy beeswax or a well-made paraffin taper, keep them away from draughts
       and vents, and trim the wick to about a quarter inch before each burn.
       Cheap tapers burning in moving air are the usual cause.
-updated: '2026-09-09'
+updated: '2026-09-17'
 ---
 "Grandmacore" lives in the details — a nostalgic scent and a flickering taper in aged brass. Together they give a table that warm, after-dark glow that makes a weeknight dinner feel like an occasion. Here are the candles and brass holders worth starting with, and the four things worth checking before you buy any of them.
 
@@ -204,7 +222,13 @@ updated: '2026-09-09'
 | Antique-style taper pair | Brass-finished metal | Cheapest way in | $20–26 | Light base — keep off busy tables |
 | NIKKY HOME chamberstick pair | Brass-finished metal | Bedside and hallway | ~$25–30 | Small drip tray fills fast |
 | Brass cloche pair with glass domes | Brass-tone base, glass dome | Pillars, and draughty windowsills | ~$38–45 | Domes are fragile and hand-wash only |
+| Romadedi brass taper holders, set of 6 | Brass-finished metal | Six matching places down a long table | ~$28–32 | 2.5 in tall; accents rather than statement pieces |
 | Amazon Basics unscented tapers | — (candles) | Refills, in bulk | Budget | Plain paraffin; no scent, no beeswax glow |
+
+Brass and candlelight are also the cheapest route into the darker end of
+autumn styling: a row of tapers in aged brass does more for a late-October
+table than any amount of orange, which is the principle behind our
+[cottagecore Halloween decor](/blog/cottagecore-halloween-decor) picks.
 
 ## Honest drawbacks
 

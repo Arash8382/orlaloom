@@ -9,7 +9,7 @@ description: >-
   occasion, with honest pros and cons for each.
 category: home-decor
 date: '2026-08-03'
-updated: '2026-09-14'
+updated: '2026-09-17'
 cover: /thumbnails/thumb-fall-supper-club-tablescape.webp
 products:
   - name: 'Urban Villa Hemstitch Cloth Dinner Napkins, 20x20 in Cotton, Set of 6, Ivory'
@@ -181,6 +181,23 @@ products:
       side.
     added: '2026-08-30'
     url: 'https://www.amazon.com/dp/B003XRNYM8?tag=orlaloom-20'
+  - name: Antique Brass Cast-Iron Candle Holders, Set of 2
+    brand: SUJUN
+    price: ~$38-45
+    retailer: Amazon
+    badge: Best candlelight
+    blurb: >-
+      A weighted cast-iron pair in a mottled antique-brass finish - one tall
+      taper holder and one chamberstick with a looped handle, which is the
+      piece that makes a supper table look like a novel. The weight is the
+      point: nobody tips these reaching across for the bread.
+    caveat: >-
+      Cast iron with an applied finish, not solid brass. The antiquing is
+      deliberately uneven, so the two pieces read as a found pair rather than a
+      matched set - charming if that is what you want, irritating if it is not.
+    image: 'https://m.media-amazon.com/images/I/51ODqcLandL._AC_SL1500_.jpg'
+    added: '2026-09-17'
+    url: 'https://www.amazon.com/dp/B0DSFHQJ5J?tag=orlaloom-20'
 ---
 Something lovely is happening to the way we entertain: the "supper club" is back. Not the velvet-booth restaurant kind — the at-home kind, where six friends crowd around a candlelit table on a Friday night for soup, bread, and three hours of conversation. Search interest in supper-club table settings has climbed more than 1000% heading into fall 2026, and it makes sense. Going out is expensive, hosting is cozy, and a beautifully set table is the cheapest form of hospitality glamour there is.
 
@@ -209,6 +226,12 @@ One more thing worth putting on the table before the guests arrive: butter. A pr
 ## Make it a ritual, not a production
 
 The households that keep a supper club going past October all do the same thing: they lower the bar for the food and raise it for the table. One pot of something braised, bread from the good bakery, and a set table beats an ambitious three-course menu that leaves the host exhausted. Keep the tablescape kit in one drawer or basket — napkins, rings, runner, tapers — so setting the table takes ten minutes, not a scavenger hunt. It is worth putting a [washable kitchen runner rug](/blog/washable-kitchen-runner-rugs) down the galley side too, because supper club nights mean hours on your feet and at least one spilled glass. If guests stay over, a stack of [ditsy floral quilts](/blog/floral-ditsy-quilts) by the sofa is the least fussy way to be ready for it. Rotate hosting monthly, let guests bring dessert and wine, and resist the urge to buy more stuff after the first dinner. The kit on this page genuinely covers the whole look; everything after that is candlelight and conversation.
+
+Late October is where this table earns its keep. Dim the palette, swap in
+antique brass and dark tapers, and the supper club setting becomes a seasonal
+one without buying a second set of anything — the same move our [cottagecore
+Halloween decor](/blog/cottagecore-halloween-decor) guide makes with the rest
+of the house.
 
 Everything above assumes a base layer, and linen is the one that photographs and
 ages best. [Washed linen tablecloths and runners](/blog/washed-linen-tablecloths)

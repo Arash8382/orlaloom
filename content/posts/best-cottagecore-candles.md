@@ -164,6 +164,26 @@ products:
     caveat: "Eight ounces with one wick in a roughly 2.75 in jar is a small-room scenter - a bedroom, a bathroom, a reading corner - and it will disappear in an open-plan kitchen. Recycled glass comes with visible bubbles, seams and slight colour variation between bottles; that is the material, not a defect, but if you want a flawless vessel look elsewhere on this page."
     added: '2026-09-16'
     url: "https://www.amazon.com/dp/B004MSA3NA?tag=orlaloom-20"
+  - name: Paddywax Bistro Hand-Painted Wild Mushroom Candle (8 oz)
+    brand: Paddywax
+    price: ~$30-35
+    retailer: Amazon
+    badge: Most collectible jar
+    blurb: >-
+      Lemon leaf and lavender over enoki mushroom, rosemary and dry earth,
+      landing on sandalwood - the forest-floor register of Amber & Moss, but
+      damper and more autumnal. It arrives in a cream ceramic crock with a
+      hand-painted mushroom on the side, and the vessel is the real argument:
+      freeze it overnight once the wax is spent and the disc pops out clean,
+      leaving a small crock for pens, wooden spoons or a single dahlia.
+    caveat: >-
+      It launched this year and has only a handful of ratings so far, so treat
+      the high average as provisional. At 8 oz with a single wick it scents one
+      room rather than a floor, and the painted mushroom is a commitment - this
+      is a decorative object first and a workhorse scent second.
+    image: 'https://m.media-amazon.com/images/I/61zRluowEYL._AC_SL1500_.jpg'
+    added: '2026-09-17'
+    url: 'https://www.amazon.com/dp/B0F186SV34?tag=orlaloom-20'
 faqs:
   - q: What's the most 'cottagecore' candle scent?
     a: >-
@@ -179,7 +199,7 @@ faqs:
       hasn't burned long enough to form a full melt pool. Let it liquefy edge to
       edge every time — roughly an hour per inch of diameter — and the throw
       improves dramatically.
-updated: '2026-09-16'
+updated: '2026-09-17'
 ---
 
 The right candle does for a kitchen what nothing else can — it turns "a room where you cook" into a place that smells like a cottage at dusk. These are the cozy, herbal, and floral candles worth lighting, with honest notes on scent throw, burn time, and which ones are too small for the room you have in mind.
