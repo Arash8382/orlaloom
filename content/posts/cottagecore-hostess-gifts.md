@@ -136,16 +136,16 @@ products:
       and lovely, but not the pick for someone who wants four identical mugs.
     added: '2026-08-24'
     url: 'https://www.amazon.com/dp/B097NHLL8R?tag=orlaloom-20'
-  - name: "Mora Ceramic Deep Fluted Pie Dish, 9 in"
-    image: "https://m.media-amazon.com/images/I/61nupUZn+GL._AC_SL1500_.jpg"
-    brand: "Mora Ceramics"
-    price: "~$26-30"
+  - name: "Beeswax-Lined Linen Bread Bags for Sourdough, 2 Pack"
+    image: "https://m.media-amazon.com/images/I/71xxX9W2VwL._AC_SL1500_.jpg"
+    brand: "Generic"
+    price: "~$26-32"
     retailer: "Amazon"
     badge: "Best gift for a host who bakes"
-    blurb: "A deep, fluted 9-inch stoneware pie dish that goes oven-to-table without a trivet's worth of apology. The crimped rim does the decorative work a metal tin never can, so a supermarket crust looks homemade and a homemade one looks framed. It is the hostess gift for the autumn stretch between the first cold week and New Year, when someone is baking something most weekends — and unlike a candle, it comes back out every year."
-    caveat: "Stoneware takes longer to heat than metal, so blind-baked crusts want an extra five minutes and a preheated dish. It is also heavy; thin-wristed cooks notice it full."
+    blurb: "Two flax-linen bags lined with beeswax, which is the old answer to the problem plastic solves badly: the crust stays crisp and the crumb stays soft, because linen breathes and wax keeps it from drying out. For the friend who has gone down the sourdough road \u2014 and there is one in every circle now \u2014 this is the rare gift that is both pretty on a counter and quietly better than what they are using. Fold one around a loaf you baked and the bag becomes the wrapping."
+    caveat: "Beeswax lining means cold hand-washing only, never a hot machine, or the wax lifts. They also suit a round or short loaf better than a long baguette."
     added: '2026-09-18'
-    url: "https://www.amazon.com/dp/B094WYSWV5?tag=orlaloom-20"
+    url: "https://www.amazon.com/dp/B0D93965BV?tag=orlaloom-20"
 faqs:
   - q: What's a good budget for a hostess gift?
     a: >-
@@ -201,7 +201,7 @@ If the guest list is long and the budget is not, the same instinct scales down. 
 
 ## Pairing a gift to the host
 
-A hostess gift lands hardest when it fits how the person actually entertains. For someone who bakes, the fluted pie dish above is the obvious answer; for someone who cooks slowly through the winter, a good enamelled pot from our [Le Creuset dupes comparison](/blog/le-creuset-vs-dutch-oven-dupes) is the step-up version of the same instinct. If the host is the one who sets a proper table, a couple of pieces from the [scalloped dinnerware guide](/blog/scalloped-dinnerware-sets) read as generous without being presumptuous about their taste. And when the occasion is Christmas rather than a dinner party, the smaller, cheaper picks in our [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) list cover the same ground for a fraction of the spend.
+A hostess gift lands hardest when it fits how the person actually entertains. For someone who bakes, the beeswax-lined bread bags above are the obvious answer; for someone who cooks slowly through the winter, a good enamelled pot from our [Le Creuset dupes comparison](/blog/le-creuset-vs-dutch-oven-dupes) is the step-up version of the same instinct. If the host is the one who sets a proper table, a couple of pieces from the [scalloped dinnerware guide](/blog/scalloped-dinnerware-sets) read as generous without being presumptuous about their taste. And when the occasion is Christmas rather than a dinner party, the smaller, cheaper picks in our [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) list cover the same ground for a fraction of the spend.
 
 ## FAQ
 
