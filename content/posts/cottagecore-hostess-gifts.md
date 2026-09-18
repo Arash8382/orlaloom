@@ -136,6 +136,16 @@ products:
       and lovely, but not the pick for someone who wants four identical mugs.
     added: '2026-08-24'
     url: 'https://www.amazon.com/dp/B097NHLL8R?tag=orlaloom-20'
+  - name: "Mora Ceramic Deep Fluted Pie Dish, 9 in"
+    image: "https://m.media-amazon.com/images/I/61nupUZn+GL._AC_SL1500_.jpg"
+    brand: "Mora Ceramics"
+    price: "~$26-30"
+    retailer: "Amazon"
+    badge: "Best gift for a host who bakes"
+    blurb: "A deep, fluted 9-inch stoneware pie dish that goes oven-to-table without a trivet's worth of apology. The crimped rim does the decorative work a metal tin never can, so a supermarket crust looks homemade and a homemade one looks framed. It is the hostess gift for the autumn stretch between the first cold week and New Year, when someone is baking something most weekends — and unlike a candle, it comes back out every year."
+    caveat: "Stoneware takes longer to heat than metal, so blind-baked crusts want an extra five minutes and a preheated dish. It is also heavy; thin-wristed cooks notice it full."
+    added: '2026-09-18'
+    url: "https://www.amazon.com/dp/B094WYSWV5?tag=orlaloom-20"
 faqs:
   - q: What's a good budget for a hostess gift?
     a: >-
@@ -166,7 +176,7 @@ faqs:
       the recipe box or the pink flower dish, for people whose shelves you've
       actually seen. And when in genuine doubt, the board wins: nobody in the
       history of dinner parties has resented owning one more nice serving board.
-updated: '2026-09-02'
+updated: '2026-09-18'
 ---
 
 There is an unwritten rule about hostess gifts: the best ones look thoughtful and cost the giver almost no decision-making. Wine works, but wine disappears by ten o'clock and says nothing. Flowers work, but they hand the host a vase-finding errand mid-party. The cottagecore answer is different — give something small, natural, and useful enough that it enters the house's daily rotation, so that every time the host reaches for it, the dinner you attended gets a tiny footnote. That's the standard everything on this list was chosen against: real materials, immediate usefulness, and a little bit of story.
@@ -188,6 +198,10 @@ Finally, add one minute of presentation. Twine around the candles, a sprig of dr
 The **scalloped acacia board set** is the default answer — if you're only bookmarking one item for the whole year of dinner invitations, make it that. The **Maison d'Hermine tea towels** are the most classically French-market pick and the easiest to wrap beautifully. The **beeswax pillars** are the consumable insurance policy that suits any host, and the **brass candlesticks** are the best value on the list — pair the two and you've made a gift that looks curated. The **recipe box** is the one to bring to a housewarming when you actually like the people, and the **flower trinket dish** covers every small occasion for under ten dollars. Keep two of these on a shelf at home and you'll never do the pre-party panic shop again.
 
 If the guest list is long and the budget is not, the same instinct scales down. A few [cottagecore basics on a budget](/blog/cottagecore-on-a-budget-amazon-basics) — plain linen, glass storage, an unfussy enamel piece — make a perfectly good small gift, and nobody has ever been disappointed to be handed a jar.
+
+## Pairing a gift to the host
+
+A hostess gift lands hardest when it fits how the person actually entertains. For someone who bakes, the fluted pie dish above is the obvious answer; for someone who cooks slowly through the winter, a good enamelled pot from our [Le Creuset dupes comparison](/blog/le-creuset-vs-dutch-oven-dupes) is the step-up version of the same instinct. If the host is the one who sets a proper table, a couple of pieces from the [scalloped dinnerware guide](/blog/scalloped-dinnerware-sets) read as generous without being presumptuous about their taste. And when the occasion is Christmas rather than a dinner party, the smaller, cheaper picks in our [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) list cover the same ground for a fraction of the spend.
 
 ## FAQ
 

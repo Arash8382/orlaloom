@@ -137,6 +137,16 @@ products:
     caveat: "It is unlined, so a clear filament bulb shows through the linen - use a frosted or opal bulb. The spider fitter needs a harp rather than a clip, and the Brussels white tone reads cooler and cleaner than an ivory or cream shade, so it can look stark next to warm brass."
     added: '2026-09-07'
     url: 'https://www.amazon.com/dp/B0BWTLN76X?tag=orlaloom-20'
+  - name: "Royal Designs Deep Empire Side-Pleat Lamp Shade, Beige, 9 x 18 x 14 in (Spider)"
+    image: "https://m.media-amazon.com/images/I/6164XvorvcL._AC_SL1500_.jpg"
+    brand: "Royal Designs"
+    price: "~$95-110"
+    retailer: "Amazon"
+    badge: "Best heirloom-quality pleat"
+    blurb: "The one on this list built like a lampshade used to be: hand-pleated fabric over a welded frame, a deep empire silhouette and a proper spider fitter. Side pleats run on the diagonal, which softens a large shade the way a knife pleat cannot, and the beige is a warm eggshell rather than a cold white — it sits naturally against oak, cream and brass. On a full-size living-room lamp base it is the difference between a lamp and a piece of furniture."
+    caveat: "It costs three to four times the clip-ons above, and at 18 in across the bottom it will swallow a small bedside base. Measure before you buy."
+    added: '2026-09-18'
+    url: "https://www.amazon.com/dp/B00JOQ23VA?tag=orlaloom-20"
 faqs:
   - q: Will a pleated shade fit my existing lamp?
     a: >-
@@ -158,7 +168,7 @@ faqs:
       pleats never scorch. A warm-white LED (2700K) at 40-60W equivalent gives
       the cozy, amber-striped glow these shades are made for; anything colder
       than 3000K makes even a lovely pleated shade feel like office lighting.
-updated: '2026-09-07'
+updated: '2026-09-18'
 ---
 
 Somewhere around the end of last year, the flat white drum shade quietly lost its job. In its place: pleats, scallops, gathered edges and mushroom silhouettes — texture you can see from across the room. Designers keep saying the same thing about 2026 lighting: texture is king, and nothing delivers it more affordably than swapping a plain lampshade for a pleated one. It's the rare trend that costs $35, takes two minutes, and changes how a whole corner of your room feels.
@@ -189,6 +199,10 @@ A pleated shade rarely works alone — it wants pattern nearby to argue with. Th
 easiest pairing is a chair or sofa layered with
 [floral chintz throw pillows](/blog/floral-chintz-throw-pillows), which pick up the
 same fussy, inherited quality without matching the shade exactly.
+
+## A note on desk lamps
+
+Pleated shades read very differently on a desk than on a side table. On a bedside base they are soft and cottage-y; on a small brass desk lamp the same pleat turns studious, which is exactly the effect the [dark academia desk decor](/blog/dark-academia-desk-decor) look is built on. If that is the room you are shading, go for a deeper, narrower shade in cream rather than bright white, and keep the bulb warm — 2700K or below — so the fabric glows instead of glaring.
 
 ## FAQ
 

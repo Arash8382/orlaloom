@@ -168,6 +168,16 @@ products:
     image: 'https://m.media-amazon.com/images/I/71-W-7AZHfL._AC_SL1500_.jpg'
     added: '2026-07-12'
     url: 'https://www.amazon.com/dp/B0D3KY5FM5?tag=orlaloom-20'
+  - name: "CPC Emerald Green Block-Print Cotton Cloth Napkins, 18 x 18 in, Set of 4"
+    image: "https://m.media-amazon.com/images/I/81j2vDe5-LL._AC_SL1500_.jpg"
+    brand: "CPC"
+    price: "~$20-24"
+    retailer: "Amazon"
+    badge: "Best cheap grandmillennial upgrade"
+    blurb: "Hand-blocked cotton napkins in a deep emerald print — the single fastest way to make a plain table look grandmillennial without buying furniture. Block printing is the pattern language this style runs on, and the slight irregularity of the print is the tell that separates it from a digital repeat. Four 18-inch napkins cost less than one throw pillow and work equally well folded on a dinner plate or knotted around a jar of dahlias."
+    caveat: "Hand-blocked dye bleeds a little on the first wash, so wash them separately in cold once before they meet a white tablecloth. They also want ironing to look their best."
+    added: '2026-09-18'
+    url: "https://www.amazon.com/dp/B0BSB2FHR8?tag=orlaloom-20"
 faqs:
   - q: Is grandmillennial decor the same as cottagecore?
     a: >-
@@ -194,7 +204,7 @@ faqs:
       instantly signal the style. Swapping a plain lampshade for a pleated one
       is the next-cheapest change with an outsized payoff — both cost less than
       a throw blanket and can be added to a room you already have.
-updated: '2026-09-02'
+updated: '2026-09-18'
 ---
 
 Grandmillennial decor — affectionately called "granny chic" — is the look that takes everything your grandmother loved and makes it feel fresh again. Think chintz florals, scalloped edges, blue-and-white porcelain, pleated lampshades, needlepoint and ruffles, all layered with a wink rather than a sigh. It's the antidote to a decade of cold minimalism: warm, personal, pattern-happy and unafraid of a little maximalist clutter, as long as everything in the room clearly earns its place.
@@ -226,6 +236,10 @@ Start with one anchor and one repeatable accent. A scalloped arched mirror or a 
 After that, chase the easy swaps. Trading a plain drum lampshade for a pleated one, adding chintz pillow covers to a solid sofa, or setting a scalloped tray on the coffee table each cost less than dinner out and change a room disproportionately. Buy covers rather than whole pillows, choose reversible bedding, and haunt thrift stores for real vintage porcelain and brass — imperfection and a bit of patina are features here, not flaws.
 
 The one place grandmillennial goes wrong is colour fatigue: enough blue-and-white and chintz and a room starts to look like a swatch book. A deeper accent breaks it — [aubergine and plum kitchen accents](/blog/aubergine-plum-kitchen-accents) do that in a room that already has pattern, because a saturated near-neutral reads as depth rather than one more print.
+
+## Where to spend next
+
+Once the mirror, the ginger jar and the napkins are in place, the table is the fastest next win: a set from the [scalloped dinnerware guide](/blog/scalloped-dinnerware-sets) carries the same ruffled, slightly grandmotherly line as the block print without repeating the pattern. If you are shopping for someone else rather than yourself, the small, inexpensive picks in our [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) round-up sit comfortably inside this aesthetic and cost a tenth as much.
 
 ## FAQ
 

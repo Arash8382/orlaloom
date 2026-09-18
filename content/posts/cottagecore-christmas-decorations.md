@@ -112,6 +112,16 @@ products:
       tossed in an ornament bin.
     added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B0FR3G6GSY?tag=orlaloom-20'
+  - name: "Wooden Bead Garland with Tassels, Natural, 12 ft"
+    image: "https://m.media-amazon.com/images/I/71rpCvO4WEL._AC_SL1500_.jpg"
+    brand: "Generic"
+    price: "~$12-16"
+    retailer: "Amazon"
+    badge: "Best under $15"
+    blurb: "Twelve feet of plain wooden beads on cotton twine with a tassel at each end — the quiet alternative to tinsel, and the piece that makes a tree look gathered rather than bought. Unpainted wood is the cottagecore Christmas neutral: it reads warm against green branches, sits happily beside dried orange and straw, and does not date. Off the tree it drapes on a mantel, a banister or a shelf of crockery for the rest of winter."
+    caveat: "Bare wood beads are light, so on a real tree they want tucking behind branch tips or they slide forward. The natural finish also varies slightly in tone bead to bead."
+    added: '2026-09-18'
+    url: "https://www.amazon.com/dp/B09CL9DM28?tag=orlaloom-20"
 faqs:
   - q: Will dried orange decorations attract bugs or go moldy?
     a: >-
@@ -133,7 +143,7 @@ faqs:
       out before December. Buying in summer means better selection and spreading
       the holiday spend across the year; everything in this guide stores flat in
       one box until you need it.
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 
 There is a particular kind of Christmas that cottagecore people are chasing: the one from the storybooks. A tree trimmed with dried oranges and straw stars instead of plastic glitter, hand-knit stockings sagging off the mantel, gingham bows on the stair rail, and the whole house smelling faintly of cinnamon. The good news is that this look is one of the cheapest Christmas styles to pull off — its entire vocabulary is humble materials. Oranges, straw, wool, glass, cotton ribbon. No pre-lit twelve-piece village required.
@@ -161,6 +171,10 @@ The table is the other half of the room, and it does not need Christmas-specific
 ## What to skip
 
 A few seasonal-aisle staples will fight this look no matter how carefully you style around them. Tinsel and iridescent plastic icicles read instantly modern and cheap next to straw and dried fruit. Color-changing LED lights break the candlelit mood — if you love lights, choose warm white and use fewer strands than you think you need. Themed matching sets ("24-piece coordinated ornament collection, rose gold") are the opposite of the collected-over-decades feeling this style is built on; a tree that looks slightly mismatched is a tree that looks real. And skip artificial cinnamon-scented pinecones — the dyed, perfumed kind — when the genuinely scented real thing costs the same. The one modern cheat worth keeping is a good artificial tree if that's what you own: dress it densely enough in oranges, straw and glass and nobody will ever notice the trunk.
+
+## Beyond the tree
+
+Decorations are only half of a cottagecore Christmas — the other half is what ends up in the stockings, and the same rules apply there: natural materials, small, useful, a little handmade. Our [cottagecore stocking stuffers](/blog/cottagecore-stocking-stuffers) guide covers that side in detail, with a price-per-stocking breakdown for anyone filling more than two. If part of the house leans darker and more bookish than the rest, the [dark academia desk decor](/blog/dark-academia-desk-decor) picks give you somewhere to put the brass and the deep green that would fight with dried orange on the tree.
 
 ## FAQ
 
