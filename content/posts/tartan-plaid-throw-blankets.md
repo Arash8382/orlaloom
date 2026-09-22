@@ -7,7 +7,7 @@ description: >-
   you can toss on every chair, here are six tartan and plaid throw blankets
   worth buying, with honest pros and cons for each.
 category: textiles
-updated: '2026-09-08'
+updated: '2026-09-22'
 date: '2026-08-04'
 cover: /thumbnails/thumb-tartan-plaid-throw-blankets.webp
 products:
@@ -192,6 +192,45 @@ products:
     caveat: "A knit throw rather than woven wool tartan, so it is decorative warmth more than the real thing."
     added: '2026-09-08'
     url: "https://www.amazon.com/dp/B0F6632115?tag=orlaloom-20"
+  - name: 'DII Buffalo Check Rustic Farmhouse Throw Blanket with Tassels, 50x60 in'
+    image: 'https://m.media-amazon.com/images/I/71+xIWmiTDL._AC_SL1500_.jpg'
+    brand: DII
+    price: ~$14-18
+    retailer: Amazon
+    badge: Best budget
+    blurb: >-
+      The cheapest pick here that still looks like real cloth rather than
+      printed fleece: a woven cotton buffalo check in black and cream with
+      short tassels on the short ends, 50 by 60 inches. At around fifteen
+      dollars it is the throw to buy in pairs — one for each armchair, one
+      for the basket by the door — and with more than eight thousand
+      ratings it is by far the most road-tested blanket on this page.
+      Machine washable, and it softens with each wash rather than pilling.
+    caveat: >-
+      Lightweight. This is a layering and styling throw, not the one you
+      reach for when you are actually cold — pair it with one of the wool
+      or fleece picks above for real warmth.
+    added: '2026-09-22'
+    url: 'https://www.amazon.com/dp/B073YCBNDW?tag=orlaloom-20'
+  - name: 'DII Modern Farmhouse Plaid Cotton Fringe Throw Blanket, 50x60 in, White and Black'
+    image: 'https://m.media-amazon.com/images/I/81KvYvL-7VL._AC_SL1500_.jpg'
+    brand: DII
+    price: ~$20-25
+    retailer: Amazon
+    badge: Best fringed cotton under $25
+    blurb: >-
+      Nearly the same fringed-cotton look as the Creative Co-Op throw for a
+      little over half the price. The plaid is woven in white and black on
+      a cotton ground with a long knotted fringe, so it drapes and creases
+      the way cotton does instead of sitting stiffly on the arm of the
+      sofa. A useful neutral if the room already has enough red and green
+      in it by December.
+    caveat: >-
+      The fringe tangles in the wash — use a mesh bag and comb it out flat
+      while damp. It also rates lower than the rest of this list at 4.2
+      stars, almost entirely on complaints that it is thin.
+    added: '2026-09-22'
+    url: 'https://www.amazon.com/dp/B08NRBMDVT?tag=orlaloom-20'
 ---
 Cottagecore is getting a tailored update this fall, and the fashion press has already named it: "vintage prep." Think heritage patterns, cranberry and ochre, brass lamps, stacked books — and above all, tartan. The tartan throw blanket is the single easiest way to bring the look home: no repainting, no new furniture, just one piece of woven pattern draped over what you already own. Here's how to choose one, and the six we'd actually buy.
 
