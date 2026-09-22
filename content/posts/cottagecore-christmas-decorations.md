@@ -122,6 +122,64 @@ products:
     caveat: "Bare wood beads are light, so on a real tree they want tucking behind branch tips or they slide forward. The natural finish also varies slightly in tone bead to bead."
     added: '2026-09-18'
     url: "https://www.amazon.com/dp/B09CL9DM28?tag=orlaloom-20"
+  - name: 'Canlierr Wooden Bead Garland with Tassels, 12 ft, Natural'
+    image: 'https://m.media-amazon.com/images/I/71rpCvO4WEL._AC_SL1500_.jpg'
+    brand: Canlierr
+    price: ~$13-17
+    retailer: Amazon
+    badge: Best texture for the money
+    blurb: >-
+      Twelve feet of unfinished wood beads, roughly half an inch each, with
+      a cotton tassel at either end — the cheapest way to break up a mantel
+      or a shelf of glass with something matte and warm. A cottagecore
+      Christmas lives or dies on natural texture, and a bead garland does
+      more of that work per dollar than almost anything else on this page.
+      Drape it down the tree, around a jug of greenery, or along a stair
+      rail with a length of the dried orange garland above.
+    caveat: >-
+      Raw wood, so keep it away from candles and away from damp. The beads
+      are strung on cord rather than wire: it swags softly but will not
+      hold a shape if you want stiff, sculpted loops.
+    added: '2026-09-22'
+    url: 'https://www.amazon.com/dp/B09CL9DM28?tag=orlaloom-20'
+  - name: 'MoonXmas Champagne and White Ball Ornament Set, 34 Pieces'
+    image: 'https://m.media-amazon.com/images/I/81LW-APNNhL._AC_SL1500_.jpg'
+    brand: MoonXmas
+    price: ~$26-32
+    retailer: Amazon
+    badge: Best neutral filler ornaments
+    blurb: >-
+      The unglamorous half of a cottagecore tree is the thirty-odd plain
+      balls that fill the gaps between the pieces you actually care about.
+      This set covers that in champagne, cream and white across matte,
+      glittered and glossy finishes in mixed sizes, so the tree reads as
+      one soft colour from across the room and lets the dried orange and
+      the vintage glass be the things people actually notice.
+    caveat: >-
+      Shatterproof plastic, not glass — good with cats and toddlers, but up
+      close it lacks the weight and the ripple of the real thing. Keep it
+      for filler and spend on glass for the front of the tree.
+    added: '2026-09-22'
+    url: 'https://www.amazon.com/dp/B0CSCYCMM4?tag=orlaloom-20'
+  - name: 'LimBridge Knit Christmas Tree Skirt, Neutral Cream'
+    image: 'https://m.media-amazon.com/images/I/81AHjVGM+WL._AC_SL1500_.jpg'
+    brand: LimBridge
+    price: ~$25-30
+    retailer: Amazon
+    badge: Best tree skirt
+    blurb: >-
+      A chunky cable-knit skirt in undyed cream that reads like a folded
+      jumper rather than a circle of felt — which is exactly the trick a
+      cottagecore tree needs at the base, where most skirts go shiny and
+      synthetic. It ties at the back and sits flat over a stand, and the
+      neutral colour works whether the tree above it is dried orange and
+      gingham or all glass and white.
+    caveat: >-
+      Only a couple of dozen ratings so far, so it is less proven than the
+      rest of this list, and an open knit catches pine needles — shake it
+      out over a bin rather than trying to vacuum it.
+    added: '2026-09-22'
+    url: 'https://www.amazon.com/dp/B0C64JW7BX?tag=orlaloom-20'
 faqs:
   - q: Will dried orange decorations attract bugs or go moldy?
     a: >-
@@ -143,7 +201,7 @@ faqs:
       out before December. Buying in summer means better selection and spreading
       the holiday spend across the year; everything in this guide stores flat in
       one box until you need it.
-updated: '2026-09-18'
+updated: '2026-09-22'
 ---
 
 There is a particular kind of Christmas that cottagecore people are chasing: the one from the storybooks. A tree trimmed with dried oranges and straw stars instead of plastic glitter, hand-knit stockings sagging off the mantel, gingham bows on the stair rail, and the whole house smelling faintly of cinnamon. The good news is that this look is one of the cheapest Christmas styles to pull off — its entire vocabulary is humble materials. Oranges, straw, wool, glass, cotton ribbon. No pre-lit twelve-piece village required.
