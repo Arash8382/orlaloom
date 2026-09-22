@@ -1,6 +1,6 @@
 ---
 title: >-
-  Cottagecore Christmas Decorations: 6 Old-Fashioned Ornaments & Decor Picks
+  Cottagecore Christmas Decorations: 10 Old-Fashioned Ornaments & Decor Picks
   (2026)
 description: >-
   The best cottagecore Christmas decorations for 2026 — dried orange ornaments
@@ -206,7 +206,7 @@ updated: '2026-09-22'
 
 There is a particular kind of Christmas that cottagecore people are chasing: the one from the storybooks. A tree trimmed with dried oranges and straw stars instead of plastic glitter, hand-knit stockings sagging off the mantel, gingham bows on the stair rail, and the whole house smelling faintly of cinnamon. The good news is that this look is one of the cheapest Christmas styles to pull off — its entire vocabulary is humble materials. Oranges, straw, wool, glass, cotton ribbon. No pre-lit twelve-piece village required.
 
-This guide rounds up six pieces that build that old-fashioned Christmas from scratch, and yes, we're publishing it in July on purpose. If you decorate seasonally you already know the best pieces sell out by early November, and if you like to spread the cost of the holidays across a few months, summer is exactly when to start tucking things away.
+This guide rounds up ten pieces that build that old-fashioned Christmas from scratch, and yes, we first published it in July on purpose. If you decorate seasonally you already know the best pieces sell out by early November, and if you like to spread the cost of the holidays across a few months, summer is exactly when to start tucking things away.
 
 ## How to choose cottagecore Christmas decorations
 
@@ -220,9 +220,9 @@ This guide rounds up six pieces that build that old-fashioned Christmas from scr
 
 **Think about storage from day one.** Natural materials keep beautifully if they're kept dry and flat. Dried oranges last several seasons in an airtight box with a silica packet; straw ornaments want to lie flat; glass wants its original divided box. A little care in January means next year's decorating costs nothing.
 
-## How these six pieces work together
+## How these pieces work together
 
-If you're starting from zero, the 31-piece dried orange and cinnamon set plus the straw ornaments will dress a six-foot tree almost completely — hang the vintage glass baubles deeper in the branches where the lights catch them, and finish with gingham bows on the tips. The orange garland goes over the mantel with the six knit stockings hung beneath it, and whatever ribbon is left ties your brown-paper packages. That's the whole storybook look for well under a hundred dollars.
+If you're starting from zero, the 31-piece dried orange and cinnamon set plus the straw ornaments will dress a six-foot tree almost completely — hang the vintage glass baubles deeper in the branches where the lights catch them, and finish with gingham bows on the tips. The orange garland goes over the mantel with the knit stockings hung beneath it, a length of wooden bead garland swagged under that, and whatever ribbon is left ties your brown-paper packages. That's the whole storybook look for well under a hundred dollars.
 
 The table is the other half of the room, and it does not need Christmas-specific pieces to hold up. [Hobnail glassware](/blog/hobnail-glassware) catches candlelight the way cut crystal does and earns its shelf space long after the greenery comes down.
 
