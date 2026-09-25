@@ -133,6 +133,26 @@ products:
     caveat: "Stock runs thin on this colourway — the listing showed only 16 units the day we checked, and it goes in and out. Matte enamel also shows oil splashes more readily than gloss, so it wants wiping rather than soaking, and the warranty is nothing like Le Creuset's lifetime cover."
     added: '2026-09-06'
     url: "https://www.amazon.com/dp/B077BD419C?tag=orlaloom-20"
+  - name: "Staub Cast Iron Pumpkin Cocotte, 3.5 qt, White"
+    image: "https://m.media-amazon.com/images/I/6137+7dxLaL._AC_SL1500_.jpg"
+    brand: "Staub"
+    price: "~$215-235"
+    retailer: "Amazon"
+    badge: "The seasonal splurge"
+    blurb: "This answers a question the rest of the guide does not ask: what if you do not want a dupe at all, but you also do not want another round Le Creuset. Staub is Le Creuset's actual French rival, and the pumpkin cocotte is its most collected shape - a softly lobed pot with a stainless knob that reads as a centrepiece before anything goes in it. The black matte interior is the real difference: rougher than Le Creuset's sand enamel, so it browns harder and does not stain the way a cream interior does after a winter of tomato and turmeric. At 3.5 quarts it feeds three or four, the honest size for most weeknight braises. Rated 4.7 stars from just under 500 reviews when we checked in September 2026."
+    caveat: "It costs Le Creuset money, so it is not a dupe in any sense - and 3.5 quarts is genuinely small. No-knead bread and a whole chicken both want a 5.5-quart round instead. The lobed sides are also slower to wash than a smooth pot."
+    added: "2026-09-25"
+    url: "https://www.amazon.com/dp/B0BBKX7M5C?tag=orlaloom-20"
+  - name: "Umite Chef Enameled Cast Iron Dutch Oven, 5 qt, with Cotton Potholders"
+    image: "https://m.media-amazon.com/images/I/61-KNBuAyeL._AC_SL1500_.jpg"
+    brand: "Umite Chef"
+    price: "~$35-45"
+    retailer: "Amazon"
+    badge: "Best under $40"
+    blurb: "The cheapest pot here we would still cook in weekly. Five quarts is the size most recipes assume, the enamel is cream inside so you can watch a fond build, and it ships with two cotton potholders - which sounds like a gimmick until the first time you lift a 500-degree lid. Nearly four thousand reviews at 4.7 stars is a lot of evidence at this price, and the failure stories that sink cheap cast iron - chipping rims, lids that rock - are conspicuously rare here. If you are cooking your first no-knead loaf and do not yet know whether it becomes a habit, start here and spend up later."
+    caveat: "The enamel is thinner than Le Creuset's and the exterior gloss scratches if you stack other pans on it. The handles are small for the weight, so use two hands and a proper mitt rather than the supplied potholders when the pot is full."
+    added: "2026-09-25"
+    url: "https://www.amazon.com/dp/B0DXJTNWJN?tag=orlaloom-20"
 faqs:
   - q: Are Dutch oven dupes safe to cook in?
     a: >-
@@ -153,7 +173,7 @@ faqs:
       standard braise, one loaf of bread. Go 7+ quarts for big families or batch
       cooking, and expect the weight to climb accordingly. Smaller than 5 quarts
       starts limiting recipes.
-updated: '2026-09-06'
+updated: '2026-09-25'
 ---
 
 Every cottagecore kitchen eventually arrives at the same question: is the Le Creuset actually worth it, or is a $60 dupe just as good? Having put the original next to the four most-recommended budget enameled Dutch ovens, here is the honest answer: **the dupes cook 90-95% as well, and the remaining 5-10% is exactly what you're deciding whether to pay for.**
