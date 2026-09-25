@@ -177,6 +177,26 @@ products:
     caveat: "Review volume is still low - around 14 ratings - so this is a newer listing than most of what we recommend, and it is worth checking the rating has held before you buy. They are small decorative objects, roughly 4 to 5 inches, so a set of three reads as a vignette rather than a centrepiece; buy two sets if you want a full mantel. The orange in the set is a real orange, not a muted terracotta, so if you want an entirely neutral shelf you will be using two of the three."
     added: '2026-09-14'
     url: "https://www.amazon.com/dp/B0GVYN3FD5?tag=orlaloom-20"
+  - name: "Cynkeyee Vintage Mid-Century Black Cat Statue, 9 in"
+    image: "https://m.media-amazon.com/images/I/71k3DPJpLpL._AC_SL1500_.jpg"
+    brand: "Cynkeyee"
+    price: "~$26-32"
+    retailer: "Amazon"
+    badge: "Best mantel statement"
+    blurb: "Most Halloween cats are cartoons. This one is a mid-century figurine - long, seated, slightly abstracted, with a matte finish and the quiet dignity of something that could plausibly have sat on a grandmother's mantel since 1958. At nine inches it anchors a shelf on its own rather than needing a cluster around it, and because nothing about it shouts October, it is the rare Halloween piece that can stay out through November and past it. Rated 4.8 stars when we checked in September 2026."
+    caveat: "Cast resin rather than ceramic, so it is lighter in the hand than the finish suggests and the base can tip on a deep pile. The review count is still modest - sixty-odd - so it is a newer listing than the long-established pieces above."
+    added: "2026-09-25"
+    url: "https://www.amazon.com/dp/B0GWRP8Z7X?tag=orlaloom-20"
+  - name: "Vintage Retro Halloween Hanging Banner Garland"
+    image: "https://m.media-amazon.com/images/I/81v-0tmMTEL._AC_SL1301_.jpg"
+    brand: "Whatsign"
+    price: "~$9-13"
+    retailer: "Amazon"
+    badge: "Best budget garland"
+    blurb: "Under ten dollars, and it does more work than anything else here. The panels carry 1920s-style trick-or-treat illustrations - crescent moons, owls, a jack-o-lantern drawn rather than photographed - strung on jute rather than ribbon, so the whole thing reads as paper folk art instead of party-store plastic. Across a mantel, a bookshelf edge or a kitchen window it gives you the one thing a shelf of ceramic pumpkins cannot: something at eye level. It folds flat into an envelope for next year. Over five hundred reviews at 4.7 stars."
+    caveat: "Card stock, so it will not survive a porch in the rain, and the string runs long enough that you will want to gather it with a knot rather than hang it at full width on most mantels."
+    added: "2026-09-25"
+    url: "https://www.amazon.com/dp/B09YLVLNCN?tag=orlaloom-20"
 faqs:
   - q: What is cottagecore Halloween decor?
     a: >-
@@ -203,7 +223,7 @@ faqs:
       picture-book kind and there is nothing gory or jump-scare about the look.
       Just place breakable ceramic and porcelain pieces (the cookie jar, the
       Lenox cat) on higher shelves if small children are grabbing candy.
-updated: '2026-09-14'
+updated: '2026-09-25'
 ---
 
 Halloween decorating has two settings in most stores: plastic gore or nothing. Cottagecore Halloween is the third way — a harvest holiday styled like a storybook, where the pumpkins are velvet, the ghosts are friendly, and the candy lives in amber glass instead of a plastic cauldron. The look borrows more from a grandmother's October sideboard than a haunted house, which is exactly why it works in a home you actually live in: nothing here needs to come down in a panic on November 1st. Almost every piece in this guide carries through Thanksgiving, and the one openly-Halloween item — a porcelain black cat — is the kind you box up carefully and keep for decades.
