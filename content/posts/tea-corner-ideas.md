@@ -3,7 +3,7 @@ title: "Tea Corner Ideas: How to Build a Cottagecore Tea Station (2026)"
 description: "Tea corners are the new reading nooks. How to turn one small counter or sideboard into a proper cottagecore tea station — the kettle, floral tea set, tiered tray, tea box and honey pot that do it, with honest pros and cons."
 category: "cottagecore-kitchen"
 date: "2026-07-29"
-updated: '2026-09-12'
+updated: '2026-09-26'
 cover: "/thumbnails/thumb-tea-corner-ideas.webp"
 products:
   - name: "Cosori Gooseneck Electric Kettle with Temperature Control, 0.8L, Matte Black"
@@ -86,6 +86,27 @@ products:
     caveat: "Wool, so it is spot-clean only — no machine wash, and it will absorb a spill rather than shrug it off. The dome is cut generously for a four-to-six-cup pot, so on a small tea-for-one set it sits like an oversized hat."
     added: '2026-09-12'
     url: "https://www.amazon.com/dp/B0BDZYJRPK?tag=orlaloom-20"
+  - name: "Teabloom Celebration Glass Teapot with Removable Glass Infuser (Stovetop and Microwave Safe)"
+    image: "https://m.media-amazon.com/images/I/81A60qeNmxL._AC_SL1500_.jpg"
+    brand: "Teabloom"
+    price: "~$32-40"
+    retailer: "Amazon"
+    badge: "Best glass teapot"
+    blurb: "The corner already has a kettle and a porcelain pot. What it does not have is something you can watch. This is heat-resistant borosilicate glass with a tall removable glass infuser, so loose leaf gets room to unfurl and the colour of the brew becomes part of the display instead of something hidden behind china. It is rated for the stovetop and the microwave, which means on a slow morning it can be both the kettle and the pot rather than two vessels and two things to wash. Two jasmine blooming tea flowers come in the box, and that is the intended party trick - a glass pot is the only way to actually watch one open."
+    caveat: "Glass shows everything: hard-water film and tannin both want a proper scrub rather than a rinse, and the infuser seams catch leaf dust, so hand wash that part. Glass also loses heat faster than china, so on its own it will not keep a pot drinkable for an afternoon - which is what the warmer below is for."
+    added: '2026-09-26'
+    url: "https://www.amazon.com/dp/B074M7M1BX?tag=orlaloom-20"
+  - name: "Teabloom Celebration Teapot Warmer, 5-Inch Borosilicate Glass and Stainless Steel, Tealight Included"
+    image: "https://m.media-amazon.com/images/I/61QrU5gTJGL._AC_SL1500_.jpg"
+    brand: "Teabloom"
+    price: "~$16-20"
+    retailer: "Amazon"
+    badge: "Best candle warmer"
+    blurb: "A five-inch glass and stainless stand with a tealight underneath, made for the Celebration teapot above but happy under any flat-bottomed pot. One tealight holds a pot at drinking temperature for hours, which is the whole difference between brewing once and brewing three times across a long afternoon. It is the cheapest thing on this page and, after dark, the one that most changes how the corner actually gets used."
+    caveat: "Treat it as an either/or with the wool cosy above rather than a companion to it - the cosy insulates and hides the pot, the warmer adds heat and keeps it visible, and doing both at once defeats the point of a glass pot. It is an open flame, so it wants a clear surface and no trailing curtain, and it needs a pot with a flat base; a deeply rounded or footed pot will not sit down onto it properly."
+    added: '2026-09-26'
+    url: "https://www.amazon.com/dp/B0BPS1YLZG?tag=orlaloom-20"
+
 ---
 
 Reading nooks had their moment — Pinterest searches for them rose over 400% last year — and the same cozy logic has now migrated to the kitchen. The tea corner is 2026's version: one small, deliberate station in your home devoted entirely to the ritual of making a proper cup of tea. Not a cabinet where tea lives, but a *corner* — kettle, pot, cups, honey, all arranged where you can see them, on the theory that a ritual you can see is a ritual you actually keep.

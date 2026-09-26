@@ -165,6 +165,36 @@ products:
       brush rather than a rinse.
     added: '2026-09-10'
     url: 'https://www.amazon.com/dp/B0FR59K61G?tag=orlaloom-20'
+  - name: "Delove Canning Funnel with Strainer for Wide and Regular Mouth Mason Jars, Stainless Steel, 3-Piece"
+    image: "https://m.media-amazon.com/images/I/61Zumv4mAPL._SL1000_.jpg"
+    brand: "Delove"
+    price: "~$11-15"
+    retailer: "Amazon"
+    badge: "Best filling tool"
+    blurb: "Everything else on this page holds jam. This is the thing that gets it in there. A stainless funnel that drops inside both regular and wide-mouth jars keeps hot jam off the rim, and a sugar-sticky rim is the most common reason a lid fails to seal - so a twelve-dollar funnel quietly protects a whole afternoon of fruit. The set is three pieces including a strainer insert, which also earns its keep straining seeds out of berry jam or decanting a fruit vinegar into bottles."
+    caveat: "Stainless, so it comes out of a boiling pot hot enough to need a folded towel rather than a bare hand. The strainer is a fine mesh rather than a jelly bag: it will hold back seeds and skins, but it will not give you a crystal-clear jelly on its own."
+    added: '2026-09-26'
+    url: "https://www.amazon.com/dp/B087QBM11J?tag=orlaloom-20"
+  - name: "IBAKE Writable Kraft Canning Labels, 2-Inch Round, 500 Stickers"
+    image: "https://m.media-amazon.com/images/I/71c0eL5ij0L._AC_SL1254_.jpg"
+    brand: "IBAKE"
+    price: "~$6-9"
+    retailer: "Amazon"
+    badge: "Best labels"
+    blurb: "Five hundred two-inch kraft rounds you write on with a normal pen, and by a wide margin the cheapest upgrade on this page. Undated jam is the quiet failure of a good preserving year: by February nobody remembers whether the unlabelled jar is the greengage or the damson, and a jar you cannot identify is a jar you do not open. Plain brown paper also happens to be the look - it photographs like a market stall rather than an office supply cupboard."
+    caveat: "Nothing in the listing describes these as the dissolvable kind, so assume a soak or a scraper when you want the jar back for next season. Write on them before they go on the glass; a ballpoint skips badly on a curve."
+    added: '2026-09-26'
+    url: "https://www.amazon.com/dp/B0G692ZK4K?tag=orlaloom-20"
+  - name: "DLK Elasticated Cotton Jar Covers, Red Gingham, 10-Pack"
+    image: "https://m.media-amazon.com/images/I/81eNQrXzmML._AC_SL1500_.jpg"
+    brand: "DLK"
+    price: "~$22-27"
+    retailer: "Amazon"
+    badge: "Prettiest finishing touch"
+    blurb: "Ten elasticated cotton caps in red gingham that pull over a filled jar like a little bonnet - the detail that turns a row of jam jars into something you can hand over without wrapping. Because they are woven cotton rather than plastic they breathe, which makes them genuinely useful over a fermenting jar or a jar of fruit vinegar as well as decorative over a sealed one."
+    caveat: "Breathable is the same thing as saying they are not a seal - the lid still does that job and these sit on top of it. Cotton, so a jam drip stains, and they want a wash before they are given to anyone."
+    added: '2026-09-26'
+    url: "https://www.amazon.com/dp/B09JMG6L3W?tag=orlaloom-20"
 faqs:
   - q: Can I reuse canning jars and lids?
     a: >-
@@ -186,7 +216,7 @@ faqs:
       keeps its color and set best in small jars because you finish them faster
       once opened — and small jars process a few minutes quicker in the water
       bath too.
-updated: '2026-09-10'
+updated: '2026-09-26'
 ---
 
 There is a moment in July — berries cheap and fragrant at the farmers market, the kitchen smelling of sugar and fruit — when making your own jam stops being a quaint idea and becomes an urgent little mission. Pinterest calls it "grandmacore"; anyone who grew up with a preserving grandmother just calls it summer. Either way, the gear matters more than you might think. The right jars seal reliably, look beautiful lined up on a shelf, and turn a $4 basket of strawberries into a row of gifts. The wrong ones leak, rust, or refuse to seal at all.

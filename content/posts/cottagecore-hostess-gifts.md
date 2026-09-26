@@ -1,5 +1,5 @@
 ---
-title: 'Cottagecore Hostess & Housewarming Gifts: 6 Ideas That Always Land (2026)'
+title: 'Cottagecore Hostess & Housewarming Gifts: 8 Ideas That Always Land (2026)'
 description: >-
   The best cottagecore hostess gift ideas for 2026 — a scalloped acacia serving
   board, Maison d'Hermine tea towels, pure beeswax pillar candles, a vintage
@@ -176,7 +176,7 @@ faqs:
       the recipe box or the pink flower dish, for people whose shelves you've
       actually seen. And when in genuine doubt, the board wins: nobody in the
       history of dinner parties has resented owning one more nice serving board.
-updated: '2026-09-18'
+updated: '2026-09-26'
 ---
 
 There is an unwritten rule about hostess gifts: the best ones look thoughtful and cost the giver almost no decision-making. Wine works, but wine disappears by ten o'clock and says nothing. Flowers work, but they hand the host a vase-finding errand mid-party. The cottagecore answer is different — give something small, natural, and useful enough that it enters the house's daily rotation, so that every time the host reaches for it, the dinner you attended gets a tiny footnote. That's the standard everything on this list was chosen against: real materials, immediate usefulness, and a little bit of story.

@@ -1,5 +1,5 @@
 ---
-title: 'Grandmillennial Decor: 30 Pieces to Get the Look'
+title: 'Grandmillennial Decor: 9 Pieces to Get the Look'
 description: >-
   The best grandmillennial decor for 2026 — scalloped mirrors, chintz pillows,
   blue-and-white ginger jars, ruffled shades and floral quilts to nail granny
@@ -204,12 +204,12 @@ faqs:
       instantly signal the style. Swapping a plain lampshade for a pleated one
       is the next-cheapest change with an outsized payoff — both cost less than
       a throw blanket and can be added to a room you already have.
-updated: '2026-09-18'
+updated: '2026-09-26'
 ---
 
 Grandmillennial decor — affectionately called "granny chic" — is the look that takes everything your grandmother loved and makes it feel fresh again. Think chintz florals, scalloped edges, blue-and-white porcelain, pleated lampshades, needlepoint and ruffles, all layered with a wink rather than a sigh. It's the antidote to a decade of cold minimalism: warm, personal, pattern-happy and unafraid of a little maximalist clutter, as long as everything in the room clearly earns its place.
 
-The beauty of grandmillennial style is that you don't have to inherit an estate to get it. A single scalloped mirror, a floral quilt and a pair of blue-and-white ginger jars will tip an ordinary room straight into the aesthetic, and most of it can be layered in one piece at a time on an ordinary budget. Below are eight pieces we'd actually buy to build the look — each with the one honest downside worth knowing before you click.
+The beauty of grandmillennial style is that you don't have to inherit an estate to get it. A single scalloped mirror, a floral quilt and a pair of blue-and-white ginger jars will tip an ordinary room straight into the aesthetic, and most of it can be layered in one piece at a time on an ordinary budget. Below are nine pieces we'd actually buy to build the look — each with the one honest downside worth knowing before you click.
 
 **Quick picks:** Best mirror · Blue-and-white anchor · Best throw pillows · Best wall plates · Best floral quilt · Best scalloped tray · Best ruffled shade · Coquette bow accent
 

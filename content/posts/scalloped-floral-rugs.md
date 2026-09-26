@@ -1,5 +1,5 @@
 ---
-title: 'Scalloped Rugs: 6 Floral Picks With the Prettiest Cottagecore Borders (2026)'
+title: 'Scalloped Rugs: 8 Floral Picks With the Prettiest Cottagecore Borders (2026)'
 description: >-
   The best scalloped rugs of 2026 — washable floral area rugs with soft wavy
   borders in sage, beige, navy and rose pink that give any room instant
@@ -127,6 +127,16 @@ products:
       listing photographs.
     added: '2026-09-05'
     url: 'https://www.amazon.com/dp/B0H1GWWXRN?tag=orlaloom-20'
+  - name: "Dadasgk Washable Scalloped Floral Hallway Runner, 2.6 x 8, Pink"
+    image: "https://m.media-amazon.com/images/I/81lpb0-6onL._AC_SL1500_.jpg"
+    brand: "Dadasgk"
+    price: "~$32-40"
+    retailer: "Amazon"
+    badge: "Best runner"
+    blurb: "This page has told you twice that a runner is the right shape for the open side of a bed or a narrow hallway, and until now there was nothing on it in that shape. This is a 2.6 x 8 washable scalloped floral - long enough for a real hallway rather than the stretch in front of a door, with the same low-pile, non-slip, machine-washable construction as the larger picks above. It is the cheapest way to put a scalloped border somewhere it gets walked past twenty times a day."
+    caveat: "It is pink, which is a commitment to the sweeter end of this look rather than the tonal end. At 2.6 feet it is also wider than a standard 2-foot runner, so measure a narrow hallway first - the scallops are the part that suffers if the rug has to sit tight against a baseboard on both sides."
+    added: '2026-09-26'
+    url: "https://www.amazon.com/dp/B0GCCF2MT2?tag=orlaloom-20"
 faqs:
   - q: Are scalloped rugs going out of style?
     a: >-
@@ -150,7 +160,7 @@ faqs:
       runner along the open side, with the scalloped border kept clear of the
       bed frame so the curve stays visible. If you're between sizes, size up — a
       scalloped rug that's too small reads like a bath mat that wandered.
-updated: '2026-09-05'
+updated: '2026-09-26'
 ---
 
 Of all the details cottagecore has borrowed from grandma's house — ruffles, gingham, chintz — the **scalloped rug** might be the most transformative per dollar. A straight-edged rectangle of floral fabric on the floor is just a rug; give the same rug a soft, wavy scalloped border and suddenly it looks like something out of a storybook, a doily grown up into furniture. Scalloped edges are everywhere in cottage bedrooms and kitchens this year, and the good news is that the prettiest versions are washable and start around thirty dollars.

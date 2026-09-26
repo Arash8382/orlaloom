@@ -1,5 +1,5 @@
 ---
-title: 'Washable Kitchen Runner Rugs: 6 Floral Picks for a Cottagecore Kitchen (2026)'
+title: 'Washable Kitchen Runner Rugs: 8 Floral Picks for a Cottagecore Kitchen (2026)'
 description: >-
   The best washable kitchen runner rugs for 2026 — floral, non-slip,
   machine-washable runners in sage, butter yellow and cream that survive spills
@@ -150,7 +150,7 @@ faqs:
       at the edges, and don't let the rug sit under the arc of the oven door or
       the fridge's feet — you want to be able to lift it out for washing without
       moving furniture.
-updated: '2026-09-07'
+updated: '2026-09-26'
 ---
 
 If there's one floor in the house that earns a washable rug, it's the kitchen. It catches splashes from the sink, drips from the stove, crumbs from everywhere — and it's also the floor you stand on the longest, usually barefoot or in socks at 7am. A **washable kitchen runner rug** solves both problems at once: it makes the hardest-working strip of floor in your home softer and warmer, and when it inevitably takes a hit from the pasta pot, you peel it up and put it in the machine.
