@@ -1,6 +1,6 @@
 ---
 title: >-
-  Cottagecore Christmas Decorations: 10 Old-Fashioned Ornaments & Decor Picks
+  Cottagecore Christmas Decorations: 12 Old-Fashioned Ornaments & Decor Picks
   (2026)
 description: >-
   The best cottagecore Christmas decorations for 2026 — dried orange ornaments
@@ -112,16 +112,6 @@ products:
       tossed in an ornament bin.
     added: '2026-07-05'
     url: 'https://www.amazon.com/dp/B0FR3G6GSY?tag=orlaloom-20'
-  - name: "Wooden Bead Garland with Tassels, Natural, 12 ft"
-    image: "https://m.media-amazon.com/images/I/71rpCvO4WEL._AC_SL1500_.jpg"
-    brand: "Generic"
-    price: "~$12-16"
-    retailer: "Amazon"
-    badge: "Best under $15"
-    blurb: "Twelve feet of plain wooden beads on cotton twine with a tassel at each end — the quiet alternative to tinsel, and the piece that makes a tree look gathered rather than bought. Unpainted wood is the cottagecore Christmas neutral: it reads warm against green branches, sits happily beside dried orange and straw, and does not date. Off the tree it drapes on a mantel, a banister or a shelf of crockery for the rest of winter."
-    caveat: "Bare wood beads are light, so on a real tree they want tucking behind branch tips or they slide forward. The natural finish also varies slightly in tone bead to bead."
-    added: '2026-09-18'
-    url: "https://www.amazon.com/dp/B09CL9DM28?tag=orlaloom-20"
   - name: 'Canlierr Wooden Bead Garland with Tassels, 12 ft, Natural'
     image: 'https://m.media-amazon.com/images/I/71rpCvO4WEL._AC_SL1500_.jpg'
     brand: Canlierr
@@ -180,6 +170,61 @@ products:
       out over a bin rather than trying to vacuum it.
     added: '2026-09-22'
     url: 'https://www.amazon.com/dp/B0C64JW7BX?tag=orlaloom-20'
+  - name: 'WDS Wondrous Light-Up Ceramic Christmas Village House, 7 in'
+    image: 'https://m.media-amazon.com/images/I/71Z6+FwqraL._AC_SL1500_.jpg'
+    brand: WDS WONDROUS
+    price: ~$24-30
+    retailer: Amazon
+    badge: Prettiest tabletop piece
+    blurb: >-
+      A glazed white ceramic cottage with fine gold trim and cut-out windows that
+      glow once you drop batteries into the base — about 7 inches tall and 6
+      across, so it reads as a centrepiece rather than a trinket. One good
+      ceramic house looks deliberate on a mantel or sideboard in a way that a
+      boxed set of resin miniatures never does, and the warm light through the
+      windows is what keeps it on the old-fashioned side of festive.
+    caveat: >-
+      Battery-powered rather than plug-in, so switching it on and off is on you
+      — and at 7 inches this is one house, not a village. Buy two if you want a
+      street.
+    added: '2026-09-27'
+    url: 'https://www.amazon.com/dp/B0FD9FMD3C?tag=orlaloom-20'
+  - name: 'Hatisan Mini Bottle-Brush Trees with Wooden Bases (Set of 6)'
+    image: 'https://m.media-amazon.com/images/I/81uO-OzhFjL._AC_SL1500_.jpg'
+    brand: Hatisan
+    price: ~$12-17
+    retailer: Amazon
+    badge: Best bottle-brush trees
+    blurb: >-
+      Six sisal bottle-brush trees on turned wooden bases — the cheapest way to
+      make a shelf, a windowsill or a dinner table look decorated. They are the
+      connective tissue of a cottagecore Christmas: cluster them in odd numbers
+      behind a dried orange garland, or run them down the middle of the table
+      between candlesticks. At this price they are also the easiest thing to add
+      a few more of every year.
+    caveat: >-
+      Accent scale, not floor scale — these are small. If you want one tree that
+      carries a whole corner of the room, this is not it.
+    added: '2026-09-27'
+    url: 'https://www.amazon.com/dp/B0D56TBFC2?tag=orlaloom-20'
+  - name: 'Wooden Advent Calendar House with 24 Drawers and LED Lights'
+    image: 'https://m.media-amazon.com/images/I/61INOR9DsXL._AC_SL1500_.jpg'
+    brand: Generic
+    price: ~$45-55
+    retailer: Amazon
+    badge: Best advent calendar
+    blurb: >-
+      A wooden house with twenty-four small numbered drawers and warm LED lights
+      behind the facade — the one Christmas decoration that earns its shelf space
+      by being handled every morning of December. Because you fill the drawers
+      yourself it adapts to chocolates, notes, tiny ornaments or a family advent
+      reading, and it comes back out year after year instead of going in the bin
+      like a cardboard calendar.
+    caveat: >-
+      The most expensive piece in this guide, and the drawers are genuinely small
+      — think one chocolate or a folded note, not a wrapped gift.
+    added: '2026-09-27'
+    url: 'https://www.amazon.com/dp/B07XT92VVG?tag=orlaloom-20'
 faqs:
   - q: Will dried orange decorations attract bugs or go moldy?
     a: >-
@@ -201,7 +246,7 @@ faqs:
       out before December. Buying in summer means better selection and spreading
       the holiday spend across the year; everything in this guide stores flat in
       one box until you need it.
-updated: '2026-09-22'
+updated: '2026-09-27'
 ---
 
 There is a particular kind of Christmas that cottagecore people are chasing: the one from the storybooks. A tree trimmed with dried oranges and straw stars instead of plastic glitter, hand-knit stockings sagging off the mantel, gingham bows on the stair rail, and the whole house smelling faintly of cinnamon. The good news is that this look is one of the cheapest Christmas styles to pull off — its entire vocabulary is humble materials. Oranges, straw, wool, glass, cotton ribbon. No pre-lit twelve-piece village required.
@@ -225,6 +270,8 @@ This guide rounds up ten pieces that build that old-fashioned Christmas from scr
 If you're starting from zero, the 31-piece dried orange and cinnamon set plus the straw ornaments will dress a six-foot tree almost completely — hang the vintage glass baubles deeper in the branches where the lights catch them, and finish with gingham bows on the tips. The orange garland goes over the mantel with the knit stockings hung beneath it, a length of wooden bead garland swagged under that, and whatever ribbon is left ties your brown-paper packages. That's the whole storybook look for well under a hundred dollars.
 
 The table is the other half of the room, and it does not need Christmas-specific pieces to hold up. [Hobnail glassware](/blog/hobnail-glassware) catches candlelight the way cut crystal does and earns its shelf space long after the greenery comes down.
+
+Three pieces carry the room once the tree is done. The bottle-brush trees are the filler — six of them will cover a mantel, a windowsill and the dinner table between them, and they look best in odd-numbered clusters at staggered heights rather than in a tidy row. The ceramic village house wants the opposite treatment: one of it, lit, with nothing competing within a foot or so, which is why a sideboard suits it better than an already-crowded mantel. The advent calendar is the only piece here that gets used rather than looked at, so stand it where a child can actually reach the drawers. Set a pair of [cottagecore candles](/blog/best-cottagecore-candles) beside the house and the whole surface reads as one arrangement; if you are carrying a piece of this look to someone else's table instead, the [cottagecore hostess gifts](/blog/cottagecore-hostess-gifts) guide sizes it down to something that travels.
 
 ## What to skip
 

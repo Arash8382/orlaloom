@@ -173,6 +173,44 @@ products:
     caveat: "The tone reads considerably lighter than true aubergine - closer to a blush plum in daylight, deeper only when they are full - so do not buy these expecting them to match the eggplant towels. They are pressed glass rather than hand-blown, which means a visible mould seam on most pieces, and hand-washing keeps the hobnail texture from clouding."
     added: '2026-09-15'
     url: "https://www.amazon.com/dp/B0GD5SJZNS?tag=orlaloom-20"
+  - name: 'HONEST WEAVE Organic Cotton Kitchen Towels, Plum Stripe (6-Pack, 20x30 in)'
+    image: 'https://m.media-amazon.com/images/I/71JVFGI6h8L._AC_SL1254_.jpg'
+    brand: HONEST WEAVE
+    price: ~$25-32
+    retailer: Amazon
+    badge: Best striped set
+    blurb: >-
+      Six large organic-cotton towels with a woven plum stripe on a natural
+      ground — the stripe does work a solid eggplant towel cannot, reading as
+      deliberate rather than as a colour you happened to buy. At 20x30 inches
+      these are dish-drying towels rather than hand towels, and organic cotton
+      softens and gets more absorbent with every wash instead of going slick the
+      way terry does.
+    caveat: >-
+      The stripe is woven rather than printed, so the plum is muted — if you
+      want a saturated hit of aubergine, the waffle-weave set above is the
+      stronger colour.
+    added: '2026-09-27'
+    url: 'https://www.amazon.com/dp/B08J1R4W2S?tag=orlaloom-20'
+  - name: 'Plum Purple Table Runner, 14 x 72 in'
+    image: 'https://m.media-amazon.com/images/I/71n6g7w-x3L._AC_SL1500_.jpg'
+    brand: Generic
+    price: ~$14-19
+    retailer: Amazon
+    badge: Easiest colour test
+    blurb: >-
+      Fourteen inches by seventy-two, sized for a table that seats four to six —
+      the fastest way to find out whether you actually want aubergine in the
+      kitchen before committing to a Dutch oven or new curtains. Rolled out on a
+      plain wood table the whole room reads plum; rolled up, the room is neutral
+      again, which is the right sort of low-stakes experiment for a colour this
+      strong.
+    caveat: >-
+      Polyester, not linen — durable and crease-resistant, but it carries a
+      faint sheen that natural fibre doesn't, and it will never soften the way
+      the cotton towels do.
+    added: '2026-09-27'
+    url: 'https://www.amazon.com/dp/B08S6LDXJV?tag=orlaloom-20'
 faqs:
   - q: Is aubergine too dark for a small kitchen?
     a: >-
@@ -202,7 +240,7 @@ faqs:
       and out of "trending" but never actually looks dated the way novelty
       colors do. Buy the pieces you would use anyway — a good Dutch oven, good
       towels — and the color is a bonus, not a bet.
-updated: '2026-09-15'
+updated: '2026-09-27'
 ---
 
 Every year one color quietly takes over Pinterest kitchens, and for 2026 it is aubergine. Searches for "aubergine kitchen" are up nearly 500% year over year — the biggest jump of any kitchen color trend — and the reason is simple: after half a decade of sage green and greige, deep plum reads both moody and warm, which is precisely the combination cottagecore has been circling all along. It is the kitchen cousin of the dark-floral bedding wave, and it flatters the things cottagecore kitchens already have: cream cabinets, warm wood, brass hardware, dried flowers.
